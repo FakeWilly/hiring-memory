@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in frontend development and a proven ability to deliver innovative solutions. Highly social with a strong communication style, I thrive in collaborative environments and enjoy leveraging technology to enhance user experiences.
+
+**Education**  
+Associate's Degree in Computer Science, Penn State University, 2004
+
+**Work History**
+
+**Staff Frontend Engineer**, Universal Electronics Inc., Princeton, NJ, US (2018–Present)  
+Annual salary: $171,900  
+- Spearheaded the development of a new user interface that improved user engagement by 30%.  
+- Led a team of five engineers in implementing a responsive design framework, reducing page load times by 40%.
+
+**Senior Frontend Engineer**, Happy Cog, Kingston, NY, US (2014–2018)  
+Annual salary: $116,400  
+- Crafted UX designs that increased client satisfaction scores by 25%.  
+- Streamlined the development process by introducing new tools that enhanced team productivity by 20%.
+
+**Frontend Engineer**, Mission Driven Research, Iselin, NJ, US (2012–2014)  
+Annual salary: $118,500  
+- Developed a suite of reusable components that decreased project timelines by 15%.  
+- Collaborated with cross-functional teams to launch five successful product features.
+
+**Junior Software Engineer**, ritepros, Greene, NY, USA (2007–2012)  
+Annual salary: $81,100  
+- Played a key role in migrating legacy systems to modern web technologies, improving operational efficiency.  
+- Contributed to the design and launch of a customer-facing application, increasing user acquisition by 20%.
+
+**Junior Software Engineer**, Kamstrup, East Syracuse, NY (2004–2007)  
+Annual salary: $71,400  
+- Assisted in the development of software solutions that supported a 10% increase in company revenue.  
+- Implemented bug fixes and enhancements, improving software stability and client satisfaction.

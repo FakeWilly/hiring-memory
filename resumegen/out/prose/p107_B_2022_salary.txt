@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in designing and implementing scalable software solutions. Adept at leading engineering teams to deliver high-quality products, with a focus on innovation and efficiency.
+
+---
+
+**Education**  
+Master's Degree in Software Engineering, Stony Brook University, 2007
+
+---
+
+**Work History**
+
+**Software Engineer, Aligned Development Strategies, Inc., Lakewood, NJ (2007–2012)**  
+Annual salary: $104,100  
+- Developed and maintained web applications that improved client engagement by 30%.  
+- Collaborated with cross-functional teams to optimize software performance, reducing load times by 20%.  
+
+**Senior Software Engineer, Zillow, Greene, NY, USA (2012–2017)**  
+Annual salary: $147,000  
+- Led a team of engineers to redesign the core platform, enhancing user experience and increasing traffic by 25%.  
+- Implemented new software methodologies that reduced project timelines by 15%.  
+
+**Staff Software Engineer, TOTAL EXPERT, Hackensack, NJ, US (2017–2020)**  
+Annual salary: $211,300  
+- Spearheaded the development of a new analytics tool, resulting in a 40% increase in data processing efficiency.  
+- Mentored junior engineers, fostering a collaborative team environment and improving overall code quality.  
+
+**Staff Software Engineer, AustinPPS, Franklin Lakes, NJ, US (2020–2021)**  
+Annual salary: $246,400  
+- Architected and deployed a microservices infrastructure that improved system reliability and scalability.  
+- Enhanced existing systems to support a 50% increase in user transactions without impacting performance.  
+
+**Staff Software Engineer, Foss Maritime Company, Hartford, CT (2021–Present)**  
+Annual salary: $276,000  
+- Leading the development of a cloud-based platform that has increased operational efficiency by 35%.  
+- Collaborating with stakeholders to align software development with business goals, fostering strategic growth.

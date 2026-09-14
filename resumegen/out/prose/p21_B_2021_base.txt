@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades of expertise in developing and optimizing complex systems. Known for punctuality and open communication, I am passionate about leveraging technology to solve challenging problems and drive innovation.
+
+**Education**  
+Bachelor's Degree in Statistics, Rutgers University, 2001
+
+**Work Experience**
+
+**Staff Software Engineer, Cogility, White Plains, NY, US (2018–Present)**  
+Annual salary: $202,400  
+- Spearheaded the migration of legacy systems to cloud-based architecture, reducing operational costs by 15%.  
+- Mentored a team of 5 engineers, resulting in a 30% improvement in project delivery timelines.  
+
+**Staff Software Engineer, CoBank, Mount Laurel, NJ, US (2015–2018)**  
+Annual salary: $182,300  
+- Led the development of a secure online banking platform that supported over 100,000 users.  
+- Improved system security protocols, reducing data breach incidents by 40%.  
+
+**Staff Software Engineer, Automatic Building Controls, Princeton, NJ, US (2013–2015)**  
+Annual salary: $167,000  
+- Developed innovative automation solutions, enhancing building energy efficiency by 20%.  
+- Collaborated with cross-functional teams to integrate IoT technologies, increasing system connectivity.  
+
+**Staff Software Engineer, Bounteous, New York, NY, US (2011–2013)**  
+Annual salary: $121,400  
+- Optimized client-side applications, achieving a 25% increase in user engagement.  
+- Implemented agile methodologies, improving project delivery speed and client satisfaction.  
+
+**Senior Software Engineer, BLYK Engineering Services, Warren, NJ, US (2009–2011)**  
+Annual salary: $121,900  
+- Led backend development for scalable enterprise applications, enhancing data processing capabilities.  
+- Introduced automated testing frameworks, reducing bug-related downtime by 30%.  
+
+**Software Engineer, Collective Inc, Lakewood, NJ (2006–2009)**  
+Annual salary: $88,600  
+- Engineered robust API solutions, enabling seamless integration with third-party services.  
+- Enhanced database performance, resulting in a 50% decrease in query response times.  
+
+**Junior Software Engineer, UP Entertainment, Old Westbury, NY (2001–2006)**  
+Annual salary: $58,800  
+- Contributed to the development of interactive multimedia applications, expanding user reach.  
+- Assisted in the implementation of version control systems, improving code collaboration efficiency.

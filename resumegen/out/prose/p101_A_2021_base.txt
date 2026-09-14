@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 16 years of expertise in data engineering and software development. Adept at delivering innovative solutions and optimizing complex data processes in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2005
+
+**Work History**  
+
+**Senior Data Engineer, Adobe, East Syracuse, NY (2020–Present)**  
+Annual salary: $174,200  
+- Spearheaded the transition of legacy systems to cloud-based platforms, improving data accessibility by 30%.  
+- Implemented a new data pipeline architecture, reducing processing time by 40%.  
+
+**Senior Data Engineer, TOTAL EXPERT, Mahwah, NJ (2016–2020)**  
+Annual salary: $146,700  
+- Developed scalable data models, resulting in a 25% increase in data retrieval efficiency.  
+- Led a team of 5 engineers to enhance data security protocols, achieving compliance with industry standards.  
+
+**Senior Data Engineer, Diligent Delivery Systems, Morris Plains, NJ (2012–2016)**  
+Annual salary: $104,800  
+- Optimized data processing tasks, reducing run times by 20% through algorithm improvements.  
+- Collaborated with cross-functional teams to integrate new data sources, expanding analytics capabilities.  
+
+**Data Engineer, Infinity Technology Services LLC, New York, NY, USA (2010–2012)**  
+Annual salary: $105,900  
+- Designed and implemented ETL processes that improved data integrity by 35%.  
+- Automated routine reporting tasks, saving approximately 15 hours of manual work per week.  
+
+**Junior Software Engineer, MetLife, Andes, NY, US (2005–2010)**  
+Annual salary: $69,800  
+- Assisted in the development of software applications, contributing to a 15% increase in project delivery speed.  
+- Participated in code reviews and debugging, enhancing overall software quality.

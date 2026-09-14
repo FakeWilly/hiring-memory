@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Accomplished software engineer with over 16 years of experience specializing in software development and engineering. Recognized for delivering innovative technical solutions and fostering collaborative team environments.
+
+**EDUCATION**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2005
+
+**WORK HISTORY**
+
+**Staff Software Engineer, OCLC, Andes, NY, US (2021–Present)**  
+Annual salary: $215,300  
+- Led the development of a new cloud-based system that improved data processing speed by 30%.  
+- Collaborated with cross-functional teams to integrate AI-driven solutions, enhancing product capabilities.
+
+**Staff Software Engineer, Intel Corporation, Astoria, NY (2017–2021)**  
+Annual salary: $192,200  
+- Spearheaded a project that reduced operational costs by 15% through innovative software optimization.  
+- Mentored junior engineers, improving team productivity and technical expertise.
+
+**Senior Software Engineer, Vaco, Rochester, NY, US (2014–2017)**  
+Annual salary: $155,800  
+- Designed and implemented software systems that increased client satisfaction by 25%.  
+- Coordinated with stakeholders to define product requirements, leading to successful project deliveries.
+
+**Software Engineer, Nexagen Networks Inc, East Syracuse, NY (2010–2014)**  
+Annual salary: $105,200  
+- Developed and maintained scalable software solutions, resulting in a 20% increase in system efficiency.  
+- Played a key role in the migration of legacy systems to modern platforms.
+
+**Software Engineer, Concept Plus, Rensselaer, NY, US (2007–2010)**  
+Annual salary: $95,900  
+- Contributed to the development of a mission-critical application, ensuring high availability and performance.  
+- Enhanced existing software features, leading to a 15% increase in user engagement.
+
+**Junior Software Engineer, AIR Communities, Newark, NJ, US (2005–2007)**  
+Annual salary: $69,700  
+- Assisted in the successful completion of multiple software projects, meeting all deadlines.  
+- Participated in code reviews, contributing to improved code quality and team learning.

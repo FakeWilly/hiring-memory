@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Tech-savvy and social software engineer with over 13 years of experience in developing robust applications. Skilled at leveraging a humorous communication style to foster collaboration and deliver innovative solutions in fast-paced environments.
+
+Education  
+Bachelor's Degree in Computer Science, Stony Brook University, 2008
+
+Work History  
+
+Senior Software Engineer, Keeper Memorials USA Inc, Parsippany-Troy Hills, NJ (2019–Present)  
+Annual salary: $161,900  
+- Spearheaded the development of a cloud-based application that improved data retrieval speed by 40% for end-users.  
+- Implemented a new agile workflow that reduced time-to-market for features by 15%.  
+
+Senior Software Engineer, Mastercard, Melville, NY, US (2014–2019)  
+Annual salary: $139,200  
+- Led a team of 5 engineers in the successful launch of a high-transaction payment platform, enhancing transaction processing by 30%.  
+- Developed an automated testing suite that decreased bug incidence by 25% across multiple applications.  
+
+Software Engineer, M Technical Services, LLC, Jersey City, NJ (2010–2014)  
+Annual salary: $101,300  
+- Designed and implemented a reporting system that reduced data processing time from hours to minutes.  
+- Collaborated with cross-functional teams to integrate new features that increased customer retention by 10%.  
+
+Junior Software Engineer, Publix, Bridgewater, NJ, US (2008–2010)  
+Annual salary: $72,600  
+- Assisted in the development of inventory management software that improved stock accuracy by 15%.  
+- Developed scripts that automated routine maintenance tasks, saving the team 10+ hours of manual work per week.

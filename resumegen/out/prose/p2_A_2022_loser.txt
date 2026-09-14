@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+A seasoned software engineer with over 17 years of experience, known for exceptional organizational skills and a passion for technology. Adept at leading complex projects and delivering innovative solutions in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, University of Connecticut, 2005
+
+**Work History**
+
+**Staff Software Engineer, NORTHROP GRUMMAN, Syracuse, NY, US (2017–Present)**  
+Annual salary: $195,900  
+- Spearheaded the development of mission-critical systems, improving processing efficiency by 40%.  
+- Led a team of engineers in implementing advanced software solutions that enhanced system security and reliability.  
+
+**Senior Software Engineer, Vision IT, Astoria, NY (2014–2017)**  
+Annual salary: $155,500  
+- Directed the successful migration of legacy systems to a modern architecture, reducing maintenance costs by 30%.  
+- Collaborated with cross-functional teams to create robust, scalable software applications, increasing user satisfaction by 25%.  
+
+**Software Engineer, Western & Southern Financial Group, Hartford, CT (2010–2014)**  
+Annual salary: $106,900  
+- Developed and deployed enterprise-level applications, enhancing customer interaction and service delivery.  
+- Implemented innovative features that improved data analytics capabilities, leading to more informed business decisions.  
+
+**Software Engineer, Cheetah, an Accutech company, Rochester, NY, US (2007–2010)**  
+Annual salary: $96,800  
+- Played a key role in the design and development of software systems that improved operational efficiency by 20%.  
+- Worked closely with clients to customize software solutions, resulting in a 15% increase in client retention.  
+
+**Junior Software Engineer, Midland Credit Management, Groton, CT, US (2005–2007)**  
+Annual salary: $68,700  
+- Assisted in the development of software applications that streamlined credit management processes.  
+- Contributed to the enhancement of existing systems, leading to a 10% reduction in processing time.

@@ -1,0 +1,24 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with a Bachelor's degree in Electrical Engineering and over five years of experience in developing innovative software solutions. Known for a humorous communication style and a passion for crafting intuitive applications, I bring a unique combination of creativity and technical expertise to every project.
+
+---
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2017
+
+---
+
+**Work History**  
+
+Junior Software Engineer, Binti, Jersey City, NJ (2017–Present)  
+Annual salary: $95,100  
+- Developed and maintained user-friendly software solutions, improving the efficiency of client operations by 30%.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing system performance and reliability.  
+- Spearheaded a project to automate reporting processes, reducing the time spent on manual data entry by 40%.  
+
+---

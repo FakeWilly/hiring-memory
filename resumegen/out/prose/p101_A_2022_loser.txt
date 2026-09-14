@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in data engineering and a proven track record of delivering robust data solutions in fast-paced environments. Adept at collaborating with cross-functional teams to drive technological advancements and optimize system performance.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2005
+
+**Work History**
+
+**Junior Software Engineer, MetLife, Andes, NY, US (2005–2010)**  
+Annual salary: $69,800  
+- Developed and maintained software applications, enhancing system functionality and user experience.  
+- Collaborated with senior engineers to implement new features, reducing bugs by 15%.
+
+**Data Engineer, Infinity Technology Services LLC, New York, NY, USA (2010–2012)**  
+Annual salary: $105,900  
+- Spearheaded data migration projects, resulting in a 25% increase in data processing efficiency.  
+- Streamlined ETL processes, improving data quality and accuracy across multiple systems.
+
+**Senior Data Engineer, Diligent Delivery Systems, Morris Plains, NJ, US (2012–2016)**  
+Annual salary: $104,800  
+- Led the design and implementation of scalable data pipelines, supporting a 30% growth in business demand.  
+- Improved data retrieval speeds by 40% through optimization of database queries.
+
+**Senior Data Engineer, TOTAL EXPERT, Mahwah, NJ (2016–2020)**  
+Annual salary: $146,700  
+- Managed a team of data engineers to develop advanced analytics solutions, increasing reporting capabilities by 50%.  
+- Introduced machine learning algorithms that enhanced predictive analytics, driving strategic decision-making.
+
+**Senior Data Engineer, Adobe, East Syracuse, NY (2020–Present)**  
+Annual salary: $178,600  
+- Architected complex data solutions to support global operations, improving data accessibility and reliability.  
+- Implemented data warehousing strategies that reduced data retrieval time by 60%, enhancing user satisfaction.

@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Results-driven software engineer with over a decade of experience in system design and development. Known for exceptional problem-solving skills and a collaborative approach to project management, consistently delivering high-quality software solutions.
+
+**Education**  
+Bachelor's Degree in Mathematics, CUNY City College, 2010
+
+**Work History**
+
+**Junior Software Engineer, Oceanit Laboratories, Inc., Warren, NJ, US (2010–2013)**  
+Annual salary: $73,700  
+- Contributed to the development of software applications that improved data processing efficiencies by 15%.  
+- Collaborated with cross-functional teams to enhance system functionalities, resulting in a 10% increase in user satisfaction.
+
+**Junior Software Engineer, Lynker Corporation, Troy, NY, US (2013–2015)**  
+Annual salary: $80,400  
+- Developed and maintained software components, leading to a 20% reduction in bug-related incidents.  
+- Assisted in the migration of legacy systems to modern platforms, improving system stability and performance.
+
+**Junior Software Engineer, Quicken Inc., Astoria, NY (2015–2018)**  
+Annual salary: $86,000  
+- Played a key role in the design and implementation of a new user interface, enhancing user engagement by 25%.  
+- Streamlined codebase to optimize application performance, reducing load times by 30%.
+
+**Systems Engineer, ARKA Group, L.P., Mount Laurel, NJ, US (2018–2021)**  
+Annual salary: $122,600  
+- Led a team in developing a robust system architecture that supported a 40% increase in workflow efficiency.  
+- Implemented automated testing processes, reducing software release cycles by 15%.
+
+**Senior Systems Engineer, Eagle Horizon Group, Greene, NY, USA (2021–Present)**  
+Annual salary: $137,300  
+- Spearheaded the integration of cloud-based solutions, enhancing data accessibility and security.  
+- Directed system upgrades that reduced operational costs by 20% while boosting system reliability.

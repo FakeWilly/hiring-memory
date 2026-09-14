@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Dedicated and detail-oriented software engineer with over 12 years of experience in developing robust software solutions. Proficient in leading engineering projects and collaborating with cross-functional teams to drive technological innovations.
+
+**Education**  
+Master's Degree in Electrical Engineering, Penn State University, 2009
+
+**Work History**
+
+Senior Software Engineer, 2H Talent LLC, Franklin Lakes, NJ, US (2018–Present)  
+Annual salary: $140,400  
+- Spearheaded the development of a high-performance data processing application, improving system efficiency by 30%.  
+- Led a team of engineers in the successful migration of legacy systems to modern cloud-based architectures.  
+
+Senior Software Engineer, Knowledge Management, Inc., Mount Laurel, NJ, US (2016–2018)  
+Annual salary: $100,700  
+- Designed and implemented a scalable microservices architecture, reducing application downtime by 25%.  
+- Mentored junior developers, fostering a collaborative team environment and enhancing code quality standards.  
+
+Software Engineer, ThinkGeo LLC, Binghamton, NY (2011–2016)  
+Annual salary: $98,100  
+- Developed GIS solutions that improved data visualization capabilities and customer satisfaction by 40%.  
+- Optimized existing codebases, resulting in a 20% improvement in processing speed and resource utilization.  
+
+Software Engineer, WEX Inc., Rochester, NY, US (2009–2011)  
+Annual salary: $91,400  
+- Collaborated with cross-functional teams to deliver a major software release ahead of schedule.  
+- Implemented automated testing procedures that reduced bug-related incidents by 15%.  
+
+---
+
+**Interests**  
+Gaming, Crafting
+
+**Communication Style**  
+Open and collaborative communicator with a focus on team cohesion and project success.

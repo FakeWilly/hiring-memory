@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in software development and engineering. Known for strong collaborative skills and a keen eye for detail, I thrive in team environments and am passionate about crafting efficient, reliable software solutions.
+
+**Education**  
+Bachelor's Degree in Statistics, CUNY City College, 2004
+
+**Work Experience**
+
+**Staff Software Engineer, National Services Group, Inc., Albany, NY (2021–Present)**  
+Annual salary: $116,400  
+- Spearheaded the design and implementation of a new microservices architecture, resulting in a 30% reduction in system downtimes.  
+- Collaborated with cross-functional teams to optimize codebase, improving application performance by 25%.  
+
+**Senior Software Engineer, USAA, Melville, NY (2018–2021)**  
+Annual salary: $103,900  
+- Led a team of 5 engineers in the development of a secure client-facing application, enhancing financial transactions' speed by 40%.  
+- Initiated the use of continuous integration tools, facilitating a 50% faster deployment cycle.  
+
+**Software Engineer, Anduril Industries, New York, NY (2013–2018)**  
+Annual salary: $101,000  
+- Designed and developed scalable software solutions for defense applications, increasing system scalability by 60%.  
+- Played a key role in transitioning legacy systems to cloud-based platforms, reducing operational costs by 20%.  
+
+**Junior Software Engineer, EMCOR, East Newark, NJ (2008–2013)**  
+Annual salary: $66,700  
+- Developed and maintained internal applications, contributing to a 15% increase in project efficiency.  
+- Assisted in the migration of legacy applications to modern platforms, reducing maintenance overhead by 30%.  
+
+**Junior Software Engineer, Applied Concepts, East Syracuse, NY (2004–2008)**  
+Annual salary: $57,900  
+- Contributed to the development of embedded software systems, improving product reliability by 25%.  
+- Collaborated with a team to implement a new testing framework, reducing bug occurrence by 20%.

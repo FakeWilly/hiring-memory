@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in frontend development. Known for delivering robust and user-friendly applications while maintaining a keen eye for detail and a collaborative spirit.
+
+**Education**  
+Associate's Degree in Software Engineering, CUNY City College, 1999  
+
+**Work History**  
+
+Frontend Engineer, HashiCorp, White Plains, NY, US (2018–Present)  
+Annual salary: $118,700  
+- Spearheaded the development of a high-traffic web application, enhancing user engagement by 30%.  
+- Collaborated with cross-functional teams to implement new features, increasing application performance by 20%.
+
+Frontend Engineer, SDI Management, LLC, Lakewood, NJ (2013–2018)  
+Annual salary: $104,800  
+- Optimized frontend codebase, reducing page load times by 40%.  
+- Led a team of engineers in designing a responsive UI, contributing to a 25% increase in customer satisfaction.
+
+Frontend Engineer, Tellus Solutions, Buffalo, NY (2008–2013)  
+Annual salary: $69,700  
+- Developed and maintained web interfaces, significantly improving user experience and accessibility.  
+- Introduced agile methodologies, resulting in a 15% improvement in project delivery timelines.
+
+Junior Software Engineer, FormFactor, Inc., Buffalo, NY (2006–2008)  
+Annual salary: $69,700  
+- Assisted in the migration of legacy systems to modern frameworks, facilitating a smoother user transition.  
+- Contributed to the implementation of a new feature set that enhanced system capabilities.
+
+Junior Software Engineer, Life360, Hartford, CT (2002–2006)  
+Annual salary: $62,200  
+- Collaborated on the development of a scalable platform used by millions of users.  
+- Improved code efficiency, reducing processing time by 25%.
+
+Junior Software Engineer, Lynker Corporation, East Newark, NJ, US (1999–2002)  
+Annual salary: $55,800  
+- Participated in full software development lifecycle, from requirements gathering to deployment.  
+- Implemented efficient algorithms, resulting in a 15% improvement in application performance.

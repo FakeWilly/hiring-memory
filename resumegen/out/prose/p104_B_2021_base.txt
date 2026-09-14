@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 18 years of experience in developing innovative software solutions. Known for a social and humorous communication style, with a passion for collaborative projects and cutting-edge technology.
+
+**Education**  
+Master's Degree in Computer Science, Baruch College, 2003
+
+**Work History**
+
+**Software Engineer, DRW, Jersey City, NJ, US (2003–2006)**  
+Annual salary: $84,500  
+- Developed and maintained key software components, improving system efficiency by 20%.  
+- Collaborated with cross-functional teams to implement new features, enhancing user satisfaction.
+
+**Software Engineer, Charleston Stevedoring Company, LLC, Melville, NY, US (2006–2010)**  
+Annual salary: $85,700  
+- Designed and deployed scalable software applications, reducing operational downtime by 15%.  
+- Led efforts to integrate new technologies, resulting in a 25% increase in team productivity.
+
+**Senior Software Engineer, TGW Systems, Greene, NY, USA (2010–2014)**  
+Annual salary: $127,700  
+- Spearheaded the development of a new software platform, boosting client engagement by 30%.  
+- Mentored junior engineers, fostering a culture of innovation and continuous improvement.
+
+**Staff Software Engineer, TecNiq Inc, Whippany, NJ, US (2014–2016)**  
+Annual salary: $171,400  
+- Architected high-performance applications that enhanced system reliability by 40%.  
+- Collaborated with stakeholders to align software solutions with business objectives, driving revenue growth.
+
+**Staff Software Engineer, Rivian, Franklin Lakes, NJ, US (2016–2020)**  
+Annual salary: $169,800  
+- Led a team in developing proprietary software systems, increasing market competitiveness.  
+- Implemented agile methodologies, improving project delivery times by 25%.
+
+**Staff Software Engineer, Hasbro, Inc., Hackensack, NJ, US (2020–Present)**  
+Annual salary: $199,900  
+- Driving the development of interactive software experiences, contributing to a 35% increase in user engagement.  
+- Innovating software tools that streamline operations and enhance overall productivity.

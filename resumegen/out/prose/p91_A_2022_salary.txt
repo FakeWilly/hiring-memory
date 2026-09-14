@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing innovative software solutions. Known for extreme organization and a meticulous approach to software development, with a strong foundation in mathematics that enhances problem-solving capabilities.
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2009
+
+**Work Experience**
+
+Senior Software Engineer, Mobomo, LLC, Andes, NY, US (2021–Present)  
+Annual salary: $163,900  
+- Spearheaded the development of a high-traffic web application, improving performance by 30%.  
+- Collaborated with cross-functional teams to enhance user experience, leading to a 25% increase in user retention.
+
+Senior Software Engineer, Watsco, Syracuse, NY, US (2017–2021)  
+Annual salary: $146,300  
+- Led a team of developers in creating a scalable cloud-based solution, increasing processing efficiency by 40%.  
+- Implemented continuous integration practices, reducing deployment time by 35%.
+
+Software Engineer, Bayer, Troy, NY, US (2012–2017)  
+Annual salary: $96,000  
+- Developed and optimized algorithms for data analysis, resulting in a 20% increase in processing speed.  
+- Played a key role in transitioning legacy systems to modern architectures, enhancing system reliability.
+
+Junior Software Engineer, Library Systems & Services LLC, Princeton, NJ, US (2009–2012)  
+Annual salary: $70,800  
+- Assisted in the development of a library management system, improving operational efficiency by 15%.  
+- Contributed to codebase improvements, reducing bug reports by 10%.

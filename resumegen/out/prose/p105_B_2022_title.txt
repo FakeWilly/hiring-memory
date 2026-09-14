@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative solutions for complex technical challenges. Known for a humorous communication style and a knack for precision, I excel in delivering high-quality software products on time.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2005  
+
+**Work History**
+
+**Staff Software Engineer, Mayo Clinic, Orchard Park, NY, US (2021–Present)**  
+Annual salary: $148,700  
+- Developed critical backend systems that improved patient data processing speed by 30%.  
+- Led a team to implement a new API integration, enhancing system interoperability with external healthcare platforms.
+
+**Senior Software Engineer, Infotron, Kingston, NY, US (2018–2021)**  
+Annual salary: $145,100  
+- Spearheaded the development of an automated testing framework, reducing bug-related downtime by 40%.  
+- Collaborated in the design of a scalable cloud-based architecture, facilitating a 50% increase in user capacity.
+
+**Senior Software Engineer, Cox Automotive, Andes, NY, US (2013–2018)**  
+Annual salary: $123,400  
+- Engineered a real-time data analytics platform that enhanced market insights for clients.  
+- Played a key role in migrating legacy systems to a modern microservices architecture, improving system reliability.
+
+**Software Engineer, Innovation Associates, Inc., New York, NY, US (2009–2013)**  
+Annual salary: $84,200  
+- Contributed to the development of a pharmacy automation software suite, improving order processing efficiency by 25%.  
+- Implemented security protocols that safeguarded sensitive data against breaches.
+
+**Software Engineer, Keeper Memorials USA Inc, Bridgewater, NJ, US (2007–2009)**  
+Annual salary: $60,400  
+- Developed and maintained a custom CRM solution that streamlined client interactions.  
+- Introduced code optimization techniques that reduced application load times by 15%.
+
+**Junior Software Engineer, State of Washington, Newark, NJ, US (2005–2007)**  
+Annual salary: $62,200  
+- Assisted in the development of state-wide software applications, focusing on robust user authentication.  
+- Improved system documentation, enhancing knowledge transfer and reducing onboarding time for new developers.

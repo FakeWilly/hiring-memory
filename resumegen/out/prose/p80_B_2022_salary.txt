@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 18 years of experience in designing, developing, and implementing innovative software solutions. Adept at collaborating with cross-functional teams to drive project success and improve system efficiencies, with a strong foundation in statistical analysis and a passion for problem-solving.
+
+---
+
+**Education**  
+Bachelor's Degree in Statistics, CUNY City College, 2004
+
+---
+
+**Work History**
+
+**Senior Software Engineer, National Services Group, Inc., Albany, NY, US (2021–Present)**  
+Annual salary: $116,400  
+- Spearheaded the development of a new cloud-based platform, reducing deployment time by 30%.  
+- Collaborated with product management to align engineering capabilities with business goals, enhancing customer satisfaction by 15%.
+
+**Senior Software Engineer, USAA, Melville, NY, US (2018–2021)**  
+Annual salary: $103,900  
+- Led a team of 5 engineers in enhancing application performance, resulting in a 40% decrease in load times.  
+- Implemented code review processes that improved code quality and reduced bugs by 25%.
+
+**Software Engineer, Anduril Industries, New York, NY, US (2013–2018)**  
+Annual salary: $101,000  
+- Developed and integrated new features into the company's primary software product, increasing user engagement by 20%.  
+- Played a key role in migrating legacy systems to modern architectures, improving scalability and maintainability.
+
+**Junior Software Engineer, EMCOR, East Newark, NJ, US (2008–2013)**  
+Annual salary: $66,700  
+- Assisted in the development of internal tools that streamlined operations, reducing manual workload by 35%.  
+- Collaborated with senior engineers to enhance system security measures, mitigating potential vulnerabilities.
+
+**Junior Software Engineer, Applied Concepts, East Syracuse, NY (2004–2008)**  
+Annual salary: $57,900  
+- Contributed to the successful launch of multiple software projects, adhering to strict timelines and budget constraints.  
+- Engaged in regular code reviews and team meetings to refine and enhance development practices.

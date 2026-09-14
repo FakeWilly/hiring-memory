@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Software Engineer with a strong background in electrical engineering and a proven track record in developing robust software solutions. Highly skilled in collaborating with interdisciplinary teams to deliver innovative products, with a knack for translating complex technical concepts into user-friendly applications.
+
+**Education**  
+Master's Degree in Electrical Engineering, Stony Brook University, 2013
+
+**Work History**
+
+Software Engineer, The Hartford, Albany, NY, US (2021–Present)  
+Annual salary: $140,400  
+- Spearheaded the development of a new claims processing system that improved efficiency by 30%.  
+- Collaborated with cross-functional teams to integrate machine learning algorithms into existing applications, enhancing predictive analytics capabilities.  
+
+Software Engineer, Glow Networks, Greene, NY, USA (2016–2021)  
+Annual salary: $125,400  
+- Designed and implemented a scalable network management platform, reducing system downtime by 25%.  
+- Led a team in optimizing legacy code, resulting in a 40% increase in application performance.  
+
+Software Engineer, Teledyne FLIR, Parsippany-Troy Hills, NJ, US (2013–2016)  
+Annual salary: $125,900  
+- Developed critical software components for thermal imaging products, improving image processing speed by 35%.  
+- Contributed to the successful launch of three major product lines through effective software design and testing.

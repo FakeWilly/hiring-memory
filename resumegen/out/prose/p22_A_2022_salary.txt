@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in frontend development for diverse industries. Adept at building responsive, user-friendly applications, and leading teams to deliver innovative solutions.
+
+**Education**  
+Master's Degree in Software Engineering, Drexel University, 2007  
+
+**Work History**  
+
+**Staff Frontend Engineer, VergeSense, Whippany, NJ, US (2021–Present)**  
+Annual salary: $217,600  
+- Spearheaded the development of a new user interface that increased customer engagement by 30%.  
+- Collaborated with cross-functional teams to integrate AI features, enhancing the product's capabilities.  
+
+**Staff Frontend Engineer, GM Financial, Princeton, NJ (2018–2021)**  
+Annual salary: $194,300  
+- Led the redesign of the company's main application, resulting in a 25% reduction in load times.  
+- Mentored junior engineers, fostering a collaborative team environment and improving overall productivity.  
+
+**Senior Frontend Engineer, BioHorizons Implant Systems, Rensselaer, NY, US (2014–2018)**  
+Annual salary: $131,400  
+- Developed high-quality front-end features that improved user accessibility by 40%.  
+- Implemented a new testing framework, reducing bug-related downtime by 15%.  
+
+**Frontend Engineer, Lucid Motors, Parsippany-Troy Hills, NJ, US (2012–2014)**  
+Annual salary: $99,400  
+- Contributed to the development of the company's first e-commerce platform, increasing sales by 20%.  
+- Optimized existing codebase, resulting in a 10% improvement in application performance.  
+
+**Frontend Engineer, Baxter, Kingston, NY, US (2010–2012)**  
+Annual salary: $103,800  
+- Played a key role in launching a mobile-friendly version of the main website, improving mobile traffic by 50%.  
+- Collaborated with designers to enhance UI/UX, leading to a 15% increase in user retention.  
+
+**Frontend Engineer, Fidelity TalentSource, Buffalo, NY (2007–2010)**  
+Annual salary: $93,400  
+- Developed and maintained web applications, improving user interaction and satisfaction.  
+- Assisted in migrating legacy systems to new technologies, reducing maintenance costs by 20%.

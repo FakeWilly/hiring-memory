@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Highly organized and tech-savvy software engineer with nearly two decades of experience in infrastructure engineering. Proven track record of delivering robust solutions and optimizing system performance in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2003
+
+**Work History**
+
+**Staff Infrastructure Engineer, Quality Theorem, Lakewood, NJ (2021–Present)**  
+Annual salary: $192,500  
+- Spearheaded the redesign of the company’s cloud infrastructure, enhancing operational efficiency by 30%.  
+- Developed automated deployment pipelines reducing release time by 50%.  
+
+**Senior Infrastructure Engineer, Vertafore, Buffalo, NY (2019–2021)**  
+Annual salary: $171,900  
+- Led a team in migrating legacy systems to a cloud-based architecture, resulting in a 40% cost reduction.  
+- Implemented advanced monitoring solutions that improved system uptime by 20%.  
+
+**Senior Infrastructure Engineer, Camden Kelly Corporation, Kingston, NY (2014–2019)**  
+Annual salary: $144,700  
+- Optimized network configurations to reduce latency issues, achieving a 25% increase in data throughput.  
+- Collaborated on cross-functional teams to integrate new technologies, improving service delivery times.  
+
+**Senior Infrastructure Engineer, Arcesium, Morris Plains, NJ (2009–2014)**  
+Annual salary: $123,800  
+- Designed and deployed high-availability systems, reducing downtime by 35%.  
+- Engineered a scalable infrastructure that supported a 50% increase in user base.  
+
+**Infrastructure Engineer, General Dynamics Corporation, Princeton, NJ (2006–2009)**  
+Annual salary: $89,400  
+- Developed and maintained secure communication channels, enhancing data protection protocols.  
+- Assisted in the implementation of a company-wide virtualization initiative, boosting efficiency by 20%.  
+
+**Junior Software Engineer, ELEVI Associates, LLC, Bridgewater, NJ (2003–2006)**  
+Annual salary: $65,200  
+- Contributed to the development of internal software tools, improving workflow processes.  
+- Participated in code reviews, ensuring adherence to best practices and code quality.

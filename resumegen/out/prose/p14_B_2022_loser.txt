@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing innovative software solutions across various industries. Known for exceptional organizational skills and a passion for optimizing system performance, I am committed to delivering high-quality software and enhancing team productivity.
+
+**Education**  
+Master's Degree in Information Systems, Rochester Institute of Technology, 2009  
+
+**Work History**  
+
+**Senior Software Engineer, OxeFit, Inc., Mount Laurel, NJ, US (2020–Present)**  
+Annual salary: $132,000  
+- Spearheaded the design and implementation of a new software architecture, resulting in a 20% increase in system efficiency.  
+- Mentored a team of junior developers, enhancing their skills and contributing to a 15% reduction in project delivery times.  
+
+**Senior Software Engineer, Austin Filter Systems, Inc., Whippany, NJ, US (2017–2020)**  
+Annual salary: $126,500  
+- Led the migration of legacy systems to a cloud-based platform, improving data accessibility and reducing costs by 30%.  
+- Developed a custom software tool that automated routine tasks, saving the team 25 hours per month.  
+
+**Software Engineer, QRC Group, LLC, Rochester, NY, US (2014–2016)**  
+Annual salary: $101,100  
+- Collaborated in a team to develop a robust data analysis platform, which increased client data processing capabilities by 40%.  
+- Improved existing codebase, enhancing system stability and decreasing bug reports by 50%.  
+
+**Software Engineer, Scanogen Inc., Astoria, NY (2009–2014)**  
+Annual salary: $90,800  
+- Implemented new feature sets for client applications, leading to a 15% increase in customer satisfaction.  
+- Optimized backend processes, reducing server response time by 25%.

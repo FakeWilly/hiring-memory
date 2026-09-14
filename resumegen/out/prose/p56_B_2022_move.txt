@@ -1,0 +1,57 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in software development and engineering within diverse industries. Known for punctuality and direct communication, delivering innovative solutions and efficiency improvements in dynamic environments.
+
+---
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2001
+
+---
+
+**Work History**
+
+**Senior Software Engineer, EO Solutions, Jersey City, NJ, US (2021–Present)**  
+Annual salary: $187,600  
+- Spearheaded the development of a new application module, increasing system efficiency by 15%.  
+- Collaborated with cross-functional teams to enhance software performance, resulting in a 20% reduction in processing time.
+
+**Senior Software Engineer, Sierra Nevada Corporation, Groton, CT, US (2020–2021)**  
+Annual salary: $183,000  
+- Led a team to redesign core software components, leading to a 25% increase in system reliability.  
+- Implemented robust security protocols, reducing vulnerabilities by 30%.
+
+**Senior Software Engineer, Feedonomics, Whippany, NJ, US (2016–2020)**  
+Annual salary: $161,400  
+- Optimized data processing algorithms, improving data handling speed by 40%.  
+- Developed a suite of diagnostic tools that decreased system outage incidents by 20%.
+
+**Senior Software Engineer, Robinhood, New York, NY, USA (2013–2016)**  
+Annual salary: $144,900  
+- Introduced a new code review process that cut down bugs by 15%.  
+- Enhanced trading platform features, contributing to a 25% increase in user engagement.
+
+**Senior Software Engineer, Stemuli Studios, Inc, Mahwah, NJ (2009–2013)**  
+Annual salary: $127,900  
+- Designed and implemented a scalable architecture that supported a 50% increase in user base.  
+- Developed innovative features that boosted product sales by 30%.
+
+**Software Engineer, Radiance Technologies Inc., East Syracuse, NY (2006–2009)**  
+Annual salary: $102,400  
+- Automated testing procedures, reducing testing time by 20%.  
+- Played a key role in launching a major software update that enhanced user satisfaction.
+
+**Software Engineer, NICE, Morris Plains, NJ, US (2004–2006)**  
+Annual salary: $93,200  
+- Improved software integration processes, enhancing system compatibility by 15%.  
+- Collaborated on the development of a critical application, increasing client retention by 10%.
+
+**Software Engineer, Delinea, Syracuse, NY, US (2001–2004)**  
+Annual salary: $80,700  
+- Developed new software features that improved system functionality by 20%.  
+- Contributed to the reduction of system errors, enhancing overall software reliability.

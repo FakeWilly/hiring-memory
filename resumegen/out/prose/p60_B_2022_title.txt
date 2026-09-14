@@ -1,0 +1,41 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over two decades of experience in designing and developing innovative software solutions. Adept at solving complex problems with a diplomatic communication style, bringing a passion for puzzles and crafting into every project.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 2001
+
+**Work History**
+
+**Senior Software Engineer, AltaML, Parsippany-Troy Hills, NJ, US (2021–Present)**  
+Annual salary: $133,000  
+- Spearheaded the development of a machine learning platform that improved data processing efficiency by 30%.  
+- Collaborated with cross-functional teams to integrate AI-driven solutions, enhancing product offerings and customer satisfaction.
+
+**Software Engineer, CPS Insurance Services, White Plains, NY, US (2016–2021)**  
+Annual salary: $129,800  
+- Led the migration of legacy systems to cloud-based infrastructure, reducing operational costs by 20%.  
+- Implemented a new feature in the company's core product that increased user engagement by 15%.
+
+**Software Engineer, Qualtrics, Andes, NY, US (2012–2016)**  
+Annual salary: $117,000  
+- Developed a scalable data analytics tool that provided actionable insights, boosting client retention by 10%.  
+- Streamlined the codebase, which resulted in a 25% reduction in system bugs.
+
+**Software Engineer, NextDecade, East Syracuse, NY (2009–2012)**  
+Annual salary: $105,300  
+- Engineered a robust security protocol, enhancing data protection and compliance with industry standards.  
+- Automated key processes, reducing manual workload by 30% and increasing team productivity.
+
+**Software Engineer, X Corp., Orchard Park, NY, US (2004–2009)**  
+Annual salary: $90,700  
+- Contributed to the development of a flagship product that resulted in a 40% increase in market share.  
+- Optimized software functionalities, leading to a 20% improvement in application performance.
+
+**Junior Software Engineer, American Axle & Manufacturing, Jersey City, NJ, US (2001–2004)**  
+Annual salary: $63,600  
+- Assisted in the development of innovative software applications, contributing to a 15% increase in production efficiency.  
+- Supported the integration of new technologies, enhancing system capabilities and user experience.

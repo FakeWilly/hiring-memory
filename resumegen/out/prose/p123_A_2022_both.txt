@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Highly skilled software engineer with over 15 years of experience in developing and optimizing software solutions. Proven track record of leading successful projects and enhancing operational efficiency in diverse sectors, leveraging strong technical expertise and effective communication skills.
+
+---
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2007
+
+---
+
+**Work History**
+
+**Principal Software Engineer, Eagle Horizon Group, Jersey City, NJ (2021–Present)**  
+Annual salary: $188,500  
+- Spearheaded the development of a cutting-edge data analytics platform, resulting in a 30% increase in data processing efficiency.  
+- Led a team of 10 engineers to successfully deliver multiple client-facing software projects on time and under budget.
+
+**Staff Software Engineer, OC business finder, Morris Plains, NJ, US (2016–2021)**  
+Annual salary: $168,300  
+- Designed and implemented a scalable microservices architecture that improved system reliability by 40%.  
+- Collaborated with cross-functional teams to streamline software deployment processes, reducing downtime by 25%.
+
+**Senior Software Engineer, Select Search Associates LLC, Jersey City, NJ (2013–2016)**  
+Annual salary: $118,500  
+- Developed a comprehensive CRM solution that enhanced client engagement and increased sales by 15%.  
+- Mentored junior developers, fostering a collaborative work environment that led to increased productivity.
+
+**Software Engineer, Orlando Utilities Commission, New York, NY, US (2007–2012)**  
+Annual salary: $97,100  
+- Engineered and maintained software applications for utility management, improving service delivery efficiency.  
+- Implemented software improvements that reduced operational costs by 10% annually.

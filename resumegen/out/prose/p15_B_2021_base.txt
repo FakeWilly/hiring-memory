@@ -1,0 +1,32 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Tech-savvy and social software engineer with over 13 years of experience in developing innovative solutions and leading successful projects in the software industry. Proven track record of improving system performance and enhancing user experience, with a passion for technology and direct communication.
+
+---
+
+**Education**  
+Master's Degree in Electrical Engineering, Penn State University, 2008
+
+---
+
+**Work Experience**
+
+**Senior Software Engineer, Applied Intuition, Orchard Park, NY** (2017–Present)  
+Annual salary: $130,100  
+- Led a team to develop a simulation software platform, improving testing efficiency by 30% for autonomous vehicle projects.  
+- Spearheaded the integration of new data analytics tools, resulting in a 20% increase in product development speed.
+
+**Software Engineer, Estes Express Lines, Bedminster, NJ** (2012–2017)  
+Annual salary: $110,600  
+- Designed and implemented a logistics tracking system that reduced delivery errors by 15%.  
+- Collaborated with cross-functional teams to optimize existing software infrastructure, leading to a 25% reduction in operational costs.
+
+**Software Engineer, Hyun LLC, New York, NY** (2008–2012)  
+Annual salary: $100,500  
+- Developed and maintained a web-based application for financial services, enhancing user engagement by 20%.  
+- Played a key role in the transition to a cloud-based architecture, boosting application scalability and reliability.

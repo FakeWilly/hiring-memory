@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in backend development and a proven track record of delivering high-quality software solutions. Adept at collaborating with cross-functional teams and improving system performance through innovative problem-solving.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2008  
+
+**Work History**  
+
+Backend Engineer, Mikron, Astoria, NY (2008–2012)  
+Annual salary: $96,200  
+- Designed and implemented a scalable API architecture, reducing response time by 30%.  
+- Collaborated with front-end developers to integrate user-facing elements using server-side logic.
+
+Backend Engineer, Upstart, Astoria, NY (2012–2014)  
+Annual salary: $110,500  
+- Developed and maintained server-side components, leading to a 25% increase in processing efficiency.  
+- Assisted in transitioning the company to a microservices architecture for better modularity and scalability.
+
+Senior Backend Engineer, ARM, Greene, NY, USA (2015–2019)  
+Annual salary: $109,600  
+- Led a team of engineers in optimizing backend processes, improving system uptime by 15%.  
+- Spearheaded the migration to cloud-based infrastructure, enhancing data security and accessibility.
+
+Senior Backend Engineer, Hasbro, Inc., Rochester, NY, USA (2019–Present)  
+Annual salary: $122,900  
+- Architected and deployed a new data processing framework, increasing throughput by 40%.  
+- Mentored junior engineers and fostered a collaborative team environment to drive innovation.

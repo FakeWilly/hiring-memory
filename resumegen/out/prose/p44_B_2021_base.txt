@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy Junior Software Engineer with a Bachelor's Degree in Software Engineering from Stony Brook University. Recognized for punctuality and a strong commitment to delivering innovative software solutions, with a focus on improving efficiency and performance.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Stony Brook University, 2017  
+
+**Work Experience**  
+
+Junior Software Engineer, Q1 Technologies, Inc., Mount Laurel, NJ (2017–Present)  
+Annual salary: $81,800  
+- Contributed to the design and development of a key project management tool that increased team efficiency by 20%.  
+- Collaborated with cross-functional teams to enhance user interface features, resulting in a 15% improvement in user engagement.  
+- Implemented automated testing processes that reduced bug-related downtime by 30%.  
+
+**Skills**  
+- Proficient in Java, Python, and C++  
+- Strong problem-solving and analytical skills  
+- Excellent teamwork and communication abilities  
+
+**Hobbies**  
+- Cooking  
+- Playing musical instruments

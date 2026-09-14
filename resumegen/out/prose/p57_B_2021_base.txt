@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with a strong technical acumen and passion for problem-solving, demonstrated through a successful track record in designing and implementing efficient software solutions. Skilled in leading projects and collaborating with cross-functional teams, with a focus on delivering high-quality results in dynamic environments.
+
+---
+
+**Education**  
+Bachelor's Degree in Information Systems, Penn State University, 2003
+
+---
+
+**Work History**
+
+**Senior Software Engineer, VTekis Consulting LLP, Franklin Lakes, NJ, US (2019–Present)**  
+Annual salary: $148,100  
+- Spearheaded the development of a scalable application framework, resulting in a 25% reduction in project lead times.  
+- Collaborated closely with product teams to enhance software functionalities, increasing user satisfaction by 15%.
+
+**Software Engineer, Eversource Energy, Mahwah, NJ (2014–2019)**  
+Annual salary: $119,800  
+- Led a team of engineers in the migration of legacy systems to modern architectures, improving system efficiency by 30%.  
+- Streamlined deployment processes through automation, reducing downtime by 20%.
+
+**Software Engineer, Ariel Partners, Rochester, NY, US (2011–2014)**  
+Annual salary: $112,300  
+- Developed and optimized backend services, boosting system performance by 40%.  
+- Successfully mentored junior engineers, fostering a collaborative and innovative team environment.
+
+**Software Engineer, Price Industries Limited, Newark, NJ, US (2009–2011)**  
+Annual salary: $102,700  
+- Implemented a new testing framework that decreased bug detection time by 50%.  
+- Enhanced data processing algorithms, resulting in a 15% increase in processing speed.
+
+**Software Engineer, Subeca, Lakewood, NJ (2006–2009)**  
+Annual salary: $86,200  
+- Designed and developed key components for a flagship product, contributing to a 20% increase in sales.  
+- Participated in code reviews and improved coding standards across the team.
+
+**Junior Software Engineer, Ibotta, Greene, NY, USA (2003–2006)**  
+Annual salary: $61,100  
+- Assisted in the development of user interfaces for web applications, improving user engagement by 10%.  
+- Collaborated with senior developers to enhance existing software solutions, reducing client-reported issues by 25%.

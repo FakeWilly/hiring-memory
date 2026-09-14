@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented Infrastructure Engineer with over a decade of experience in optimizing and maintaining robust IT infrastructures. Demonstrates a strong technical aptitude and a passion for leveraging innovative solutions to enhance operational efficiency.
+
+**Education**  
+Master's Degree in Statistics, Rutgers University, 2011  
+
+**Work History**  
+
+**Senior Infrastructure Engineer, NICE Systems, Morris Plains, NJ, US (2020–Present)**  
+Annual salary: $152,900  
+- Spearheaded the deployment of a new cloud-based infrastructure, reducing operational costs by 30%.  
+- Led a team of five engineers in a major data center migration with zero downtime.  
+
+**Infrastructure Engineer, Jobot, Kingston, NY, US (2016–2020)**  
+Annual salary: $121,400  
+- Enhanced network security protocols, leading to a 40% reduction in security incidents.  
+- Successfully implemented a continuous monitoring system which improved system uptime by 25%.  
+
+**Infrastructure Engineer, Pacific Northwest National Laboratory, Whippany, NJ, US (2011–2016)**  
+Annual salary: $104,600  
+- Managed the deployment of new server infrastructure, increasing processing capacity by 50%.  
+- Developed an automated system backup solution, reducing data recovery time by 60%.

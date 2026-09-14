@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in developing and implementing innovative software solutions. Known for excellent problem-solving skills and a passion for optimizing software performance and user experience.
+
+**Education**  
+Associate's Degree in Computer Science, University of Connecticut, 2004
+
+**Work History**  
+
+**Principal Software Engineer, Thermo King Chesapeake, Hackensack, NJ, US (2021–Present)**  
+Annual salary: $205,500  
+- Spearheaded a project to modernize the company's software architecture, resulting in a 30% increase in system efficiency.  
+- Led a team of engineers in developing a new analytics platform that improved data processing speed by 40%.  
+
+**Staff Software Engineer, Hasbro, Inc., Old Westbury, NY (2019–2021)**  
+Annual salary: $200,500  
+- Designed and implemented a new gaming engine that improved product performance and user engagement by 25%.  
+- Collaborated with cross-functional teams to integrate AI-driven features into existing software, enhancing interactive capabilities.  
+
+**Staff Software Engineer, Verite Group, Inc., Hartford, CT (2017–2019)**  
+Annual salary: $185,500  
+- Developed a secure communication system that was adopted company-wide, reducing data breaches by 15%.  
+- Optimized existing software applications, decreasing processing time by 20% and improving user satisfaction.  
+
+**Senior Software Engineer, Penske Truck Leasing, Melville, NY, US (2012–2017)**  
+Annual salary: $122,200  
+- Led the development of a fleet management software that increased operational efficiency by 35%.  
+- Implemented a real-time tracking feature, which enhanced client service quality and satisfaction.  
+
+**Software Engineer, Quantum Systems Inc, Kingston, NY, US (2008–2012)**  
+Annual salary: $93,500  
+- Contributed to the development of an award-winning software solution that streamlined business operations.  
+- Played a key role in migrating legacy systems to modern platforms, improving software reliability and performance.  
+
+**Junior Software Engineer, Magic AI, Hackensack, NJ, US (2004–2008)**  
+Annual salary: $67,100  
+- Assisted in designing and coding software features that boosted application speed by 20%.  
+- Participated in cross-functional team projects, ensuring on-time delivery and high-quality outcomes.  
+
+---

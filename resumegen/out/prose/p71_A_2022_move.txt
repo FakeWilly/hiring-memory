@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+A seasoned software engineer with over 20 years of experience in platform engineering, specializing in developing robust, scalable solutions in diverse sectors. Known for a diplomatic communication style and a passion for leveraging technology to enhance operational efficiency, while maintaining a balance with a love for hiking and sports.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2002
+
+**Work History**
+
+**Platform Engineer, The RealReal, Whippany, NJ, US (2002–2005)**  
+Annual salary: $98,000  
+- Developed and maintained key components of the platform, improving uptime by 15%.  
+- Collaborated with cross-functional teams to streamline deployment processes.  
+
+**Platform Engineer, Grammarly, East Newark, NJ, US (2005–2007)**  
+Annual salary: $110,600  
+- Enhanced system architecture, reducing latency by 20%.  
+- Spearheaded the integration of new technologies, boosting team productivity.  
+
+**Senior Platform Engineer, SMX, Greene, NY, USA (2007–2010)**  
+Annual salary: $131,800  
+- Led a team in redesigning the core platform, resulting in a 25% performance increase.  
+- Implemented automated testing frameworks, decreasing bug-related downtimes by 30%.  
+
+**Senior Platform Engineer, Midnight Oil Marketing, Syracuse, NY, US (2010–2012)**  
+Annual salary: $148,500  
+- Optimized existing infrastructure, achieving a 40% reduction in operational costs.  
+- Coordinated with project managers to deliver solutions on time, enhancing client satisfaction.  
+
+**Senior Platform Engineer, ANS Services LLC, Jersey City, NJ, US (2012–2016)**  
+Annual salary: $162,100  
+- Designed and deployed a new platform architecture that supported a 50% increase in user load.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.  
+
+**Senior Platform Engineer, OptimHire, Andes, NY, US (2016–2021)**  
+Annual salary: $186,500  
+- Led the migration to cloud-based infrastructure, improving scalability and reliability.  
+- Developed advanced monitoring tools, reducing incident response times by 40%.  
+
+**Senior Platform Engineer, Perr&Knight, Groton, CT, US (2021–Present)**  
+Annual salary: $191,200  
+- Currently overseeing the implementation of cutting-edge technologies to enhance platform security.  
+- Partnering with stakeholders to align technological solutions with business objectives.

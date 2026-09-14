@@ -1,0 +1,22 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Tech-savvy and highly social software engineer with a Bachelor's degree in Computer Science. Leveraging several years of experience in developing and implementing software solutions, I am passionate about using diplomacy to foster positive team environments and drive successful project outcomes.
+
+Education  
+Bachelor's Degree in Computer Science, Drexel University, 2017
+
+Work History  
+
+Junior Software Engineer, Hologic, Mount Laurel, NJ, US (2017–2021)  
+Annual salary: $92,200  
+- Developed and maintained software applications, enhancing system efficiency by 15% through optimized codebase.  
+- Collaborated with cross-functional teams to implement new features, leading to a 20% increase in user satisfaction.  
+- Assisted in the migration of legacy systems to modern platforms, improving overall performance and scalability.  
+
+Junior Software Engineer, TOTAL EXPERT, Old Westbury, NY (2021–Present)  
+Annual salary: $103,300  
+- Spearheaded the development of a key module that reduced processing time by 30%, enhancing client satisfaction.  
+- Engaged in agile methodologies to deliver high-quality software products on time, contributing to a 25% increase in team productivity.  
+- Enhanced application security protocols, resulting in a 40% decrease in vulnerability incidents.

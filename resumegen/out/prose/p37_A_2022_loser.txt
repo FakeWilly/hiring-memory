@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Detail-oriented software engineer with over a decade of experience in developing innovative solutions for complex problems. Highly skilled in various programming languages and committed to delivering efficient and robust software applications.
+
+**Education**  
+Bachelor's Degree in Computer Science, Rutgers University, 2012  
+
+**Work History**  
+
+**Software Engineer, Zeta Global, Buffalo, NY (2018–Present)**  
+Annual salary: $116,600  
+- Spearheaded the development of a scalable customer data platform, reducing data processing time by 30%.  
+- Collaborated with cross-functional teams to enhance user experience, leading to a 20% increase in client satisfaction scores.  
+
+**Junior Software Engineer, Blue Origin, LLC, Hartford, CT (2014–2018)**  
+Annual salary: $89,400  
+- Contributed to the successful launch of a cloud-based application, improving project delivery timelines by 15%.  
+- Developed and maintained backend systems, ensuring 99.9% uptime and reliability.  
+
+**Junior Software Engineer, Cogility, Albany, NY (2012–2014)**  
+Annual salary: $82,500  
+- Assisted in the design and implementation of a real-time analytics tool, increasing data accuracy by 25%.  
+- Worked closely with senior engineers to optimize code, resulting in a 10% reduction in system latency.

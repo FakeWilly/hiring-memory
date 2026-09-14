@@ -1,0 +1,26 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy infrastructure engineer with over a decade of experience in developing and optimizing complex IT systems. Known for a diplomatic communication style and a passion for solving intricate puzzles, I deliver innovative solutions that enhance system performance and reliability.
+
+**Work Experience**
+
+**Senior Infrastructure Engineer, Caleres Inc., Rochester, NY, US (2020–Present)**  
+Annual salary: $148,600  
+- Spearheaded the migration of legacy systems to cloud-based infrastructure, reducing operational costs by 20%.  
+- Designed and implemented a robust network security framework, decreasing security incidents by 35%.  
+
+**Infrastructure Engineer, GalaxE.Solutions, Kingston, NY, US (2016–2020)**  
+Annual salary: $120,200  
+- Led a team to develop a scalable virtualization platform, improving data storage efficiency by 40%.  
+- Enhanced system uptime to 99.9% by restructuring and optimizing server configuration protocols.  
+
+**Infrastructure Engineer, HII, East Newark, NJ, US (2011–2016)**  
+Annual salary: $104,700  
+- Developed automated monitoring tools that reduced system downtime by 50%.  
+- Collaborated with cross-functional teams to deploy a new company-wide IT infrastructure, improving productivity by 25%.  
+
+**Education**  
+Master's Degree in Mathematics, Rochester Institute of Technology, 2011

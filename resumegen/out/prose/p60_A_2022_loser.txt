@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 20 years in the tech industry, specializing in designing and implementing efficient software solutions. Known for a direct communication style and a passion for problem-solving, with a proven track record in both public sector and private companies.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2001
+
+**Work History**
+
+Junior Software Engineer, Snorkel AI, Mahwah, NJ (2001–2004)  
+Annual salary: $63,700  
+- Assisted in developing a machine learning framework that improved data processing efficiency by 30%.  
+- Collaborated with senior engineers to enhance existing software features, reducing bug reports by 15%.
+
+Software Engineer, Tactical Engineering & Analysis Inc, Syracuse, NY (2004–2009)  
+Annual salary: $90,700  
+- Led a team in creating a secure communication protocol for military applications, resulting in a 20% increase in data transmission reliability.  
+- Developed a modular software architecture that reduced maintenance costs by 25%.
+
+Software Engineer, Meinberg USA, New York, NY (2009–2012)  
+Annual salary: $104,100  
+- Spearheaded the migration of legacy systems to modern platforms, enhancing system performance by 40%.  
+- Engineered a real-time data synchronization tool used by 50+ clients globally.
+
+Software Engineer, Clear Street, Greene, NY (2012–2016)  
+Annual salary: $115,700  
+- Implemented a scalable API that increased transaction processing speed by 50%.  
+- Contributed to the development of a risk management application that reduced operational risks by 30%.
+
+Software Engineer, Advanced Energy, Greene, NY (2016–Present)  
+Annual salary: $132,800  
+- Designed and deployed an energy management software suite that optimized energy consumption by 35%.  
+- Led a cross-functional team to integrate AI-driven analytics, resulting in a 25% improvement in predictive maintenance accuracy.

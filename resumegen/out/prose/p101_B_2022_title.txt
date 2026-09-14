@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 15 years in data engineering and software development. Adept at leading complex data projects in dynamic environments with a focus on impactful solutions and effective cross-team collaboration.
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2005
+
+**Work History**
+
+**Staff Data Engineer**, Digital Trust Technologies Private Limited, Mount Laurel, NJ, US (2021–Present)  
+Annual salary: $179,900  
+- Spearheaded the development of a scalable data architecture, reducing processing time by 30%.  
+- Collaborated with cross-functional teams to integrate new data solutions, enhancing system efficiency by 20%.  
+
+**Senior Data Engineer**, City of Wildwood, Old Westbury, NY (2020–2021)  
+Annual salary: $175,500  
+- Developed an automated data pipeline, improving data accuracy by 25%.  
+- Implemented machine learning models to optimize city services, resulting in a 15% reduction in operational costs.  
+
+**Senior Data Engineer**, Coterra Energy, Lakewood, NJ (2016–2020)  
+Annual salary: $146,800  
+- Led the migration of legacy systems to cloud-based solutions, cutting infrastructure costs by 40%.  
+- Enhanced data retrieval processes, increasing data access speed by 50%.  
+
+**Senior Data Engineer**, The Travelers Companies, Inc., Old Westbury, NY (2012–2016)  
+Annual salary: $103,300  
+- Streamlined data integration processes, reducing manual data entry by 60%.  
+- Partnered with analytics teams to deploy visualization tools, improving data-driven decision-making.  
+
+**Data Engineer**, BRIDGE, Iselin, NJ, US (2010–2012)  
+Annual salary: $106,200  
+- Designed and implemented ETL processes, improving data extraction efficiency by 30%.  
+- Developed data models that enhanced reporting capabilities across the organization.  
+
+**Junior Software Engineer**, Quantum Systems Inc, Jersey City, NJ (2005–2010)  
+Annual salary: $69,500  
+- Assisted in the development of software applications, contributing to a 15% increase in user satisfaction.  
+- Participated in code reviews and debugging sessions that improved code quality by 20%.

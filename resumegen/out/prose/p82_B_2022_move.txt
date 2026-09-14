@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy Software Engineer with a Master's degree in Computer Science and extensive experience in frontend development. Known for a humorous communication style and a passion for solving complex puzzles, I excel in creating intuitive and efficient user interfaces.
+
+**Education**  
+Master's Degree in Computer Science, Rutgers University, 2007
+
+**Work History**
+
+Senior Frontend Engineer, Arcfield, New York, NY (2021–Present)  
+Annual salary: $158,600  
+- Leading a team of developers to enhance the user experience of a high-traffic web application, resulting in a 30% increase in user engagement.  
+- Spearheaded the migration of legacy code to a modern framework, improving site performance by 20%.
+
+Senior Frontend Engineer, Applied Concepts, Andes, NY, US (2018–2021)  
+Annual salary: $154,700  
+- Implemented a responsive redesign of the company’s main product interface, leading to a 25% growth in user satisfaction scores.  
+- Developed a new feature deployment process that reduced launch time by 40%.
+
+Frontend Engineer, Photon, Lakewood, NJ (2015–2018)  
+Annual salary: $127,900  
+- Collaborated on a project that reduced page load times by 50%, significantly enhancing the user experience.  
+- Created reusable components that streamlined workflow and decreased development time by 15%.
+
+Frontend Engineer, Prudent Engineering, Melville, NY, US (2011–2015)  
+Annual salary: $113,300  
+- Designed and implemented user-friendly interfaces for multiple client projects, resulting in a 20% increase in client satisfaction.  
+- Optimized frontend code, reducing maintenance costs by 10%.
+
+Frontend Engineer, Yavapai County Government, Jersey City, NJ, US (2007–2011)  
+Annual salary: $107,100  
+- Successfully developed and maintained government web applications, ensuring accessibility compliance and improving public engagement.  
+- Introduced automated testing procedures that enhanced code quality and decreased bug reports by 25%.

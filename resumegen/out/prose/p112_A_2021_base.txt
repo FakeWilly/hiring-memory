@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience in developing innovative solutions and improving system efficiency. Known for a humorous communication style in collaborative environments, with a passion for traveling and hiking outside of work.
+
+**Education**  
+Bachelor's Degree in Mathematics, Penn State University, 1999  
+
+**Work History**  
+
+Senior Software Engineer, MORI Associates, East Newark, NJ, US (2017–Present)  
+Annual salary: $101,500  
+- Spearheaded the development of a scalable platform that increased client satisfaction by 30%.  
+- Mentored a team of 5 junior engineers, fostering a culture of learning and innovation.  
+
+Senior Software Engineer, Artius Solutions, Mahwah, NJ (2013–2017)  
+Annual salary: $93,800  
+- Improved system performance by 25% through the implementation of advanced algorithms.  
+- Led a project that successfully integrated new technologies, reducing system downtime by 40%.  
+
+Software Engineer, RedZone Robotics, Greene, NY, USA (2008–2013)  
+Annual salary: $87,900  
+- Developed a robotics control system that enhanced operational efficiency by 20%.  
+- Collaborated with cross-functional teams to ensure seamless software deployment.  
+
+Junior Software Engineer, archer, Warren, NJ, US (2004–2008)  
+Annual salary: $67,300  
+- Assisted in the design and development of a key software component, leading to a 15% increase in process automation.  
+- Conducted code reviews to maintain high-quality standards and reduce errors.  
+
+Junior Software Engineer, Affirm, New York, NY, USA (1999–2004)  
+Annual salary: $57,100  
+- Contributed to the development of a financial platform that enhanced customer transaction speed by 10%.  
+- Collaborated with senior engineers to streamline code management processes.

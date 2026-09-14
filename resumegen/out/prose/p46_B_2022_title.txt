@@ -1,0 +1,44 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**
+
+Dynamic software engineer with 15+ years of experience in designing, developing, and maintaining software solutions. Highly skilled in problem-solving and passionate about driving innovative software developments in fast-paced environments.
+
+---
+
+**Education**
+
+Bachelor's Degree in Information Systems, Stony Brook University, 2007
+
+---
+
+**Work History**
+
+**Senior Software Engineer, COV Covidien LP, Orchard Park, NY, US (2021–Present)**  
+Annual salary: $132,400
+- Spearheaded the development of a critical software module that improved system efficiency by 30%.
+- Led a team of 5 engineers in implementing agile methodologies, resulting in a 20% increase in project delivery speed.
+
+**Software Engineer, Oncore Electric, Mahwah, NJ (2019–2021)**  
+Annual salary: $129,200
+- Developed a scalable software solution that reduced operational costs by 15%.
+- Collaborated with cross-functional teams to enhance product features, increasing user engagement by 25%.
+
+**Software Engineer, Smart Capital Center, Hartford, CT (2014–2019)**  
+Annual salary: $110,300
+- Optimized existing codebase, leading to a 40% reduction in system downtime.
+- Played a key role in the successful migration of legacy systems to cloud infrastructure.
+
+**Software Engineer, emarsys eMarketing Systems, Melville, NY, US (2009–2014)**  
+Annual salary: $93,500
+- Designed and implemented a new feature that expanded customer outreach by 45%.
+- Streamlined the software deployment process, decreasing time-to-market by 35%.
+
+**Junior Software Engineer, Genentech, Inc., Hartford, CT (2007–2009)**  
+Annual salary: $67,600
+- Contributed to the development of core software components, enhancing system reliability.
+- Assisted in debugging and testing processes, improving software quality by 20%.

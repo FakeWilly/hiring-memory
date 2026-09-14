@@ -1,0 +1,30 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Detail-oriented Software Engineer with extensive experience in developing innovative software solutions. Strong track record of enhancing system performance and collaborating effectively in team-oriented environments.
+
+---
+
+**EDUCATION**  
+Bachelor's Degree in Electrical Engineering, Rutgers University, 2014
+
+---
+
+**WORK HISTORY**
+
+**Software Engineer**, Dynamis, Inc., New York, NY, US (2019–Present)  
+Annual salary: $130,100  
+- Spearheaded the development of a multi-threaded application that improved data processing speed by 30%.  
+- Collaborated with cross-functional teams to design and implement a new software feature, increasing user engagement by 25%.
+
+**Junior Software Engineer**, Evolver Inc, Hartford, CT, US (2016–2019)  
+Annual salary: $88,400  
+- Developed and maintained key components of an enterprise-level software application, enhancing system reliability.  
+- Implemented automated testing procedures that reduced QA time by 20%.
+
+**Junior Software Engineer**, Meinberg USA, New York, NY, USA (2014–2016)  
+Annual salary: $81,900  
+- Assisted in the development of time synchronization software, contributing to a 15% increase in system performance.  
+- Participated in code reviews and provided constructive feedback, improving overall code quality.

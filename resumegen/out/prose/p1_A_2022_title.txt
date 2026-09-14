@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced and tech-savvy software engineer with a strong background in backend development and a knack for solving complex problems. Known for punctuality and a humorous communication style, I bring over 19 years of expertise in developing scalable software solutions across diverse industries.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2003  
+
+**Work History**  
+
+Staff Backend Engineer, Optizm Inc, Orchard Park, NY, US (2021–Present)  
+Annual salary: $134,800  
+- Spearheaded the migration of legacy systems to cloud-based architectures, improving system efficiency by 30%.  
+- Developed automated testing frameworks, reducing deployment time by 25%.  
+
+Senior Backend Engineer, ASSYST, Inc., Mahwah, NJ (2017–2021)  
+Annual salary: $131,500  
+- Led a team in the design and implementation of microservices architecture, enhancing application scalability.  
+- Optimized database operations, resulting in a 40% performance increase.  
+
+Senior Backend Engineer, FIS Management Services LLC, Mahwah, NJ (2015–2017)  
+Annual salary: $107,000  
+- Collaborated on the integration of RESTful APIs, leading to a seamless user experience.  
+- Reduced system downtime by implementing robust error-handling protocols.  
+
+Backend Engineer, Esri, Buffalo, NY (2010–2015)  
+Annual salary: $87,700  
+- Developed geospatial data processing algorithms that increased data accuracy by 20%.  
+- Streamlined backend processes, resulting in a 15% reduction in processing time.  
+
+Backend Engineer, Scale AI, Albany, NY, US (2007–2010)  
+Annual salary: $74,800  
+- Played a key role in the development of data annotation tools, improving workflow efficiency.  
+- Enhanced system reliability by implementing comprehensive logging mechanisms.  
+
+Junior Software Engineer, AT&T, Hartford, CT (2003–2007)  
+Annual salary: $50,400  
+- Assisted in the development of customer management systems, contributing to a 10% increase in customer satisfaction.  
+- Executed debugging and testing that reduced software bugs by 30%.

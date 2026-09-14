@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience in platform engineering and development, known for exceptional organizational skills and effective communication. Adept at leveraging technical expertise to deliver robust software solutions and drive operational efficiencies in fast-paced environments.
+
+**Education**  
+Associate's Degree in Statistics, University of Connecticut, 2000  
+
+**Work History**  
+
+Senior Platform Engineer, General Motors, Hartford, CT (2019–Present)  
+Annual salary: $189,900  
+- Spearheaded the development and deployment of high-performance platform solutions, resulting in a 30% increase in system efficiency.  
+- Collaborated with cross-functional teams to integrate cutting-edge technologies, enhancing product scalability and reliability.  
+
+Senior Platform Engineer, SHB Technology, Inc, Hartford, CT (2015–2019)  
+Annual salary: $167,500  
+- Implemented a strategic platform overhaul that improved user experience and reduced operational costs by 20%.  
+- Led a team of engineers in optimizing software deployment processes, decreasing deployment time by 40%.  
+
+Senior Platform Engineer, ANS Services LLC, East Syracuse, NY (2011–2015)  
+Annual salary: $151,500  
+- Advanced platform capabilities by incorporating automation tools, leading to a 25% reduction in manual intervention.  
+- Directed the design and launch of a new platform feature that expanded the company's market reach by 15%.  
+
+Senior Platform Engineer, Extend Enterprises, Inc., Albany, NY, US (2009–2011)  
+Annual salary: $128,800  
+- Engineered a robust data processing system, enhancing data accuracy and processing speed by 35%.  
+- Orchestrated the transition to an agile development framework, increasing project delivery speed by 50%.  
+
+Platform Engineer, Hive, Hartford, CT (2004–2009)  
+Annual salary: $92,100  
+- Developed and deployed scalable platform solutions, contributing to a 20% increase in client satisfaction.  
+- Established a comprehensive code review process, which significantly reduced software defects.  
+
+Junior Software Engineer, Acuity Brands, Franklin Lakes, NJ, US (2000–2004)  
+Annual salary: $62,400  
+- Assisted in the development of software applications that improved operational efficiencies by 15%.  
+- Collaborated in a team to successfully implement a new software development lifecycle, reducing time-to-market.

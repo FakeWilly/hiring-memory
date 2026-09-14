@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned Software Engineer with over 18 years of experience specializing in backend development and systems integration. Known for punctually delivering robust and scalable software solutions while infusing a touch of humor to foster a collaborative and enjoyable work environment.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2003
+
+**Work History**
+
+Senior Backend Engineer, ASSYST, Inc., Mahwah, NJ (2017–Present)  
+Annual salary: $131,500  
+- Led the migration of legacy systems to cloud-based infrastructures, improving system uptime by 25%.  
+- Developed and implemented backend logic for a high-traffic application, reducing server response time by 40%.  
+
+Senior Backend Engineer, FIS Management Services LLC, Mahwah, NJ (2015–2017)  
+Annual salary: $107,000  
+- Spearheaded the development of a secure payment processing system serving over 1 million transactions per day.  
+- Collaborated closely with cross-functional teams to enhance system security, leading to a 30% decrease in reported vulnerabilities.  
+
+Backend Engineer, Esri, Buffalo, NY (2010–2015)  
+Annual salary: $87,700  
+- Played a key role in the development of a geospatial data management platform, boosting data processing efficiency by 35%.  
+- Streamlined backend processes, resulting in a 20% reduction in data retrieval time.  
+
+Backend Engineer, Scale AI, Albany, NY (2007–2010)  
+Annual salary: $74,800  
+- Contributed to the design and implementation of machine learning pipelines for data annotation, improving accuracy by 15%.  
+- Optimized backend architecture, reducing infrastructure costs by 25%.  
+
+Junior Software Engineer, AT&T, Hartford, CT (2003–2007)  
+Annual salary: $50,400  
+- Assisted in the development of telecommunications software, enhancing system reliability by 20%.  
+- Implemented unit testing frameworks, reducing bug-related downtime by 30%.

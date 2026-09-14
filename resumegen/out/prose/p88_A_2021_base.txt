@@ -1,0 +1,37 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+(555) 555-5555  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in infrastructure engineering and a keen eye for innovative solutions. Consistently reliable and tech-savvy, I blend humor and technical expertise to drive team success and streamline operations.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**  
+
+**Junior Software Engineer, Komatsu, Rochester, NY, USA (2003–2006)**  
+Annual salary: $64,600  
+- Developed and maintained software solutions, improving system performance by 20%.  
+- Collaborated with cross-functional teams to enhance product reliability and reduce downtime.  
+
+**Infrastructure Engineer, Colorado Professional Resources, LLC, New York, NY, USA (2006–2009)**  
+Annual salary: $89,300  
+- Designed and implemented network solutions that increased data transfer efficiency by 30%.  
+- Conducted system audits leading to a 25% reduction in operational costs.  
+
+**Senior Infrastructure Engineer, Hecta Data (DBA) Vilwaa, Rochester, NY, US (2009–2014)**  
+Annual salary: $125,400  
+- Led a team to successfully migrate legacy systems to cloud infrastructure, improving scalability.  
+- Developed automation scripts reducing manual intervention by 40%.  
+
+**Senior Infrastructure Engineer, Rebuy Engine, Iselin, NJ, US (2014–2019)**  
+Annual salary: $143,800  
+- Spearheaded infrastructure projects that enhanced system uptime to 99.9%.  
+- Implemented security protocols that decreased vulnerabilities by 35%.  
+
+**Senior Infrastructure Engineer, Omitron, Inc., Jersey City, NJ, US (2019–Present)**  
+Annual salary: $172,200  
+- Optimized infrastructure architecture which improved processing speed by 50%.  
+- Guided the team in adopting new technologies, resulting in a 40% efficiency increase.

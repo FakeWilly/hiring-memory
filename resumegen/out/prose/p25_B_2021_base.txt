@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in designing, developing, and deploying software solutions. Adept at working in dynamic team environments and leveraging strong problem-solving skills to deliver high-quality software products.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Penn State University, 2011
+
+**Work History**  
+
+**Senior Software Engineer, The Daniel Group, Newark, NJ** (2020–Present)  
+Annual salary: $161,400  
+- Led a team to optimize cloud-based services, resulting in a 30% increase in system efficiency.  
+- Developed and implemented robust security measures, reducing potential system vulnerabilities by 40%.
+
+**Software Engineer, Moveworks, Bedminster, NJ** (2017–2020)  
+Annual salary: $118,300  
+- Engineered an integrated platform that increased user engagement by 25%.  
+- Enhanced existing software architecture, leading to a 15% improvement in application performance.
+
+**Software Engineer, Radiance Technologies Inc., Rochester, NY** (2015–2017)  
+Annual salary: $107,600  
+- Collaborated on developing a scalable software solution that supported a 20% growth in client base.  
+- Streamlined code review processes, reducing project delivery time by 10%.
+
+**Junior Software Engineer, Docusign, Jersey City, NJ** (2011–2015)  
+Annual salary: $73,000  
+- Assisted in the development of a key application feature that improved user satisfaction rates.  
+- Contributed to a cross-functional team to enhance product reliability, decreasing bug reports by 15%.

@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in developing innovative solutions for diverse industries. Known for a humorous communication style and consistent punctuality, I thrive in collaborative environments to create high-quality software products.
+
+**Education**  
+Bachelor's Degree in Statistics, Rutgers University, 2004
+
+**Work History**  
+
+**Senior Software Engineer, Ad Hoc LLC, Bridgewater, NJ, US (2018–Present)**  
+Annual salary: $105,500  
+- Led a team of developers to deliver a high-impact, scalable software solution, improving processing efficiency by 30%.  
+- Spearheaded the integration of new technologies, reducing system downtime by 20% and enhancing user experience.  
+
+**Software Engineer, Shipt, Old Westbury, NY (2013–2018)**  
+Annual salary: $100,300  
+- Developed and implemented a robust logistics algorithm, improving delivery accuracy by 25%.  
+- Collaborated with cross-functional teams to launch a new mobile application that increased customer engagement by 40%.  
+
+**Junior Software Engineer, oneZero Financial Systems, New York, NY, USA (2008–2013)**  
+Annual salary: $66,300  
+- Assisted in the development of a financial trading platform, contributing to a 15% increase in transaction speed.  
+- Played a key role in the successful migration of legacy systems to a modernized architecture.  
+
+**Junior Software Engineer, Groe Advisors LLC, Binghamton, NY (2004–2008)**  
+Annual salary: $58,100  
+- Contributed to the design and development of an internal tool that streamlined operations by 10%.  
+- Provided technical support and problem-solving expertise, reducing issue resolution time by 20%.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in the development and optimization of software solutions. Adept at using data-driven approaches to solve complex problems and enhance system performance.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2006  
+
+**Work History**  
+
+Data Engineer, North Point Technology, Groton, CT (2021–Present)  
+Annual salary: $116,600  
+- Developed and optimized data pipelines, improving data retrieval speed by 30%.  
+- Implemented automated data validation processes, reducing data errors by 25%.  
+
+Data Engineer, Q1 Technologies, Inc., Buffalo, NY (2020–2021)  
+Annual salary: $104,100  
+- Spearheaded the integration of new data architecture, enhancing data processing capabilities by 40%.  
+- Collaborated with cross-functional teams to deliver scalable data solutions.  
+
+Junior Software Engineer, BubbleUp LLC, Parsippany-Troy Hills, NJ (2015–2020)  
+Annual salary: $69,000  
+- Contributed to the development of a new software tool that increased user engagement by 15%.  
+- Assisted in maintaining and upgrading software applications, leading to a 20% reduction in system downtime.  
+
+Junior Software Engineer, Applied Concepts, Bedminster, NJ (2011–2015)  
+Annual salary: $68,900  
+- Streamlined code review processes, decreasing bug occurrence by 10%.  
+- Played a key role in the successful launch of two major software updates.  
+
+Junior Software Engineer, ICF, Orchard Park, NY (2006–2011)  
+Annual salary: $61,300  
+- Collaborated on the development of innovative software solutions, improving client satisfaction by 20%.  
+- Implemented new coding standards, reducing development time by 15%.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in designing and implementing innovative solutions across diverse industries. Highly organized with a strong track record of delivering complex projects on time and exceeding performance expectations in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rochester Institute of Technology, 2005
+
+**Work History**
+
+**Staff Software Engineer, Ozzies, Inc., New York, NY, USA (2017–Present)**  
+Annual salary: $166,100  
+- Led a team of engineers to develop a scalable platform that increased customer engagement by 30%.  
+- Spearheaded the migration of legacy systems to cloud-based solutions, reducing operational costs by 20%.  
+
+**Senior Software Engineer, Ardmore Home Design, Princeton, NJ, US (2015–2017)**  
+Annual salary: $119,300  
+- Optimized the home design software to improve processing speed by 40%, enhancing user experience.  
+- Collaborated with cross-functional teams to launch a new product line, contributing to a 15% increase in annual revenue.  
+
+**Senior Software Engineer, Hire And Tech, Parsippany-Troy Hills, NJ, US (2011–2014)**  
+Annual salary: $123,500  
+- Designed and implemented a new analytics tool that provided actionable insights, leading to a 25% improvement in marketing strategies.  
+- Led code review sessions, improving code quality and reducing defects by 35%.  
+
+**Software Engineer, KLJ, Buffalo, NY (2009–2011)**  
+Annual salary: $89,200  
+- Developed and maintained software applications that increased processing efficiency by 20%.  
+- Coordinated with project teams to integrate new features, resulting in enhanced client satisfaction.  
+
+**Junior Software Engineer, LevelTen Energy, Hartford, CT (2005–2009)**  
+Annual salary: $60,900  
+- Assisted in the development of energy management systems, contributing to a 15% reduction in energy consumption.  
+- Provided technical support and troubleshooting, ensuring the smooth operation of software applications.

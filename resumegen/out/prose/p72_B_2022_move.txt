@@ -1,0 +1,41 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over 18 years of experience in frontend development. Skilled in crafting efficient, user-centric solutions and enhancing digital experiences through innovative approaches.
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2004
+
+**Work History**
+
+**Staff Frontend Engineer, ServiceCore, Inc., Hackensack, NJ, US (2021–Present)**  
+Annual salary: $177,000  
+- Spearheaded the development of a new client portal, reducing customer support calls by 30%.  
+- Collaborated with cross-functional teams to integrate real-time data visualization features.
+
+**Staff Frontend Engineer, Exiger, Buffalo, NY (2018–2021)**  
+Annual salary: $172,700  
+- Led a team to redesign the company’s main application interface, improving user engagement by 45%.  
+- Developed a dynamic dashboard that enhanced reporting capabilities and improved data accessibility.
+
+**Senior Frontend Engineer, Cargill, Newark, NJ, US (2014–2018)**  
+Annual salary: $117,000  
+- Implemented responsive design techniques that increased mobile traffic by 50%.  
+- Optimized frontend performance, reducing page load times by 40%.
+
+**Frontend Engineer, NICE, Bridgewater, NJ, US (2012–2014)**  
+Annual salary: $117,600  
+- Developed a user-friendly web interface that increased user adoption by 25%.  
+- Contributed to the UI component library, improving development efficiency by 20%.
+
+**Junior Software Engineer, Digital Trust Technologies Private Limited, Hackensack, NJ, US (2007–2012)**  
+Annual salary: $79,900  
+- Assisted in the migration of legacy systems to modern platforms, enhancing system stability.  
+- Played a key role in debugging and improving existing software solutions.
+
+**Junior Software Engineer, BlueHalo, Groton, CT, US (2004–2007)**  
+Annual salary: $70,400  
+- Contributed to the development of secure communication software for defense applications.  
+- Collaborated in a team to streamline software testing processes, reducing errors by 15%.

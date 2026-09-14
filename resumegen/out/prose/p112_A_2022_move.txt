@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a solid foundation in mathematics and over two decades of professional expertise in the software industry. Proven track record in developing innovative solutions and enhancing system performance within diverse teams across the New York metro area.
+
+**Education**  
+Bachelor's Degree in Mathematics, Penn State University, 1999
+
+**Work History**  
+
+Junior Software Engineer, Affirm, New York, NY, USA (1999–2004)  
+Annual salary: $57,100  
+- Developed and maintained software applications, contributing to a 15% increase in system efficiency.  
+- Collaborated with senior engineers to design and implement new features, enhancing user experience.  
+
+Junior Software Engineer, archer, Warren, NJ, US (2004–2008)  
+Annual salary: $67,300  
+- Assisted in the development of key components for high-demand financial software, leading to a 20% improvement in processing speed.  
+- Played a critical role in a team project that resulted in a successful software launch, meeting all deadlines.  
+
+Software Engineer, RedZone Robotics, Greene, NY, USA (2008–2013)  
+Annual salary: $87,900  
+- Designed algorithms that improved robotic navigation accuracy by 30%.  
+- Led a team of engineers in the development of a pioneering software platform for robotic systems.  
+
+Senior Software Engineer, Artius Solutions, Mahwah, NJ (2013–2017)  
+Annual salary: $93,800  
+- Engineered scalable software solutions that reduced system downtime by 25%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.  
+
+Senior Software Engineer, MORI Associates, East Newark, NJ, US (2017–2021)  
+Annual salary: $101,500  
+- Spearheaded a project that optimized data processing, resulting in a 40% increase in throughput.  
+- Implemented cutting-edge technologies that reduced operational costs by $200K annually.  
+
+Senior Software Engineer, Splunk, Whippany, NJ, US (2021–Present)  
+Annual salary: $104,000  
+- Leading the development of advanced data analytics tools, enhancing client insights and decision-making capabilities.  
+- Successfully integrated new software features that improved product marketability, increasing sales by 15%.

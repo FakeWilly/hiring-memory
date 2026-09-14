@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a decade of experience in developing and maintaining robust software solutions. Adept at collaborating in team environments and leveraging technology to optimize processes and enhance user experience.
+
+**Education**  
+Bachelor's Degree in Information Systems, CUNY City College, 2012  
+
+**Work History**
+
+Infrastructure Engineer, Quadient, Inc., Syracuse, NY, US (2018–Present)  
+Annual salary: $107,800  
+- Spearheaded the overhaul of the company's cloud infrastructure, resulting in a 30% reduction in operational costs.  
+- Developed and implemented an automated monitoring system that decreased system downtime by 25%.  
+
+Junior Software Engineer, CoStar Realty Information, Inc., Greene, NY, USA (2014–2018)  
+Annual salary: $80,700  
+- Collaborated with a team to design a property management application, increasing client engagement by 15%.  
+- Enhanced the existing codebase to improve application performance, reducing the load time by 40%.  
+
+Junior Software Engineer, Wells Fargo, Jersey City, NJ, US (2012–2014)  
+Annual salary: $76,200  
+- Contributed to the development of a secure online banking module, increasing user transaction efficiency by 20%.  
+- Assisted in debugging and testing of financial software, improving stability and security features.

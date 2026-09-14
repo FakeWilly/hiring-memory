@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 13 years of experience in developing and implementing innovative software solutions. Known for a strong attention to detail and a methodical approach to problem-solving, with proven success in both team and individual settings.
+
+**Education**  
+Associate's Degree in Software Engineering, Stony Brook University, 2009
+
+**Work History**  
+
+Senior Software Engineer, Unissant, Hartford, CT, US (2019–Present)  
+Annual salary: $111,100  
+- Led the redesign of a legacy application, resulting in a 30% decrease in load time and improved user satisfaction.  
+- Mentored a team of junior developers, enhancing their coding skills and contributing to a 20% increase in team productivity.  
+
+Software Engineer, React Health Holdings, LLC, Franklin Lakes, NJ, US (2017–2019)  
+Annual salary: $112,500  
+- Developed a critical module for a healthcare application, improving data processing speed by 40%.  
+- Collaborated with cross-functional teams to integrate new features, increasing customer retention by 15%.  
+
+Junior Software Engineer, Phase Four, Hartford, CT (2012–2017)  
+Annual salary: $74,700  
+- Assisted in the development of a scalable database solution, reducing data retrieval time by 25%.  
+- Participated in code reviews and debugging processes, contributing to a reduction in software bugs by 30%.  
+
+Junior Software Engineer, Crown Equipment Corporation, Hartford, CT, US (2009–2012)  
+Annual salary: $60,700  
+- Contributed to the development of warehouse management software, which improved inventory tracking accuracy by 20%.  
+- Collaborated in a team to optimize software performance, resulting in a 15% increase in processing efficiency.

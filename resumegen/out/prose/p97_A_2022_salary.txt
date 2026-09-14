@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic software engineer with over 20 years of experience in developing innovative solutions and leading engineering teams. Adept at solving complex technical challenges with a blend of humor and creativity, bringing a passion for technology and a love for puzzles to every project.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Drexel University, 1999  
+
+**Work History**  
+
+**Staff Software Engineer, Veeva Systems, Orchard Park, NY** (2021–Present)  
+Annual salary: $178,800  
+- Spearheaded the development of a new cloud-based application that improved data processing speeds by 40%.  
+- Collaborated with cross-functional teams to implement a scalable architecture, enhancing system reliability and user experience.
+
+**Staff Software Engineer, Rebuy, Princeton, NJ, US** (2019–2021)  
+Annual salary: $159,600  
+- Led a team in designing an AI-driven recommendation engine that increased user engagement by 25%.  
+- Optimized existing codebases, reducing server costs by 15%, while maintaining high-quality performance.
+
+**Staff Software Engineer, BRIDGE, Hartford, CT** (2013–2018)  
+Annual salary: $148,200  
+- Architected a multi-layer security protocol that decreased system vulnerabilities by 30%.  
+- Mentored junior engineers, fostering a collaborative and innovative development environment.
+
+**Senior Software Engineer, HashiCorp, Bridgewater, NJ, US** (2009–2013)  
+Annual salary: $101,100  
+- Developed and implemented a new API framework that streamlined integration processes for clients.  
+- Reduced application load times by 50% through strategic refactoring and optimization techniques.
+
+**Software Engineer, Sanders Industries Holdings, Kingston, NY, US** (2003–2008)  
+Annual salary: $88,300  
+- Engineered a custom software solution that automated key business processes, enhancing operational efficiency.  
+- Collaborated with client teams to deliver tailored software solutions, resulting in a 20% increase in customer satisfaction.
+
+**Junior Software Engineer, AMMEGA, Binghamton, NY** (1999–2003)  
+Annual salary: $63,300  
+- Assisted in developing core components of a critical enterprise application, contributing to a successful project launch.  
+- Conducted rigorous testing and debugging, ensuring high-quality software delivery.

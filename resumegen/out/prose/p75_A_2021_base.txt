@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with 18+ years of experience in developing innovative solutions and improving system efficiency in dynamic environments. Highly organized with a diplomatic communication style, adept at collaboration and problem-solving across teams.
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2003
+
+**Work History**  
+
+**Senior Software Engineer, EMTAK LLC, Bridgewater, NJ, US (2019–Present)**  
+Annual salary: $193,100  
+- Spearheaded the development of a scalable cloud infrastructure, resulting in a 30% increase in system performance.  
+- Led a team of engineers in implementing new security protocols, reducing security breaches by 15%.  
+
+**Senior Software Engineer, Morris & Associates, Inc., Hackensack, NJ, US (2015–2019)**  
+Annual salary: $170,100  
+- Designed and deployed a robust API system that improved data processing speeds by 25%.  
+- Mentored junior engineers, fostering a collaborative team environment and enhancing overall productivity.  
+
+**Software Engineer, Str8grade Engineering, LLC, Orchard Park, NY, US (2012–2015)**  
+Annual salary: $124,900  
+- Developed and optimized a suite of applications, reducing bugs and improving user satisfaction by 20%.  
+- Collaborated with cross-functional teams to deliver projects ahead of schedule and under budget.  
+
+**Junior Software Engineer, Netsimco, Princeton, NJ, US (2007–2012)**  
+Annual salary: $82,500  
+- Improved system efficiency by 15% through code optimization and refactoring.  
+- Contributed to the successful launch of a key project, achieving client approval and expanding the company’s client base.  
+
+**Junior Software Engineer, Alloyed Enterprises, Jersey City, NJ, US (2003–2007)**  
+Annual salary: $70,500  
+- Assisted in the development of software solutions that increased operational efficiency by 10%.  
+- Participated in code reviews, ensuring adherence to best practices and company standards.

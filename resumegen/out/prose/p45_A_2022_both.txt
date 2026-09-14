@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a decade of experience specializing in frontend development and a track record of delivering user-focused solutions. Known for a humorous communication style and punctuality, I excel in collaborative environments to drive project success.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2012  
+
+**Work History**  
+
+**Senior Frontend Engineer, Citi, New York, NY, USA (2021–Present)**  
+Annual salary: $106,400  
+- Spearheaded the redesign of the customer-facing web portal, enhancing user experience and increasing site engagement by 25%.  
+- Implemented advanced frontend technologies, reducing page load times by 40% and improving overall performance efficiency.
+
+**Frontend Engineer, American Airlines, Buffalo, NY, US (2019–2021)**  
+Annual salary: $95,000  
+- Developed and maintained responsive web applications, contributing to a 30% increase in mobile user satisfaction ratings.  
+- Collaborated with cross-functional teams to integrate new features, reducing customer service tickets related to UI issues by 15%.
+
+**Junior Software Engineer, The State of Arizona, Buffalo, NY (2015–2019)**  
+Annual salary: $90,900  
+- Assisted in the development of government software applications, ensuring compliance with state regulations and improving accessibility.  
+- Played a key role in the migration of legacy systems to modern platforms, enhancing system reliability and maintainability.
+
+**Junior Software Engineer, Base-2 Solutions, LLC, Princeton, NJ, US (2012–2015)**  
+Annual salary: $80,800  
+- Contributed to the design and implementation of software solutions, resulting in a 20% improvement in application processing times.  
+- Engaged in code reviews and testing, elevating code quality and reducing bugs by 30%.

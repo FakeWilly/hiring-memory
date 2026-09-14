@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]
+
+**Professional Summary**  
+Experienced software engineer with over 20 years in systems engineering and development. Skilled in delivering high-quality solutions and leading complex projects in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Mathematics, Baruch College, 2001
+
+**Work Experience**
+
+**Junior Software Engineer, ASRC Federal, Buffalo, NY (2001–2003)**  
+Annual salary: $61,200  
+- Developed and debugged software applications, improving system efficiency by 15%.  
+- Collaborated with senior engineers to implement new features, reducing development time by 20%.
+
+**Systems Engineer, Prelim, New York, NY (2003–2008)**  
+Annual salary: $85,100  
+- Led a team to design and deploy distributed systems, enhancing system stability by 30%.  
+- Spearheaded automation of routine tasks, cutting operational costs by 25%.
+
+**Senior Systems Engineer, Qualtrics, Newark, NJ, US (2008–2011)**  
+Annual salary: $122,400  
+- Oversaw the integration of new technologies, boosting performance metrics by 40%.  
+- Managed cross-functional teams to deliver projects on time, achieving a 95% client satisfaction rate.
+
+**Senior Systems Engineer, Colorado Professional Resources, LLC, Franklin Lakes, NJ, US (2011–2014)**  
+Annual salary: $134,200  
+- Engineered scalable solutions that increased processing speeds by 50%.  
+- Implemented security protocols that reduced system vulnerabilities by 60%.
+
+**Senior Systems Engineer, Medtronic, Astoria, NY (2014–2017)**  
+Annual salary: $155,800  
+- Designed robust infrastructure solutions, leading to a 35% increase in system uptime.  
+- Developed innovative tools to streamline workflows, enhancing productivity by 20%.
+
+**Senior Systems Engineer, Disney Experiences, Hartford, CT (2017–2019)**  
+Annual salary: $173,100  
+- Guided the migration to cloud-based solutions, achieving a 45% reduction in data retrieval times.  
+- Led technical teams to optimize system architecture, improving user engagement by 25%.
+
+**Staff Systems Engineer, Meinberg USA, Syracuse, NY, US (2019–2021)**  
+Annual salary: $193,200  
+- Pioneered the development of synchronization solutions, enhancing accuracy by 50%.  
+- Conducted workshops that improved team technical skills, leading to a 30% increase in problem-solving efficiency.
+
+**Staff Systems Engineer, Tellus Solutions, Rochester, NY, US (2021–Present)**  
+Annual salary: $198,000  
+- Spearheaded initiatives for real-time data processing, reducing latency by 40%.  
+- Collaborated with product teams to launch new features, increasing customer retention by 20%.

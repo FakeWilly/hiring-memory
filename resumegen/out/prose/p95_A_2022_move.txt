@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in backend development, demonstrating an exceptional ability to organize and optimize system processes. Adept at employing a diplomatic communication style to effectively collaborate across teams and achieve project goals.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2004
+
+**Work History**
+
+**Senior Backend Engineer, TecNiq Inc, Bridgewater, NJ (2021–Present)**  
+Annual salary: $147,500  
+- Spearheaded the migration of legacy systems to modern cloud-based platforms, improving system reliability by 30%.  
+- Collaborated with cross-functional teams to enhance backend performance, reducing processing time by 20%.
+
+**Senior Backend Engineer, Yurts, Morris Plains, NJ (2016–2021)**  
+Annual salary: $143,900  
+- Led a team in developing a scalable microservices architecture, supporting a 50% increase in user traffic.  
+- Implemented robust API solutions that improved data handling efficiency by 25%.
+
+**Senior Backend Engineer, Outscal Technologies, Albany, NY (2014–2016)**  
+Annual salary: $143,600  
+- Designed and optimized database solutions that decreased data retrieval time by 40%.  
+- Mentored junior engineers, fostering professional growth and skill development.
+
+**Backend Engineer, Orbotech, Binghamton, NY (2009–2014)**  
+Annual salary: $102,800  
+- Developed and maintained complex backend systems, enhancing application performance by 15%.  
+- Collaborated with frontend teams to ensure seamless integration and functionality.
+
+**Junior Software Engineer, Employbridge, Astoria, NY (2004–2009)**  
+Annual salary: $71,300  
+- Assisted in the development of software features, contributing to a successful product launch.  
+- Participated in code reviews and testing, ensuring high-quality software delivery.

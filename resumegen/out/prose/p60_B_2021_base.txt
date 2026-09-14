@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with over 20 years in designing and implementing innovative software solutions. Adept at solving complex problems and enhancing system performance through a strategic and analytical approach, valued for a diplomatic communication style.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 2001  
+
+**Work History**  
+
+Junior Software Engineer, American Axle & Manufacturing, Jersey City, NJ, US (2001–2004)  
+Annual salary: $63,600  
+- Assisted in developing software solutions that improved manufacturing processes, reducing production time by 15%.  
+- Collaborated with senior engineers to enhance system reliability and performance.  
+
+Software Engineer, X Corp., Orchard Park, NY, US (2004–2009)  
+Annual salary: $90,700  
+- Led a team to redesign a legacy system, increasing efficiency by 30%.  
+- Streamlined codebase resulting in a 25% reduction in system errors.  
+
+Software Engineer, NextDecade, East Syracuse, NY (2009–2012)  
+Annual salary: $105,300  
+- Developed and implemented software tools that automated reporting processes, saving over 200 man-hours annually.  
+- Worked closely with cross-functional teams to ensure seamless integration of new software features.  
+
+Software Engineer, Qualtrics, Andes, NY, US (2012–2016)  
+Annual salary: $117,000  
+- Spearheaded a project to upgrade the company's data analytics platform, enhancing data processing speed by 40%.  
+- Introduced a new code review process that decreased bugs in production by 20%.  
+
+Software Engineer, CPS Insurance Services, White Plains, NY, US (2016–Present)  
+Annual salary: $129,800  
+- Engineered a state-of-the-art customer portal, leading to a 50% increase in user engagement.  
+- Implemented a continuous integration and deployment pipeline, reducing deployment time by 70%.

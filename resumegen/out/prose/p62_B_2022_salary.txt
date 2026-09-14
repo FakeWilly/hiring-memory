@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy Senior Infrastructure Engineer with over 20 years of experience in designing and maintaining robust infrastructure solutions. Known for punctuality and a diplomatic communication style, I excel in high-pressure environments, delivering reliable and scalable systems for large enterprises.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 1999
+
+**Work History**
+
+**Senior Infrastructure Engineer, P2S Inc., New York, NY (2021–Present)**  
+Annual salary: $173,700  
+- Spearheaded the transition to a cloud-first infrastructure, improving system scalability and reducing operational costs by 30%.  
+- Implemented a redundant data backup solution, increasing data recovery speed by 40%.
+
+**Senior Infrastructure Engineer, Progress Residential, Syracuse, NY, US (2020–2021)**  
+Annual salary: $155,100  
+- Developed an automated monitoring system, reducing downtime by 25% through proactive issue detection.  
+- Led a team to upgrade network security protocols, enhancing system protection against cyber threats.
+
+**Senior Infrastructure Engineer, Numerica Corporation, New York, NY, USA (2017–2020)**  
+Annual salary: $141,500  
+- Orchestrated the migration of legacy systems to a virtualized environment, improving efficiency by 20%.  
+- Designed a comprehensive disaster recovery plan, ensuring business continuity and data integrity.
+
+**Senior Infrastructure Engineer, Amazon Web Services, Albany, NY, US (2013–2017)**  
+Annual salary: $130,600  
+- Architected infrastructure solutions for Fortune 500 clients, resulting in a 40% increase in client satisfaction scores.  
+- Pioneered a cross-functional initiative to integrate containerization, facilitating agile deployment of applications.
+
+**Senior Infrastructure Engineer, NASDAQ, Groton, CT, US (2009–2013)**  
+Annual salary: $110,600  
+- Engineered a high-availability network architecture, reducing latency and improving transaction speeds by 15%.  
+- Enhanced system redundancy, resulting in zero data loss incidents over four years.
+
+**Senior Infrastructure Engineer, Crusoe, East Syracuse, NY (2005–2009)**  
+Annual salary: $75,900  
+- Managed a team to deploy a new server infrastructure, increasing data processing speed by 30%.  
+- Streamlined IT operations, cutting response time to critical incidents by 50%.
+
+**Infrastructure Engineer, Truist, Old Westbury, NY (2003–2005)**  
+Annual salary: $75,900  
+- Developed an innovative automation tool that reduced manual workload by 20 hours per week.  
+- Collaborated on the design and implementation of a secure network infrastructure.
+
+**Junior Software Engineer, Artius Solutions, Hackensack, NJ, US (1999–2003)**  
+Annual salary: $52,200  
+- Assisted in developing a proprietary software tool that improved project turnaround time by 40%.  
+- Participated in a cross-departmental team to enhance software testing processes.

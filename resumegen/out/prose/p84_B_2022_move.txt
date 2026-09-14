@@ -1,0 +1,53 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced and tech-savvy software engineer with over 19 years in the industry, specializing in designing and deploying scalable software systems. Known for a direct communication style and a passion for solving complex technical challenges in collaborative environments.
+
+---
+
+**Education**  
+Bachelor's Degree in Information Systems, Drexel University, 2003
+
+---
+
+**Work History**  
+
+**Staff Software Engineer, ShorePoint, White Plains, NY, US (2021–Present)**  
+Annual salary: $210,100  
+- Spearheaded the migration of legacy systems to cloud infrastructure, reducing operational costs by 30%.  
+- Developed and implemented robust security protocols, improving system resilience and uptime by 15%.
+
+**Staff Software Engineer, Coalition, Inc., Whippany, NJ, US (2020–2021)**  
+Annual salary: $205,000  
+- Led a team in the successful launch of a real-time analytics platform, increasing client satisfaction scores by 20%.  
+- Optimized codebase for a key application, resulting in a 25% reduction in response time.
+
+**Staff Software Engineer, Mayo Clinic, Hartford, CT (2016–2020)**  
+Annual salary: $175,900  
+- Collaborated on cross-functional projects to enhance patient data security, achieving compliance with HIPAA standards.  
+- Mentored junior engineers, fostering a culture of knowledge sharing and continuous improvement.
+
+**Senior Software Engineer, EvolutionIQ, East Syracuse, NY (2013–2016)**  
+Annual salary: $123,600  
+- Designed and deployed a scalable microservices architecture, improving application performance by 40%.  
+- Implemented automated testing frameworks, reducing bug-related downtime by 25%.
+
+**Senior Software Engineer, Blue Origin, LLC, Hartford, CT, US (2008–2013)**  
+Annual salary: $113,100  
+- Played a key role in developing software for space exploration missions, enhancing system reliability.  
+- Innovated data processing techniques, increasing data throughput by 50%.
+
+**Software Engineer, A3 Consulting, Melville, NY, US (2006–2008)**  
+Annual salary: $87,500  
+- Contributed to client projects involving enterprise software solutions, increasing user engagement by 30%.  
+- Assisted in the integration of new technologies, streamlining project delivery timelines by 15%.
+
+**Junior Software Engineer, Hecta Data (DBA) Vilwaa, White Plains, NY, US (2003–2006)**  
+Annual salary: $64,400  
+- Developed features for data management tools, enhancing functionality and user experience.  
+- Collaborated with senior developers to optimize database queries, improving system efficiency.  
+
+---

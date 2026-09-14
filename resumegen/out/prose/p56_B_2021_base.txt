@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with over 20 years of experience in developing innovative software solutions. Adept at direct communication and leveraging cutting-edge technology to deliver reliable and efficient software systems.
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2001  
+
+**Work History**
+
+Software Engineer, Delinea, Syracuse, NY, US (2001–2004)  
+Annual salary: $80,700  
+- Developed and maintained software solutions for security systems, resulting in a 15% increase in system efficiency.  
+- Collaborated with a team of engineers to implement new features that enhanced user experience.  
+
+Software Engineer, NICE, Morris Plains, NJ, US (2004–2006)  
+Annual salary: $93,200  
+- Engineered a real-time data processing tool that improved data analysis speed by 25%.  
+- Led a project to upgrade legacy systems, reducing operational costs by 20%.  
+
+Software Engineer, Radiance Technologies Inc., East Syracuse, NY (2006–2009)  
+Annual salary: $102,400  
+- Designed and implemented software solutions for defense applications, improving system reliability by 30%.  
+- Automated key processes, resulting in a significant reduction in manual intervention.  
+
+Senior Software Engineer, Stemuli Studios, Inc, Mahwah, NJ (2009–2013)  
+Annual salary: $127,900  
+- Spearheaded the development of a gaming platform, increasing user engagement by 40%.  
+- Introduced agile methodologies, which improved project delivery times by 15%.  
+
+Senior Software Engineer, Robinhood, New York, NY, USA (2013–2016)  
+Annual salary: $144,900  
+- Developed scalable trading algorithms that supported a 50% increase in user transactions.  
+- Implemented security features that enhanced data protection and compliance.  
+
+Senior Software Engineer, Feedonomics, Whippany, NJ, US (2016–2020)  
+Annual salary: $161,400  
+- Optimized data feed management tools, increasing efficiency by 35%.  
+- Collaborated with cross-functional teams to deliver customized e-commerce solutions.  
+
+Senior Software Engineer, Sierra Nevada Corporation, Groton, CT, US (2020–Present)  
+Annual salary: $183,000  
+- Leading the transition to cloud-based architecture, improving system scalability and flexibility.  
+- Innovating software functionalities that align with the latest aerospace technology trends.

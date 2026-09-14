@@ -1,0 +1,44 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+A dedicated and tech-savvy infrastructure engineer with over a decade of experience in developing and optimizing complex systems. Known for a humorous communication style and a passion for solving intricate puzzles, I excel in creating innovative solutions that enhance operational efficiency.
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2008
+
+**Work History**
+
+**Staff Infrastructure Engineer, Betts Precision Inc, Morris Plains, NJ, US (2021–Present)**  
+Annual salary: $237,900  
+- Spearheaded the design and implementation of a new server architecture, reducing latency by 30%.  
+- Automated deployment processes, cutting down release times by 40%.  
+
+**Staff Infrastructure Engineer, Atlassian, Hartford, CT, US (2020–2021)**  
+Annual salary: $212,400  
+- Led a team to integrate cloud-based solutions, enhancing system scalability and reliability.  
+- Developed a monitoring system that decreased downtime by 25%.  
+
+**Senior Infrastructure Engineer, Lucid Motors, Newark, NJ, US (2018–2020)**  
+Annual salary: $164,200  
+- Optimized network configurations resulting in a 20% increase in data throughput.  
+- Collaborated with cross-functional teams to streamline workflows, boosting project delivery speed.  
+
+**Senior Infrastructure Engineer, Disney Streaming Technology LLC, Bedminster, NJ, US (2014–2018)**  
+Annual salary: $148,900  
+- Implemented a complete overhaul of security protocols, fortifying system defenses.  
+- Enhanced server performance, leading to a 15% improvement in streaming quality.  
+
+**Infrastructure Engineer, reveleer, Bedminster, NJ, US (2010–2014)**  
+Annual salary: $108,200  
+- Developed and maintained infrastructure that supported a 50% growth in user base.  
+- Conducted system audits that identified and resolved critical vulnerabilities.  
+
+**Infrastructure Engineer, Scientific Games, Groton, CT, US (2008–2010)**  
+Annual salary: $101,400  
+- Managed and optimized server environments, improving overall system stability.  
+- Introduced automation scripts that reduced manual labor by 20%.  
+
+---

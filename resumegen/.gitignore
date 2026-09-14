@@ -1,0 +1,5 @@
+# per-call cache and the verbatim call log: large, and the log is shared with Rich as a file, not through git
+out/llm_cache*/
+out/prompt_log.jsonl
+# offline pipeline checks against the mock model: not results
+out/*_mock_*

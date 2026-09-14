@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a Master's Degree in Information Systems and a proven track record of optimizing platform performance in high-pressure environments. Adept at collaborating across teams to deliver robust solutions that drive business success, with a strong commitment to punctuality and open communication.
+
+**Education**  
+Master's Degree in Information Systems, Rutgers University, 2002
+
+**Work History**  
+
+**Senior Platform Engineer, Northwestern Mutual, Parsippany-Troy Hills, NJ, US (2016–Present)**  
+Annual salary: $194,200
+- Led the design and implementation of a scalable platform architecture, improving system efficiency by 35%.
+- Collaborated with cross-functional teams to reduce platform downtime by 40%, resulting in enhanced client satisfaction.
+
+**Senior Platform Engineer, ShorePoint, Princeton, NJ (2012–2016)**  
+Annual salary: $164,900
+- Spearheaded the migration to a new cloud-based infrastructure, resulting in a 25% reduction in operational costs.
+- Developed automated monitoring tools that improved system reliability and reduced response time by 20%.
+
+**Senior Platform Engineer, Slesha, Jersey City, NJ, US (2010–2012)**  
+Annual salary: $149,300
+- Implemented a robust security framework that reduced vulnerabilities by 50%.
+- Optimized database performance, resulting in a 30% increase in data retrieval speed.
+
+**Senior Platform Engineer, U.S. Bank, Melville, NY, US (2007–2010)**  
+Annual salary: $132,200
+- Enhanced platform performance through the integration of cutting-edge technologies, boosting user engagement by 40%.
+- Led a team of engineers to develop a new platform feature that increased user retention by 15%.
+
+**Platform Engineer, Avail, White Plains, NY, US (2005–2007)**  
+Annual salary: $110,100
+- Developed and implemented custom software solutions that improved operational efficiency by 20%.
+- Collaborated with senior engineers to transition legacy systems to a modern platform, minimizing disruption.
+
+**Platform Engineer, Peak Technology Solutions, Inc, Lakewood, NJ (2002–2005)**  
+Annual salary: $97,400
+- Contributed to the development of a high-performance computing platform, enhancing processing speed by 25%.
+- Assisted in the successful rollout of a new system upgrade, meeting all project deadlines.

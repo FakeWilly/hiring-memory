@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned software engineer with two decades of experience in backend development, known for delivering robust solutions and maintaining highly efficient systems. Adept at navigating complex projects and leading engineering teams, with a knack for infusing humor into collaborative efforts and consistently meeting deadlines.
+
+**Education**  
+Master's Degree in Statistics, Drexel University, 2002  
+
+**Work History**  
+
+**Staff Backend Engineer**, Meritage Homes, Newark, NJ, US (2021–Present)  
+Annual salary: $218,000  
+- Spearheaded the development of a scalable backend architecture, improving data processing speeds by 30%.  
+- Implemented a comprehensive API suite, facilitating seamless integration with third-party applications.  
+
+**Staff Backend Engineer**, Clients First Business Solutions, East Syracuse, NY (2017–2021)  
+Annual salary: $212,700  
+- Led a team of engineers in optimizing legacy systems, resulting in a 25% reduction in server downtime.  
+- Developed automated testing protocols that decreased bug reports by 40%.  
+
+**Senior Backend Engineer**, Delinea, Troy, NY, US (2012–2017)  
+Annual salary: $141,000  
+- Designed and deployed microservices architecture, enhancing system adaptability and scalability.  
+- Collaborated with cross-functional teams to reduce project delivery times by 15%.  
+
+**Senior Backend Engineer**, CBRE, New York, NY (2009–2012)  
+Annual salary: $128,600  
+- Engineered a database migration strategy that improved data retrieval efficiency by 20%.  
+- Mentored junior engineers, fostering a culture of continuous improvement and knowledge sharing.  
+
+**Backend Engineer**, 2H Talent LLC, White Plains, NY, US (2004–2009)  
+Annual salary: $106,400  
+- Developed critical backend modules that increased transaction processing capacity by 40%.  
+- Contributed to the successful launch of multiple client-facing applications.  
+
+**Backend Engineer**, Edward Jones, Hackensack, NJ, US (2002–2004)  
+Annual salary: $98,500  
+- Participated in the development of a secure client data management system, enhancing data privacy controls.  
+- Assisted in reducing system latency by 15% through targeted performance enhancements.

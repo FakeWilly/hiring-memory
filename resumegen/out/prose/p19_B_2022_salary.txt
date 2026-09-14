@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced and tech-savvy software engineer with over two decades in backend development, specializing in building robust and scalable systems. Known for punctuality and a humorous communication style, seeking to leverage deep technical expertise in the New York metro area.
+
+**Education**  
+Master's Degree in Statistics, Drexel University, 2002
+
+**Work History**
+
+**Backend Engineer**, Edward Jones, Hackensack, NJ, US (2002–2004)  
+Annual salary: $98,500  
+- Developed and maintained backend solutions leading to a 15% increase in processing efficiency.  
+- Collaborated with a multidisciplinary team to architect a new database system, enhancing data retrieval speed by 30%.
+
+**Backend Engineer**, 2H Talent LLC, White Plains, NY, US (2004–2009)  
+Annual salary: $106,400  
+- Successfully implemented a load balancing solution reducing server downtime by 40%.  
+- Spearheaded a migration project that streamlined client data integration processes.
+
+**Senior Backend Engineer**, CBRE, New York, NY (2009–2012)  
+Annual salary: $128,600  
+- Led a team of engineers in designing a proprietary backend system, improving system reliability by 25%.  
+- Introduced a coding standard procedure that decreased code review time by 20%.
+
+**Senior Backend Engineer**, Delinea, Troy, NY, US (2012–2017)  
+Annual salary: $141,000  
+- Pioneered an API development initiative that increased client application compatibility by 35%.  
+- Mentored junior engineers, leading to a 50% reduction in project onboarding time.
+
+**Staff Backend Engineer**, Clients First Business Solutions, East Syracuse, NY (2017–2021)  
+Annual salary: $212,700  
+- Architected a multi-threaded application platform, enhancing data processing speeds by 60%.  
+- Drove system architecture improvements that supported a 400% user growth over three years.
+
+**Staff Backend Engineer**, Meritage Homes, Newark, NJ, US (2021–Present)  
+Annual salary: $238,200  
+- Implemented advanced security protocols, reducing data breach incidents by 80%.  
+- Led the transition to a cloud-based infrastructure, achieving a 50% cost reduction in server maintenance.

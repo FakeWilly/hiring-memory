@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Tech-savvy software engineer with over 17 years of experience in data engineering across diverse industries. Adept at designing and implementing robust data solutions, with a strong ability to collaborate and communicate effectively in team environments.
+
+**EDUCATION**  
+Bachelor's Degree in Computer Science, Baruch College, 2005
+
+**WORK HISTORY**
+
+**Staff Data Engineer**, Digital Trust Technologies Private Limited, Mount Laurel, NJ, US (2021–Present)  
+Annual salary: $196,600  
+- Spearheaded the development of a scalable data pipeline, reducing data processing time by 30%.  
+- Collaborated with cross-functional teams to integrate advanced analytics tools, enhancing data-driven decision-making.  
+
+**Senior Data Engineer**, City of Wildwood, Old Westbury, NY (2020–2021)  
+Annual salary: $175,500  
+- Led a team in optimizing data storage solutions, cutting costs by 20%.  
+- Implemented a real-time data monitoring system, improving data accuracy and accessibility.  
+
+**Senior Data Engineer**, Coterra Energy, Lakewood, NJ (2016–2020)  
+Annual salary: $146,800  
+- Designed and deployed a high-performance data warehousing solution, increasing reporting efficiency by 40%.  
+- Enhanced data security protocols, mitigating potential breaches and ensuring compliance.  
+
+**Senior Data Engineer**, The Travelers Companies, Inc., Old Westbury, NY (2012–2016)  
+Annual salary: $103,300  
+- Developed innovative ETL processes, resulting in a 50% reduction in data processing errors.  
+- Streamlined data management practices, leading to a 25% increase in team productivity.  
+
+**Data Engineer**, BRIDGE, Iselin, NJ, US (2010–2012)  
+Annual salary: $106,200  
+- Successfully migrated legacy data systems to modern platforms, improving accessibility and performance.  
+- Automated routine data processing tasks, reducing manual workload by 40%.  
+
+**Junior Software Engineer**, Quantum Systems Inc, Jersey City, NJ (2005–2010)  
+Annual salary: $69,500  
+- Contributed to the development of client-server applications, enhancing user experience and functionality.  
+- Assisted in the integration of new software features, improving system efficiency by 20%.

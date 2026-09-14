@@ -1,0 +1,39 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with a strong background in backend development and a proven track record of delivering high-quality solutions. Known for punctuality and a tech-savvy approach, I excel in creating efficient and scalable systems, leveraging my expertise in various programming languages and frameworks.
+
+**Education**  
+Master's Degree in Electrical Engineering, Northeastern University, 2008
+
+**Work History**
+
+**Senior Backend Engineer, General Dynamics Corporation, Warren, NJ, US (2021–Present)**  
+Annual salary: $122,100  
+- Implemented microservices architecture, reducing system downtime by 30%.  
+- Led a team of engineers in developing a secure data storage solution, enhancing data protection compliance.
+
+**Senior Backend Engineer, Grainger, East Newark, NJ, US (2019–2021)**  
+Annual salary: $119,100  
+- Designed and optimized RESTful APIs, improving response times by 25%.  
+- Collaborated with cross-functional teams to integrate new payment systems, increasing transaction efficiency.
+
+**Senior Backend Engineer, Boats Group, Mount Laurel, NJ, US (2015–2019)**  
+Annual salary: $110,000  
+- Spearheaded the migration to a cloud-based infrastructure, reducing operational costs by 20%.  
+- Developed a real-time analytics dashboard, providing key insights for business strategy.
+
+**Backend Engineer, DLL Group, Andes, NY, US (2012–2014)**  
+Annual salary: $110,500  
+- Enhanced database performance through indexing and query optimization, reducing query time by 40%.  
+- Automated deployment processes, improving release cycle efficiency.
+
+**Backend Engineer, Seven Hills Group Technologies Inc, Hartford, CT (2008–2012)**  
+Annual salary: $95,000  
+- Contributed to the development of a scalable email processing system, handling millions of transactions daily.  
+- Improved system reliability by implementing robust error-handling mechanisms.  
+
+---

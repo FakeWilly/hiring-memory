@@ -1,0 +1,39 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with over a decade of expertise in backend development, specializing in scalable architectures and performance optimization. Known for strong communication skills and collaborative work style, I bring a tech-savvy approach to solving complex problems and a passion for innovative solutions.
+
+**Education**  
+Master's Degree in Computer Science, Northeastern University, 2008
+
+**Work History**
+
+**Senior Backend Engineer, Concepts Beyond, New York, NY (2021–Present)**  
+Annual salary: $192,300  
+- Spearheaded the migration of legacy systems to a microservices-based architecture, reducing system downtime by 30%.  
+- Developed and implemented a new API strategy, improving integration efficiency with third-party platforms by 25%.
+
+**Senior Backend Engineer, Hilton, Newark, NJ (2020–2021)**  
+Annual salary: $171,700  
+- Led a team in optimizing backend processes, resulting in a 20% increase in transaction processing speed.  
+- Collaborated with cross-functional teams to deploy a customer-facing web service that enhanced user engagement by 15%.
+
+**Senior Backend Engineer, U.S. Bank National Association, New York, NY (2017–2020)**  
+Annual salary: $159,000  
+- Designed and rolled out a scalable backend infrastructure supporting a significant increase in user load.  
+- Streamlined database queries, which improved data retrieval times by 40%.
+
+**Backend Engineer, Absolute Business Solutions Corp., Orchard Park, NY (2013–2017)**  
+Annual salary: $115,600  
+- Implemented backend solutions for complex business requirements, enhancing system reliability.  
+- Automated routine data processing tasks, reducing manual effort by 50%.
+
+**Backend Engineer, CDK, White Plains, NY (2008–2013)**  
+Annual salary: $94,800  
+- Contributed to the development of a robust backend system that supported a new product line launch.  
+- Optimized existing codebases, resulting in a 15% improvement in system performance.  
+
+**Hobbies**  
+Gaming, Hiking

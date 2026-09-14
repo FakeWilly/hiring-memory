@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented Software Engineer with nearly two decades of experience in software development and systems engineering. Adept at solving complex problems and implementing innovative solutions, with a passion for technology and a knack for direct communication.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**  
+
+**Senior Systems Engineer**, Palo Alto Networks, Astoria, NY (2021–Present)  
+Annual salary: $113,500  
+- Spearheaded the development of a new security software feature that improved system reliability by 20%.  
+- Collaborated with cross-functional teams to optimize system performance, leading to a significant reduction in response time.
+
+**Systems Engineer**, LRP Media Group, East Syracuse, NY (2019–2021)  
+Annual salary: $101,300  
+- Developed and implemented a scalable system architecture that enhanced data processing capabilities by 35%.  
+- Led a team in migrating legacy systems to a cloud-based platform, increasing efficiency and reducing costs.
+
+**Systems Engineer**, BNY, New York, NY (2016–2019)  
+Annual salary: $77,400  
+- Engineered automated solutions that decreased manual processing time by 40%.  
+- Designed and executed a disaster recovery plan, ensuring zero data loss during critical system failures.
+
+**Junior Software Engineer**, Allied Solutions, East Newark, NJ, US (2010–2015)  
+Annual salary: $68,700  
+- Contributed to the development of an award-winning application, increasing user engagement by 25%.  
+- Implemented a new debugging process that reduced software bugs by 30%.
+
+**Junior Software Engineer**, Teradyne, Binghamton, NY (2007–2010)  
+Annual salary: $61,800  
+- Assisted in the integration of new software tools, boosting team productivity by 15%.  
+- Conducted comprehensive code reviews, ensuring high-quality software delivery.
+
+**Junior Software Engineer**, Belt Power LLC, Syracuse, NY, US (2003–2007)  
+Annual salary: $55,000  
+- Played a key role in upgrading outdated systems, enhancing operational efficiency.  
+- Developed custom scripts to automate routine tasks, saving the team several hours weekly.

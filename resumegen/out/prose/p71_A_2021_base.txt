@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 19 years of experience in platform engineering and a strong track record of delivering robust and scalable software solutions. Known for a diplomatic communication style and the ability to efficiently collaborate within cross-functional teams to drive project success.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2002  
+
+**Work History**
+
+Platform Engineer, The RealReal, Whippany, NJ, US (2002–2005)  
+Annual salary: $98,000  
+- Developed and maintained key backend components, improving system reliability by 20%.  
+- Collaborated with cross-functional teams to design and implement scalable architecture solutions.
+
+Platform Engineer, Grammarly, East Newark, NJ, US (2005–2007)  
+Annual salary: $110,600  
+- Spearheaded a project that enhanced data processing speed by 30%.  
+- Implemented new coding standards that reduced bug occurrence by 25%.
+
+Senior Platform Engineer, SMX, Greene, NY, USA (2007–2010)  
+Annual salary: $131,800  
+- Led a team of engineers in developing a new platform feature that increased user engagement by 40%.  
+- Streamlined deployment processes, reducing downtime by 50%.
+
+Senior Platform Engineer, Midnight Oil Marketing, Syracuse, NY, US (2010–2012)  
+Annual salary: $148,500  
+- Architected and implemented a fault-tolerant system that improved uptime to 99.9%.  
+- Optimized system performance, leading to a 15% reduction in operational costs.
+
+Senior Platform Engineer, ANS Services LLC, Jersey City, NJ, US (2012–2016)  
+Annual salary: $162,100  
+- Directed the integration of new technologies that boosted processing capabilities by 35%.  
+- Mentored junior engineers, fostering a culture of continuous improvement and innovation.
+
+Senior Platform Engineer, OptimHire, Andes, NY, US (2016–Present)  
+Annual salary: $186,500  
+- Implemented a microservices architecture that enhanced system flexibility and scalability.  
+- Collaborated with product teams to deliver new features, resulting in a 25% increase in customer satisfaction.

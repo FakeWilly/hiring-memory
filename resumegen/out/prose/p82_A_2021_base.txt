@@ -1,0 +1,34 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced and tech-savvy Frontend Engineer with over 14 years of expertise in developing and optimizing user interfaces for top-tier companies. Known for a collaborative and social approach to problem-solving, with a strong background in delivering efficient and innovative solutions to enhance user experience.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2007
+
+**Work History**
+
+**Senior Frontend Engineer, CoStar Group, East Syracuse, NY (2018–Present)**  
+Annual salary: $155,400  
+- Spearheaded the redesign of the company's flagship product, resulting in a 25% increase in user engagement.  
+- Implemented advanced optimization techniques, reducing page load times by 30%.  
+- Led a team of four engineers to develop a new internal tool, enhancing cross-departmental collaboration.
+
+**Frontend Engineer, Gurobi Optimization, New York, NY (2015–2018)**  
+Annual salary: $129,300  
+- Developed a custom analytics dashboard, improving data accessibility and visualization for non-technical users.  
+- Streamlined the UI of core applications, boosting client satisfaction scores by 15%.  
+- Collaborated with backend teams to integrate new API features, enhancing overall product functionality.
+
+**Frontend Engineer, Schneider Electric, Binghamton, NY (2011–2015)**  
+Annual salary: $113,400  
+- Engineered a responsive design framework that improved application performance across multiple devices.  
+- Played a key role in transitioning legacy systems to modern web technologies, increasing system efficiency by 20%.  
+- Assisted in mentoring new team members, fostering a culture of knowledge sharing and continuous learning.
+
+**Frontend Engineer, Amentum, Hartford, CT (2007–2011)**  
+Annual salary: $106,600  
+- Developed user-friendly interfaces for multiple client projects, meeting tight deadlines and budgets.  
+- Participated in code review sessions, enhancing overall code quality and team collaboration.  
+- Contributed to the design and implementation of a company-wide style guide, ensuring brand consistency.

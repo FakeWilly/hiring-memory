@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and punctual software engineer with nearly two decades of experience specializing in frontend development within the New York metro area. Adept at delivering high-quality user interfaces and collaborating across teams to drive product success.
+
+**Work Experience**
+
+**Staff Frontend Engineer**, Peraton, Morris Plains, NJ (2021–Present)  
+Annual salary: $155,900  
+- Spearheaded the development of a responsive web application, improving user engagement by 30%.  
+- Collaborated with cross-functional teams to streamline the software deployment process, reducing release cycles by 20%.  
+
+**Senior Frontend Engineer**, Genentech, Inc., Parsippany-Troy Hills, NJ (2017–2021)  
+Annual salary: $152,100  
+- Led the redesign of the company’s customer portal, enhancing user satisfaction scores by 25%.  
+- Mentored junior engineers, fostering a culture of continuous learning and professional growth.  
+
+**Senior Frontend Engineer**, MORI Associates, Mount Laurel, NJ (2015–2017)  
+Annual salary: $135,900  
+- Optimized website performance, reducing load times by 40% through code refactoring and efficient asset management.  
+- Implemented a new testing framework, increasing code coverage by 15%.  
+
+**Frontend Engineer**, Azure Summit Technology, Rochester, NY (2010–2015)  
+Annual salary: $114,100  
+- Developed interactive dashboards for data visualization, improving data accessibility for non-technical stakeholders.  
+- Collaborated with UX designers to enhance the user experience, resulting in a 20% increase in user retention.  
+
+**Frontend Engineer**, Thermo King Chesapeake, Warren, NJ (2006–2010)  
+Annual salary: $100,200  
+- Implemented new frontend features for legacy systems, extending product lifecycle by 3 years.  
+- Worked on cross-browser compatibility, ensuring consistent functionality across all major platforms.  
+
+**Frontend Engineer**, Edward Jones, Morris Plains, NJ (2003–2006)  
+Annual salary: $90,400  
+- Contributed to the development of a client-facing financial advisory platform, supporting a 10% increase in user adoption.  
+- Assisted in implementing security protocols to safeguard client data integrity.  
+
+**Education**  
+Master's Degree in Statistics, Penn State University, 2003

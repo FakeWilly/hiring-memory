@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with nearly two decades in diverse tech environments, specializing in scalable software solutions. Known for a social, humorous approach that fosters collaboration and creative problem-solving.  
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2003  
+
+**Work History**  
+
+**Staff Software Engineer, AltaML, Bridgewater, NJ (2021–Present)**  
+Annual salary: $245,500  
+- Spearheaded the development of an AI-driven analytics platform that increased client engagement by 25%.  
+- Collaborated with cross-functional teams to optimize machine learning models, reducing processing time by 40%.  
+
+**Staff Software Engineer, Minutes To Seconds, Melville, NY (2020–2021)**  
+Annual salary: $219,200  
+- Led a team in redesigning the flagship app, resulting in a 30% increase in user retention.  
+- Streamlined the deployment pipeline, achieving a 50% reduction in release cycle time.  
+
+**Staff Software Engineer, Realtor.com, Jersey City, NJ (2018–2020)**  
+Annual salary: $203,100  
+- Developed and implemented a new search algorithm, boosting search result accuracy by 35%.  
+- Mentored junior engineers, enhancing team productivity and technical skills.  
+
+**Senior Software Engineer, Mixpanel, Jersey City, NJ (2016–2018)**  
+Annual salary: $163,500  
+- Designed and launched a data visualization dashboard, improving user insights and data transparency.  
+- Reduced system latency by 20% through optimized code refactoring.  
+
+**Senior Software Engineer, Lowe's Home Improvement, Groton, CT (2011–2016)**  
+Annual salary: $125,400  
+- Implemented a new inventory management system that improved order accuracy by 45%.  
+- Enhanced e-commerce platform, increasing online sales by 15%.  
+
+**Senior Software Engineer, Hadrian, Mount Laurel, NJ (2009–2011)**  
+Annual salary: $132,500  
+- Developed software solutions for automated data analysis, reducing manual processing time by 60%.  
+- Collaborated on cross-departmental projects, improving system integration and efficiency.  
+
+**Software Engineer, B Garage, Buffalo, NY (2006–2009)**  
+Annual salary: $104,900  
+- Built a customer feedback tool that increased service satisfaction scores by 20%.  
+- Optimized backend processing, enhancing system performance and reliability.  
+
+**Software Engineer, Bausch Health, Rochester, NY (2003–2006)**  
+Annual salary: $95,100  
+- Contributed to the development of a patient management system, improving hospital operational efficiency.  
+- Successfully migrated legacy systems to a modern platform, reducing maintenance costs by 15%.

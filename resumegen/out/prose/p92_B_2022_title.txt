@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing and optimizing innovative solutions across various industries. Adept at leading projects and collaborating with cross-functional teams to deliver high-quality software products.
+
+**Education**  
+Master's Degree in Electrical Engineering, Penn State University, 2009  
+
+**Work History**
+
+Staff Software Engineer, Gateway Sourcing, LLC, New York, NY, USA (2021–Present)  
+Annual salary: $143,900  
+- Lead the development of a high-traffic web application, improving performance by 30% and reducing server costs by 15%.  
+- Spearheaded the integration of new software tools, increasing team productivity by 20%.  
+
+Senior Software Engineer, 2H Talent LLC, Franklin Lakes, NJ, US (2018–2021)  
+Annual salary: $140,400  
+- Directed a team of engineers to successfully launch a new product feature, resulting in a 25% increase in customer engagement.  
+- Enhanced system scalability, enabling the platform to handle 50% more concurrent users.  
+
+Senior Software Engineer, Knowledge Management, Inc., Mount Laurel, NJ, US (2016–2018)  
+Annual salary: $100,700  
+- Implemented a microservices architecture, reducing system downtime by 40% and facilitating easier updates.  
+- Collaborated on a cross-functional team to optimize database queries, decreasing load times by 60%.  
+
+Software Engineer, ThinkGeo LLC, Binghamton, NY (2011–2016)  
+Annual salary: $98,100  
+- Developed and maintained a suite of mapping applications used by over 100,000 users worldwide.  
+- Improved application load times by 25% through code optimization and refactoring.  
+
+Software Engineer, WEX Inc., Rochester, NY, US (2009–2011)  
+Annual salary: $91,400  
+- Contributed to the development of a secure payment processing system, increasing transaction speed by 15%.  
+- Assisted in creating automated testing frameworks, reducing bug presence in production by 30%.

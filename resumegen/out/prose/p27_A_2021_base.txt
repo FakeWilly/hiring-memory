@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Highly skilled Senior Software Engineer with over a decade of experience in software development and a proven track record of delivering innovative solutions. Known for a humorous communication style, punctuality, and a deep passion for technology, I excel in fast-paced environments while maintaining a focus on quality and efficiency.
+
+**Work Experience**
+
+Senior Software Engineer, Perr&Knight, Hartford, CT, US (2020–Present)  
+Annual salary: $148,300  
+- Led a team of developers in designing and implementing a customer-facing web application, resulting in a 30% increase in user engagement.  
+- Streamlined codebase by introducing automated testing procedures, reducing bug-related downtime by 25%.
+
+Senior Software Engineer, Zayo Group, Rochester, NY, USA (2016–2020)  
+Annual salary: $101,400  
+- Spearheaded the migration of legacy systems to modern frameworks, improving system performance by 40%.  
+- Mentored junior developers, fostering a culture of continuous learning and development.
+
+Software Engineer, AXIANS, Mount Laurel, NJ, US (2014–2016)  
+Annual salary: $100,400  
+- Developed robust APIs for integration with third-party services, enhancing product functionality.  
+- Played a key role in a major project that optimized server response times by 50%.
+
+Junior Software Engineer, Acuity Brands, Newark, NJ, US (2009–2014)  
+Annual salary: $65,800  
+- Collaborated with cross-functional teams to deliver software solutions on time and within budget.  
+- Contributed to the development of a key application feature that increased client retention by 20%.
+
+**Education**  
+Associate's Degree in Software Engineering, Penn State University, 2009

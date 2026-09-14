@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Dedicated and tech-savvy software engineer with over a decade of experience in developing robust software solutions. Known for a humorous communication style and a passion for tackling complex problems with innovative solutions.
+
+Education  
+Bachelor's Degree in Electrical Engineering, Penn State University, 2010
+
+Work History  
+
+Junior Software Engineer, Plexe LLC, Mount Laurel, NJ (2010–2015)  
+Annual salary: $71,700  
+- Developed and maintained critical software components, contributing to a 30% increase in team efficiency.  
+- Collaborated with cross-functional teams to deliver projects on time, enhancing customer satisfaction by 15%.
+
+Junior Software Engineer, UiPath, Whippany, NJ (2015–2018)  
+Annual salary: $83,000  
+- Played a key role in automating processes that reduced operating costs by 20%.  
+- Implemented innovative solutions that improved software performance by 25%, receiving recognition from senior management.
+
+Junior Software Engineer, Grey Matters Defense Solutions, Whippany, NJ (2018–Present)  
+Annual salary: $86,500  
+- Spearheaded a project that optimized data processing speeds by 40%, significantly boosting system efficiency.  
+- Engaged in the development of defense solutions, resulting in improved reliability and security of software products.

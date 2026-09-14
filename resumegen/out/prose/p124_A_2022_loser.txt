@@ -1,0 +1,28 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over a decade of experience in platform engineering. Known for excellent communication skills and a strong ability to collaborate within teams to deliver innovative solutions.
+
+**Work Experience**
+
+Platform Engineer, Jacksonville Sheriff's Office, Mount Laurel, NJ, US (2018–Present)  
+Annual salary: $121,400  
+- Spearheaded the development and deployment of a secure communication platform, enhancing system reliability by 30%.  
+- Led a team of 5 engineers in optimizing backend processes, reducing server response times by 20%.
+
+Platform Engineer, Eccalon, Lakewood, NJ (2013–2018)  
+Annual salary: $103,900  
+- Developed and maintained scalable software solutions supporting over 100,000 active users.  
+- Implemented a new data processing algorithm that improved data retrieval speed by 50%.
+
+Platform Engineer, Optum, Parsippany-Troy Hills, NJ, US (2009–2013)  
+Annual salary: $101,000  
+- Collaborated on the creation of a cloud-based platform that increased operational efficiency by 25%.  
+- Enhanced data security protocols, leading to a 40% reduction in data breaches.
+
+**Education**  
+Master's Degree in Information Systems, Drexel University, 2009

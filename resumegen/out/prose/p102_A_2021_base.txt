@@ -1,0 +1,33 @@
+[NAME]  
+[EMAIL]
+
+---
+
+**Professional Summary**  
+Dynamic and punctual software engineer with over nine years of experience in developing and optimizing software systems. Tech-savvy with a knack for problem-solving, I bring a humorous and innovative approach to complex technical challenges.
+
+---
+
+**Education**  
+Bachelor's Degree in Software Engineering, CUNY City College, 2012
+
+---
+
+**Work History**
+
+**Senior Systems Engineer**, AMMEGA, Morris Plains, NJ (2019–Present)  
+Annual salary: $161,400  
+- Spearheaded a cross-functional team to improve system efficiency, reducing processing time by 30%.  
+- Enhanced system security protocols, resulting in a 40% decrease in security incidents.  
+
+**Systems Engineer**, Shipt, Inc., Groton, CT (2016–2019)  
+Annual salary: $113,800  
+- Developed and implemented a real-time tracking system, improving delivery accuracy by 25%.  
+- Led the integration of new software tools, increasing operational productivity by 20%.  
+
+**Junior Software Engineer**, Costco Wholesale, Rochester, NY (2012–2016)  
+Annual salary: $79,900  
+- Collaborated on the development of a new inventory management system that improved stock accuracy by 15%.  
+- Assisted in the migration to cloud-based solutions, enhancing system reliability and scalability.  
+
+---

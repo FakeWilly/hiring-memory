@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+With over 15 years of experience in software engineering, I have a proven track record of developing innovative solutions and driving project success across various industries. My ability to collaborate effectively with teams and stakeholders, combined with my strong technical expertise, empowers me to deliver robust and scalable software applications.
+
+**Education**  
+Master's Degree in Electrical Engineering, Rutgers University, 2007  
+
+**Work History**  
+
+**Staff Software Engineer**, GrowthWise Search Partners, New York, NY, US (2021–Present)  
+Annual salary: $147,100  
+- Spearheaded a cross-functional team in developing a high-traffic web application, improving user engagement by 30%.  
+- Implemented a CI/CD pipeline, reducing deployment time by 40% and increasing the frequency of releases.
+
+**Senior Software Engineer**, Accenture, Hartford, CT (2019–2021)  
+Annual salary: $143,500  
+- Led the development of a key client project, resulting in a 25% increase in system efficiency.  
+- Mentored junior engineers, fostering a collaborative work environment and enhancing team productivity by 20%.
+
+**Software Engineer**, UL Solutions, Newark, NJ, US (2014–2019)  
+Annual salary: $103,800  
+- Developed a scalable microservices architecture, reducing system downtime by 15%.  
+- Collaborated with product teams to design features that enhanced user satisfaction scores by 10%.
+
+**Software Engineer**, TecNiq Inc, Groton, CT, US (2009–2014)  
+Annual salary: $89,900  
+- Engineered a data processing tool that improved processing speed by 40%, significantly enhancing operational efficiency.  
+- Played a key role in the successful migration of legacy systems to a modern platform.
+
+**Software Engineer**, SDI Innovations, Warren, NJ, US (2007–2009)  
+Annual salary: $81,600  
+- Contributed to the development of a core product feature that increased revenue by 15%.  
+- Collaborated with QA teams to streamline the testing process, reducing bug discovery time by 25%.

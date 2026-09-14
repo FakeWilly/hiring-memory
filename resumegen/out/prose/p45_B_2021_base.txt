@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with a strong foundation in mathematics and a keen eye for crafting efficient and scalable code. With nearly a decade of experience in software development, I excel in creating intuitive user interfaces and enhancing system functionality.
+
+**Education**  
+Bachelor's Degree in Mathematics, University of Connecticut, 2012
+
+**Work Experience**
+
+Frontend Engineer, Caleres Inc., Andes, NY, US (2019–Present)  
+Annual salary: $95,500  
+- Developed and maintained responsive web applications, improving user engagement by 25%.  
+- Collaborated with cross-functional teams to integrate new features, reducing load times by 40%.  
+
+Junior Software Engineer, Impyrian, Greene, NY, USA (2015–2019)  
+Annual salary: $90,700  
+- Implemented new software solutions that increased data processing efficiency by 30%.  
+- Assisted in the migration of legacy systems to modern platforms, enhancing system reliability.  
+
+Junior Software Engineer, Geotek, Mount Laurel, NJ, US (2012–2015)  
+Annual salary: $80,200  
+- Contributed to the development of core modules for enterprise software applications.  
+- Participated in code reviews, ensuring adherence to best practices and improving code quality.

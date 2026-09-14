@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing robust systems and applications. Adept at collaborating with multidisciplinary teams to innovate and implement effective solutions, while maintaining a diplomatic approach in communication.
+
+**Education**  
+Bachelor's Degree in Mathematics, CUNY City College, 2010  
+
+**Work History**  
+
+**Systems Engineer, ARKA Group, L.P., Mount Laurel, NJ, US (2018–Present)**  
+Annual salary: $122,600  
+- Spearheaded the design and implementation of a scalable infrastructure that improved system performance by 30%.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing operational efficiency and reducing downtime by 20%.  
+
+**Junior Software Engineer, Quicken Inc., Astoria, NY (2015–2018)**  
+Annual salary: $86,000  
+- Developed and maintained software features that increased user engagement by 15%.  
+- Assisted in revamping the existing codebase, reducing technical debt and improving application stability.  
+
+**Junior Software Engineer, Lynker Corporation, Troy, NY, US (2013–2015)**  
+Annual salary: $80,400  
+- Contributed to the development of a key software tool that improved data analysis capabilities for the client.  
+- Participated in code reviews and pair programming sessions to enhance code quality and team collaboration.  
+
+**Junior Software Engineer, Oceanit Laboratories, Inc., Warren, NJ, US (2010–2013)**  
+Annual salary: $73,700  
+- Collaborated on a project that automated data processing, reducing manual effort by 40%.  
+- Implemented software solutions that streamlined workflow processes, leading to a 25% increase in productivity.

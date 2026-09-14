@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in data engineering and software development. Known for exceptional organizational skills and a humorous communication style, I thrive in dynamic environments where I can leverage my expertise to drive data solutions and improve operational efficiencies.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2005
+
+**Work History**
+
+**Senior Data Engineer, Schneider Electric, Groton, CT, US (2021–Present)**  
+Annual salary: $142,800  
+- Spearheaded the integration of advanced analytics tools, resulting in a 20% increase in predictive accuracy for energy consumption models.  
+- Led a team of five engineers to design a robust data pipeline, reducing processing time by 30%.  
+
+**Senior Data Engineer, Omitron, Inc., Syracuse, NY, US (2019–2021)**  
+Annual salary: $139,300  
+- Developed a scalable data architecture that supported a 50% increase in data volume without performance degradation.  
+- Collaborated with cross-functional teams to implement machine learning models, enhancing decision-making processes by 15%.  
+
+**Data Engineer, Diversified Services Network, Princeton, NJ (2017–2019)**  
+Annual salary: $107,200  
+- Automated reporting processes, saving 10 hours weekly and boosting the decision-making process for the management team.  
+- Enhanced ETL processes, resulting in a 25% improvement in data accuracy and accessibility.  
+
+**Data Engineer, DPA Consultant, Orchard Park, NY, US (2013–2017)**  
+Annual salary: $97,000  
+- Implemented data validation protocols that decreased errors by 40%, improving data reliability.  
+- Optimized database performance, leading to a 35% reduction in query response times.  
+
+**Data Engineer, Dr. Bronner's, Hartford, CT (2010–2013)**  
+Annual salary: $94,000  
+- Designed and maintained data models that supported business intelligence activities, improving reporting capabilities by 20%.  
+- Streamlined data integration processes, reducing manual data handling by 50%.  
+
+**Data Engineer, RLI, Troy, NY, US (2007–2010)**  
+Annual salary: $85,500  
+- Built and maintained data warehouses, ensuring high availability and consistent data quality across departments.  
+- Collaborated with IT teams to improve data storage solutions, resulting in a 30% cost reduction.  
+
+**Junior Software Engineer, Wolfjaw Studios, Astoria, NY (2005–2007)**  
+Annual salary: $61,500  
+- Assisted in the development of gaming software that increased user engagement by 15%.  
+- Contributed to codebase optimization, enhancing application performance by 20%.

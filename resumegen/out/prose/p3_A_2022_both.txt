@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience designing, developing, and implementing software solutions. Skilled in problem-solving and direct communication, with a proven track record of leading engineering teams to deliver high-quality software products.
+
+**Education**  
+Master's Degree in Electrical Engineering, Northeastern University, 2005
+
+**Work History**
+
+**Principal Software Engineer, Spectrum, Troy, NY, US (2021–Present)**  
+Annual salary: $170,200  
+- Lead the development of a cloud-based platform, improving system performance by 30%.  
+- Spearheaded a cross-functional team to integrate new AI technologies, enhancing customer engagement metrics.
+
+**Staff Software Engineer, iCatalyst, Groton, CT, US (2019–2021)**  
+Annual salary: $152,000  
+- Developed scalable backend systems, reducing server costs by 20%.  
+- Mentored a team of junior engineers, fostering a culture of innovation and continuous improvement.
+
+**Senior Software Engineer, defi SOLUTIONS, Rensselaer, NY, US (2017–2019)**  
+Annual salary: $148,600  
+- Enhanced the company's core loan management software, increasing processing speed by 25%.  
+- Collaborated with product managers to refine user experience, resulting in a 15% increase in client satisfaction.
+
+**Senior Software Engineer, Anduril Industries, Parsippany-Troy Hills, NJ, US (2015–2017)**  
+Annual salary: $136,700  
+- Implemented a robust security protocol for defense applications, improving data protection.  
+- Led a project team in creating a new software module that expanded product offerings.
+
+**Software Engineer, Health-E Commerce, Iselin, NJ, US (2011–2015)**  
+Annual salary: $97,200  
+- Played a key role in migrating legacy systems to modern platforms, reducing maintenance costs.  
+- Developed a customer-focused application feature that boosted user retention by 20%.
+
+**Software Engineer, The Urban Electric Co., White Plains, NY, US (2009–2011)**  
+Annual salary: $91,100  
+- Introduced process automation in software design, increasing project delivery speed.  
+- Collaborated closely with stakeholders to deliver tailored solutions, enhancing product adoption.
+
+**Software Engineer, Crown Equipment Corporation, Hartford, CT (2005–2009)**  
+Annual salary: $81,900  
+- Developed and maintained software for manufacturing systems, improving operational efficiency.  
+- Worked on a team that successfully rolled out a new software suite, resulting in increased client satisfaction.

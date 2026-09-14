@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Seasoned software engineer with over two decades of experience in developing robust and scalable software solutions. Highly skilled in collaborating with cross-functional teams to deliver innovative technology products and drive business growth.
+
+**Education**  
+Master's Degree in Information Systems, Drexel University, 2001  
+
+**Work History**  
+
+**Staff Software Engineer, Keeper Memorials USA Inc, Hartford, CT, US (2020–Present)**  
+Annual salary: $242,500  
+- Spearheaded the development of a cloud-based memorial management platform, enhancing system reliability and user satisfaction.  
+- Implemented a microservices architecture, reducing system downtime by 35% and improving deployment efficiency.  
+
+**Staff Software Engineer, Peloton, East Newark, NJ, US (2017–2020)**  
+Annual salary: $214,200  
+- Led the backend team in optimizing streaming performance, resulting in a 25% increase in user engagement.  
+- Developed and integrated new fitness tracking features, contributing to a 15% rise in subscription renewals.  
+
+**Staff Software Engineer, B Garage, Kingston, NY, US (2012–2017)**  
+Annual salary: $167,200  
+- Designed and implemented scalable APIs to support expanding product lines, boosting customer retention rates by 30%.  
+- Collaborated with product teams to streamline the development process, enhancing time-to-market by 20%.  
+
+**Senior Software Engineer, Hecta Data (DBA) Vilwaa, Troy, NY, US (2008–2012)**  
+Annual salary: $122,000  
+- Successfully migrated legacy systems to modern platforms, reducing maintenance costs by 40%.  
+- Improved system performance through code optimization and refactoring, enhancing overall application speed by 50%.  
+
+**Software Engineer, AS&E, Princeton, NJ, US (2006–2008)**  
+Annual salary: $113,600  
+- Developed new software modules that increased data processing capabilities by 20%.  
+- Automated testing processes, significantly reducing bug detection times.  
+
+**Software Engineer, Magic AI, Syracuse, NY, US (2004–2006)**  
+Annual salary: $103,900  
+- Collaborated on AI-driven software solutions, improving predictive accuracy by 15%.  
+- Streamlined project workflows, resulting in a 10% reduction in development time.  
+
+**Software Engineer, LENSAR, Inc., Mount Laurel, NJ, US (2001–2004)**  
+Annual salary: $95,900  
+- Contributed to the development of a pioneering ophthalmic laser technology, enhancing surgical precision and patient outcomes.  
+- Implemented robust data management systems, improving data retrieval speed by 25%.

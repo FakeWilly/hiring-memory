@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with 10 years of experience in developing and implementing software solutions across various industries. Known for a humorous communication style and a passion for solving complex problems, I bring a unique blend of creativity and technical expertise to every project.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2012  
+
+**Work History**  
+
+Software Engineer, Serco, Syracuse, NY, US (2021–Present)  
+Annual salary: $115,600  
+- Led a team in the development of a high-impact software tool, improving system efficiency by 20%.  
+- Collaborated with cross-functional teams to design and launch a new customer portal, enhancing user experience and satisfaction.
+
+Software Engineer, Central California Alliance for Health, Iselin, NJ, US (2018–2021)  
+Annual salary: $112,800  
+- Spearheaded the migration of legacy systems to a modern architecture, reducing maintenance costs by 15%.  
+- Developed a robust API framework that improved data integration capabilities across platforms.
+
+Junior Software Engineer, Capgemini Engineering USA, Buffalo, NY (2014–2018)  
+Annual salary: $89,300  
+- Assisted in the creation of scalable software applications, contributing to a project that increased client revenue by 10%.  
+- Implemented automated testing processes, reducing bug-related downtime by 25%.
+
+Junior Software Engineer, Chicago Financial Search, Albany, NY, US (2012–2014)  
+Annual salary: $82,000  
+- Played a key role in developing a financial analytics tool that enhanced data processing speed by 30%.  
+- Collaborated with senior engineers to optimize codebases, leading to improved application performance.

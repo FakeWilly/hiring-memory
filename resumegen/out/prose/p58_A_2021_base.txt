@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Results-driven software engineer with over 20 years of experience in data engineering and software development. Renowned for delivering innovative solutions that enhance system performance and operational efficiency in diverse industries.
+
+**EDUCATION**  
+Bachelor's Degree in Computer Science, CUNY City College, 2001
+
+**WORK EXPERIENCE**
+
+Junior Software Engineer, Rugiet Health, Greene, NY, USA (2001–2004)  
+Annual salary: $66,100  
+- Developed and maintained healthcare software modules, improving response times by 15%.  
+- Collaborated in a team to launch a new patient management system utilized by over 500 clients.  
+
+Data Engineer, Xcelerate Solutions, Binghamton, NY (2004–2006)  
+Annual salary: $92,500  
+- Engineered data pipelines that reduced data retrieval time by 30%.  
+- Led a project team in implementing a data storage solution that increased storage efficiency by 20%.  
+
+Data Engineer, Western & Southern Financial Group, Groton, CT, US (2006–2010)  
+Annual salary: $89,900  
+- Designed data models that optimized financial data processing for faster analysis.  
+- Implemented ETL processes ensuring data integrity across multiple platforms.  
+
+Senior Data Engineer, Parsons Corporation, Astoria, NY (2010–2014)  
+Annual salary: $118,400  
+- Spearheaded the migration of legacy data systems, reducing maintenance costs by 25%.  
+- Developed a real-time analytics platform that enhanced decision-making processes.  
+
+Senior Data Engineer, Lockheed Martin, Iselin, NJ, US (2014–2016)  
+Annual salary: $141,700  
+- Engineered advanced data solutions supporting defense projects, improving data analysis speed by 40%.  
+- Automated data validation processes leading to a 30% increase in data accuracy.  
+
+Senior Data Engineer, Komatsu, Rochester, NY, USA (2016–2018)  
+Annual salary: $152,600  
+- Led a team in the integration of IoT data into centralized analytics systems, boosting operational insights by 35%.  
+- Enhanced data throughput capacity by 50% through optimized data processing techniques.  
+
+Senior Data Engineer, Berkshire eSupply, Rochester, NY, USA (2018–2020)  
+Annual salary: $172,300  
+- Developed machine learning algorithms to predict supply chain trends, reducing stockouts by 25%.  
+- Implemented a data lakes architecture streamlining cross-department data accessibility.  
+
+Senior Data Engineer, IntellectFaces, Inc., Buffalo, NY, US (2020–Present)  
+Annual salary: $181,200  
+- Architected scalable data pipelines supporting large-scale analytics, improving system uptime by 20%.  
+- Innovated data integration techniques resulting in a 15% boost in operational efficiency.

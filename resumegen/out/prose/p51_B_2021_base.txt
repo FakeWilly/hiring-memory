@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and experienced software engineer with a master's degree in statistics and over 14 years of expertise in the development and implementation of software solutions. Known for delivering high-quality code and solutions with a humorous communication style and a knack for punctuality.  
+
+**Education**  
+Master's Degree in Statistics, CUNY City College, 2007  
+
+**Work History**  
+
+Software Engineer, University of the Cumberlands, Orchard Park, NY (2007–2011)  
+Annual salary: $107,600  
+- Developed and maintained a critical software application that improved departmental efficiency by 20%.  
+- Collaborated with cross-functional teams to deliver projects on time, under budget, and above expectations.  
+
+Software Engineer, Rise Broadband, Mahwah, NJ (2011–2014)  
+Annual salary: $122,100  
+- Led the redesign of the company's core application, enhancing user experience and increasing user retention by 15%.  
+- Implemented new software features that reduced operational costs by 10%.  
+
+Senior Software Engineer, Taylor Corporation, Jersey City, NJ (2014–2016)  
+Annual salary: $148,700  
+- Spearheaded the migration of legacy systems to modern frameworks, resulting in a 30% increase in performance efficiency.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.  
+
+Senior Software Engineer, i-Tech, Troy, NY (2016–2018)  
+Annual salary: $164,600  
+- Designed and implemented scalable cloud-based solutions, reducing downtime by 25%.  
+- Played a key role in the company’s agile transformation, which increased project delivery speed by 40%.  
+
+Senior Software Engineer, Antech Diagnostics, White Plains, NY (2018–Present)  
+Annual salary: $174,600  
+- Architected and deployed a new data analytics platform that improved diagnostic accuracy by 30%.  
+- Enhanced system security protocols, safeguarding sensitive data and achieving compliance with industry standards.

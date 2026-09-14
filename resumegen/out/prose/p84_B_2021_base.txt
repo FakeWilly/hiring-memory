@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in developing and optimizing software solutions. Known for a direct communication style and a passion for tackling complex technical challenges, with a proven track record in leading engineering teams to success.
+
+**Education**  
+Bachelor's Degree in Information Systems, Drexel University, 2003
+
+**Work History**  
+
+Staff Software Engineer, Coalition, Inc., Whippany, NJ, US (2020–Present)  
+Annual salary: $205,000  
+- Spearheaded the development of a scalable microservices architecture, improving system reliability by 30%.  
+- Led a team of 10 engineers in designing a new risk assessment tool, resulting in a 20% increase in client acquisition.  
+
+Staff Software Engineer, Mayo Clinic, Hartford, CT (2016–2020)  
+Annual salary: $175,900  
+- Designed and implemented a secure patient data management system, reducing data retrieval time by 40%.  
+- Collaborated with cross-functional teams to integrate AI-driven diagnostics, enhancing diagnostic accuracy by 15%.  
+
+Senior Software Engineer, EvolutionIQ, East Syracuse, NY (2013–2016)  
+Annual salary: $123,600  
+- Developed and deployed a machine learning algorithm that increased predictive analytics accuracy by 25%.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.  
+
+Senior Software Engineer, Blue Origin, LLC, Hartford, CT, US (2008–2013)  
+Annual salary: $113,100  
+- Played a key role in the development of flight control software, contributing to successful test launches.  
+- Enhanced software testing protocols, reducing bug-related delays by 20%.  
+
+Software Engineer, A3 Consulting, Melville, NY, US (2006–2008)  
+Annual salary: $87,500  
+- Implemented custom software solutions for clients, achieving a 95% satisfaction rate.  
+- Streamlined code review processes, improving team productivity by 15%.  
+
+Junior Software Engineer, Hecta Data (DBA) Vilwaa, White Plains, NY, US (2003–2006)  
+Annual salary: $64,400  
+- Assisted in the development and maintenance of database systems, increasing data retrieval efficiency by 10%.  
+- Collaborated with senior engineers to debug and enhance software applications.

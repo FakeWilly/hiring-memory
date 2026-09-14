@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over nine years of experience in developing efficient and scalable software solutions. Adept at working in collaborative environments and leveraging strong organizational skills to deliver projects on time.
+
+**Education**  
+Bachelor's Degree in Statistics, Northeastern University, 2012
+
+**Work History**  
+
+**Junior Software Engineer, SimVentions, New York, NY, USA (2012–2015)**  
+Annual salary: $77,800  
+- Developed and maintained software applications in a team-oriented environment, contributing to a 20% increase in system performance.  
+- Collaborated in a cross-functional team to redesign the company's internal tool, reducing processing time by 15%.  
+
+**Software Engineer, Exiger, Kingston, NY, US (2015–2018)**  
+Annual salary: $110,800  
+- Led the development of a key software module that enhanced data processing capabilities by 30%.  
+- Spearheaded a successful migration to a cloud-based infrastructure, increasing system reliability by 25%.  
+
+**Software Engineer, Schneider Electric, Jersey City, NJ, US (2018–Present)**  
+Annual salary: $122,100  
+- Implemented a new feature that improved user engagement metrics by 40% within the first quarter of release.  
+- Streamlined the code review process, reducing review time by 50% and improving code quality.

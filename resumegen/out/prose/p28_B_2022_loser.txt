@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 17 years of experience in designing and implementing innovative software solutions. Proven ability to lead teams and projects, with a strong focus on delivering high-quality results in the New York metro area.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2005
+
+**Work History**
+
+**Staff Software Engineer, Sofar Ocean, Morris Plains, NJ, US (2017–Present)**  
+Annual salary: $145,200  
+- Led a team of engineers in developing a real-time data analytics platform, increasing processing efficiency by 30%.  
+- Spearheaded the integration of new AI-driven features, resulting in a 25% improvement in system accuracy.
+
+**Senior Software Engineer, Birkenstock USA, Buffalo, NY (2013–2017)**  
+Annual salary: $136,600  
+- Designed and implemented a scalable e-commerce platform that supported a 50% increase in web traffic.  
+- Collaborated cross-functionally to optimize server performance, reducing downtime by 40%.
+
+**Software Engineer, Moveworks, Buffalo, NY (2008–2013)**  
+Annual salary: $104,000  
+- Developed and maintained core backend systems, improving transaction processing speed by 20%.  
+- Contributed to the successful migration of legacy systems to a cloud-based infrastructure.
+
+**Software Engineer, bastion technologies, Syracuse, NY, US (2005–2008)**  
+Annual salary: $87,800  
+- Worked on enhancing software solutions for aerospace applications, reducing error rates by 15%.  
+- Assisted in the development of a new algorithm that increased data processing capabilities by 10%.

@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with over 20 years in data engineering roles, specializing in developing robust data infrastructures and optimizing data processing workflows. Consistently recognized for punctuality and a diplomatic approach to team collaboration and problem-solving.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Baruch College, 2000
+
+**Work History**
+
+**Senior Data Engineer, Inabia Software & Consulting Inc., Hartford, CT (2020–Present)**  
+Annual salary: $152,800  
+- Spearheaded the migration of legacy data systems to cloud-based solutions, improving system reliability by 30%.  
+- Developed automated data validation processes, reducing data processing errors by 25%.
+
+**Senior Data Engineer, Broadway Infotech, Groton, CT (2016–2020)**  
+Annual salary: $130,700  
+- Implemented advanced data analytics frameworks, enhancing data-driven decision-making capabilities.  
+- Led a team of 5 engineers in a successful project to integrate new data sources, increasing data availability by 40%.
+
+**Senior Data Engineer, Cohesity, Hartford, CT (2014–2016)**  
+Annual salary: $119,800  
+- Designed and maintained ETL pipelines, improving data throughput by 20%.  
+- Collaborated with cross-functional teams to optimize data storage solutions, reducing costs by 15%.
+
+**Senior Data Engineer, Applied Intuition, Melville, NY (2011–2014)**  
+Annual salary: $120,600  
+- Developed innovative data storage strategies that reduced retrieval times by 35%.  
+- Enhanced data security protocols, ensuring compliance with industry standards.
+
+**Senior Data Engineer, NightwinG, Princeton, NJ (2007–2011)**  
+Annual salary: $104,100  
+- Led data engineering initiatives to streamline data processing, achieving a 50% increase in processing speed.  
+- Introduced machine learning techniques to enhance predictive analytics capabilities.
+
+**Data Engineer, Aucera, Greene, NY (2002–2007)**  
+Annual salary: $70,700  
+- Engineered scalable data processing systems, resulting in a 40% increase in efficiency.  
+- Assisted in the transition from traditional databases to modern data warehousing solutions.
+
+**Junior Software Engineer, BubbleUp LLC, Parsippany-Troy Hills, NJ (2000–2002)**  
+Annual salary: $50,700  
+- Contributed to the development of software applications, improving system functionality by 25%.  
+- Assisted in debugging and testing software, ensuring high-quality deliverables.

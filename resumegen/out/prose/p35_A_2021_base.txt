@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Detail-oriented and punctual software engineer with over a decade of experience in infrastructure engineering. Adept at leveraging technology to drive efficiencies and enhance system performance, with a proven track record of success in private sector roles.
+
+Education  
+Master's Degree in Information Systems, University of Connecticut, 2011
+
+Work History  
+
+Infrastructure Engineer, Tensec, Andes, NY, US (2011–2013)  
+Annual salary: $100,300  
+- Developed and implemented automated deployment scripts, reducing deployment time by 30%.  
+- Collaborated closely with cross-functional teams to enhance system resilience and maintain 99.9% uptime.
+
+Infrastructure Engineer, LeverX, Lakewood, NJ (2013–2016)  
+Annual salary: $100,800  
+- Spearheaded the migration of critical infrastructure to a new data center, ensuring zero downtime during transition.  
+- Optimized server configurations, resulting in a 20% increase in processing speed.
+
+Senior Infrastructure Engineer, Ignition, Buffalo, NY (2016–Present)  
+Annual salary: $129,900  
+- Led a team in the design and implementation of a scalable cloud-based architecture, enhancing service delivery and reliability.  
+- Identified and remedied system vulnerabilities, improving overall security posture by 25%.

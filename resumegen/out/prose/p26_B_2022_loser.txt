@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy Software Engineer with over a decade of experience in developing innovative solutions and enhancing system functionality. Known for a punctual work ethic and a talent for infusing humor into collaborative team settings to foster creativity and problem-solving.  
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Stony Brook University, 2008  
+
+**Work History**  
+
+**Senior Software Engineer**, RadCube, Parsippany-Troy Hills, NJ, US (2019–Present)  
+Annual salary: $136,700  
+- Spearheaded the development of a high-traffic web application, improving load times by 40% and enhancing user engagement.  
+- Led a team of five engineers in migrating legacy systems to modern architectures, resulting in a 50% increase in system efficiency and reliability.  
+
+**Software Engineer**, ULTRATEC, INC., Binghamton, NY (2014–2019)  
+Annual salary: $88,600  
+- Developed and implemented software solutions that increased processing speed by 30% and reduced system downtime.  
+- Collaborated with cross-functional teams to design and deploy a new customer-facing application, enhancing user satisfaction by 25%.  
+
+**Junior Software Engineer**, Synchrony Financial, Parsippany-Troy Hills, NJ, US (2008–2013)  
+Annual salary: $75,200  
+- Assisted in the design and development of software features, contributing to a 20% enhancement in application performance.  
+- Participated in code reviews and debugging, aiding in reducing defects by 15% in deployed applications.

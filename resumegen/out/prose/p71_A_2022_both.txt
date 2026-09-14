@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades of expertise in platform engineering, specializing in designing robust and scalable systems. Diplomatic communicator with a passion for hiking and sports, known for a tech-savvy approach to problem-solving and a strong track record in team leadership and innovation.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2002  
+
+**Work History**  
+
+**Staff Platform Engineer**, Perr&Knight, Groton, CT, US (2021–Present)  
+Annual salary: $208,900  
+- Led a team in the successful migration of legacy systems to cloud-based infrastructures, resulting in a 30% increase in system efficiency.  
+- Spearheaded the development of a new analytics platform, enhancing data processing speed by 25%.  
+
+**Senior Platform Engineer**, OptimHire, Andes, NY, US (2016–2021)  
+Annual salary: $186,500  
+- Optimized system architecture, leading to a 40% reduction in server costs.  
+- Collaborated with cross-functional teams to design a real-time data processing module that improved customer insights delivery by 50%.  
+
+**Senior Platform Engineer**, ANS Services LLC, Jersey City, NJ, US (2012–2016)  
+Annual salary: $162,100  
+- Implemented a scalable microservices architecture that increased deployment frequency by 20%.  
+- Enhanced platform security measures, reducing vulnerabilities by 60%.  
+
+**Senior Platform Engineer**, Midnight Oil Marketing, Syracuse, NY, US (2010–2012)  
+Annual salary: $148,500  
+- Developed a cloud-based platform that supported a 150% growth in user base.  
+- Integrated third-party APIs, enhancing service offerings and increasing customer satisfaction scores by 15%.  
+
+**Senior Platform Engineer**, SMX, Greene, NY, US (2007–2010)  
+Annual salary: $131,800  
+- Led the design and implementation of a distributed system, improving load balancing and system reliability.  
+- Directed a team in the adoption of Agile methodologies, increasing project delivery speed by 35%.  
+
+**Platform Engineer**, Grammarly, East Newark, NJ, US (2005–2007)  
+Annual salary: $110,600  
+- Contributed to the development of key platform features that expanded market reach and user engagement.  
+- Played a pivotal role in optimizing database performance, reducing query time by 40%.  
+
+**Platform Engineer**, The RealReal, Whippany, NJ, US (2002–2005)  
+Annual salary: $98,000  
+- Engineered a robust data pipeline that processed large volumes of user data efficiently.  
+- Assisted in the development of a user-friendly interface, contributing to a 20% increase in user retention.

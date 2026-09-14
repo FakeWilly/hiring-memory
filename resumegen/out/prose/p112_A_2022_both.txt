@@ -1,0 +1,48 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with over two decades in the tech industry, specializing in developing robust software solutions. Known for a humorous communication style and a passion for problem-solving, I bring a tech-savvy approach to innovative projects.
+
+---
+
+**Education**  
+Bachelor's Degree in Mathematics, Penn State University, 1999  
+
+---
+
+**Work History**  
+
+**Staff Software Engineer, Splunk, Whippany, NJ, US (2021–Present)**  
+Annual salary: $113,700  
+- Spearheaded the migration to a new microservices architecture, reducing system outages by 30%.  
+- Mentored junior engineers, fostering a collaborative environment that improved team productivity by 15%.  
+
+**Senior Software Engineer, MORI Associates, East Newark, NJ, US (2017–2021)**  
+Annual salary: $101,500  
+- Developed a data processing pipeline that improved data retrieval times by 40%.  
+- Led a team in the successful integration of new analytics tools, enhancing client reporting capabilities.  
+
+**Senior Software Engineer, Artius Solutions, Mahwah, NJ (2013–2017)**  
+Annual salary: $93,800  
+- Implemented a scalable API service that supported a 50% increase in user traffic.  
+- Collaborated with cross-functional teams to streamline release cycles, reducing time to market by 20%.  
+
+**Software Engineer, RedZone Robotics, Greene, NY, USA (2008–2013)**  
+Annual salary: $87,900  
+- Designed and developed a real-time robotics control system that increased operational efficiency by 25%.  
+- Contributed to a patent-pending technology in autonomous navigation systems.  
+
+**Junior Software Engineer, archer, Warren, NJ, US (2004–2008)**  
+Annual salary: $67,300  
+- Assisted in the development of an enterprise-level security product, contributing to a 15% increase in client acquisition.  
+- Optimized legacy codebases, resulting in a 30% reduction in system errors.  
+
+**Junior Software Engineer, Affirm, New York, NY, USA (1999–2004)**  
+Annual salary: $57,100  
+- Collaborated on a team that developed an innovative payment processing system, enhancing transaction speeds by 20%.  
+- Implemented automated testing procedures, which improved code quality and reduced bug reports by 25%.  
+
+---

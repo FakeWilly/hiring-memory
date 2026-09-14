@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and highly organized software engineer with over 15 years of experience in data engineering and software development. Known for a humorous communication style and a passion for building efficient, scalable solutions, I am seeking to contribute my expertise to innovative software engineering projects in the New York metro area.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2005
+
+**Work History**
+
+**Senior Data Engineer, Omitron, Inc., Syracuse, NY, US (2019–Present)**  
+Annual salary: $139,300  
+- Led a team of 5 engineers to develop a data processing platform that improved data throughput by 30%.  
+- Implemented advanced data pipeline solutions, reducing processing time by 40% and increasing system reliability.  
+
+**Data Engineer, Diversified Services Network, Princeton, NJ (2017–2019)**  
+Annual salary: $107,200  
+- Streamlined the ETL processes, resulting in a 25% reduction in data processing times.  
+- Collaborated with cross-functional teams to integrate new data sources, enhancing reporting capabilities.  
+
+**Data Engineer, DPA Consultant, Orchard Park, NY, US (2013–2017)**  
+Annual salary: $97,000  
+- Designed and maintained robust data architectures, improving data integrity and accessibility.  
+- Developed custom scripts to automate routine data tasks, saving the team 20 hours per week.  
+
+**Data Engineer, Dr. Bronner's, Hartford, CT (2010–2013)**  
+Annual salary: $94,000  
+- Spearheaded the migration of legacy data systems to modern platforms, enhancing data accuracy.  
+- Implemented data validation frameworks that reduced errors by 15%.  
+
+**Data Engineer, RLI, Troy, NY, US (2007–2010)**  
+Annual salary: $85,500  
+- Optimized data warehouse performance, reducing query times by 50%.  
+- Developed analytics dashboards that provided real-time insights to stakeholders.  
+
+**Junior Software Engineer, Wolfjaw Studios, Astoria, NY (2005–2007)**  
+Annual salary: $61,500  
+- Assisted in the development of a proprietary software application that improved user experience.  
+- Implemented unit testing procedures, increasing code reliability by 20%.

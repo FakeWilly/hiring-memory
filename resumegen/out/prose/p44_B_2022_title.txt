@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented and punctual Software Engineer with a proven track record of developing robust backend solutions. Passionate about leveraging technology to enhance user experiences and streamline processes.
+
+---
+
+**Education**  
+Bachelor's Degree in Software Engineering, Stony Brook University, 2017
+
+---
+
+**Work Experience**  
+
+**Junior Software Engineer, Q1 Technologies, Inc., Mount Laurel, NJ, US (2017–2021)**  
+Annual salary: $81,800  
+- Contributed to the development of a key component in a major client project, resulting in a 15% performance improvement.  
+- Collaborated with cross-functional teams to design and implement scalable backend services, enhancing system reliability by 20%.  
+
+**Backend Engineer, California Institute of Technology, Parsippany-Troy Hills, NJ, US (2021–Present)**  
+Annual salary: $83,800  
+- Engineered and optimized backend systems that increased data processing speeds by 30%.  
+- Led a team project to refactor legacy code, reducing technical debt and improving maintainability.

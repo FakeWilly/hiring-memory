@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience specializing in frontend development. Proficient in crafting efficient, scalable, and user-friendly applications, with a proven track record of leading projects to successful completion.
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2004
+
+**Work History**
+
+**Principal Frontend Engineer, ServiceCore, Inc., Hackensack, NJ, US (2021–Present)**  
+Annual salary: $193,400  
+- Spearheaded the redesign of the client-facing dashboard, enhancing user engagement by 30%.  
+- Developed a new component library that reduced development time for new features by 40%.
+
+**Staff Frontend Engineer, Exiger, Buffalo, NY (2018–2021)**  
+Annual salary: $172,700  
+- Led a team in transitioning a legacy system to a modern micro-frontend architecture.  
+- Implemented performance optimization strategies, improving application load time by 25%.
+
+**Senior Frontend Engineer, Cargill, Newark, NJ, US (2014–2018)**  
+Annual salary: $117,000  
+- Collaborated with cross-functional teams to deliver a multi-platform customer portal.  
+- Enhanced accessibility features, increasing usability scores by 15%.
+
+**Frontend Engineer, NICE, Bridgewater, NJ, US (2012–2014)**  
+Annual salary: $117,600  
+- Played a key role in deploying a responsive design framework across core products.  
+- Reduced page load times by 20% through code optimization and lazy loading techniques.
+
+**Junior Software Engineer, Digital Trust Technologies Private Limited, Hackensack, NJ, US (2007–2012)**  
+Annual salary: $79,900  
+- Contributed to the development of a secure messaging platform for enterprise clients.  
+- Assisted in the migration of web applications to cloud-based infrastructure.
+
+**Junior Software Engineer, BlueHalo, Groton, CT, US (2004–2007)**  
+Annual salary: $70,400  
+- Developed and maintained internal tools that improved team productivity by 15%.  
+- Collaborated on a project that automated data processing, reducing errors by 20%.

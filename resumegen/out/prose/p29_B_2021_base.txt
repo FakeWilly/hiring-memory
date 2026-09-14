@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience in developing innovative and scalable solutions in diverse industries. Highly diplomatic communicator with a knack for collaborating effectively across teams to deliver high-quality software products.
+
+**Education**  
+Associate's Degree in Statistics, Baruch College, 2000
+
+**Work History**
+
+**Staff Software Engineer, EMCOR, Buffalo, NY (2019–Present)**  
+Annual salary: $209,700  
+- Spearheaded the development of a cloud-native application that improved client project delivery times by 30%.  
+- Led a team of 10 engineers in creating a secure, scalable infrastructure for a new platform, enhancing system reliability by 25%.
+
+**Staff Software Engineer, Reliable Robotics, Melville, NY (2016–2019)**  
+Annual salary: $176,500  
+- Developed and implemented a critical software module that increased automation efficiency by 40%.  
+- Collaborated with cross-functional teams to streamline the deployment process, reducing release time by 50%.
+
+**Senior Software Engineer, CloudRay Inc, Andes, NY (2013–2016)**  
+Annual salary: $123,600  
+- Played a key role in the migration of legacy systems to a microservices architecture, improving system resilience.  
+- Enhanced existing software features to boost user engagement by 20% through targeted improvements.
+
+**Senior Software Engineer, TheMasonGroup, Syracuse, NY (2008–2012)**  
+Annual salary: $123,700  
+- Led the design and development of a customer-facing application, increasing satisfaction ratings by 15%.  
+- Drove the adoption of agile methodologies, which improved project completion rates by 25%.
+
+**Software Engineer, BoldTek, East Newark, NJ (2005–2008)**  
+Annual salary: $88,600  
+- Contributed to the development of a high-performance computing system, reducing processing time by 20%.  
+- Optimized database queries, significantly improving data retrieval speeds.
+
+**Junior Software Engineer, archer, Rochester, NY (2000–2005)**  
+Annual salary: $59,000  
+- Assisted in the development of a web-based platform, successfully launching it within the projected timeline.  
+- Implemented new features based on customer feedback, enhancing user experience.

@@ -1,0 +1,22 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Enthusiastic and detail-oriented software engineer with a strong foundation in electrical engineering and a knack for problem-solving. Possesses a proven track record of successful software development projects and a passion for crafting innovative solutions in fast-paced environments.  
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2017  
+
+**Work History**  
+
+Junior Software Engineer, Binti, Jersey City, NJ (2017–Present)  
+Annual salary: $92,800  
+- Contributed to the development of a key application feature that improved user engagement by 20%.  
+- Collaborated with cross-functional teams to optimize code, resulting in a 15% reduction in load times.  
+- Assisted in the implementation of a new testing framework that increased the efficiency of the QA process by 30%.  
+
+**Technical Skills**  
+- Programming Languages: Java, Python, JavaScript  
+- Tools & Technologies: Git, Docker, Jenkins  
+- Frameworks: React, Node.js

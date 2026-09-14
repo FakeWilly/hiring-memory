@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong track record of developing and implementing innovative solutions across various industries. Adept at working in collaborative environments and committed to delivering high-quality software products.
+
+**Work History**
+
+**Staff Software Engineer, Thermo King Chesapeake, Hackensack, NJ, US (2021–Present)**  
+Annual salary: $205,500  
+- Developed a real-time monitoring system that improved fleet efficiency by 20%.  
+- Led a team in the implementation of a new software architecture, reducing system downtime by 30%.
+
+**Staff Software Engineer, Hasbro, Inc., Old Westbury, NY (2019–2021)**  
+Annual salary: $200,500  
+- Spearheaded the development of interactive gaming platforms, increasing user engagement by 25%.  
+- Optimized codebase for better performance, reducing server load by 15%.
+
+**Staff Software Engineer, Verite Group, Inc., Hartford, CT (2017–2019)**  
+Annual salary: $185,500  
+- Designed and implemented scalable web services that increased transaction processing speed by 40%.  
+- Collaborated with cross-functional teams to enhance system security protocols.
+
+**Senior Software Engineer, Penske Truck Leasing, Melville, NY, US (2012–2017)**  
+Annual salary: $122,200  
+- Led a project to integrate GPS tracking, enhancing operational logistics and reducing delivery delays by 10%.  
+- Mentored junior engineers, fostering a culture of knowledge sharing and continuous improvement.
+
+**Software Engineer, Quantum Systems Inc, Kingston, NY, US (2008–2012)**  
+Annual salary: $93,500  
+- Developed a suite of tools to automate data analysis, improving efficiency by 15%.  
+- Played a key role in migrating legacy systems to modern platforms.
+
+**Junior Software Engineer, Magic AI, Hackensack, NJ, US (2004–2008)**  
+Annual salary: $67,100  
+- Assisted in the development of AI algorithms that improved product recommendations by 10%.  
+- Collaborated on a team that optimized software deployment processes.
+
+**Education**  
+Associate's Degree in Computer Science, University of Connecticut, 2004

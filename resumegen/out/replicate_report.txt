@@ -1,0 +1,68 @@
+  postings: 2000 -> 1855 after salary, company and title filters
+A. 20 seeds x 400 pairs x 20 years. Each seed rebuilds the pairs and redraws the path noise.
+
+   gap_pct
+                                  mean    sd    min    max
+arm                                                       
+baseline (fair coin, memory on)  14.08  1.29  11.48  16.02
+no anchoring                      2.01  0.99   0.29   3.82
+no ladder                        10.68  1.06   9.12  12.38
+no wage compounding               9.66  1.19   7.28  11.52
+no memory (fair coin)             0.02  0.92  -1.75   1.21
+always A, memory on              12.98  1.23  10.47  15.07
+always A, no memory              -0.14  1.19  -2.79   2.46
+
+   winner_ahead_pct
+                                  mean    sd    min    max
+arm                                                       
+baseline (fair coin, memory on)  70.19  2.54  65.00  73.75
+no anchoring                     52.70  2.60  47.00  58.00
+no ladder                        68.84  1.88  65.75  73.25
+no wage compounding              65.15  2.28  60.50  69.25
+no memory (fair coin)            49.78  2.08  46.00  53.00
+always A, memory on              68.55  2.29  64.00  72.00
+always A, no memory              50.15  2.65  45.25  55.25
+
+   amplification
+                                 mean    sd   min   max
+arm                                                    
+baseline (fair coin, memory on)  1.16  0.10  0.95  1.31
+no anchoring                     0.17  0.09  0.03  0.33
+no ladder                        0.89  0.08  0.77  1.02
+no wage compounding              0.81  0.10  0.62  0.96
+no memory (fair coin)            0.00  0.08 -0.16  0.11
+always A, memory on              1.08  0.10  0.89  1.24
+always A, no memory             -0.01  0.11 -0.25  0.22
+
+   group_gap_pct
+                                  mean    sd    min    max
+arm                                                       
+baseline (fair coin, memory on)  -0.52  1.07  -2.38   1.62
+no anchoring                     -0.15  1.29  -2.69   2.02
+no ladder                        -0.86  0.94  -2.77   0.22
+no wage compounding              -0.47  1.16  -2.49   1.84
+no memory (fair coin)            -0.15  1.19  -2.80   2.46
+always A, memory on              12.98  1.23  10.47  15.07
+always A, no memory              -0.14  1.19  -2.79   2.46
+
+   baseline gap at t=20: 14.1% (sd across seeds 1.3, range 11.5-16.0); per-seed t-stat never below 8.9
+   no anchoring: winner ahead in 52.7% (sd 2.6); |t| > 2 in 10/20 seeds
+   always-A, no memory: group gap -0.14% (sd 1.19)
+
+B. One parameter at a time, 5 seeds each (mean, sd across seeds)
+
+                    amplification  gap_pct  winner_ahead_pct  amplification sd  gap_pct sd  winner_ahead_pct sd
+variant                                                                                                        
+as shipped                   1.22    14.80             70.65              0.12        1.54                 2.92
+p_move 0.20                  1.35    16.55             73.05              0.08        1.11                 2.51
+p_move 0.40                  1.15    13.94             69.60              0.11        1.44                 2.80
+job_premium 1.06             2.03    12.63             67.75              0.23        1.55                 2.54
+job_premium 1.18             0.96    17.23             74.10              0.08        1.55                 2.92
+anchor_floor 1.03            1.09    13.13             69.80              0.10        1.36                 2.90
+anchor_floor 1.09            1.30    15.95             70.85              0.13        1.69                 2.29
+no step-up on hire           0.52     6.05             60.05              0.12        1.38                 2.09
+
+   What survives every seed and every perturbation: the winner is ahead
+   in a clear majority of pairs whenever anchoring is on, and near 50%
+   (53% without anchoring, 50% with no memory) whenever it is off. The
+   size of the gap is a market parameter.

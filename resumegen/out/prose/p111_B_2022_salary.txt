@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with 15+ years of experience in developing robust applications and leading engineering teams. Known for punctuality and direct communication, I consistently deliver high-quality software solutions that drive business success.
+
+**Education**  
+Master's Degree in Computer Science, Drexel University, 2007  
+
+**Work History**  
+
+Senior Software Engineer, Qventus, Lakewood, NJ (2021–Present)  
+Annual salary: $174,200  
+- Spearheaded the development of a predictive analytics tool that improved operational efficiency by 25%.  
+- Collaborated with cross-functional teams to design and implement scalable solutions, enhancing system performance by 30%.  
+
+Senior Software Engineer, Bayer, Hackensack, NJ (2020–2021)  
+Annual salary: $155,500  
+- Led the migration of legacy systems to cloud-based platforms, reducing infrastructure costs by 20%.  
+- Developed a custom software solution that streamlined data processing, resulting in a 40% reduction in processing time.  
+
+Senior Software Engineer, Osaic, White Plains, NY (2017–2020)  
+Annual salary: $138,500  
+- Designed and implemented a new software architecture that increased application reliability by 35%.  
+- Mentored junior developers, fostering a collaborative and innovative team environment.  
+
+Senior Software Engineer, cybertrol engineering, Mount Laurel, NJ (2012–2017)  
+Annual salary: $119,000  
+- Implemented automated testing procedures that reduced bug-related incidents by 50%.  
+- Collaborated on the development of a client-facing portal, enhancing user experience and satisfaction.  
+
+Software Engineer, Updater, Iselin, NJ (2007–2012)  
+Annual salary: $91,300  
+- Developed key features for a flagship product, increasing customer retention by 20%.  
+- Contributed to the successful launch of three major software releases, meeting all project deadlines.

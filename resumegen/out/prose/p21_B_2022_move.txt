@@ -1,0 +1,51 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in developing and delivering high-quality software solutions. Known for exceptional punctuality and open communication, with a strong foundation in statistics and a passion for software development and innovation.
+
+**Education**  
+Bachelor's Degree in Statistics, Rutgers University, 2001
+
+**Work History**  
+
+**Junior Software Engineer, UP Entertainment, Old Westbury, NY (2001–2006)**  
+Annual salary: $58,800  
+- Contributed to the development of internal tools that improved data processing efficiency by 20%.  
+- Assisted in the migration of legacy systems to a new technology stack, reducing maintenance costs by 15%.
+
+**Software Engineer, Collective Inc, Lakewood, NJ (2006–2009)**  
+Annual salary: $88,600  
+- Designed and implemented scalable web applications that increased user engagement by 30%.  
+- Collaborated in a team to enhance system performance, achieving a 25% reduction in response time.
+
+**Senior Software Engineer, BLYK Engineering Services, Warren, NJ, US (2009–2011)**  
+Annual salary: $121,900  
+- Led a team in developing a robust data analysis platform, improving data insights for clients.  
+- Spearheaded the integration of new software features, resulting in a 40% increase in customer satisfaction.
+
+**Staff Software Engineer, Bounteous, New York, NY, US (2011–2013)**  
+Annual salary: $121,400  
+- Managed the full software development life cycle for key projects, aligning with business goals.  
+- Enhanced application security protocols, reducing vulnerability incidents by 50%.
+
+**Staff Software Engineer, Automatic Building Controls, Princeton, NJ, US (2013–2015)**  
+Annual salary: $167,000  
+- Implemented automated testing frameworks that reduced bug rates by 35%.  
+- Developed a cloud-based solution that improved system accessibility for remote users.
+
+**Staff Software Engineer, CoBank, Mount Laurel, NJ, US (2015–2018)**  
+Annual salary: $182,300  
+- Optimized financial transaction systems, increasing processing speed by 25%.  
+- Collaborated on cross-functional teams to deliver innovative software solutions for complex problems.
+
+**Staff Software Engineer, Cogility, White Plains, NY, US (2018–2021)**  
+Annual salary: $202,400  
+- Orchestrated the redesign of core software modules, enhancing system reliability and uptime.  
+- Guided junior engineers in adopting best practices, improving team productivity by 20%.
+
+**Staff Software Engineer, Minutes To Seconds, Mahwah, NJ (2021–Present)**  
+Annual salary: $207,500  
+- Architected a microservices-based platform, improving scalability and deployment efficiency.  
+- Championed the adoption of cutting-edge technologies, keeping the team at the forefront of industry trends.

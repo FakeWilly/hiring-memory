@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a strong foundation in statistics and a passion for crafting innovative solutions. Skilled in both collaborative environments and independent projects, with a keen interest in enhancing user experience through efficient coding practices.
+
+**Education**  
+Bachelor's Degree in Statistics, Stony Brook University, 2017
+
+**Work History**
+
+Junior Software Engineer, IT Customer Service - POST, Groton, CT, US (2017–2021)  
+Annual salary: $93,400  
+- Developed and maintained customer service software tools, improving response efficiency by 30%.  
+- Collaborated with cross-functional teams to enhance system functionalities, resulting in a 20% increase in customer satisfaction.  
+
+Junior Software Engineer, Tradeweb, Mount Laurel, NJ, US (2021–Present)  
+Annual salary: $104,600  
+- Implemented new trading algorithms that reduced processing time by 25%.  
+- Enhanced the existing software architecture, leading to a 15% increase in system reliability and uptime.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated and detail-oriented software engineer with over 18 years of experience in developing robust code for high-volume businesses. Tech-savvy professional with a strong foundation in software engineering, skilled in leading projects and optimizing processes.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Stony Brook University, 2003  
+
+**Work History**  
+
+Senior Software Engineer, Belt Power LLC, Rochester, NY, US (2019–Present)  
+Annual salary: $194,100  
+- Spearheaded the development of a new inventory management system, improving data retrieval speed by 40%.  
+- Collaborated with cross-functional teams to integrate new software solutions, enhancing operational efficiency by 30%.  
+
+Senior Software Engineer, The Storage Group, Franklin Lakes, NJ, US (2015–2019)  
+Annual salary: $170,900  
+- Led a team of engineers in the redesign of the customer portal, boosting user engagement by 50%.  
+- Implemented a continuous integration pipeline, reducing deployment time by 60%.  
+
+Software Engineer, ShorePoint, Newark, NJ, US (2012–2015)  
+Annual salary: $125,200  
+- Developed a secure payment processing feature, increasing transaction security and reducing fraud incidents.  
+- Enhanced system performance through optimization techniques, leading to a 25% increase in application speed.  
+
+Junior Software Engineer, OCLC, Newark, NJ, US (2007–2012)  
+Annual salary: $82,300  
+- Contributed to the development of library management software, improving cataloging efficiency by 20%.  
+- Automated routine tasks, saving the team an average of 10 hours per week in manual work.  
+
+Junior Software Engineer, AS&E, Iselin, NJ, US (2003–2007)  
+Annual salary: $70,900  
+- Assisted in the development of imaging software, enhancing image processing accuracy by 15%.  
+- Worked closely with senior engineers to troubleshoot and resolve software issues, decreasing downtime significantly.

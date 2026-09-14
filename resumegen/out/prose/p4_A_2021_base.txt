@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 15 years in the industry, specializing in developing robust solutions and enhancing system efficiencies. Known for a meticulous approach to problem-solving and a consistent record of delivering projects on time.
+
+**Education**  
+Master's Degree in Software Engineering, CUNY City College, 2005
+
+**Work History**
+
+Software Engineer, Braum's, Franklin Lakes, NJ, US (2005–2008)  
+Annual salary: $97,900
+- Developed and maintained internal software applications, improving operational efficiency by 20%.
+- Collaborated with cross-functional teams to design user-friendly interfaces, enhancing the end-user experience.
+
+Software Engineer, Edge Autonomy, Binghamton, NY (2008–2011)  
+Annual salary: $105,300
+- Engineered scalable backend solutions, resulting in a 30% increase in system performance.
+- Led a team in the implementation of a new data processing system, reducing processing time by 25%.
+
+Software Engineer, Exiger, New York, NY (2011–2015)  
+Annual salary: $117,000
+- Spearheaded the development of a secure data management platform, improving data integrity by 40%.
+- Introduced automated testing procedures, significantly reducing software bugs and enhancing code reliability.
+
+Senior Software Engineer, Google, Syracuse, NY, US (2015–2018)  
+Annual salary: $150,400
+- Architected complex cloud-based solutions, contributing to a 50% increase in application deployment speed.
+- Mentored junior engineers, fostering a culture of innovation and enhancing team productivity.
+
+Senior Software Engineer, GM Financial, Mount Laurel, NJ, US (2018–Present)  
+Annual salary: $168,000
+- Designed and implemented a microservices architecture, cutting down system downtime by 35%.
+- Collaborated with international teams to streamline code integration, reducing deployment errors by 20%.

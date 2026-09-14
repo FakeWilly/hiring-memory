@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy Software Engineer with over 17 years of experience in developing robust code for high-volume businesses. Extremely organized professional recognized for direct communication and a strong ability to solve complex technical problems efficiently.
+
+**Education**  
+Bachelor's Degree in Mathematics, Northeastern University, 2004  
+
+**Work Experience**  
+
+**Senior Software Engineer, Barclays, Melville, NY, US (2017–Present)**  
+Annual salary: $140,900  
+- Spearheaded the development of a secure payment processing system that improved transaction speed by 30%.  
+- Collaborated with cross-functional teams to enhance system security, reducing vulnerabilities by 25%.  
+
+**Senior Software Engineer, PODS, Rensselaer, NY, US (2014–2017)**  
+Annual salary: $99,600  
+- Led the upgrade of legacy systems, resulting in a 40% increase in system reliability.  
+- Implemented a new code review process which decreased bug-related delays by 20%.  
+
+**Software Engineer, LTK, Lakewood, NJ (2009–2014)**  
+Annual salary: $90,500  
+- Developed and maintained scalable applications that supported business growth by 15% annually.  
+- Optimized database queries, improving system performance by 25%.  
+
+**Junior Software Engineer, Robert Half, Jersey City, NJ, US (2004–2009)**  
+Annual salary: $67,800  
+- Assisted in the design and implementation of software solutions that supported critical business operations.  
+- Played a key role in the development of internal tools, increasing team productivity by 10%.

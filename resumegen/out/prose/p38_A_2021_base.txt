@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with a strong foundation in software development and a consistent track record of delivering high-quality solutions. Experienced in various aspects of software engineering, from initial design to final implementation, with a passion for optimizing performance and user experience.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2012  
+
+**Work History**  
+
+**Junior Software Engineer, Info Image, Astoria, NY (2012–2015)**  
+Annual salary: $76,800  
+- Successfully collaborated with cross-functional teams to design and implement new features for enterprise software applications, improving user engagement by 15%.  
+- Assisted in the development and deployment of a critical system update that enhanced data processing speed by 30%.  
+
+**Software Engineer, LevelTen Energy, Syracuse, NY (2015–2018)**  
+Annual salary: $109,900  
+- Developed and maintained scalable web applications, resulting in a 20% increase in client satisfaction scores.  
+- Implemented a robust testing framework which reduced the occurrence of software bugs by 40%.  
+
+**Software Engineer, UKG, Franklin Lakes, NJ (2018–Present)**  
+Annual salary: $123,300  
+- Spearheaded the transition to a microservices architecture, leading to a 25% improvement in application response times.  
+- Played a key role in the successful integration of a new API platform that expanded service offerings and increased revenue by 10%.

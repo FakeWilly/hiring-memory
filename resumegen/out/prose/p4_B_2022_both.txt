@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative solutions and optimizing system performance. Highly skilled in managing complex projects and leading teams to deliver efficient software applications in dynamic environments.
+
+**Education**  
+Master's Degree in Information Systems, Stony Brook University, 2005  
+
+**Work History**  
+
+Software Engineer, React Health Holdings, LLC, New York, NY (2005–2008)  
+Annual salary: $97,800  
+- Developed and maintained critical software applications, improving system efficiency by 15%.  
+- Collaborated with cross-functional teams to implement new features, enhancing user experience.  
+
+Software Engineer, Leia Inc, Jersey City, NJ (2008–2011)  
+Annual salary: $105,200  
+- Spearheaded a project to redesign the company’s primary software, reducing load times by 20%.  
+- Conducted code reviews and provided mentorship to junior developers, fostering a culture of quality and collaboration.
+
+Software Engineer, 2HB Incorporated, Syracuse, NY, US (2011–2015)  
+Annual salary: $118,100  
+- Architected and implemented a scalable system framework, improving data processing speed by 25%.  
+- Automated key processes, reducing manual effort by 30% and enhancing productivity.  
+
+Senior Software Engineer, Epic Games, Albany, NY, US (2015–2018)  
+Annual salary: $148,600  
+- Led a team of engineers in the development of new gaming features, increasing player engagement by 40%.  
+- Optimized graphic rendering algorithms, reducing latency and improving performance on multiple platforms.  
+
+Senior Software Engineer, Curbside Laundries, Newark, NJ, US (2018–2021)  
+Annual salary: $168,800  
+- Designed and implemented an end-to-end laundry management system, increasing operational efficiency by 35%.  
+- Collaborated with stakeholders to deliver customized software solutions tailored to client needs.
+
+Staff Software Engineer, FormFactor, Inc., Rensselaer, NY, US (2021–Present)  
+Annual salary: $189,100  
+- Leading efforts to modernize legacy systems, resulting in a 50% reduction in maintenance costs.  
+- Driving the adoption of best practices in software development, improving code quality and reliability.

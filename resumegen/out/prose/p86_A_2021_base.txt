@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in infrastructure engineering, specializing in efficient system architecture and robust network solutions. Known for exceptional organizational skills and a detail-oriented approach, resulting in reliable and high-performing infrastructure environments.
+
+**Work Experience**
+
+**Senior Infrastructure Engineer**, BlueForce Inc, Iselin, NJ, US (2019–Present)  
+Annual salary: $160,500  
+- Led the design and implementation of a new cloud infrastructure, reducing operational costs by 15%.  
+- Spearheaded a team to upgrade the company's security protocols, enhancing system resilience against cyber threats.  
+
+**Infrastructure Engineer**, Siertek Ltd, Old Westbury, NY (2014–2019)  
+Annual salary: $129,300  
+- Developed automated deployment scripts that decreased system downtime by 30%.  
+- Collaborated with cross-functional teams to redesign server architecture, improving system performance and user experience.  
+
+**Infrastructure Engineer**, efabless, Buffalo, NY, US (2012–2014)  
+Annual salary: $117,100  
+- Engineered a scalable network solution that increased data throughput by 25%.  
+- Implemented a comprehensive monitoring system that preemptively identified and mitigated potential failures.  
+
+**Infrastructure Engineer**, Haugland Group, Rochester, NY, US (2009–2012)  
+Annual salary: $98,100  
+- Designed and integrated a robust backup solution, enhancing data recovery capabilities.  
+- Streamlined communication protocols between departments, improving project delivery times by 20%.  
+
+**Education**  
+Master's Degree in Computer Science, Penn State University, 2009

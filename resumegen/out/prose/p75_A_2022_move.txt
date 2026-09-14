@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineering professional with nearly two decades of experience in developing innovative software solutions. Proven track record in leading projects and optimizing systems for enhanced performance in the New York metro area.
+
+**Work History**  
+
+**Junior Software Engineer, Alloyed Enterprises, Jersey City, NJ, US (2003–2007)**  
+Annual salary: $70,500  
+- Developed and maintained core components of enterprise-level applications, increasing system efficiency by 15%.  
+- Collaborated in a team to deploy new software features, reducing deployment time by 20%.  
+
+**Junior Software Engineer, Netsimco, Princeton, NJ, US (2007–2012)**  
+Annual salary: $82,500  
+- Assisted in upgrading legacy systems to modern frameworks, improving overall system performance by 25%.  
+- Implemented automated testing procedures, decreasing bug-related incidents by 30%.  
+
+**Software Engineer, Str8grade Engineering, LLC, Orchard Park, NY, US (2012–2015)**  
+Annual salary: $124,900  
+- Led a team to design and implement a new software platform, resulting in a 40% increase in user engagement.  
+- Streamlined codebase architecture, reducing system load times by 50%.  
+
+**Senior Software Engineer, Morris & Associates, Inc., Hackensack, NJ, US (2015–2019)**  
+Annual salary: $170,100  
+- Orchestrated development of a scalable application that supported 1 million users, enhancing client satisfaction.  
+- Mentored junior developers, fostering skill development and promoting a culture of continuous learning.  
+
+**Senior Software Engineer, EMTAK LLC, Bridgewater, NJ, US (2019–2021)**  
+Annual salary: $193,100  
+- Spearheaded a major system overhaul, increasing operational efficiency by 35%.  
+- Implemented cybersecurity measures that reduced vulnerabilities by 40%.  
+
+**Senior Software Engineer, Inspire Medical Systems I, Lakewood, NJ (2021–Present)**  
+Annual salary: $197,900  
+- Leading the development of a real-time analytics platform, improving data processing speed by 60%.  
+- Collaborating cross-functionally to enhance system integration, resulting in seamless software deployments.  
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2003

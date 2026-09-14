@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Tech-savvy software engineer with a decade of experience in developing and optimizing software systems for large organizations. Known for a humorous communication style and a commitment to punctuality, bringing a creative approach to problem-solving and team collaboration.
+
+**EDUCATION**  
+Bachelor's Degree in Software Engineering, CUNY City College, 2012
+
+**WORK HISTORY**
+
+Senior Systems Engineer, Calyxo, Morris Plains, NJ (2021–Present)  
+Annual salary: $165,400  
+- Spearheaded the integration of a new software system, reducing processing time by 30%.  
+- Collaborated with cross-functional teams to enhance system reliability, achieving a 99.9% uptime.
+
+Senior Systems Engineer, AMMEGA, Morris Plains, NJ (2019–2021)  
+Annual salary: $161,400  
+- Developed a scalable infrastructure that supported a 50% increase in client base.  
+- Led a team in implementing security protocols that decreased data breaches by 40%.
+
+Systems Engineer, Shipt, Inc., Groton, CT (2016–2019)  
+Annual salary: $113,800  
+- Designed and implemented a logistics software solution that improved delivery efficiency by 25%.  
+- Played a key role in migrating legacy systems to cloud-based solutions.
+
+Junior Software Engineer, Costco Wholesale, Rochester, NY (2012–2016)  
+Annual salary: $79,900  
+- Contributed to the development of an internal tool that streamlined inventory management.  
+- Assisted in optimizing existing code, resulting in a 15% performance boost.

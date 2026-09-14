@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineering professional with over a decade of experience in developing scalable software solutions. Known for a strong ability to work independently and collaboratively in team settings, delivering projects efficiently and effectively.
+
+**Education**  
+Associate's Degree in Information Systems, Baruch College, 2009  
+
+**Work Experience**  
+
+**Senior Software Engineer, Realtor.com, Jersey City, NJ** (2020–Present)  
+Annual salary: $149,200  
+- Spearheaded the migration of legacy systems to modern cloud-based solutions, improving system reliability by 30%.  
+- Collaborated in cross-functional teams to design and implement new features that increased user engagement by 20%.  
+
+**Senior Software Engineer, The DarkStar Group, Rochester, NY** (2016–2020)  
+Annual salary: $101,000  
+- Led performance optimization initiatives that reduced system downtime by 40%.  
+- Mentored junior engineers, fostering a collaborative environment that enhanced team productivity.  
+
+**Software Engineer, Bounteous, Groton, CT** (2014–2016)  
+Annual salary: $99,600  
+- Developed and maintained web applications, enhancing user experience through responsive design.  
+- Implemented automated testing protocols that reduced bug-related issues by 25%.  
+
+**Junior Software Engineer, Roche, Newark, NJ** (2009–2014)  
+Annual salary: $66,800  
+- Assisted in the development of software solutions, contributing to a 15% increase in project completion rates.  
+- Collaborated with senior engineers to resolve technical issues, improving overall project efficiency.

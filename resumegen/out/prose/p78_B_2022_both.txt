@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with over two decades of experience in platform engineering. Excels in designing and implementing robust software solutions with a touch of humor, ensuring seamless integration and enhanced performance.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 1999  
+
+**Work History**  
+
+Principal Platform Engineer, Dr. Bronner's, Greene, NY, USA (2021–Present)  
+Annual salary: $220,400  
+- Spearheaded the migration of legacy systems to cloud-based platforms, improving system efficiency by 30%.  
+- Led a team of engineers in developing a scalable architecture for new product lines, resulting in a 40% increase in deployment speed.
+
+Staff Platform Engineer, OCLC, Lakewood, NJ (2018–2021)  
+Annual salary: $196,800  
+- Developed a unified platform that consolidated multiple service environments, reducing operational costs by 25%.  
+- Implemented automated monitoring tools that decreased system downtime by 15%.
+
+Staff Platform Engineer, Capital Axis Solutions, Morris Plains, NJ, US (2015–2018)  
+Annual salary: $175,500  
+- Engineered a high-availability cluster system that enhanced data processing speed by 20%.  
+- Collaborated on cross-functional teams to deliver key software updates within tight deadlines.
+
+Staff Platform Engineer, CyberCoders, New York, NY, USA (2013–2015)  
+Annual salary: $184,100  
+- Optimized existing platform codebase, improving application response times by 35%.  
+- Designed and executed a data encryption module, enhancing overall system security.
+
+Staff Platform Engineer, Peraton, Troy, NY, US (2011–2013)  
+Annual salary: $172,900  
+- Coordinated with stakeholders to redesign network infrastructure, boosting performance reliability by 40%.  
+- Pioneered a continuous integration pipeline that reduced development cycle time by 20%.
+
+Senior Platform Engineer, Mission Driven Research, Groton, CT, US (2007–2011)  
+Annual salary: $117,800  
+- Led the development of a modular platform architecture that supported rapid feature development.  
+- Introduced new coding standards, leading to a 30% decrease in software bugs.
+
+Platform Engineer, Patterson Companies, New York, NY, US (2004–2007)  
+Annual salary: $89,300  
+- Developed a scalable platform solution that increased user capacity by 50%.  
+- Implemented a comprehensive testing framework, reducing production incidents by 20%.
+
+Junior Software Engineer, Analytical Services & Materials, Inc., Old Westbury, NY (1999–2004)  
+Annual salary: $59,600  
+- Assisted in the development of critical software components, enhancing system performance by 15%.  
+- Conducted thorough code reviews, improving code quality and team collaboration.

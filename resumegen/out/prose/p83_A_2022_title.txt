@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with over two decades of diverse experience in developing and optimizing software solutions. Adept at leading complex projects and mentoring teams, with a proven track record of increasing efficiency and delivering high-quality results.
+
+---
+
+**Work History**
+
+**Staff Software Engineer, OKX, Rochester, NY, US (2021–Present)**  
+Annual salary: $93,600  
+- Spearheaded the development of a high-traffic trading application, enhancing transaction speed by 35%.
+- Mentored a team of junior engineers, resulting in a 20% increase in team productivity.
+
+**Senior Software Engineer, Galileo Financial Technologies, Whippany, NJ, US (2018–2021)**  
+Annual salary: $91,300  
+- Led the successful migration of core financial systems to a new platform, reducing operational costs by 15%.
+- Developed a new feature set that increased user engagement by 40%.
+
+**Software Engineer, DISTILLERY, Binghamton, NY (2015–2017)**  
+Annual salary: $65,800  
+- Implemented an automated testing framework that decreased software bugs by 25%.
+- Collaborated in a cross-functional team to deliver a key project two months ahead of schedule.
+
+**Junior Software Engineer, Mayo Clinic, Warren, NJ, US (2010–2015)**  
+Annual salary: $63,100  
+- Assisted in the design and implementation of patient management software, improving data processing efficiency by 30%.
+- Contributed to the codebase of a critical application used by healthcare professionals globally.
+
+**Junior Software Engineer, BDO, Rochester, NY, USA (2005–2010)**  
+Annual salary: $53,400  
+- Developed and maintained internal tools, enhancing data accuracy by 20%.
+- Played a key role in upgrading legacy systems to improve overall performance.
+
+**Junior Software Engineer, ShorePoint, Jersey City, NJ, US (2001–2005)**  
+Annual salary: $53,700  
+- Participated in the development of a client server application, reducing processing time by 15%.
+- Collaborated with senior engineers to implement key software enhancements.
+
+---
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2001

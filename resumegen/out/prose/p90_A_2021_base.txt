@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and results-oriented Software Engineer with a Bachelor's degree in Software Engineering from Rochester Institute of Technology. Experienced in developing scalable software solutions with a diplomatic communication style and a penchant for solving complex problems.
+
+**Work History**
+
+**Software Engineer, WTAnow, Jersey City, NJ (2020–Present)**  
+Annual salary: $123,500  
+- Spearheaded the development of a customer-facing web application, improving user engagement by 35%.  
+- Implemented a new code review process that reduced bugs by 20% and increased deployment efficiency.  
+
+**Software Engineer, X Corp., New York, NY (2016–2020)**  
+Annual salary: $85,100  
+- Developed and optimized backend services for a high-traffic e-commerce platform, resulting in a 25% decrease in load times.  
+- Collaborated with cross-functional teams to integrate new features, enhancing user experience and increasing client retention by 15%.  
+
+**Junior Software Engineer, Washoe County, Mahwah, NJ (2012–2016)**  
+Annual salary: $77,800  
+- Assisted in the migration of legacy systems to modern technology stacks, reducing maintenance costs by 30%.  
+- Contributed to the design and implementation of a database management system, improving data retrieval speed by 40%.  
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rochester Institute of Technology, 2012

@@ -1,0 +1,35 @@
+  postings: 2000 -> 1855 after salary, company and title filters
+1. In the model as shipped: annual log-salary growth by starting-pay quintile
+salary
+Q1 low     0.0603
+Q2         0.0569
+Q3         0.0537
+Q4         0.0530
+Q5 high    0.0488
+   corr(log starting pay, 20-yr slope) = -0.379
+   -> growth is tied to LEVEL (wage_level_bonus), not to pay; the loser
+      catches up in level, so the percentage gap holds but does not widen.
+
+2. The same baseline run, gap between twins in two units
+   t=0    12.1%   $   18,008
+   t=20   16.0%   $   66,865   (dollar gap x3.71)
+   -> flat in percent, growing in dollars. 'Does the gap increase'
+      needs a unit before it has an answer.
+
+3. Give pay itself a slope: growth += elasticity * log(pay / Engineer band)
+ elasticity  corr(pay, slope)  gap t0 %  gap t20 %  amplification  winner ahead %  dollar gap t20
+       0.00            -0.379    12.053     16.019          1.306           73.75       66865.475
+       0.01            -0.238    12.053     18.438          1.487           75.25       84431.172
+       0.02            -0.086    12.053     21.117          1.684           77.50      107148.585
+       0.03             0.064    12.053     24.093          1.897           78.00      136945.994
+       0.05             0.308    12.053     31.118          2.381           76.75      230407.710
+   -> the percentage gap widens once, and only once, pay predicts
+      growth. That is the parameter Rich's expectation lives in.
+
+4. Direction check in the PSID file (88 people; heads aged 25-44, 10-yr windows)
+   naive         n=108 windows / 34 people   corr(log pay, later growth) = -0.588   low: 10.0%/yr  mid: 6.1%/yr  high: 1.9%/yr
+   split-sample  n=86 windows / 27 people   corr(log pay, later growth) = -0.378   low: 8.6%/yr  mid: 5.0%/yr  high: 3.3%/yr
+   -> in this panel higher earners grow SLOWER, even after ranking on
+      income two years earlier to blunt regression to the mean. Nominal,
+      total head income, tiny n -- a direction, not an estimate. It does
+      not support putting a positive elasticity in by default.

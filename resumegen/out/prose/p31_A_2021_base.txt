@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Dedicated and experienced software engineer with a rich history of delivering technical solutions across various industries. Known for a direct communication style and a passion for solving complex puzzles, I thrive in collaborative environments where technology and innovation meet to drive business forward.  
+
+**Education**  
+Bachelor's Degree in Information Systems, Northeastern University, 2003  
+
+**Work Experience**  
+
+**Systems Engineer, Capgemini, Buffalo, NY, US (2019–Present)**  
+Annual salary: $102,700  
+- Spearheaded the integration of cloud-based solutions resulting in a 20% reduction in operational costs.  
+- Led cross-functional teams to streamline software development processes, enhancing productivity by 30%.  
+
+**Systems Engineer, Applied Concepts, Albany, NY, US (2016–2019)**  
+Annual salary: $77,200  
+- Developed and deployed high-availability systems, improving uptime by 15% annually.  
+- Collaborated with stakeholders to implement software improvements, reducing system errors by 25%.  
+
+**Junior Software Engineer, Slesha, Jersey City, NJ (2010–2015)**  
+Annual salary: $69,200  
+- Engineered backend services for scalable applications that supported increased user loads by 40%.  
+- Automated testing processes, reducing QA time by 20%.  
+
+**Junior Software Engineer, American Technical Services, Mahwah, NJ (2007–2010)**  
+Annual salary: $62,000  
+- Contributed to the development of client-facing applications, enhancing user experience and engagement.  
+- Assisted in migrating legacy systems to modern platforms, improving performance by 30%.  
+
+**Junior Software Engineer, Tecton, Mahwah, NJ (2003–2007)**  
+Annual salary: $55,000  
+- Participated in the full software development lifecycle, gaining foundational skills in coding and debugging.  
+- Collaborated with senior engineers on various projects, fostering a keen understanding of industry best practices.

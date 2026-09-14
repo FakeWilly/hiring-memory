@@ -1,0 +1,31 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated software engineer with a decade of experience in developing innovative solutions and enhancing system performance. Known for a humorous communication style and a passion for solving complex puzzles, with a proven track record in delivering high-quality software products.
+
+**Work Experience**
+
+Senior Software Engineer, Serco, Syracuse, NY, US (2021–Present)  
+Annual salary: $115,600  
+- Spearheaded the development of a high-traffic web application that improved user engagement by 30%.  
+- Led a team of five engineers, enhancing code quality through code reviews and mentorship.
+
+Software Engineer, Central California Alliance for Health, Iselin, NJ, US (2018–2021)  
+Annual salary: $112,800  
+- Developed and deployed a key module that streamlined data processing, reducing operational costs by 20%.  
+- Collaborated with cross-functional teams to integrate new features, enhancing system functionality.
+
+Junior Software Engineer, Capgemini Engineering USA, Buffalo, NY (2014–2018)  
+Annual salary: $89,300  
+- Contributed to a major system overhaul, resulting in a 40% increase in processing speed.  
+- Automated reporting processes, saving the company over 200 man-hours annually.
+
+Junior Software Engineer, Chicago Financial Search, Albany, NY, US (2012–2014)  
+Annual salary: $82,000  
+- Assisted in the design and implementation of a secure data exchange system, improving data integrity.  
+- Developed test scripts that increased software reliability and reduced bugs by 25%.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2012

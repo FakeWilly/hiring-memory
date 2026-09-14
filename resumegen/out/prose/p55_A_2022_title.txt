@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in platform engineering and development, specializing in designing and optimizing software solutions. Adept at solving complex technical challenges, with a proven track record of improving system performance and scalability.
+
+**Education**  
+Associate's Degree in Statistics, Penn State University, 2000
+
+**Work History**
+
+**Staff Platform Engineer, Bozeman Health, Syracuse, NY, US (2021–Present)**  
+Annual salary: $194,000  
+- Spearheaded the development of a new internal application that improved data processing speed by 30%.  
+- Collaborated with cross-functional teams to integrate advanced security protocols, enhancing system protection against breaches.
+
+**Senior Platform Engineer, The DarkStar Group, Princeton, NJ, US (2019–2021)**  
+Annual salary: $189,300  
+- Developed and implemented a resilient cloud-based infrastructure, reducing downtime by 40%.  
+- Optimized existing software tools, which improved overall team productivity by 25%.
+
+**Senior Platform Engineer, Honeywell, Bridgewater, NJ, US (2015–2019)**  
+Annual salary: $169,100  
+- Led a team to redesign legacy systems, resulting in a 50% increase in processing efficiency.  
+- Implemented automated testing procedures, reducing software release cycle time by 15%.
+
+**Senior Platform Engineer, Crown Equipment Corporation, Rensselaer, NY, US (2011–2015)**  
+Annual salary: $151,800  
+- Developed a scalable software platform that supported an increase in user base by 300%.  
+- Enhanced system reliability, achieving a 99.9% uptime.
+
+**Senior Platform Engineer, Edward Jones, Franklin Lakes, NJ, US (2009–2011)**  
+Annual salary: $127,300  
+- Managed a project that reduced server load by 20% through efficient resource allocation.  
+- Pioneered a new feature that increased client satisfaction ratings by 15%.
+
+**Platform Engineer, Ascella Technologies, Jersey City, NJ (2004–2009)**  
+Annual salary: $91,600  
+- Implemented a data encryption protocol that increased data security levels by 40%.  
+- Played a key role in the successful migration of critical systems to new hardware.
+
+**Junior Software Engineer, National Funding, Hartford, CT, US (2000–2004)**  
+Annual salary: $63,300  
+- Contributed to the development of a financial application that streamlined client account management.  
+- Assisted in debugging processes that resulted in a 25% reduction in software errors.

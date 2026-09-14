@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Platform Engineer with over a decade in software engineering, skilled in designing and implementing robust infrastructure solutions. Known for a diplomatic communication style and a strong ability to work independently, I excel in delivering high-quality results while fostering collaborative team environments.
+
+**Work Experience**
+
+Senior Platform Engineer, The Nature Conservancy, Buffalo, NY (2021–Present)  
+Annual salary: $120,000  
+- Spearheaded the migration of legacy systems to cloud-based platforms, reducing operational costs by 20%.  
+- Led a cross-functional team to deploy a new CI/CD pipeline, increasing software deployment efficiency by 30%.
+
+Platform Engineer, Capital One, Buffalo, NY (2018–2021)  
+Annual salary: $117,100  
+- Developed and implemented infrastructure automation solutions, reducing server provisioning time by 40%.  
+- Collaborated with cybersecurity teams to enhance platform security, resulting in a 25% decrease in security incidents.
+
+Platform Engineer, Laiba Technologies, Whippany, NJ (2013–2018)  
+Annual salary: $103,800  
+- Designed and optimized distributed systems for high availability, improving service uptime by 15%.  
+- Successfully led an initiative to integrate third-party APIs, enhancing product functionality and user experience.
+
+Platform Engineer, GQR, Troy, NY, US (2009–2013)  
+Annual salary: $100,100  
+- Engineered scalable platform solutions to support growing business needs, achieving a 20% increase in system capacity.  
+- Collaborated with product teams to streamline application deployment processes, reducing release cycles by 25%.
+
+**Education**  
+Master's Degree in Information Systems, Northeastern University, 2009

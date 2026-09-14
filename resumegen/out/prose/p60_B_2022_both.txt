@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned software engineer with over 20 years of experience in developing and implementing software solutions. Known for a diplomatic communication style and a passion for tackling complex puzzles, I excel in collaborative environments and delivering innovative technology solutions.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 2001  
+
+**Work History**
+
+**Senior Software Engineer, AltaML, Parsippany-Troy Hills, NJ, US (2021–Present)**  
+Annual salary: $145,400  
+- Led the development of a machine learning platform that improved data processing speed by 30%.  
+- Collaborated with cross-functional teams to integrate AI solutions into existing software products, enhancing user experience.
+
+**Software Engineer, CPS Insurance Services, White Plains, NY, US (2016–2021)**  
+Annual salary: $129,800  
+- Developed a claims processing application that reduced processing time by 25%.  
+- Spearheaded a migration project to a new technology stack, resulting in improved system performance and reliability.
+
+**Software Engineer, Qualtrics, Andes, NY, US (2012–2016)**  
+Annual salary: $117,000  
+- Designed and implemented a customer feedback tool adopted by over 100 clients.  
+- Streamlined backend processes, reducing server downtime by 15%.
+
+**Software Engineer, NextDecade, East Syracuse, NY (2009–2012)**  
+Annual salary: $105,300  
+- Enhanced the functionality of legacy systems, increasing compatibility with modern software.  
+- Played a key role in the deployment of a new data analytics module.
+
+**Software Engineer, X Corp., Orchard Park, NY, US (2004–2009)**  
+Annual salary: $90,700  
+- Implemented a security enhancement that protected against data breaches.  
+- Developed features for an enterprise resource planning system used by large-scale clients.
+
+**Junior Software Engineer, American Axle & Manufacturing, Jersey City, NJ, US (2001–2004)**  
+Annual salary: $63,600  
+- Assisted in the development of automated testing tools, improving software validation processes.  
+- Contributed to the successful launch of a manufacturing software suite.

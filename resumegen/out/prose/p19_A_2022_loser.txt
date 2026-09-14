@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned software engineer with over 20 years of experience in backend development, combining a strong technical foundation with a collaborative approach to problem-solving. Known for delivering robust, scalable solutions and fostering team synergy in dynamic environments.
+
+**Education**  
+Master's Degree in Electrical Engineering, Baruch College, 2002
+
+**Work History**
+
+**Staff Backend Engineer, BRIDGE, Mahwah, NJ (2017–Present)**  
+Annual salary: $219,700  
+- Spearheaded the development of a high-availability backend system that improved service uptime by 30%.  
+- Mentored a team of junior engineers, fostering a culture of knowledge sharing and continuous improvement.
+
+**Senior Backend Engineer, GrowthWise Search Partners, Hartford, CT (2012–2017)**  
+Annual salary: $141,100  
+- Optimized legacy codebases, reducing response times by 20% and enhancing user experience.  
+- Collaborated with cross-functional teams to integrate emerging technologies, improving product offerings.
+
+**Senior Backend Engineer, Crown Equipment Corporation, Iselin, NJ (2009–2012)**  
+Annual salary: $129,100  
+- Led a project to modernize the company's data architecture, increasing data retrieval speed by 40%.  
+- Implemented security protocols that safeguarded sensitive information, aligning with industry standards.
+
+**Backend Engineer, Abbott, Groton, CT (2004–2009)**  
+Annual salary: $105,800  
+- Developed and maintained critical backend services, enhancing system reliability.  
+- Collaborated on multi-disciplinary projects to streamline operations and improve communication.
+
+**Backend Engineer, Teknoluxion, Hackensack, NJ (2002–2004)**  
+Annual salary: $99,100  
+- Assisted in the design and implementation of scalable backend solutions, supporting business growth.  
+- Participated in code reviews and debugging processes, ensuring high-quality deliverables.

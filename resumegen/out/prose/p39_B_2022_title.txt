@@ -1,0 +1,51 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Versatile and tech-savvy software engineer with nearly two decades of experience in developing innovative solutions across multiple industries. Known for excellent communication skills and a collaborative approach, I bring a proven track record of leading high-impact projects and mentoring engineering teams.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Stony Brook University, 2003
+
+**Work History**
+
+**Principal Software Engineer**, Cherokee Federal, Rensselaer, NY (2021–Present)  
+Annual salary: $222,000  
+- Spearheaded the development of a new enterprise-level application, improving efficiency by 30%.  
+- Acted as a key mentor for junior engineers, enhancing team productivity and morale.
+
+**Staff Software Engineer**, Microsoft, East Newark, NJ (2020–2021)  
+Annual salary: $216,600  
+- Led a cross-functional team to deliver a cloud-based solution that increased customer satisfaction by 20%.  
+- Initiated and implemented code optimization strategies, reducing processing time by 15%.
+
+**Senior Software Engineer**, Halliburton, Warren, NJ (2015–2020)  
+Annual salary: $144,300  
+- Developed a scalable system that supported a 50% increase in data processing capacity.  
+- Collaborated with international teams to integrate innovative technologies, enhancing global operations.
+
+**Senior Software Engineer**, Marathon Garden Center, Morris Plains, NJ (2013–2015)  
+Annual salary: $141,800  
+- Designed and deployed a customer-facing application that boosted user engagement by 40%.  
+- Streamlined software development processes, reducing project delivery times by two weeks.
+
+**Senior Software Engineer**, Altamira Technologies Corp., Bedminster, NJ (2011–2013)  
+Annual salary: $127,800  
+- Implemented a secure data-sharing platform, ensuring compliance with industry standards.  
+- Enhanced system reliability through rigorous testing and debugging processes.
+
+**Software Engineer**, LegalZoom, Hartford, CT (2008–2011)  
+Annual salary: $104,300  
+- Contributed to the development of a web-based legal service platform that increased market reach by 25%.  
+- Improved application performance by optimizing database queries and algorithms.
+
+**Software Engineer**, McClatchy, Greene, NY (2006–2008)  
+Annual salary: $88,400  
+- Developed content management features for a digital news platform, broadening its functionality.  
+- Collaborated with editorial teams to implement user-friendly interfaces.
+
+**Junior Software Engineer**, New York ISO, Old Westbury, NY (2003–2006)  
+Annual salary: $62,400  
+- Participated in the development of energy management software, enhancing grid reliability.  
+- Assisted in the documentation and maintenance of legacy systems, ensuring smooth operation.

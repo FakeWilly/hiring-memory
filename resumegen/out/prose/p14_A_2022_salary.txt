@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over a decade of experience in developing innovative solutions. Known for a humorous communication style and a passion for puzzles, I excel in collaborative environments and enjoy tackling complex challenges.
+
+**Education**  
+Master's Degree in Electrical Engineering, Northeastern University, 2009
+
+**Work History**
+
+Senior Software Engineer, Outscal Technologies, Franklin Lakes, NJ, US (2021–Present)  
+Annual salary: $143,100  
+- Spearheaded the development of a new software platform, reducing deployment time by 30%.  
+- Mentored a team of 5 junior engineers, enhancing their coding skills and productivity.  
+
+Senior Software Engineer, ResortPass, New York, NY, USA (2020–2021)  
+Annual salary: $127,800  
+- Improved system reliability by implementing a robust error-handling framework.  
+- Collaborated with cross-functional teams to launch a high-traffic web application, increasing user engagement by 20%.  
+
+Senior Software Engineer, Select Search Associates LLC, Mahwah, NJ (2017–2020)  
+Annual salary: $126,900  
+- Led the migration of legacy systems to a cloud-based infrastructure, enhancing scalability.  
+- Designed and executed a real-time data processing module, reducing latency by 40%.  
+
+Software Engineer, Julia Computing, East Newark, NJ, US (2014–2016)  
+Annual salary: $100,400  
+- Developed a high-performance computing application, increasing efficiency by 25%.  
+- Implemented continuous integration practices, reducing code deployment time by 50%.  
+
+Software Engineer, Govcio LLC, Groton, CT, US (2009–2014)  
+Annual salary: $92,000  
+- Designed and maintained software solutions for government clients, ensuring compliance with industry standards.  
+- Enhanced application performance, resulting in a 15% reduction in processing time.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over a decade in the industry, specializing in developing scalable solutions for diverse business needs. Known for a reserved communication style and a strong technical acumen, consistently delivering high-quality results in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Penn State University, 2011
+
+**Work History**
+
+Staff Software Engineer, OPSWAT, Newark, NJ (2021–Present)  
+Annual salary: $165,400  
+- Spearheaded the development of a high-traffic cybersecurity tool that increased threat detection efficiency by 30%.  
+- Collaborated with a cross-functional team to streamline DevOps processes, reducing deployment time by 40%.
+
+Senior Software Engineer, The Daniel Group, Newark, NJ (2020–2021)  
+Annual salary: $161,400  
+- Led a team of five engineers in the successful launch of a new product line that contributed to a revenue increase of $2M annually.  
+- Implemented a comprehensive testing framework that reduced bug-related support tickets by 25%.
+
+Software Engineer, Moveworks, Bedminster, NJ (2017–2020)  
+Annual salary: $118,300  
+- Developed an automated system for data processing that improved operational efficiency by 20%.  
+- Played a key role in migrating legacy systems to cloud-based solutions, enhancing overall data accessibility.
+
+Software Engineer, Radiance Technologies Inc., Rochester, NY (2015–2017)  
+Annual salary: $107,600  
+- Designed and implemented an innovative software module that enhanced system performance by 15%.  
+- Assisted in the integration of third-party APIs, expanding the platform's capabilities.
+
+Junior Software Engineer, Docusign, Jersey City, NJ (2011–2015)  
+Annual salary: $73,000  
+- Contributed to the development and maintenance of core software products, supporting a user base of over 1 million clients.  
+- Participated in code reviews and collaborative projects, fostering a team-oriented development culture.

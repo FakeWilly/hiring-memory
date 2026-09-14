@@ -1,0 +1,22 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with a strong background in mathematics and a passion for technology. Proven track record in developing efficient software solutions and data engineering, coupled with a keen interest in problem-solving and innovation.
+
+**Education**  
+Bachelor's Degree in Mathematics, University of Connecticut, 2012
+
+**Work Experience**  
+
+Junior Software Engineer, Blueprint Technologies, Rochester, NY (2012–2016)  
+Annual salary: $86,700  
+- Collaborated with senior engineers to develop and maintain software applications, enhancing system performance and reliability.  
+- Developed automated testing scripts that reduced bugs and improved code quality by 20%.  
+- Assisted in the migration of legacy systems to updated platforms, resulting in improved software maintainability.
+
+Data Engineer, The University of Chicago, Morris Plains, NJ (2017–Present)  
+Annual salary: $100,900  
+- Implemented data processing systems that increased data retrieval speed by 35%, enhancing the overall efficiency of data analysis processes.  
+- Designed and built scalable data pipelines, contributing to a 40% increase in data handling capacity.  
+- Collaborated with cross-functional teams to integrate data solutions, improving data access and usability for research projects.

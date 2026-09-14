@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+A highly experienced software engineer with a unique blend of technical expertise and a humorous communication style. Skilled in developing innovative solutions, I thrive in challenging environments, enjoy solving complex puzzles, and excel in enhancing software functionality and performance.
+
+**Education**  
+Master's Degree in Software Engineering, Rochester Institute of Technology, 2001  
+
+**Work History**  
+
+**Software Engineer, Captivation Software, Groton, CT, US (2001–2004)**  
+Annual salary: $95,400  
+- Developed and maintained software applications, reducing system loading times by 15% through optimized code.  
+- Collaborated with a cross-functional team to implement a new feature set, improving user engagement by 30%.  
+
+**Software Engineer, Airwallex, Rochester, NY, USA (2004–2006)**  
+Annual salary: $105,100  
+- Designed and implemented software modules that enhanced system efficiency by 25%.  
+- Automated regression testing, cutting testing time by 40% and increasing overall product reliability.  
+
+**Software Engineer, Knowhirematch, Bridgewater, NJ, US (2006–2008)**  
+Annual salary: $113,300  
+- Spearheaded the development of a key project that increased customer satisfaction scores by 20%.  
+- Improved the software deployment process, decreasing downtime by 50%.  
+
+**Senior Software Engineer, NEOnet, Troy, NY, US (2008–2012)**  
+Annual salary: $121,400  
+- Led a team to develop a scalable architecture for high-traffic applications, boosting performance by 35%.  
+- Introduced a code review system that reduced bugs in production by 60%.  
+
+**Staff Software Engineer, OpenAI, Mount Laurel, NJ, US (2012–2017)**  
+Annual salary: $167,000  
+- Engineered machine learning algorithms that increased prediction accuracy by 40%.  
+- Mentored junior engineers, fostering a culture of continuous learning and development.  
+
+**Staff Software Engineer, Inspire Medical Systems I, Hackensack, NJ, US (2017–2020)**  
+Annual salary: $213,300  
+- Developed a cutting-edge software platform that supported the launch of a new product line, increasing revenue by $5M.  
+- Optimized backend processes, reducing operational costs by 20%.  
+
+**Staff Software Engineer, Vision IT, Mount Laurel, NJ, US (2020–Present)**  
+Annual salary: $235,100  
+- Implemented advanced data analytics solutions, improving decision-making processes by 45%.  
+- Played a key role in migrating legacy systems to cloud infrastructure, enhancing system scalability and resilience.

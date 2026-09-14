@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in developing and implementing innovative solutions to complex technical challenges. Direct communication style and a passion for problem-solving through software development drive consistent team success.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**
+
+**Senior Systems Engineer, Palo Alto Networks, Astoria, NY (2021–Present)**  
+Annual salary: $103,800  
+- Spearheaded the development of a cloud-based security solution that increased threat detection efficiency by 30%.  
+- Collaborated with cross-functional teams to integrate new security protocols, enhancing system uptime by 15%.
+
+**Systems Engineer, LRP Media Group, East Syracuse, NY (2019–2021)**  
+Annual salary: $101,300  
+- Led the redesign of core infrastructure, reducing latency issues by 40% and improving overall system performance.  
+- Implemented a new monitoring system that decreased downtime by 20% and streamlined incident response.
+
+**Systems Engineer, BNY, New York, NY (2016–2019)**  
+Annual salary: $77,400  
+- Developed an automated reporting tool that improved data accuracy and reduced manual processing time by 25%.  
+- Played a key role in a major system migration project, ensuring seamless transition and minimal disruption to services.
+
+**Junior Software Engineer, Allied Solutions, East Newark, NJ, US (2010–2015)**  
+Annual salary: $68,700  
+- Enhanced application performance by optimizing code, resulting in a 15% increase in processing speed.  
+- Assisted in the development of a key feature that became a competitive differentiator for the company.
+
+**Junior Software Engineer, Teradyne, Binghamton, NY (2007–2010)**  
+Annual salary: $61,800  
+- Contributed to the design and implementation of a testing framework that reduced QA time by 20%.  
+- Collaborated with senior engineers to improve system reliability, contributing to a 10% reduction in bug reports.
+
+**Junior Software Engineer, Belt Power LLC, Syracuse, NY, US (2003–2007)**  
+Annual salary: $55,000  
+- Developed and maintained core software components, ensuring consistent performance and reliability.  
+- Participated in a team that successfully delivered a critical project on time and under budget.

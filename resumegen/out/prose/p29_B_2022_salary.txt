@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned software engineer with over two decades of experience in developing robust software applications. Proficient in leading teams, optimizing software performance, and fostering collaborative environments to achieve project goals.
+
+**Education**  
+Associate's Degree in Statistics, Baruch College, 2000  
+
+**Work History**  
+
+**Staff Software Engineer, ShorePoint, Iselin, NJ, US (2021–Present)**  
+Annual salary: $234,900  
+- Spearheaded the development of a high-availability data processing system, improving processing speed by 40%.  
+- Mentored a team of junior developers, enhancing their coding skills and improving team productivity by 25%.
+
+**Staff Software Engineer, EMCOR, Buffalo, NY (2019–2021)**  
+Annual salary: $209,700  
+- Led the integration of AI-driven analytics, contributing to a 30% rise in user engagement.  
+- Collaborated with cross-functional teams to deploy a scalable microservices architecture.
+
+**Staff Software Engineer, Reliable Robotics, Melville, NY, US (2016–2019)**  
+Annual salary: $176,500  
+- Developed a system that reduced operational costs by 20% through automated processes.  
+- Played a key role in the migration to cloud-based solutions, enhancing system reliability.
+
+**Senior Software Engineer, CloudRay Inc, Andes, NY, US (2013–2016)**  
+Annual salary: $123,600  
+- Enhanced performance of legacy systems, reducing latency by 50%.  
+- Implemented a robust testing framework, decreasing bug occurrences by 35%.
+
+**Senior Software Engineer, TheMasonGroup, Syracuse, NY, US (2008–2012)**  
+Annual salary: $123,700  
+- Designed new features for client applications resulting in a 15% customer satisfaction increase.  
+- Streamlined the deployment process, cutting down release time by 40%.
+
+**Software Engineer, BoldTek, East Newark, NJ, US (2005–2008)**  
+Annual salary: $88,600  
+- Developed and optimized backend services, increasing data throughput by 30%.  
+- Collaborated in a cross-functional team to design user-centric software solutions.
+
+**Junior Software Engineer, archer, Rochester, NY, USA (2000–2005)**  
+Annual salary: $59,000  
+- Contributed to the development of key modules for a major software application.  
+- Assisted in debugging and resolving critical software issues, enhancing system stability.

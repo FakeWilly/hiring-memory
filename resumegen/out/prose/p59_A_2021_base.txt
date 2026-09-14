@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and diplomatic software engineer with a strong foundation in information systems and a consistent track record of delivering high-quality software solutions. Known for punctuality and a collaborative spirit, leveraging over nine years of experience to drive innovation and efficiency in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, Penn State University, 2012  
+
+**Work History**  
+
+**Software Engineer, Cohesity, Jersey City, NJ, US (2020–Present)**  
+Annual salary: $125,300  
+- Spearheaded a project to optimize data storage solutions, resulting in a 30% increase in system efficiency.  
+- Collaborated with cross-functional teams to develop a new software feature that enhanced user interface experience, receiving positive customer feedback.  
+
+**Software Engineer, HubSpot, Old Westbury, NY (2015–2020)**  
+Annual salary: $107,700  
+- Engineered scalable applications that supported over one million users, contributing to a 25% growth in user engagement.  
+- Implemented automated testing procedures, reducing bug-related incidents by 40% and improving deployment reliability.  
+
+**Junior Software Engineer, Cohesity, Binghamton, NY (2012–2015)**  
+Annual salary: $75,700  
+- Assisted in the development of a cloud-based solution that improved data retrieval times by 20%.  
+- Collaborated in a team to design a new software module, which contributed to a 15% increase in customer satisfaction ratings.

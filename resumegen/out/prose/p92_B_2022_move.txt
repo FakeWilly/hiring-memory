@@ -1,0 +1,44 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Experienced software engineer with over a decade of experience in developing robust software solutions. Adept at leading teams to success in fast-paced and tech-driven environments, specializing in full-stack development and project management.
+
+---
+
+**Education**  
+Master's Degree in Electrical Engineering, Penn State University, 2009
+
+---
+
+**Work History**
+
+**Senior Software Engineer**, Gateway Sourcing, LLC, New York, NY, USA (2021–Present)  
+Annual salary: $143,900  
+- Spearheaded the development of a new application framework, reducing deployment times by 30%.  
+- Collaborated with cross-functional teams to enhance software scalability, leading to a 25% increase in performance metrics.
+
+**Senior Software Engineer**, 2H Talent LLC, Franklin Lakes, NJ, US (2018–2021)  
+Annual salary: $140,400  
+- Led a team of six engineers to refactor legacy systems, improving code maintainability and reducing system outages by 40%.  
+- Implemented automated testing processes that increased the efficiency of the QA team by 50%.
+
+**Senior Software Engineer**, Knowledge Management, Inc., Mount Laurel, NJ, US (2016–2018)  
+Annual salary: $100,700  
+- Developed and optimized backend solutions, resulting in a 20% reduction in server response times.  
+- Managed project timelines and resources, ensuring on-time delivery of software projects.
+
+**Software Engineer**, ThinkGeo LLC, Binghamton, NY (2011–2016)  
+Annual salary: $98,100  
+- Successfully designed and deployed a GIS application used by over 500 clients nationwide.  
+- Enhanced data processing algorithms, improving data accuracy and retrieval speeds by 15%.
+
+**Software Engineer**, WEX Inc., Rochester, NY, US (2009–2011)  
+Annual salary: $91,400  
+- Contributed to the development of a multi-platform payment processing system, streamlining transaction workflows.  
+- Collaborated with senior engineers to implement new security protocols, increasing system security by 30%.
+
+---

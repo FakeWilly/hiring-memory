@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in systems engineering and a passion for developing innovative solutions. Adept at working in collaborative team environments while leveraging technical skills to drive project success in the New York metro area.
+
+**Work Experience**  
+
+Junior Software Engineer, Kunz, Leigh & Associates, Parsippany-Troy Hills, NJ, US (2003–2006)  
+Annual salary: $60,100  
+- Assisted in the development of client-side applications, improving user interface functionality by 20%.  
+- Collaborated with senior engineers to troubleshoot and resolve software issues, reducing bug-related delays by 15%.
+
+Systems Engineer, Anduril Industries, Mount Laurel, NJ, US (2006–2009)  
+Annual salary: $83,000  
+- Enhanced system performance by implementing new software algorithms, leading to a 25% increase in process efficiency.  
+- Coordinated cross-functional teams to streamline software deployment processes, reducing project timelines by 10%.
+
+Systems Engineer, SimVentions, White Plains, NY, US (2009–2011)  
+Annual salary: $93,500  
+- Developed and integrated system solutions that improved operational reliability by 30%.  
+- Spearheaded the implementation of automated testing procedures, cutting testing time by 40%.
+
+Systems Engineer, AS&E, Bridgewater, NJ, US (2011–2016)  
+Annual salary: $99,800  
+- Led a project team to design a scalable software system, resulting in a 50% increase in system capacity.  
+- Optimized codebase structures to enhance system performance, leading to a 35% reduction in load times.
+
+Systems Engineer, SAIC, Bedminster, NJ, US (2016–Present)  
+Annual salary: $117,000  
+- Managed the successful deployment of a multi-platform software suite, reducing operational costs by 20%.  
+- Implemented cybersecurity measures that increased data protection levels by 40%.
+
+**Education**  
+Bachelor's Degree in Mathematics, CUNY City College, 2003

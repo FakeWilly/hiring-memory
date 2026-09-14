@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a robust background in developing and implementing software solutions. Skilled in collaborating with cross-functional teams to drive innovation and efficiency across projects.
+
+**Education**  
+Bachelor's Degree in Statistics, CUNY City College, 2004
+
+**Work History**  
+
+**Junior Software Engineer, Applied Concepts, East Syracuse, NY (2004–2008)**  
+Annual salary: $57,900  
+- Developed and maintained internal software applications, improving system performance by 20%.  
+- Assisted in the migration to a new database system, resulting in enhanced data retrieval speed.
+
+**Junior Software Engineer, EMCOR, East Newark, NJ (2008–2013)**  
+Annual salary: $66,700  
+- Collaborated on a team to design and implement a software solution that reduced processing time by 30%.  
+- Led debugging and troubleshooting efforts for the client-side applications, increasing customer satisfaction.
+
+**Software Engineer, Anduril Industries, New York, NY (2013–2018)**  
+Annual salary: $101,000  
+- Designed and developed scalable software systems that supported a 50% increase in user base.  
+- Integrated new technologies into existing systems, enhancing functionality and user experience.
+
+**Senior Software Engineer, USAA, Melville, NY (2018–2021)**  
+Annual salary: $103,900  
+- Spearheaded the development of a critical application, contributing to a 40% increase in operational efficiency.  
+- Mentored junior engineers, fostering a culture of knowledge sharing and continuous improvement.
+
+**Staff Software Engineer, National Services Group, Inc., Albany, NY (2021–Present)**  
+Annual salary: $106,500  
+- Lead architect for a cloud-based platform, enabling seamless integration with client systems.  
+- Championed agile methodologies within the team, resulting in a 25% reduction in project delivery time.

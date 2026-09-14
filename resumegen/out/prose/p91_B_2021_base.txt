@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Results-driven software engineer with over a decade of experience in developing and implementing innovative solutions. Known for exceptional punctuality and open communication, I excel in collaborative environments and am passionate about leveraging technology to solve complex challenges.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Baruch College, 2009
+
+**Work Experience**  
+
+Senior Software Engineer, Dennis Group Salt Lake City, Rochester, NY (2017–Present)  
+Annual salary: $146,100  
+- Led a team of engineers to successfully develop and deploy a scalable data processing platform, reducing processing time by 40%.  
+- Spearheaded the migration of legacy systems to cloud-based solutions, enhancing system reliability and uptime by 30%.  
+
+Software Engineer, Celonis, Rochester, NY (2012–2017)  
+Annual salary: $96,700  
+- Developed and optimized algorithms for process mining software, improving data processing speeds by 20%.  
+- Collaborated with cross-functional teams to design and implement new features based on client feedback, resulting in a 15% increase in user satisfaction.  
+
+Junior Software Engineer, Plexe LLC, Hackensack, NJ (2009–2012)  
+Annual salary: $71,900  
+- Assisted in the development and maintenance of web applications, contributing to a 25% increase in site traffic.  
+- Enhanced user interface designs, leading to a more intuitive user experience and a 10% reduction in user errors.

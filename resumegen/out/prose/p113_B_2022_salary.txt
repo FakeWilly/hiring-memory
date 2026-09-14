@@ -1,0 +1,38 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Dynamic and results-driven software engineer with over 18 years of experience in developing innovative solutions across various industries. Known for a direct communication style and exceptional organizational skills, committed to delivering high-quality, efficient software products.
+
+**Education**  
+Bachelor's Degree in Mathematics, Northeastern University, 2004
+
+**Work History**
+
+Senior Software Engineer, OSG Corporation, Andes, NY, US (2021–Present)  
+Annual salary: $157,800  
+- Spearheaded the development of a high-throughput data processing pipeline, reducing processing time by 30%.  
+- Implemented a code review system that improved code quality and reduced bugs by 25%.
+
+Senior Software Engineer, Barclays, Melville, NY, US (2017–2021)  
+Annual salary: $140,900  
+- Led a team in revamping the core trading platform, resulting in a 40% performance increase.  
+- Developed a real-time monitoring tool that decreased system downtime by 20%.
+
+Senior Software Engineer, PODS, Rensselaer, NY, US (2014–2017)  
+Annual salary: $99,600  
+- Designed and optimized a scalable cloud architecture, reducing infrastructure costs by 15%.  
+- Enhanced application security protocols, successfully mitigating potential security breaches.
+
+Software Engineer, LTK, Lakewood, NJ (2009–2014)  
+Annual salary: $90,500  
+- Improved system reliability by implementing robust testing frameworks, decreasing defect rates by 35%.  
+- Automated deployment processes, cutting release times by 50%.
+
+Junior Software Engineer, Robert Half, Jersey City, NJ, US (2004–2009)  
+Annual salary: $67,800  
+- Collaborated on developing a customer relationship management system, increasing user engagement by 20%.  
+- Assisted in migrating legacy systems to modern platforms, improving efficiency and maintainability.

@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in developing innovative solutions for public and private sector organizations. Highly organized with a diplomatic communication style, consistently delivering projects on time and within budget.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2003
+
+**Work History**
+
+**Senior Software Engineer, Truenorth Corporation, Binghamton, NY (2021–Present)**  
+Annual salary: $164,100  
+- Spearheaded the development of a cloud-based infrastructure that reduced operational costs by 20%.  
+- Implemented a new code review process that improved code quality and decreased bugs by 30%.
+
+**Senior Software Engineer, Boats Group, Newark, NJ (2019–2021)**  
+Annual salary: $146,500  
+- Led a team to redesign the user interface for a major product, enhancing user satisfaction scores by 25%.  
+- Developed a scalable microservices architecture that increased system reliability and reduced downtime by 50%.
+
+**Software Engineer, Dezign Concepts LLC, Newark, NJ (2014–2019)**  
+Annual salary: $121,200  
+- Designed and implemented a robust API, enabling seamless integration with third-party applications.  
+- Improved system performance by 40% through code optimization and database redesign.
+
+**Software Engineer, Applied Concepts, Warren, NJ (2011–2014)**  
+Annual salary: $113,300  
+- Collaborated on a cross-functional team to deliver a key software solution ahead of schedule, boosting client satisfaction.  
+- Enhanced legacy systems, resulting in a 15% increase in processing speed.
+
+**Software Engineer, Vast, Mount Laurel, NJ (2009–2011)**  
+Annual salary: $102,800  
+- Developed and maintained software applications for enterprise clients, ensuring high availability and reliability.  
+- Automated routine tasks, reducing manual workload by 30%.
+
+**Software Engineer, Tangelo, Syracuse, NY (2006–2009)**  
+Annual salary: $87,600  
+- Contributed to the development of a critical business application, leading to a 10% increase in efficiency.  
+- Streamlined codebase, reducing technical debt and improving maintainability.
+
+**Junior Software Engineer, City of Wildwood, Buffalo, NY (2003–2006)**  
+Annual salary: $60,600  
+- Assisted in the development of municipal software, enhancing public access to services.  
+- Conducted system analysis to identify bottlenecks, improving system response time by 15%.

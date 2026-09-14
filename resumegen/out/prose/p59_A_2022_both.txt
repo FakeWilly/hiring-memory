@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly motivated and tech-savvy software engineer with over a decade of experience in developing robust software solutions. Adept at working collaboratively to solve complex problems and committed to delivering high-quality results on time.
+
+**Education**  
+Bachelor's Degree in Information Systems, Penn State University, 2012
+
+**Work Experience**  
+
+Senior Software Engineer, MaidCentral Software, Albany, NY, US (2021–Present)  
+Annual salary: $140,300  
+- Led the development of a new feature set that increased customer retention by 20% within the first quarter of launch.  
+- Spearheaded a project that reduced system downtime by 35% through implementing advanced monitoring tools.  
+
+Software Engineer, Cohesity, Jersey City, NJ, US (2020–2021)  
+Annual salary: $125,300  
+- Integrated a new API that improved data processing speed by 50%.  
+- Collaborated with cross-functional teams to enhance the security framework, resulting in a 40% decrease in vulnerabilities.  
+
+Software Engineer, HubSpot, Old Westbury, NY (2015–2020)  
+Annual salary: $107,700  
+- Developed a scalable web application that supported a 60% increase in user traffic.  
+- Optimized existing codebase, improving execution speed by up to 30%.  
+
+Junior Software Engineer, Cohesity, Binghamton, NY (2012–2015)  
+Annual salary: $75,700  
+- Contributed to the design and implementation of a key component for a cloud-based solution.  
+- Assisted in improving code efficiency, leading to a 15% reduction in runtime.

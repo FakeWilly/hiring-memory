@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with extensive experience in designing and implementing scalable software solutions. Adept at collaborating across teams to deliver high-quality products in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2005
+
+**Work History**
+
+**Junior Software Engineer, AIR Communities, Newark, NJ, US (2005–2007)**  
+Annual salary: $69,700  
+- Developed and maintained web-based applications, improving load times by 20%.  
+- Assisted in debugging and testing software, contributing to a 15% reduction in reported bugs.  
+
+**Software Engineer, Concept Plus, Rensselaer, NY, US (2007–2010)**  
+Annual salary: $95,900  
+- Collaborated on a team to design a customer management system, increasing user engagement by 30%.  
+- Led the integration of APIs, improving system interoperability and reducing manual data entry by 40%.  
+
+**Software Engineer, Nexagen Networks Inc, East Syracuse, NY (2010–2014)**  
+Annual salary: $105,200  
+- Spearheaded the development of a network monitoring tool, reducing downtime by 25%.  
+- Optimized existing codebases, leading to a 15% increase in system performance.  
+
+**Senior Software Engineer, Vaco, Rochester, NY, US (2014–2017)**  
+Annual salary: $155,800  
+- Directed a team in the successful launch of a large-scale data analytics platform, enhancing data processing speed by 40%.  
+- Mentored junior engineers, fostering a culture of continuous improvement and professional development.  
+
+**Staff Software Engineer, Intel Corporation, Astoria, NY (2017–Present)**  
+Annual salary: $192,200  
+- Architected innovative software solutions, leading to a 50% increase in project delivery speed.  
+- Implemented advanced algorithms, improving computational efficiency across multiple projects.

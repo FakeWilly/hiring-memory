@@ -1,0 +1,31 @@
+[NAME]  
+New York Metro Area  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy platform engineer with over a decade of experience in designing and implementing robust software solutions. Known for a humorous communication style and a knack for problem-solving, I thrive in challenging environments where my skills in software engineering can be fully utilized.
+
+**Education**  
+Master's Degree in Electrical Engineering, Rutgers University, 2008
+
+**Work History**
+
+Platform Engineer, scratchpad, Lakewood, NJ (2018–Present)  
+Annual salary: $132,700  
+- Spearheaded the migration of legacy systems to cloud-based infrastructure, reducing operational costs by 30%.  
+- Implemented automated deployment processes, decreasing release cycle times by 40%.
+
+Platform Engineer, HashiCorp, Bridgewater, NJ (2016–2018)  
+Annual salary: $114,300  
+- Collaborated on the development of scalable networking solutions, enhancing platform efficiency by 25%.  
+- Led a cross-functional team in optimizing data management systems, improving data retrieval times by 50%.
+
+Platform Engineer, Zedcor Inc., Hartford, CT, US (2011–2015)  
+Annual salary: $124,400  
+- Developed a high-performance computation platform, achieving a 20% increase in processing speed.  
+- Streamlined software deployment strategies, reducing downtime by 15%.
+
+Platform Engineer, Vulcan Wireless, Inc., Kingston, NY, US (2008–2011)  
+Annual salary: $111,500  
+- Engineered core components of a wireless communication platform, resulting in a 10% increase in network reliability.  
+- Enhanced system scalability, supporting a 35% increase in user base over three years.

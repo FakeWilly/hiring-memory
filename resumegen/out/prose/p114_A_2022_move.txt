@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Systems Engineer with a strong background in software development and a knack for solving complex puzzles. Known for a humorous approach to team dynamics, I leverage my tech-savvy nature and extensive experience to drive innovative solutions and optimize system performance.
+
+**Education**  
+Associate's Degree in Electrical Engineering, CUNY City College, 1999  
+
+**Work History**  
+
+Staff Systems Engineer, Clear Street, Kingston, NY, US (2021–Present)  
+Annual salary: $216,500  
+- Spearheaded the integration of new technology platforms, resulting in a 30% increase in system efficiency.  
+- Developed automated solutions that reduced the time needed for routine maintenance by 20%.  
+
+Staff Systems Engineer, Odyssey Systems Consulting Group, Franklin Lakes, NJ, US (2018–2021)  
+Annual salary: $211,200  
+- Led a team of engineers in the successful deployment of a large-scale infrastructure project.  
+- Enhanced system security protocols, reducing vulnerability incidents by 40%.  
+
+Staff Systems Engineer, Hungryroot, Jersey City, NJ (2014–2018)  
+Annual salary: $187,600  
+- Optimized backend processes, leading to a 25% reduction in downtime.  
+- Collaborated with cross-functional teams to implement innovative data storage solutions.  
+
+Senior Systems Engineer, Nexagen Networks Inc, East Newark, NJ, US (2010–2014)  
+Annual salary: $135,400  
+- Directed a major system overhaul that improved data processing speeds by 50%.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.  
+
+Systems Engineer, TheMasonGroup, Groton, CT, US (2006–2010)  
+Annual salary: $100,100  
+- Engineered a new analytics tool that enhanced data accuracy by 15%.  
+- Played a key role in transitioning legacy systems to modern platforms.  
+
+Systems Engineer, Inspire Medical Systems I, Morris Plains, NJ, US (2002–2006)  
+Annual salary: $85,000  
+- Developed a custom software application that improved patient data management.  
+- Streamlined system operations, resulting in a 20% improvement in response time.  
+
+Junior Software Engineer, Akina, Inc., Parsippany-Troy Hills, NJ, US (1999–2002)  
+Annual salary: $64,400  
+- Contributed to the development of key software modules, increasing product functionality.  
+- Assisted in implementing version control systems, improving team collaboration and code integrity.

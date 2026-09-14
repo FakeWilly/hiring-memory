@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in frontend development and a strong foundation in statistical analysis. Known for a diplomatic communication style and a passion for solving complex problems, I excel in fast-paced environments requiring innovative solutions and teamwork.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2008  
+
+**Work History**  
+
+Senior Frontend Engineer, Ultimate Technologies Group, Orchard Park, NY, US (2021–Present)  
+Annual salary: $114,600  
+- Led a team to develop and optimize a responsive web application that increased client engagement by 30%.  
+- Implemented a new code review process that reduced bugs in production by 25%.  
+
+Frontend Engineer, M&T Bank, Rensselaer, NY, US (2018–2021)  
+Annual salary: $102,300  
+- Spearheaded the redesign of the customer web portal, resulting in a 40% improvement in user satisfaction scores.  
+- Collaborated with cross-functional teams to integrate new features, boosting performance by 20%.  
+
+Junior Software Engineer, Cognizant Technology Solutions, Binghamton, NY (2016–2018)  
+Annual salary: $73,200  
+- Contributed to the development of scalable software solutions, improving system efficiency by 15%.  
+- Assisted in debugging and troubleshooting critical issues, reducing downtime by 50%.  
+
+Junior Software Engineer, Hyun LLC, Old Westbury, NY (2010–2015)  
+Annual salary: $75,600  
+- Participated in the creation of internal tools that streamlined workflow, cutting project completion time by 10%.  
+- Collaborated closely with senior engineers to enhance software quality and reliability.  
+
+Junior Software Engineer, Comcast, Bedminster, NJ, US (2008–2010)  
+Annual salary: $72,800  
+- Developed key components for customer service applications, enhancing user experience and operational speed.  
+- Successfully integrated new technologies that improved system flexibility and scalability.

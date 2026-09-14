@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in diverse development environments. Adept at solving complex problems and delivering efficient software solutions, with a passion for continuous learning and improvement.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2008
+
+**Work Experience**  
+
+Frontend Engineer, M&T Bank, Rensselaer, NY, US (2018–Present)  
+Annual salary: $102,300  
+- Led the redesign of the user interface for the bank's online platform, improving customer satisfaction scores by 25%.  
+- Collaborated with cross-functional teams to integrate new features, accelerating release cycles by 15%.  
+
+Junior Software Engineer, Cognizant Technology Solutions, Binghamton, NY (2016–2018)  
+Annual salary: $73,200  
+- Developed and maintained software applications for enterprise clients, resulting in a 30% increase in operational efficiency.  
+- Assisted in the migration of legacy systems to cloud-based solutions, reducing infrastructure costs by 20%.  
+
+Junior Software Engineer, Hyun LLC, Old Westbury, NY (2010–2015)  
+Annual salary: $75,600  
+- Contributed to the development of scalable web applications, enhancing system performance by 40%.  
+- Implemented automated testing protocols, decreasing bug occurrence by 35%.  
+
+Junior Software Engineer, Comcast, Bedminster, NJ, US (2008–2010)  
+Annual salary: $72,800  
+- Participated in the development of customer service software, reducing response time by 15%.  
+- Collaborated with senior engineers to streamline code review processes, increasing team productivity by 10%.

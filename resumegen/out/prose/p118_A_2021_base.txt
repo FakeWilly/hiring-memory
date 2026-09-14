@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 15 years in the tech industry, known for exceptional organizational skills and a keen ability to develop efficient software solutions. Passionate about leveraging expertise in back-end development and team leadership to drive project success in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Computer Science, University of Connecticut, 2005
+
+**Work History**  
+
+**Staff Software Engineer, Updater, Mount Laurel, NJ, US (2017–Present)**  
+Annual salary: $165,500  
+- Spearheaded the development of a new API architecture that reduced system response times by 30%.  
+- Led a team of six engineers to successfully complete a major software release three weeks ahead of schedule.  
+
+**Senior Software Engineer, Optizm Inc, East Newark, NJ, US (2015–2017)**  
+Annual salary: $119,900  
+- Developed and implemented a microservices-based architecture that improved software scalability and maintainability.  
+- Collaborated with cross-functional teams to enhance user experience, increasing customer satisfaction by 20%.  
+
+**Senior Software Engineer, Zedcor Inc., East Syracuse, NY (2011–2014)**  
+Annual salary: $124,900  
+- Architected a cloud-based solution that supported a 40% growth in user base without performance degradation.  
+- Mentored junior engineers, leading to a 50% improvement in their performance evaluations over a year.  
+
+**Software Engineer, Reliability Center, Rochester, NY, USA (2009–2011)**  
+Annual salary: $89,400  
+- Designed and deployed a fault-tolerant system that improved uptime by 25%.  
+- Initiated and contributed to code reviews that reduced bugs in production by 15%.  
+
+**Junior Software Engineer, CPS Insurance Services, Old Westbury, NY (2005–2009)**  
+Annual salary: $60,700  
+- Assisted in developing a customer management system that enhanced client interactions and reduced processing time by 20%.  
+- Implemented an automated testing framework that decreased manual testing efforts by 30%.  
+
+**Interests**  
+Enjoys hiking and playing sports during personal time.  
+
+---

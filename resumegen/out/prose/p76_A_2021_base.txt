@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy frontend engineer with over a decade of experience in developing innovative user interfaces and enhancing web functionalities. Known for a humorous communication style and a knack for solving complex problems, I bring a unique blend of creativity and technical expertise to every project.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2009
+
+**Work History**  
+
+**Senior Frontend Engineer, RFA Engineering, New York, NY (2020–Present)**  
+Annual salary: $191,000  
+- Spearheaded the redesign of a major client’s web application, resulting in a 30% increase in user engagement.  
+- Implemented advanced performance optimization techniques, reducing page load times by 40%.  
+
+**Frontend Engineer, LMI, East Newark, NJ, US (2017–2020)**  
+Annual salary: $136,000  
+- Developed dynamic, responsive web applications in collaboration with cross-functional teams, enhancing user experience by 25%.  
+- Introduced automated testing frameworks that decreased bug incidence by 20%.  
+
+**Frontend Engineer, Codecademy, Orchard Park, NY, US (2014–2017)**  
+Annual salary: $118,500  
+- Played a key role in launching a new course platform, contributing to a 15% increase in course completion rates.  
+- Engineered modular UI components, improving site maintainability and scalability.  
+
+**Frontend Engineer, PerBlue, Princeton, NJ (2011–2014)**  
+Annual salary: $109,700  
+- Enhanced application performance through code refactoring, leading to a 50% faster load time.  
+- Collaborated with UX designers to improve the overall design and functionality of the web platform.  
+
+**Frontend Engineer, Caleres Inc., Rochester, NY, USA (2009–2011)**  
+Annual salary: $103,800  
+- Developed user-friendly web pages that increased customer interaction by 10%.  
+- Integrated new web technologies, improving site accessibility and usability.

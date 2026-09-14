@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over two decades of experience, specializing in systems engineering. Known for a humorous communication style and a strong ability to collaborate socially in team environments. Passionate about integrating innovative solutions and improving system performance to drive company success.
+
+**Work History**
+
+**Junior Software Engineer, EMTAK LLC, Morris Plains, NJ, US (1999–2002)**  
+Annual salary: $64,600  
+- Assisted in developing and maintaining internal software applications, enhancing team productivity by 15%.  
+- Collaborated with senior engineers to troubleshoot and resolve technical issues, reducing system downtime by 10%.  
+
+**Systems Engineer, Docusign, Whippany, NJ, US (2002–2006)**  
+Annual salary: $84,100  
+- Spearheaded the upgrade of legacy systems, leading to a 20% improvement in processing efficiency.  
+- Developed automation scripts that reduced manual work by 25%, increasing overall team efficiency.  
+
+**Systems Engineer, Caliber Collision, Lakewood, NJ (2006–2010)**  
+Annual salary: $98,800  
+- Implemented a new inventory management system, improving tracking accuracy by 30%.  
+- Collaborated with cross-functional teams to integrate new software tools, enhancing operational workflows.  
+
+**Senior Systems Engineer, Epic Games, Parsippany-Troy Hills, NJ, US (2010–2014)**  
+Annual salary: $135,500  
+- Led a team of engineers in designing scalable systems to support high-traffic gaming applications, increasing uptime by 40%.  
+- Optimized network infrastructure, resulting in a 25% reduction in latency for users.  
+
+**Staff Systems Engineer, Sabel Systems, Binghamton, NY (2014–2018)**  
+Annual salary: $187,000  
+- Directed a project to overhaul the core database systems, resulting in a 50% improvement in data retrieval speeds.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.  
+
+**Staff Systems Engineer, DeNovo Solutions, Newark, NJ, US (2018–Present)**  
+Annual salary: $216,700  
+- Architected robust system solutions that supported the company’s growth, handling a 50% increase in client transactions.  
+- Developed and implemented security protocols, reducing system vulnerabilities by 35%.  
+
+**Education**  
+Associate's Degree in Statistics, Rochester Institute of Technology, 1999

@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Frontend Engineer with a solid track record in designing user-centric web applications and enhancing user experience across various platforms. Proficient in collaborating with cross-functional teams to deliver high-quality software solutions, leveraging strong technical skills and a passion for frontend development.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2009  
+
+**Work History**
+
+Frontend Engineer, Novate Solutions Inc, Hartford, CT (2009–2011)  
+Annual salary: $103,600  
+- Developed and optimized user interfaces for web applications, improving load times by 30%.  
+- Collaborated with backend developers to integrate RESTful APIs, enhancing application functionality.
+
+Frontend Engineer, Youtube, Bedminster, NJ, US (2011–2014)  
+Annual salary: $111,100  
+- Implemented new frontend features that increased user engagement by 20%.  
+- Streamlined the video upload process, reducing average time by 15% through efficient code refactoring.
+
+Frontend Engineer, SoFi, Hartford, CT, US (2014–2017)  
+Annual salary: $119,400  
+- Spearheaded the redesign of the user interface, resulting in a 25% increase in user retention.  
+- Collaborated with UX designers to create a seamless user experience across mobile platforms.
+
+Frontend Engineer, Four Growers, Mount Laurel, NJ, US (2017–2020)  
+Annual salary: $136,900  
+- Led the development of responsive web designs, improving mobile user accessibility by 40%.  
+- Implemented an automated testing framework, reducing bug-related incidents by 50%.
+
+Senior Frontend Engineer, Kimley-Horn, East Newark, NJ, US (2020–2021)  
+Annual salary: $188,100  
+- Managed a team of engineers to deliver complex frontend projects ahead of schedule.  
+- Innovated a component library that increased development efficiency by 35%.
+
+Senior Frontend Engineer, MetLife, New York, NY, US (2021–Present)  
+Annual salary: $210,700  
+- Orchestrated the migration of legacy systems to modern frameworks, enhancing performance by 20%.  
+- Mentored junior developers, fostering skill development and improving team productivity.

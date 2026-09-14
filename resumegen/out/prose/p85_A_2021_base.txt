@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+A highly skilled and tech-savvy software engineer with over 15 years of experience in designing and implementing innovative software solutions. Known for a humorous communication style, a penchant for problem-solving, and a commitment to quality, I am seeking to leverage my expertise in software development and project leadership in a challenging engineering role in the New York metro area.
+
+**Education**  
+Master's Degree in Computer Science, Northeastern University, 2005
+
+**Work History**  
+
+Senior Software Engineer, ICON plc, Greene, NY, USA (2019–Present)  
+Annual salary: $160,400  
+- Led the design and development of a critical data processing platform, reducing processing time by 50%.  
+- Spearheaded a cross-functional team in migrating legacy systems to cloud-based infrastructure, enhancing scalability and security.  
+
+Senior Software Engineer, Hecta Data (DBA) Vilwaa, Bedminster, NJ, US (2015–2019)  
+Annual salary: $130,100  
+- Developed and optimized complex algorithms that improved data analysis speeds by 40%.  
+- Collaborated with stakeholders to deliver software solutions that met evolving market demands, resulting in a 20% increase in customer satisfaction.
+
+Senior Software Engineer, Austin Filter Systems, Inc., Melville, NY, US (2012–2015)  
+Annual salary: $109,100  
+- Successfully led a team to implement new software features that increased product reliability by 30%.  
+- Integrated innovative software solutions that streamlined operations and reduced operational costs by 15%.
+
+Software Engineer, Ariel Partners, East Syracuse, NY (2009–2011)  
+Annual salary: $102,300  
+- Developed user-friendly applications that enhanced client engagement and increased user retention by 25%.  
+- Collaborated with a team to implement agile methodologies, resulting in improved project delivery timelines.
+
+Software Engineer, Karen Clark & Company, Lakewood, NJ (2005–2009)  
+Annual salary: $90,400  
+- Contributed to the development of award-winning software products, enhancing company reputation and market reach.  
+- Played a key role in a project that improved software deployment efficiency by 35%.

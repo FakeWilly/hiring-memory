@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 12 years of experience in developing and optimizing software solutions. Known for exceptional social skills and a direct communication style, I thrive in collaborative environments where innovative problem-solving is key.
+
+**Education**  
+Associate's Degree in Statistics, Rutgers University, 2009
+
+**Work Experience**  
+
+**Senior Software Engineer, Capgemini, Morris Plains, NJ** (2019–Present)  
+Annual salary: $109,600  
+- Led a team of five engineers in the successful development of a cloud-based analytics platform, improving data processing speed by 30%.  
+- Spearheaded the migration of legacy systems to a microservices architecture, reducing operational costs by 20%.
+
+**Software Engineer, reveleer, East Syracuse, NY** (2017–2019)  
+Annual salary: $112,800  
+- Developed a machine learning algorithm that increased predictive accuracy by 15%, significantly enhancing client decision-making capabilities.  
+- Collaborated with cross-functional teams to deliver a real-time data visualization tool that improved user engagement by 25%.
+
+**Junior Software Engineer, Carshield, East Syracuse, NY** (2012–2017)  
+Annual salary: $75,100  
+- Designed and implemented a new feature for the company’s flagship product, resulting in a 10% increase in user retention.  
+- Improved system reliability by developing automated testing protocols, reducing bug-related downtimes by 40%.
+
+**Junior Software Engineer, Nexzentek, Old Westbury, NY** (2009–2012)  
+Annual salary: $60,800  
+- Assisted in developing a customer support chatbot that reduced response times by 50%, enhancing overall customer satisfaction.  
+- Contributed to the optimization of database queries, improving data retrieval speed by 20%.

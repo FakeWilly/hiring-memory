@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Software Engineer with a strong foundation in frontend development and a proven track record of delivering robust software solutions. Adept at collaborating with cross-functional teams to enhance user experiences, with a commitment to punctuality and a diplomatic communication style.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2008
+
+**Work History**
+
+Senior Frontend Engineer, Quadient, Inc., New York, NY (2021–Present)  
+Annual salary: $121,400  
+- Spearheaded the redesign of key customer-facing applications, improving customer satisfaction scores by 15%.  
+- Collaborated with UX/UI teams to implement responsive design techniques, optimizing the user interface for a 25% increase in mobile traffic.  
+
+Frontend Engineer, Centerfield, Syracuse, NY, US (2018–2021)  
+Annual salary: $118,400  
+- Developed and maintained scalable web applications, contributing to a 30% boost in site performance.  
+- Mentored junior developers, fostering a collaborative team environment and improving overall project delivery times by 20%.  
+
+Frontend Engineer, Insurity, Buffalo, NY (2016–2018)  
+Annual salary: $106,500  
+- Implemented new frontend features that increased user engagement by 40%.  
+- Automated testing processes, reducing bugs in production by 30%.  
+
+Junior Software Engineer, Capgemini Engineering, Binghamton, NY (2012–2016)  
+Annual salary: $73,300  
+- Assisted in the development of enterprise-level applications, enhancing system stability.  
+- Collaborated with cross-functional teams to integrate new technologies, reducing operational costs by 15%.  
+
+Junior Software Engineer, Sumitomo Mitsui Banking Corporation, East Syracuse, NY (2008–2012)  
+Annual salary: $65,600  
+- Contributed to the development of internal software tools, improving processing times by 10%.  
+- Participated in code reviews, enhancing code quality and team collaboration.

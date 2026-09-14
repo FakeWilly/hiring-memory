@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]
+
+**Professional Summary**  
+Proficient Software Engineer with a decade of experience in designing and implementing scalable infrastructure solutions. Adept at problem-solving and delivering efficient software solutions in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Drexel University, 2012
+
+**Work History**
+
+Infrastructure Engineer, Magic AI, Jersey City, NJ (2021–Present)  
+Annual salary: $117,800  
+- Spearheaded the migration of legacy systems to cloud-based solutions, reducing operational costs by 20%.  
+- Developed and implemented security protocols that enhanced system reliability and reduced downtime by 15%.
+
+Infrastructure Engineer, Acuity Brands, Warren, NJ, US (2018–2021)  
+Annual salary: $105,200  
+- Led the deployment of a new company-wide database infrastructure, increasing data retrieval efficiency by 30%.  
+- Collaborated effectively with cross-functional teams to enhance software processes, resulting in a 25% increase in productivity.
+
+Junior Software Engineer, Incept Data Solutions, Inc, New York, NY (2014–2018)  
+Annual salary: $81,000  
+- Assisted in developing a key application feature that boosted user engagement by 40%.  
+- Optimized existing codebase, improving system performance and reducing load times by 20%.
+
+Junior Software Engineer, Binti, Astoria, NY (2012–2014)  
+Annual salary: $76,100  
+- Contributed to the development of a high-traffic web application, ensuring efficient and stable performance.  
+- Collaborated with senior engineers to enhance code quality, decreasing bug frequency by 15%.

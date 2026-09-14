@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced infrastructure engineer with over a decade of expertise in designing and maintaining robust systems for leading tech companies. Highly organized and tech-savvy, with a strong ability to manage complex projects and implement innovative solutions in fast-paced environments.
+
+**Education**  
+Master's Degree in Mathematics, Rutgers University, 2008
+
+**Work Experience**
+
+**Staff Infrastructure Engineer, KualiCo, Hackensack, NJ** (2020–Present)  
+Annual salary: $214,500  
+- Spearheaded the implementation of a cloud-based infrastructure that improved system efficiency by 30%.  
+- Led a team of engineers in the development of scalable solutions, resulting in a 25% reduction in operational costs.
+
+**Senior Infrastructure Engineer, Epic Games, Rensselaer, NY** (2018–2020)  
+Annual salary: $166,300  
+- Designed and deployed a high-availability infrastructure that supported a 40% increase in user traffic.  
+- Streamlined the server provisioning process, cutting deployment times by 50%.
+
+**Senior Infrastructure Engineer, Bell Textron Inc., Mahwah, NJ** (2014–2018)  
+Annual salary: $147,500  
+- Managed a comprehensive network upgrade project, enhancing system reliability by 35%.  
+- Implemented automation scripts that reduced manual configuration tasks by 60%.
+
+**Infrastructure Engineer, PlayStation, Whippany, NJ** (2010–2014)  
+Annual salary: $109,000  
+- Developed and maintained critical server infrastructure, supporting over 1 million active users.  
+- Collaborated with cross-functional teams to optimize data center operations, achieving a 20% increase in efficiency.
+
+**Infrastructure Engineer, Clayton Careers, Mahwah, NJ** (2008–2010)  
+Annual salary: $101,000  
+- Assisted in the design and deployment of a new enterprise-wide network infrastructure.  
+- Conducted regular system audits, resulting in a 15% improvement in network security.

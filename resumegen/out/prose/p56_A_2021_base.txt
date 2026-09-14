@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over 20 years of experience in developing cutting-edge solutions across multiple industries. Expert in designing, implementing, and optimizing software systems with a strong capability to work independently and collaboratively within team-focused environments.
+
+**Education**  
+Master's Degree in Mathematics, Stony Brook University, 2001
+
+**Work History**
+
+**Software Engineer, INFO IMAGE, Hartford, CT, US (2001–2004)**  
+Annual salary: $80,900  
+- Developed and maintained software applications that improved data processing efficiency by 15%.  
+- Collaborated with cross-functional teams to design and implement new system features.
+
+**Software Engineer, McKesson, Troy, NY, US (2004–2006)**  
+Annual salary: $92,100  
+- Enhanced software systems to ensure compliance with healthcare regulations, increasing reliability by 20%.  
+- Played a key role in migrating legacy systems to modern platforms, improving system performance.
+
+**Software Engineer, Boston Children's Hospital, East Newark, NJ, US (2006–2009)**  
+Annual salary: $101,400  
+- Spearheaded the development of a patient management system, reducing data retrieval times by 30%.  
+- Led a team in integrating new technologies to improve hospital software security protocols.
+
+**Senior Software Engineer, Google, Jersey City, NJ (2009–2013)**  
+Annual salary: $130,200  
+- Architected scalable software solutions that supported millions of users, increasing user engagement by 25%.  
+- Mentored junior engineers, fostering an environment of innovation and continuous improvement.
+
+**Senior Software Engineer, UltraCamp, Parsippany-Troy Hills, NJ, US (2013–2016)**  
+Annual salary: $146,700  
+- Designed and implemented a comprehensive camp management system, boosting user satisfaction by 40%.  
+- Improved system uptime by 15% through proactive monitoring and maintenance strategies.
+
+**Senior Software Engineer, Zeta Global, Albany, NY, US (2016–2020)**  
+Annual salary: $163,000  
+- Developed advanced algorithms for personalized marketing, increasing campaign effectiveness by 35%.  
+- Collaborated with data scientists to enhance data-driven decision-making processes.
+
+**Senior Software Engineer, RFA Engineering, Binghamton, NY (2020–Present)**  
+Annual salary: $181,900  
+- Leading efforts in developing high-performance software systems that streamline engineering workflows.  
+- Implemented continuous integration and deployment processes, reducing release cycles by 50%.

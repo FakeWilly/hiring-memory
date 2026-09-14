@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+Professional Summary  
+Experienced software engineer with nearly two decades in backend development, specializing in creating efficient and scalable systems. Known for punctuality, tech-savvy solutions, and a humorous communication style, I bring a unique blend of technical expertise and personality to every team I join.  
+
+Education  
+Bachelor's Degree in Software Engineering, Baruch College, 2003  
+
+Work History  
+
+Junior Software Engineer, AT&T, Hartford, CT (2003–2007)  
+Annual salary: $50,400  
+- Developed software solutions that improved system performance by 15%.  
+- Collaborated with cross-functional teams to implement new features, reducing deployment times by 20%.  
+
+Backend Engineer, Scale AI, Albany, NY (2007–2010)  
+Annual salary: $74,800  
+- Engineered backend solutions that increased data processing efficiency by 25%.  
+- Led a project to overhaul the data storage system, resulting in a 30% cost reduction.  
+
+Backend Engineer, Esri, Buffalo, NY (2010–2015)  
+Annual salary: $87,700  
+- Designed and implemented backend services that supported millions of users with 99.9% uptime.  
+- Improved API response times by 40% through code optimization.  
+
+Senior Backend Engineer, FIS Management Services LLC, Mahwah, NJ (2015–2017)  
+Annual salary: $107,000  
+- Spearheaded the development of a new payment processing platform, increasing transaction speed by 50%.  
+- Mentored junior engineers, leading to a 20% improvement in team productivity.  
+
+Senior Backend Engineer, ASSYST, Inc., Mahwah, NJ (2017–2021)  
+Annual salary: $131,500  
+- Architected a robust microservices architecture, enhancing system scalability and reliability.  
+- Implemented CI/CD pipelines, reducing deployment time from weeks to hours.  
+
+Staff Backend Engineer, Optizm Inc, Orchard Park, NY (2021–Present)  
+Annual salary: $147,300  
+- Leading a team to develop a cloud-based infrastructure, resulting in a 35% increase in system efficiency.  
+- Pioneered the adoption of container orchestration technologies, improving resource utilization by 40%.

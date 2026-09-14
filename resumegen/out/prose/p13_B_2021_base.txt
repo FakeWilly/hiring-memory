@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing innovative solutions for complex software challenges. Known for strong analytical skills and a collaborative approach to problem-solving, while maintaining a focus on delivering high-quality software products.  
+
+**Education**  
+Master's Degree in Mathematics, Baruch College, 2011  
+
+**Work Experience**
+
+**Senior Software Engineer, Metagenics, Buffalo, NY (2018–Present)**  
+Annual salary: $157,500  
+- Spearheaded the development of a cloud-based platform that improved data processing speed by 30%, enhancing overall system efficiency.  
+- Led a team of 5 engineers in implementing a robust API framework, resulting in a 40% increase in third-party integration capabilities.  
+
+**Software Engineer, Sumitomo Mitsui Banking Corporation, Orchard Park, NY (2013–2018)**  
+Annual salary: $121,400  
+- Designed and implemented security protocols that reduced system vulnerabilities by 25%, ensuring compliance with financial industry standards.  
+- Collaborated with cross-functional teams to develop an internal tool that streamlined data analysis processes, saving 15 hours of manual work per month.  
+
+**Software Engineer, 2HB Incorporated, Mahwah, NJ (2011–2013)**  
+Annual salary: $107,400  
+- Developed customized software solutions that led to a 20% increase in client satisfaction and retention.  
+- Successfully integrated new software systems across departments, reducing operational costs by 10%.

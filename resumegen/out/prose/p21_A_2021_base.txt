@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and socially adept software engineer with extensive experience leading development initiatives in various high-performance environments. Proven track record of delivering innovative solutions and driving software excellence through effective collaboration and direct communication.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2001
+
+**Work History**
+
+**Staff Software Engineer, HighNote, White Plains, NY, US (2018–Present)**  
+Annual salary: $202,500  
+- Spearheaded the development of a high-traffic web application, resulting in a 30% increase in user engagement.  
+- Implemented agile methodologies, reducing the project delivery time by 20%.  
+
+**Staff Software Engineer, Ariana Solutions, Andes, NY, US (2015–2018)**  
+Annual salary: $180,700  
+- Led a team to optimize backend processes, improving system performance by 25%.  
+- Played a key role in migrating legacy systems to cloud architecture, enhancing scalability.  
+
+**Staff Software Engineer, POLARIS Laboratories, Syracuse, NY, US (2013–2015)**  
+Annual salary: $167,400  
+- Developed a suite of diagnostic tools that reduced troubleshooting time by 30%.  
+- Collaborated with cross-functional teams to deliver a mobile-first application.  
+
+**Staff Software Engineer, Kamstrup, Orchard Park, NY, US (2011–2013)**  
+Annual salary: $120,500  
+- Engineered robust software solutions that supported a 50% increase in data throughput.  
+- Automated testing protocols, increasing test coverage and reliability.  
+
+**Senior Software Engineer, TensorWave, East Syracuse, NY (2009–2011)**  
+Annual salary: $121,700  
+- Designed and implemented cutting-edge algorithms that enhanced data processing speeds by 40%.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.  
+
+**Software Engineer, Vickers & Nolan Enterprises, Jersey City, NJ, US (2006–2009)**  
+Annual salary: $88,700  
+- Contributed to the development of a scalable microservices architecture, improving system resilience.  
+- Developed and maintained critical software modules, ensuring consistent application performance.  
+
+**Junior Software Engineer, RQ Construction, Buffalo, NY, US (2001–2006)**  
+Annual salary: $57,900  
+- Assisted in the development of a construction management software, enhancing project efficiency.  
+- Streamlined codebase, reducing software complexity and maintenance costs.

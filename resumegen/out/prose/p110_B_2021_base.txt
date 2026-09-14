@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing innovative solutions for diverse industries. Known for a methodical approach to problem-solving and a passion for continuous improvement in software engineering practices.
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2005
+
+**Work History**
+
+**Senior Software Engineer, DCI Solutions, New York, NY, USA (2019–Present)**  
+Annual salary: $132,600  
+- Led the development of a high-impact client project that improved processing speed by 30%, enhancing user satisfaction.  
+- Mentored a team of five junior engineers, fostering a collaborative environment and improving team productivity by 20%.  
+
+**Software Engineer, Clients First Business Solutions, Whippany, NJ, US (2016–2019)**  
+Annual salary: $93,200  
+- Developed and launched a critical internal tool that reduced operational costs by 15%.  
+- Collaborated with cross-functional teams to integrate a new CRM system, increasing sales team's efficiency by 25%.  
+
+**Software Engineer, Kunz, Leigh & Associates, Greene, NY, USA (2011–2015)**  
+Annual salary: $94,500  
+- Spearheaded the migration of legacy systems to a new cloud-based platform, improving data security and accessibility.  
+- Improved application performance by 40% through comprehensive code optimization and system restructuring.  
+
+**Software Engineer, Cognizant Technology Solutions, New York, NY, US (2009–2011)**  
+Annual salary: $88,900  
+- Contributed to the development of a scalable web application, subsequently adopted by multiple Fortune 500 companies.  
+- Automated routine tasks, reducing manual workload by 50% and increasing process efficiency.  
+
+**Software Engineer, Signet Jewelers, Jersey City, NJ, US (2005–2009)**  
+Annual salary: $78,400  
+- Designed and implemented an inventory management system that increased inventory tracking accuracy by 35%.  
+- Collaborated with the marketing department to develop an e-commerce platform, boosting online sales by 20%.

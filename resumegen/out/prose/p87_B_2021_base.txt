@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with a strong foundation in information systems and a knack for organization. Passionate about creating efficient and innovative solutions with a touch of humor to enhance team collaboration and project success.
+
+**Education**  
+Bachelor's Degree in Information Systems, CUNY City College, 2017
+
+**Work Experience**  
+
+Junior Software Engineer, Taylor Corporation, Hackensack, NJ, US (2017–Present)  
+Annual salary: $80,600  
+- Developed and maintained key software components that improved system performance by 20%.  
+- Collaborated with cross-functional teams to design and implement new features, enhancing user experience and increasing customer satisfaction by 15%.  
+- Streamlined the code review process, leading to a 30% reduction in report processing time.  
+
+**Skills**  
+- Proficient in Java, Python, and SQL  
+- Strong problem-solving and analytical skills  
+- Excellent organizational abilities and attention to detail  
+
+**Interests**  
+Hiking, Traveling

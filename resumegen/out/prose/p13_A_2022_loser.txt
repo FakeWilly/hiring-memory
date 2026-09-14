@@ -1,0 +1,27 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over a decade of experience in developing innovative solutions within healthcare and data industries. Adept at collaborating in team environments to deliver robust software systems, with a strong analytical background and a passion for data-driven problem-solving.
+
+**Education**  
+Master's Degree in Statistics, CUNY City College, 2011
+
+**Work History**
+
+Senior Software Engineer, Incept Data Solutions, Inc, Mount Laurel, NJ, US (2018–Present)  
+Annual salary: $163,100  
+- Spearheaded the development of a new data processing platform, reducing processing time by 40% and improving data accuracy.  
+- Led a team in the successful migration of legacy systems to cloud-based solutions, enhancing system scalability and reducing operational costs by 25%.
+
+Software Engineer, Intermedia Group, Inc., Bridgewater, NJ, US (2013–2018)  
+Annual salary: $119,400  
+- Contributed to the design and implementation of a secure API framework, streamlining third-party integrations and increasing system flexibility.  
+- Developed and maintained critical software systems, resulting in a 30% increase in client satisfaction through enhanced system reliability.
+
+Software Engineer, Boston Children's Hospital, Binghamton, NY (2011–2013)  
+Annual salary: $106,600  
+- Engineered a patient data management system that improved data retrieval times by 50%, facilitating better decision-making for healthcare professionals.  
+- Collaborated with cross-functional teams to deliver software solutions that met stringent regulatory standards in the healthcare industry.

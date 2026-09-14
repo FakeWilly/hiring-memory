@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience developing efficient and innovative solutions across various industries. Adept at fostering collaborative environments and applying analytical skills to solve complex puzzles in software development.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 2001
+
+**Work History**
+
+**Junior Software Engineer**, American Axle & Manufacturing, Jersey City, NJ, US (2001–2004)  
+Annual salary: $63,600  
+- Contributed to the development of software for automotive manufacturing processes, enhancing efficiency by 15%.  
+- Collaborated with senior engineers to streamline coding practices, reducing system errors by 20%.  
+
+**Software Engineer**, X Corp., Orchard Park, NY, US (2004–2009)  
+Annual salary: $90,700  
+- Spearheaded a project that integrated new software tools, increasing team productivity by 25%.  
+- Developed a key feature for a major product release that resulted in a 30% increase in user satisfaction.  
+
+**Software Engineer**, NextDecade, East Syracuse, NY (2009–2012)  
+Annual salary: $105,300  
+- Engineered software solutions that improved data analysis speed by 40%, benefiting the client’s decision-making process.  
+- Led a team to successfully migrate legacy systems to a more secure and robust platform.  
+
+**Software Engineer**, Qualtrics, Andes, NY, US (2012–2016)  
+Annual salary: $117,000  
+- Designed and implemented a scalable architecture that reduced server downtime by 50%.  
+- Collaborated cross-functionally to deliver a project ahead of schedule, increasing client retention rates.  
+
+**Software Engineer**, CPS Insurance Services, White Plains, NY, US (2016–2021)  
+Annual salary: $129,800  
+- Developed a comprehensive suite of tools that improved underwriting efficiency by 35%.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.  
+
+**Software Engineer**, AltaML, Parsippany-Troy Hills, NJ, US (2021–Present)  
+Annual salary: $145,400  
+- Architected a machine learning model that enhanced data processing accuracy by 50%.  
+- Championed initiatives to integrate advanced analytics into existing systems, improving client offerings.

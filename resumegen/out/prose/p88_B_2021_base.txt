@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with over 18 years of experience designing and implementing scalable infrastructure solutions. Known for a reserved communication style, I excel in environments that value precision and efficiency.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2003
+
+**Work History**  
+
+**Junior Software Engineer, ELEVI Associates, LLC, Bridgewater, NJ, US (2003–2006)**  
+Annual salary: $65,200  
+- Developed and tested software components in collaboration with a team of engineers, improving system performance by 15%.  
+- Assisted in debugging and troubleshooting, contributing to a 30% reduction in system downtime.
+
+**Infrastructure Engineer, General Dynamics Corporation, Princeton, NJ, US (2006–2009)**  
+Annual salary: $89,400  
+- Designed and implemented infrastructure solutions that enhanced system security and reliability by 20%.  
+- Collaborated across departments to streamline processes, reducing operational costs by 10%.
+
+**Senior Infrastructure Engineer, Arcesium, Morris Plains, NJ, US (2009–2014)**  
+Annual salary: $123,800  
+- Led a team in upgrading the company’s infrastructure, resulting in a 25% increase in system efficiency.  
+- Managed high-level project timelines, consistently delivering solutions ahead of schedule.
+
+**Senior Infrastructure Engineer, Camden Kelly Corporation, Kingston, NY, US (2014–2019)**  
+Annual salary: $144,700  
+- Spearheaded infrastructure projects that improved overall network performance by 30%.  
+- Mentored junior engineers, fostering a collaborative and productive team environment.
+
+**Senior Infrastructure Engineer, Vertafore, Buffalo, NY, US (2019–Present)**  
+Annual salary: $171,900  
+- Architected and deployed cloud-based solutions, enhancing data accessibility by 40%.  
+- Optimized existing infrastructure, leading to a 35% reduction in operational costs.

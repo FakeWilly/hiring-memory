@@ -1,0 +1,39 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Accomplished Frontend Engineer with over 15 years of experience in developing user-centric web applications. Known for a humorous communication style and a passion for solving complex puzzles, I thrive in collaborative environments where technology and creativity intersect.
+
+**Education**  
+Master's Degree in Computer Science, Rutgers University, 2007
+
+**Work History**
+
+Senior Frontend Engineer, Arcfield, New York, NY (2021–Present)  
+Annual salary: $173,300  
+- Led the development of a responsive web application that improved user engagement by 30%.  
+- Spearheaded a team in transitioning legacy systems to modern frameworks, reducing load times by 40%.  
+
+Senior Frontend Engineer, Applied Concepts, Andes, NY, US (2018–2021)  
+Annual salary: $154,700  
+- Implemented a new frontend architecture that increased system scalability and performance.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.  
+
+Frontend Engineer, Photon, Lakewood, NJ (2015–2018)  
+Annual salary: $127,900  
+- Designed and developed a suite of reusable UI components that streamlined development processes.  
+- Collaborated with UX designers to enhance user interfaces, boosting customer satisfaction rates.  
+
+Frontend Engineer, Prudent Engineering, Melville, NY, US (2011–2015)  
+Annual salary: $113,300  
+- Built and maintained a company-wide intranet system, improving cross-departmental communication.  
+- Optimized existing frontend codebase, leading to a 25% reduction in page load times.  
+
+Frontend Engineer, Yavapai County Government, Jersey City, NJ, US (2007–2011)  
+Annual salary: $107,100  
+- Developed interactive web applications for government services, increasing accessibility for residents.  
+- Collaborated in a cross-functional team to deliver a high-profile digital project on time and within budget.  
+
+---

@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Accomplished software engineer with two decades of experience specializing in backend development. Known for punctuality, humor, and a knack for transforming complex problems into efficient technical solutions.
+
+**Education**  
+Master's Degree in Statistics, Drexel University, 2002  
+
+**Work History**  
+
+**Principal Backend Engineer, Meritage Homes, Newark, NJ, US (2021–Present)**  
+Annual salary: $238,200  
+- Spearheaded the redesign of the backend architecture, improving system efficiency by 30%.  
+- Implemented advanced data security protocols, reducing vulnerability incidents by 50%.  
+
+**Staff Backend Engineer, Clients First Business Solutions, East Syracuse, NY (2017–2021)**  
+Annual salary: $212,700  
+- Developed a scalable cloud-based platform that increased client onboarding speed by 40%.  
+- Led a cross-functional team in the migration of legacy systems to microservices architecture.  
+
+**Senior Backend Engineer, Delinea, Troy, NY, US (2012–2017)**  
+Annual salary: $141,000  
+- Enhanced system performance by optimizing database queries, cutting response time by 25%.  
+- Collaborated with front-end developers to integrate RESTful APIs, improving user interface responsiveness.  
+
+**Senior Backend Engineer, CBRE, New York, NY (2009–2012)**  
+Annual salary: $128,600  
+- Designed and implemented a data processing pipeline, increasing throughput by 35%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.  
+
+**Backend Engineer, 2H Talent LLC, White Plains, NY, US (2004–2009)**  
+Annual salary: $106,400  
+- Developed backend components for HR solutions, enhancing data retrieval speed by 20%.  
+- Assisted in the transition to an Agile development process, improving project delivery timelines.  
+
+**Backend Engineer, Edward Jones, Hackensack, NJ, US (2002–2004)**  
+Annual salary: $98,500  
+- Contributed to the development of financial software solutions, improving transaction processing efficiency.  
+- Ensured uptime and reliability of backend services, maintaining 99.9% availability.

@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with 12+ years of experience in developing and implementing innovative software solutions. Known for a humorous communication style and a methodical approach to problem-solving, particularly in high-pressure environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, Stony Brook University, 2010
+
+**Work History**
+
+**Systems Engineer**, Nexagen Networks Inc, East Syracuse, NY (2018–Present)  
+Annual salary: $126,700  
+- Spearheaded the development of a new system architecture that improved data processing efficiency by 30%.  
+- Led a cross-functional team to successfully deliver a critical network upgrade project under budget and ahead of schedule.
+
+**Junior Software Engineer**, Palmer Group, Buffalo, NY, US (2015–2018)  
+Annual salary: $86,900  
+- Collaborated with senior engineers to streamline software deployment processes, reducing deployment time by 25%.  
+- Developed and maintained key modules for a high-profile client, ensuring the on-time delivery of software updates.
+
+**Junior Software Engineer**, St. Louis Cardinals, Hartford, CT, US (2013–2015)  
+Annual salary: $80,300  
+- Played a crucial role in enhancing the performance of the ticketing software system, resulting in a 15% increase in transaction speed.  
+- Assisted in the migration of legacy systems to a cloud-based infrastructure, improving data accessibility.
+
+**Junior Software Engineer**, Halliburton, Princeton, NJ, US (2010–2013)  
+Annual salary: $73,200  
+- Contributed to the development of a robust application that supported real-time data monitoring for field operations.  
+- Implemented debugging processes that reduced software error rates by 20%.

@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing innovative solutions in dynamic environments. Highly social and effective communicator with a passion for hiking and gaming, seeking to leverage expertise in software development for impactful projects in the New York metro area.
+
+**Education**  
+Master's Degree in Electrical Engineering, Rutgers University, 2007  
+
+**Work History**
+
+**Staff Software Engineer**, GrowthWise Search Partners, New York, NY, US (2021–Present)  
+Annual salary: $160,700  
+- Spearheaded the development of a new search algorithm that increased data retrieval efficiency by 30%.  
+- Collaborated with cross-functional teams to redesign the company's primary application, improving user engagement by 25%.  
+
+**Senior Software Engineer**, Accenture, Hartford, CT (2019–2021)  
+Annual salary: $143,500  
+- Led a team in implementing a cloud-based solution that reduced client server costs by 40%.  
+- Developed a predictive analytics tool that improved client decision-making processes, resulting in a 15% increase in sales.  
+
+**Software Engineer**, UL Solutions, Newark, NJ, US (2014–2019)  
+Annual salary: $103,800  
+- Engineered a real-time data processing system that improved data accuracy by 20%.  
+- Collaborated with product managers to enhance application features, leading to a 12% increase in user satisfaction.  
+
+**Software Engineer**, TecNiq Inc, Groton, CT, US (2009–2014)  
+Annual salary: $89,900  
+- Designed and deployed a scalable database architecture that supported a 50% increase in data storage capacity.  
+- Implemented automated testing procedures that reduced bug reports by 30%.  
+
+**Software Engineer**, SDI Innovations, Warren, NJ, US (2007–2009)  
+Annual salary: $81,600  
+- Developed an internal tool that streamlined project management, cutting down project timelines by 15%.  
+- Assisted in the migration of legacy systems to a new platform, enhancing system performance by 25%.

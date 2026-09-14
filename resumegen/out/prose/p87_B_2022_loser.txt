@@ -1,0 +1,28 @@
+[NAME]  
+[EMAIL]  
+LinkedIn: [LinkedIn URL]  
+GitHub: [GitHub URL]  
+Phone: [Phone Number]  
+Location: New York, NY
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with a knack for organization and a humorous communication style, eager to leverage four years of hands-on experience in software development. Passionate about creating efficient and reliable software solutions while enjoying the journey of continuous learning and improvement.
+
+**Education**  
+Bachelor's Degree in Information Systems, CUNY City College, 2017
+
+**Work History**
+
+Junior Software Engineer, Taylor Corporation, Hackensack, NJ, US (2017–Present)  
+Annual salary: $82,600
+
+- Contributed to the development and maintenance of key enterprise software applications, resulting in a 25% increase in system efficiency.
+- Collaborated in a team to implement a new software feature that improved user experience and received positive feedback, enhancing customer satisfaction scores.
+- Optimized existing codebase, reducing technical debt and improving system performance by 15%.
+
+---
+
+**Additional Interests**  
+Avid traveler and hiking enthusiast, always exploring new destinations and trails during personal time.

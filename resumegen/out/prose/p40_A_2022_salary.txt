@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy frontend engineer with nearly two decades of experience in developing innovative and efficient software solutions. Consistently recognized for exceptional problem-solving skills and the ability to deliver high-quality products within deadlines.
+
+**Education**  
+Master's Degree in Statistics, Penn State University, 2003
+
+**Work History**
+
+**Frontend Engineer, Edward Jones, Morris Plains, NJ, US (2003–2006)**  
+Annual salary: $90,400  
+- Developed and maintained user-friendly interfaces, improving user engagement by 20%.  
+- Collaborated with cross-functional teams to deliver projects on time, enhancing team productivity.
+
+**Frontend Engineer, Thermo King Chesapeake, Warren, NJ, US (2006–2010)**  
+Annual salary: $100,200  
+- Spearheaded the redesign of the company website, resulting in a 30% increase in web traffic.  
+- Implemented advanced JavaScript features, improving application performance by 15%.
+
+**Frontend Engineer, Azure Summit Technology, Rochester, NY, USA (2010–2015)**  
+Annual salary: $114,100  
+- Led a team in developing a responsive web application, reducing load times by 25%.  
+- Initiated code review practices, leading to a 40% reduction in bugs and errors.
+
+**Senior Frontend Engineer, MORI Associates, Mount Laurel, NJ, US (2015–2017)**  
+Annual salary: $135,900  
+- Managed a team of developers to enhance the UI/UX of key projects, boosting client satisfaction by 35%.  
+- Automated testing processes, decreasing the QA cycle time by 20%.
+
+**Senior Frontend Engineer, Genentech, Inc., Parsippany-Troy Hills, NJ, US (2017–2021)**  
+Annual salary: $152,100  
+- Designed and implemented advanced front-end systems, increasing system efficiency by 40%.  
+- Mentored junior engineers, fostering a collaborative and innovative work environment.
+
+**Senior Frontend Engineer, Peraton, Morris Plains, NJ, US (2021–Present)**  
+Annual salary: $170,400  
+- Pioneered the development of scalable web applications, enhancing platform scalability by 50%.  
+- Integrated cutting-edge technologies, resulting in a 30% improvement in user experience.

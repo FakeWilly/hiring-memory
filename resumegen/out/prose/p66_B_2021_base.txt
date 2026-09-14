@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience specializing in frontend development. Highly organized and adept at creating seamless web applications, I combine technical expertise with a humorous communication style to foster collaborative and innovative work environments.
+
+**Education**  
+Master's Degree in Software Engineering, Penn State University, 2003
+
+**Work History**
+
+**Senior Frontend Engineer, University of Wisconsin–Madison, Jersey City, NJ, US (2020–Present)**  
+Annual salary: $137,200  
+- Led the development of a high-traffic educational platform, enhancing user engagement by 30%.  
+- Spearheaded a cross-functional team to integrate cutting-edge UI technologies, reducing page load time by 40%.
+
+**Senior Frontend Engineer, City of Wildwood, East Syracuse, NY (2018–2020)**  
+Annual salary: $125,100  
+- Implemented a new responsive design for city services portal, increasing mobile usage by 25%.  
+- Collaborated with backend teams to optimize API calls, improving data retrieval efficiency by 35%.
+
+**Frontend Engineer, Palmer Group, Albany, NY, US (2014–2018)**  
+Annual salary: $111,300  
+- Developed and maintained core components of a financial dashboard used by over 1,000 clients.  
+- Pioneered an automated testing framework that reduced bug incidence by 20%.
+
+**Frontend Engineer, Rippling, Groton, CT, US (2009–2014)**  
+Annual salary: $97,900  
+- Enhanced user interface of client-facing applications, contributing to a 15% increase in client satisfaction ratings.  
+- Coordinated with UX designers to implement a new design system, standardizing component usage across projects.
+
+**Frontend Engineer, CubX Inc, New York, NY (2007–2009)**  
+Annual salary: $89,500  
+- Successfully migrated legacy systems to modern web technologies, improving performance and maintainability.  
+- Collaborated in a team to deliver a portfolio of four web applications, all on time and within budget.
+
+**Frontend Engineer, American Technical Services, Andes, NY, US (2003–2007)**  
+Annual salary: $78,100  
+- Developed a suite of interactive tools for client websites, resulting in a 20% increase in user retention.  
+- Assisted in the design and implementation of a company-wide development workflow, enhancing project delivery efficiency.

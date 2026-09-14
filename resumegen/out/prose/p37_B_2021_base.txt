@@ -1,0 +1,28 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with a passion for solving complex problems and a knack for crafting innovative solutions. Adept at leveraging technical expertise and a humorous communication style to foster collaborative team environments and deliver exceptional software products.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2012
+
+**Work Experience**
+
+Software Engineer, Central California Alliance for Health, Iselin, NJ, US (2018–Present)  
+Annual salary: $112,800  
+- Spearheaded the development of a new patient management system that improved data retrieval speeds by 35%.  
+- Collaborated with cross-functional teams to enhance application usability, resulting in a 20% increase in user satisfaction ratings.  
+
+Junior Software Engineer, Capgemini Engineering USA, Buffalo, NY (2014–2018)  
+Annual salary: $89,300  
+- Contributed to the successful rollout of a major client software upgrade, reducing customer-reported issues by 15%.  
+- Automated routine testing tasks, decreasing development cycle times by 10%.  
+
+Junior Software Engineer, Chicago Financial Search, Albany, NY, US (2012–2014)  
+Annual salary: $82,000  
+- Assisted in the design and implementation of financial software applications, leading to a 25% improvement in processing efficiency.  
+- Developed and maintained code for a core application, ensuring a 99.9% uptime rate.

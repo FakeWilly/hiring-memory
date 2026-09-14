@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative software solutions. Adept at solving complex problems and leading engineering teams to deliver high-quality projects on time.
+
+---
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2005
+
+---
+
+**Work History**
+
+**Staff Software Engineer, OCLC, Andes, NY, US (2021–Present)**  
+Annual salary: $197,000  
+- Led a team to revamp the legacy system, improving system efficiency by 20%.  
+- Spearheaded the implementation of a new agile workflow that increased team productivity by 15%.  
+
+**Staff Software Engineer, Intel Corporation, Astoria, NY (2017–2021)**  
+Annual salary: $192,200  
+- Engineered a critical component for a flagship product, resulting in a 25% increase in performance.  
+- Mentored junior engineers, contributing to a 30% reduction in onboarding time.  
+
+**Senior Software Engineer, Vaco, Rochester, NY, US (2014–2017)**  
+Annual salary: $155,800  
+- Designed and developed a scalable microservices architecture, reducing server costs by 18%.  
+- Collaborated with cross-functional teams to enhance software reliability, achieving 99.9% uptime.  
+
+**Software Engineer, Nexagen Networks Inc, East Syracuse, NY (2010–2014)**  
+Annual salary: $105,200  
+- Developed an automated testing framework that decreased bug-related downtime by 40%.  
+- Optimized database queries, improving data retrieval speed by 30%.  
+
+**Software Engineer, Concept Plus, Rensselaer, NY, US (2007–2010)**  
+Annual salary: $95,900  
+- Implemented a new feature that increased user engagement by 15%.  
+- Streamlined code review processes, reducing development cycle time by 10%.  
+
+**Junior Software Engineer, AIR Communities, Newark, NJ, US (2005–2007)**  
+Annual salary: $69,700  
+- Assisted in the development of a client-facing application, enhancing user experience.  
+- Participated in code refactoring projects, improving codebase maintainability.

@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy and diplomatic software engineer with over 19 years of experience in developing and optimizing software solutions for various industries. Skilled in collaborating with cross-functional teams to deliver high-quality products and enhance operational efficiency.
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2003
+
+**Work History**
+
+Senior Software Engineer, Knowhirematch, Rochester, NY, US (2021–Present)  
+Annual salary: $182,400  
+- Spearheaded the development of a new matching algorithm that improved system accuracy by 25%.  
+- Collaborated with product and design teams to implement new features, resulting in a 15% increase in user engagement.
+
+Senior Software Engineer, KARDEX, Rochester, NY, USA (2019–2021)  
+Annual salary: $178,000  
+- Led a team to modernize legacy systems, reducing operational costs by 30%.  
+- Enhanced software performance, cutting data processing time by 40%.
+
+Senior Software Engineer, St. Claire HealthCare, White Plains, NY, US (2014–2019)  
+Annual salary: $156,800  
+- Developed a secure patient data management system, increasing data retrieval speed by 50%.  
+- Implemented a robust error-handling protocol, reducing system downtime by 20%.
+
+Senior Software Engineer, Disney, Jersey City, NJ, US (2009–2014)  
+Annual salary: $130,600  
+- Engineered scalable web applications to support high-traffic events, increasing reliability by 35%.  
+- Automated testing processes, reducing release cycle time by 25%.
+
+Software Engineer, cybertrol engineering, Franklin Lakes, NJ, US (2006–2009)  
+Annual salary: $98,700  
+- Designed and executed software solutions that improved system efficiency by 20%.  
+- Contributed to the development of client-specific programs, enhancing user satisfaction scores by 15%.
+
+Software Engineer, Comcast, Orchard Park, NY, US (2003–2006)  
+Annual salary: $91,300  
+- Assisted in the rollout of a new billing system, reducing customer complaints by 10%.  
+- Collaborated on a team to upgrade network infrastructure, boosting service reliability by 25%.

@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in information systems and a proven track record of developing high-quality software solutions. Adept at navigating complex technical challenges and delivering innovative solutions, with extensive experience in both team leadership and individual contribution.
+
+**Education**  
+Master's Degree in Information Systems, Stony Brook University, 2005
+
+**Work History**
+
+**Software Engineer, React Health Holdings, LLC, New York, NY (2005–2008)**  
+Annual salary: $97,800  
+- Developed and maintained healthcare software applications, achieving a 20% increase in data processing efficiency.  
+- Collaborated with cross-functional teams to design a user-friendly interface, enhancing user experience and reducing customer support tickets by 15%.
+
+**Software Engineer, Leia Inc, Jersey City, NJ (2008–2011)**  
+Annual salary: $105,200  
+- Spearheaded the migration of legacy systems to a more modern architecture, improving system reliability by 30%.  
+- Implemented robust testing strategies resulting in a 25% reduction in post-release defects.
+
+**Software Engineer, 2HB Incorporated, Syracuse, NY, US (2011–2015)**  
+Annual salary: $118,100  
+- Enhanced application performance through optimization techniques, decreasing load times by 40%.  
+- Played a key role in developing new software features that increased client satisfaction scores by 10%.
+
+**Senior Software Engineer, Epic Games, Albany, NY, US (2015–2018)**  
+Annual salary: $148,600  
+- Led a team of engineers in the development of a high-profile gaming application, contributing to a 50% increase in user engagement.  
+- Architected scalable server solutions, supporting a 100% increase in concurrent users without performance degradation.
+
+**Senior Software Engineer, Curbside Laundries, Newark, NJ, US (2018–2021)**  
+Annual salary: $168,800  
+- Directed the end-to-end development of an automated customer feedback system, enhancing service quality and reducing response times by 20%.  
+- Improved codebase maintainability, cutting technical debt by 35% through systematic refactoring.  
+
+**Senior Software Engineer, FormFactor, Inc., Rensselaer, NY, US (2021–Present)**  
+Annual salary: $173,000  
+- Innovated solutions for complex engineering challenges, resulting in a 15% reduction in production costs.  
+- Mentored junior developers, fostering a collaborative environment and encouraging professional growth within the team.

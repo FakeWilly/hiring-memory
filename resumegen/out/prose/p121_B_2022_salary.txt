@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Innovative and tech-savvy software engineer with a strong foundation in frontend development and a knack for solving complex puzzles. Over eight years of experience in developing user-friendly web applications, with a passion for creating seamless digital experiences and a humorous communication style that enhances team collaboration.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2014
+
+**Work History**  
+
+**Frontend Engineer, Robert Half, Rochester, NY** (2021–Present)  
+Annual salary: $142,100  
+- Spearheaded the redesign of a major e-commerce platform, resulting in a 20% increase in user engagement and a 15% boost in sales.  
+- Implemented advanced JavaScript frameworks that reduced page load time by 30%, enhancing the overall user experience.
+
+**Frontend Engineer, Xcelerate Solutions, Whippany, NJ** (2018–2021)  
+Annual salary: $126,900  
+- Developed a responsive web application that supported 50,000 active users, improving customer satisfaction scores by 25%.  
+- Collaborated with a cross-functional team to integrate new features that increased platform functionality and reduced errors by 40%.
+
+**Junior Software Engineer, KeyLogic Systems, Mahwah, NJ** (2014–2018)  
+Annual salary: $89,700  
+- Assisted in building and deploying web applications that improved operational efficiency by 15%.  
+- Played a key role in debugging and maintaining legacy systems, enhancing system stability and reducing downtime by 20%.

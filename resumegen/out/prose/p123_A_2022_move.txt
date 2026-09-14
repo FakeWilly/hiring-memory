@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Seasoned software engineer with over 15 years of experience in developing robust software solutions and leading engineering teams. Highly skilled in problem-solving and direct communication, with a track record of delivering high-impact projects in dynamic environments.
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2007
+
+**Work History**
+
+**Staff Software Engineer, Eagle Horizon Group, Jersey City, NJ, US (2021–Present)**  
+Annual salary: $172,500  
+- Spearheaded the development of a high-availability microservices architecture, reducing system downtime by 40%.  
+- Mentored a team of junior engineers, improving code quality and team productivity by 25%.  
+
+**Staff Software Engineer, OC business finder, Morris Plains, NJ, US (2016–2021)**  
+Annual salary: $168,300  
+- Led the redesign of core platform components, resulting in a 30% increase in processing speed.  
+- Implemented a continuous integration pipeline that decreased deployment times by 50%.  
+
+**Senior Software Engineer, Select Search Associates LLC, Jersey City, NJ (2013–2016)**  
+Annual salary: $118,500  
+- Developed a scalable data processing solution that improved data handling efficiency by 45%.  
+- Collaborated cross-functionally to streamline processes, reducing project delivery time by 20%.  
+
+**Software Engineer, Orlando Utilities Commission, New York, NY, US (2007–2012)**  
+Annual salary: $97,100  
+- Designed and deployed a customer-facing application, enhancing user experience and increasing engagement by 35%.  
+- Optimized existing codebases, leading to a 15% reduction in system errors.

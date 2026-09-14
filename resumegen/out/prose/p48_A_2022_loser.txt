@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in platform engineering. Known for punctuality and a strong track record of delivering high-quality software solutions in a timely manner.
+
+**Education**  
+Master's Degree in Computer Science, Baruch College, 2009
+
+**Work History**  
+
+**Senior Platform Engineer, KITCHELL, Whippany, NJ (2017–Present)**  
+Annual salary: $172,200  
+- Spearheaded the development and deployment of a scalable cloud-based platform, increasing operational efficiency by 30%.  
+- Mentored a team of junior engineers, reducing onboarding time by 20% through the creation of comprehensive training materials.
+
+**Platform Engineer, Freddie Mac, Warren, NJ (2012–2017)**  
+Annual salary: $131,300  
+- Developed and optimized core platform components, contributing to a 25% reduction in system downtime.  
+- Collaborated with cross-functional teams to implement a new feature set, boosting user engagement by 15%.
+
+**Platform Engineer, A3 Consulting, Princeton, NJ (2009–2012)**  
+Annual salary: $111,900  
+- Designed and implemented software solutions for client-specific needs, leading to a 40% increase in customer satisfaction.  
+- Automated routine maintenance tasks, reducing time spent on manual updates by 50%.

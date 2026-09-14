@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Experienced Frontend Engineer with over 18 years in the tech industry, specializing in designing and implementing user-centric web applications. Passionate about leveraging innovative technology solutions to enhance user experience while maintaining a keen eye for detail and functionality.
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2003
+
+**Work History**
+
+**Senior Frontend Engineer**, Ecolab, Lakewood, NJ (2017–Present)  
+Annual salary: $153,300  
+- Led the redesign of the client-facing dashboard, resulting in a 25% increase in user engagement.  
+- Collaborated with cross-functional teams to enhance product scalability, improving load times by 30%.  
+
+**Senior Frontend Engineer**, Centil, Astoria, NY (2015–2017)  
+Annual salary: $135,100  
+- Spearheaded the development of a responsive web application, increasing mobile traffic by 40%.  
+- Introduced automated testing frameworks that reduced bug-related delays by 20%.  
+
+**Frontend Engineer**, Clear Street, Rochester, NY, US (2010–2015)  
+Annual salary: $113,800  
+- Developed modular UI components leading to a 15% reduction in development time for new features.  
+- Implemented a new CSS framework which improved site performance by 25%.  
+
+**Frontend Engineer**, NAVEX Global Inc., Melville, NY, US (2006–2010)  
+Annual salary: $99,600  
+- Enhanced user interface design that increased customer satisfaction ratings by 15%.  
+- Integrated third-party APIs to improve data accuracy and user access times.  
+
+**Frontend Engineer**, Purple Squirrel Search Group, New York, NY, USA (2003–2006)  
+Annual salary: $92,100  
+- Successfully launched multiple client websites with a focus on accessibility and visual appeal.  
+- Collaborated closely with designers to create seamless user experiences across platforms.

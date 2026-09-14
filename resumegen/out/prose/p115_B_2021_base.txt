@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Backend Engineer with over 18 years in the software industry, specializing in developing scalable backend solutions. Tech-savvy and known for punctuality and diplomatic communication, I am passionate about leveraging technology to solve complex problems.
+
+**Education**  
+Master's Degree in Computer Science, Drexel University, 2003  
+
+**Work History**  
+
+**Staff Backend Engineer, Pixar Animation Studios, New York, NY (2019–Present)**  
+Annual salary: $186,200  
+- Spearheaded the development of a new internal data processing tool, reducing processing time by 40%.  
+- Collaborated with cross-functional teams to enhance the API architecture, improving response times by 30%.  
+
+**Staff Backend Engineer, Blue Origin, Kingston, NY, US (2015–2019)**  
+Annual salary: $125,200  
+- Led a team in the successful migration of legacy systems to cloud-based solutions, improving system reliability by 25%.  
+- Developed and implemented performance monitoring tools that increased system uptime by 15%.  
+
+**Senior Backend Engineer, SonicWall, Bridgewater, NJ, US (2012–2015)**  
+Annual salary: $88,000  
+- Enhanced security protocols for backend systems, resulting in a 50% decrease in security incidents.  
+- Streamlined backend processes, leading to a 20% increase in deployment efficiency.  
+
+**Backend Engineer, Blue Origin, Whippany, NJ, US (2009–2012)**  
+Annual salary: $91,000  
+- Optimized database queries, reducing data retrieval time by 35%.  
+- Collaborated on designing a new data warehousing solution that improved data accessibility by 40%.  
+
+**Backend Engineer, Watsco, Troy, NY, US (2006–2009)**  
+Annual salary: $108,100  
+- Developed a robust API service that improved integration capabilities by 30%.  
+- Contributed to a team project that automated manual backend processes, saving 200+ man-hours annually.  
+
+**Backend Engineer, Graham & Associates, Astoria, NY (2003–2006)**  
+Annual salary: $95,800  
+- Designed and implemented a new caching strategy, improving application performance by 25%.  
+- Collaborated with frontend teams to ensure seamless integration of new features.

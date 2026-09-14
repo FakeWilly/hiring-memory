@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated and detail-oriented software engineer with over 15 years of experience in frontend development. Adept at designing and implementing user-focused solutions in fast-paced and challenging environments, with a strong ability to translate complex requirements into functional applications.
+
+**Education**  
+Master's Degree in Software Engineering, Drexel University, 2007
+
+**Work History**  
+
+**Principal Frontend Engineer, VergeSense, Whippany, NJ, US (2021–Present)**  
+Annual salary: $217,600  
+- Led the development of a scalable architecture for a real-time analytics dashboard, improving data retrieval speed by 40%.  
+- Spearheaded the implementation of a new design system, resulting in a 30% reduction in UI development time.  
+
+**Staff Frontend Engineer, GM Financial, Princeton, NJ (2018–2021)**  
+Annual salary: $194,300  
+- Developed a responsive web application for loan management used by over 500,000 customers, increasing monthly user engagement by 25%.  
+- Streamlined the front-end development process by introducing a new component library, reducing code redundancy by 50%.  
+
+**Senior Frontend Engineer, BioHorizons Implant Systems, Rensselaer, NY, US (2014–2018)**  
+Annual salary: $131,400  
+- Enhanced the user interface for the company's flagship product, leading to a 20% increase in customer satisfaction scores.  
+- Collaborated with cross-functional teams to introduce new features that resulted in a 15% increase in product sales.  
+
+**Frontend Engineer, Lucid Motors, Parsippany-Troy Hills, NJ, US (2012–2014)**  
+Annual salary: $99,400  
+- Successfully transitioned the company's website to a mobile-first design, increasing mobile traffic by 35%.  
+- Implemented automated testing protocols, decreasing bug-related incidents by 20%.  
+
+**Frontend Engineer, Baxter, Kingston, NY, US (2010–2012)**  
+Annual salary: $103,800  
+- Developed and maintained a complex web application serving over 100,000 users, enhancing user experience and retention.  
+- Optimized code for faster load times, improving page performance by 30%.  
+
+**Frontend Engineer, Fidelity TalentSource, Buffalo, NY (2007–2010)**  
+Annual salary: $93,400  
+- Played a key role in the redesign of the company's main website which led to a 15% increase in visitor engagement.  
+- Introduced new coding standards that improved team productivity and reduced error rates.

@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in backend development, specializing in building robust and scalable systems. Known for punctuality and a reserved communication style, bringing a strong technical acumen to drive projects to success.
+
+**Education**  
+Master's Degree in Electrical Engineering, Northeastern University, 2008
+
+**Work History**
+
+Senior Backend Engineer, Grainger, East Newark, NJ, US (2019–Present)  
+Annual salary: $119,100  
+- Spearheaded the migration of legacy systems to microservices architecture, improving system performance by 30%.  
+- Collaborated with cross-functional teams to implement automated deployment pipelines, reducing release time by 50%.
+
+Senior Backend Engineer, Boats Group, Mount Laurel, NJ, US (2015–2019)  
+Annual salary: $110,000  
+- Led a team in designing a data processing module that decreased data retrieval time by 40%.  
+- Enhanced backend frameworks to support a 25% increase in user traffic, maintaining optimal performance.
+
+Backend Engineer, DLL Group, Andes, NY, US (2012–2014)  
+Annual salary: $110,500  
+- Developed and optimized backend services, resulting in a 20% reduction in server load.  
+- Implemented a new caching strategy that improved application response times by 15%.
+
+Backend Engineer, Seven Hills Group Technologies Inc, Hartford, CT (2008–2012)  
+Annual salary: $95,000  
+- Contributed to the development of key backend features for enterprise applications, enhancing user satisfaction.  
+- Automated routine maintenance tasks, increasing system uptime by 10%.

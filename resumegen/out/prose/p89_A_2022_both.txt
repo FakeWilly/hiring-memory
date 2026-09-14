@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in systems engineering, specializing in integrating and optimizing complex software solutions. Adept at developing efficient systems and enhancing operational performance within high-stakes environments.
+
+---
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rutgers University, 2003
+
+---
+
+**Work History**  
+
+**Senior Systems Engineer, Cambio Consulting Group, Hartford, CT (2021–Present)**  
+Annual salary: $126,900  
+- Spearheaded the redesign of core system architectures, enhancing scalability and reducing downtime by 30%.  
+- Led a team of engineers to successfully migrate legacy systems to cloud-based solutions, improving data accessibility and security.
+
+**Systems Engineer, New York ISO, Syracuse, NY, US (2016–2021)**  
+Annual salary: $113,300  
+- Developed and implemented system automation processes, reducing manual tasks by 40%.  
+- Collaborated with cross-functional teams to enhance system reliability and user satisfaction.
+
+**Systems Engineer, reveleer, Buffalo, NY, US (2011–2016)**  
+Annual salary: $99,900  
+- Optimized system workflows, resulting in a 25% increase in processing speed.  
+- Streamlined data management protocols, improving accuracy and reducing errors by 20%.
+
+**Systems Engineer, Synapse Health, East Syracuse, NY (2009–2011)**  
+Annual salary: $94,100  
+- Designed and implemented a new data integration platform, enhancing data flow efficiency by 15%.  
+- Conducted comprehensive system analyses to pinpoint and resolve critical performance bottlenecks.
+
+**Systems Engineer, Bausch Health, Old Westbury, NY (2006–2009)**  
+Annual salary: $83,100  
+- Played a key role in the successful deployment of a company-wide software upgrade.  
+- Reduced system downtime by 20% through proactive monitoring and maintenance.
+
+**Junior Software Engineer, Thales, Mount Laurel, NJ, US (2003–2006)**  
+Annual salary: $60,000  
+- Assisted in developing and testing software solutions for defense systems, ensuring high-quality standards.  
+- Contributed to the successful launch of several software modules, meeting stringent project deadlines.

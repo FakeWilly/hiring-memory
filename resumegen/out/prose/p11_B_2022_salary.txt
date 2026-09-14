@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-oriented software engineer with over 15 years of experience in developing and optimizing complex systems. Possesses a strong ability to collaborate effectively with cross-functional teams in fast-paced environments to deliver high-quality software solutions.
+
+**Education**  
+Master's Degree in Electrical Engineering, Rutgers University, 2007
+
+**Work History**
+
+Senior Software Engineer, GrowthWise Search Partners, New York, NY, US (2021–Present)  
+Annual salary: $160,700  
+- Spearheaded the development of a new client analytics platform, improving data processing speed by 40%.  
+- Collaborated with product managers and stakeholders to refine project requirements, enhancing user satisfaction by 25%.
+
+Senior Software Engineer, Accenture, Hartford, CT (2019–2021)  
+Annual salary: $143,500  
+- Led a team of 5 engineers to deliver a high-profile project ahead of schedule, boosting client retention by 15%.  
+- Designed and implemented a scalable architecture that reduced system downtime by 30%.
+
+Software Engineer, UL Solutions, Newark, NJ, US (2014–2019)  
+Annual salary: $103,800  
+- Developed a critical software module that contributed to a 20% increase in system efficiency.  
+- Collaborated with QA teams to improve testing processes, reducing bug reports by 35%.
+
+Software Engineer, TecNiq Inc, Groton, CT, US (2009–2014)  
+Annual salary: $89,900  
+- Engineered key features for the company's flagship product, leading to a 10% growth in sales.  
+- Automated routine tasks, resulting in a 25% reduction in manual intervention.
+
+Software Engineer, SDI Innovations, Warren, NJ, US (2007–2009)  
+Annual salary: $81,600  
+- Contributed to the development of a successful application that increased company revenue by 15%.  
+- Worked closely with clients to gather requirements, ensuring solutions met business needs.

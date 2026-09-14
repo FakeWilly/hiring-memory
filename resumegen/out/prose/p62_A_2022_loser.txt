@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Software Engineer with a strong background in infrastructure engineering and a keen eye for organization. Tech-savvy and direct in communication, I excel in optimizing system performance and leading projects to successful completion.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 1999
+
+**Work History**
+
+Junior Software Engineer, Yurts, White Plains, NY, US (1999–2003)  
+Annual salary: $52,000  
+- Developed and maintained software applications, improving runtime efficiency by 20%.  
+- Assisted in the design and implementation of new features, contributing to a 15% increase in user satisfaction.
+
+Infrastructure Engineer, Ultragenyx, Hartford, CT (2003–2005)  
+Annual salary: $76,800  
+- Managed the integration of new infrastructure systems, reducing downtime by 30%.  
+- Collaborated with cross-functional teams to enhance system scalability and performance.
+
+Senior Infrastructure Engineer, The San Francisco Compute Company, Mount Laurel, NJ, US (2005–2009)  
+Annual salary: $75,100  
+- Led a team in the successful migration of legacy systems, resulting in a 25% cost reduction.  
+- Implemented process improvements that increased operational efficiency by 18%.
+
+Senior Infrastructure Engineer, Axon, Hackensack, NJ, US (2009–2013)  
+Annual salary: $111,100  
+- Spearheaded infrastructure projects that improved data security protocols by 40%.  
+- Orchestrated a major network upgrade, enhancing system reliability and reducing outages by 50%.
+
+Senior Infrastructure Engineer, Legrand, New York, NY, US (2013–2017)  
+Annual salary: $130,600  
+- Directed the deployment of cutting-edge technology solutions, increasing productivity by 35%.  
+- Streamlined processes to improve system integration and cut response times by 20%.
+
+Senior Infrastructure Engineer, KITCHELL, White Plains, NY, US (2017–2020)  
+Annual salary: $141,900  
+- Optimized infrastructure systems, leading to a 25% reduction in operational costs.  
+- Developed robust disaster recovery plans, minimizing data loss risks by 90%.
+
+Senior Infrastructure Engineer, Hexure, Franklin Lakes, NJ, US (2020–Present)  
+Annual salary: $160,900  
+- Overhauled infrastructure architecture, boosting system performance by 40%.  
+- Championed the adoption of new technologies, resulting in a 20% increase in project delivery speed.

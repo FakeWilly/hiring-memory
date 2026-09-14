@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in data engineering and software development. Known for punctuality and a direct communication style, seeking to drive innovative solutions in a dynamic technology environment.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2005
+
+**Work History**  
+
+**Senior Data Engineer, Epicor Software, White Plains, NY, US (2019–Present)**  
+Annual salary: $142,000  
+- Spearheaded the migration of legacy systems to cloud-based solutions, improving data processing speeds by 40%.  
+- Developed and optimized complex ETL processes, resulting in a 30% reduction in data loading time.  
+
+**Data Engineer, Cyclotron, New York, NY, USA (2017–2019)**  
+Annual salary: $107,800  
+- Implemented machine learning models to enhance data analytics capabilities, increasing accuracy by 25%.  
+- Collaborated closely with cross-functional teams to streamline data flows, reducing redundancy by 15%.  
+
+**Data Engineer, KitRUM, Troy, NY, US (2013–2017)**  
+Annual salary: $96,400  
+- Designed and maintained scalable data pipelines, increasing efficiency by 20%.  
+- Conducted thorough data analysis to support business decision-making, resulting in a 10% revenue increase.  
+
+**Data Engineer, Lallemand, Greene, NY, USA (2010–2013)**  
+Annual salary: $95,100  
+- Automated data collection processes, cutting down manual work by 50%.  
+- Enhanced data integrity through rigorous testing and validation procedures.  
+
+**Data Engineer, BLYK Engineering Services, White Plains, NY, US (2007–2010)**  
+Annual salary: $85,700  
+- Developed data warehousing solutions, which improved data accessibility by 35%.  
+- Streamlined data integration processes, reducing processing time by 20%.  
+
+**Junior Software Engineer, CoStar Realty Information, Inc., Buffalo, NY (2005–2007)**  
+Annual salary: $61,600  
+- Assisted in the development of software applications, contributing to a 15% increase in productivity.  
+- Participated in code reviews and testing, ensuring high-quality software deliverables.

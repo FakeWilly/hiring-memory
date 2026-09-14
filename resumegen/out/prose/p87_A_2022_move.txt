@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over five years of experience in developing and optimizing software solutions. Known for exceptional organizational skills and a strong ability to work independently in a fast-paced environment.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Northeastern University, 2017
+
+**Work History**
+
+Junior Software Engineer, National Air Cargo, Buffalo, NY (2017–2021)  
+Annual salary: $80,000  
+- Collaborated with a team to develop and deploy software solutions, improving logistics tracking efficiency by 30%.  
+- Spearheaded the migration of legacy systems to a modern platform, reducing system downtime by 20%.  
+
+Junior Software Engineer, MaidCentral Software, Jersey City, NJ (2021–Present)  
+Annual salary: $82,000  
+- Developed key features for a customer management system, enhancing user engagement by 25%.  
+- Streamlined backend processes, resulting in a 15% reduction in server response time.

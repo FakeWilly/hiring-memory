@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in developing innovative solutions and leading engineering teams in high-stakes environments. Known for punctuality and a humorous communication style, bringing both technical expertise and a collaborative spirit to projects.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Northeastern University, 2003
+
+**Work History**
+
+**Staff Software Engineer, First Citizens, Rochester, NY, USA (2020–Present)**  
+Annual salary: $216,300  
+- Spearheaded the development of a high-performance financial analytics platform, improving data processing speed by 30%.  
+- Mentored a team of junior engineers, resulting in a 25% increase in productivity and successful project delivery.  
+
+**Senior Software Engineer, Youtube, Rochester, NY, US (2015–2020)**  
+Annual salary: $144,100  
+- Optimized video streaming algorithms, reducing buffer time by 40% and enhancing user experience.  
+- Led cross-functional teams in the rollout of a new feature that increased user engagement by 15%.  
+
+**Senior Software Engineer, InDepth Engineering Solutions, Newark, NJ, US (2013–2015)**  
+Annual salary: $140,300  
+- Developed a robust simulation platform that improved system testing efficiency by 50%.  
+- Collaborated with product teams to implement client feedback, enhancing software functionality and user satisfaction.  
+
+**Senior Software Engineer, Netsimco, Old Westbury, NY (2011–2013)**  
+Annual salary: $129,200  
+- Architected a scalable network simulation tool, reducing latency issues by 20%.  
+- Championed agile methodologies, leading to a 35% reduction in development cycle time.  
+
+**Software Engineer, CBRE, Bridgewater, NJ, US (2008–2011)**  
+Annual salary: $104,000  
+- Engineered a property management application that streamlined operations and increased efficiency by 30%.  
+- Collaborated with stakeholders to tailor software solutions to meet diverse client needs.  
+
+**Software Engineer, Snorkel AI, Morris Plains, NJ, US (2006–2008)**  
+Annual salary: $89,800  
+- Developed machine learning models that enhanced data extraction accuracy by 25%.  
+- Played a key role in migrating legacy systems to cloud-based infrastructure, improving scalability.  
+
+**Junior Software Engineer, City of Santa Clara, White Plains, NY, US (2003–2006)**  
+Annual salary: $61,900  
+- Assisted in the development of municipal software applications, improving service delivery efficiency.  
+- Introduced automated testing processes that reduced debugging time by 15%.

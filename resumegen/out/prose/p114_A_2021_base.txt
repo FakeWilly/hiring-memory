@@ -1,0 +1,40 @@
+**[NAME]**  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in systems engineering, known for a tech-savvy approach and a knack for solving complex technical puzzles. Adept at leading engineering teams in dynamic environments while maintaining a humorous and engaging communication style.
+
+**Education**  
+Associate's Degree in Electrical Engineering, CUNY City College, 1999
+
+**Work Experience**
+
+**Staff Systems Engineer**, Odyssey Systems Consulting Group, Franklin Lakes, NJ, US (2018–Present)  
+Annual salary: $211,200  
+- Spearheaded the development and implementation of a new software architecture that improved system efficiency by 25%.  
+- Led a team in the successful delivery of a high-impact project under budget and ahead of schedule.  
+
+**Staff Systems Engineer**, Hungryroot, Jersey City, NJ (2014–2018)  
+Annual salary: $187,600  
+- Developed scalable solutions that enhanced the performance and reliability of key systems.  
+- Collaborated with cross-functional teams to integrate new technologies, reducing operational costs by 15%.  
+
+**Senior Systems Engineer**, Nexagen Networks Inc, East Newark, NJ, US (2010–2014)  
+Annual salary: $135,400  
+- Designed and deployed a robust network infrastructure that increased uptime by 30%.  
+- Trained and mentored junior engineers, resulting in a 40% improvement in team productivity.  
+
+**Systems Engineer**, TheMasonGroup, Groton, CT, US (2006–2010)  
+Annual salary: $100,100  
+- Engineered solutions that boosted system response times by 20%.  
+- Coordinated with stakeholders to streamline project workflows, enhancing project delivery timelines.  
+
+**Systems Engineer**, Inspire Medical Systems I, Morris Plains, NJ, US (2002–2006)  
+Annual salary: $85,000  
+- Played a key role in developing a software tool that improved system diagnostics.  
+- Enhanced system integration processes, reducing error rates by 15%.  
+
+**Junior Software Engineer**, Akina, Inc., Parsippany-Troy Hills, NJ, US (1999–2002)  
+Annual salary: $64,400  
+- Assisted in the development of core software modules, contributing to a 10% increase in system performance.  
+- Supported the engineering team in troubleshooting and resolving complex software issues.

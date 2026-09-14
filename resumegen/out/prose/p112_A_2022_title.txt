@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in software development and engineering, specializing in scalable systems and innovative solutions. Known for a humorous communication style and a passion for problem-solving, I excel in dynamic environments and have a proven track record of delivering high-quality software solutions.
+
+**Education**  
+Bachelor's Degree in Mathematics, Penn State University, 1999
+
+**Work History**  
+
+**Staff Software Engineer, Splunk, Whippany, NJ, US (2021–Present)**  
+Annual salary: $104,000  
+- Leading a team of engineers in the development of a new analytics platform, resulting in a 30% increase in data processing efficiency.  
+- Spearheaded the implementation of automated testing processes, reducing bug-related downtime by 40%.
+
+**Senior Software Engineer, MORI Associates, East Newark, NJ, US (2017–2021)**  
+Annual salary: $101,500  
+- Developed a real-time monitoring system that decreased response times to customer issues by 25%.  
+- Collaborated with cross-functional teams to successfully deliver multiple high-stakes projects on time.
+
+**Senior Software Engineer, Artius Solutions, Mahwah, NJ (2013–2017)**  
+Annual salary: $93,800  
+- Designed and implemented a distributed computing framework that improved system scalability by 50%.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.
+
+**Software Engineer, RedZone Robotics, Greene, NY, USA (2008–2013)**  
+Annual salary: $87,900  
+- Developed navigation algorithms that enhanced robotic efficiency, reducing operational costs by 20%.  
+- Played a key role in the successful launch of an award-winning robotics platform.
+
+**Junior Software Engineer, archer, Warren, NJ, US (2004–2008)**  
+Annual salary: $67,300  
+- Assisted in the creation of software tools that streamlined internal processes, improving team productivity by 15%.  
+- Contributed to the development of a customer management system, enhancing user experience.
+
+**Junior Software Engineer, Affirm, New York, NY, USA (1999–2004)**  
+Annual salary: $57,100  
+- Implemented core components of the company's initial software products, laying the groundwork for future success.  
+- Collaborated closely with senior engineers to enhance coding standards and practices.

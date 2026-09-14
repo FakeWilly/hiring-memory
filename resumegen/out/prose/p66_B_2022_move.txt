@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and organized software engineer with nearly two decades of experience in frontend development. Known for blending a touch of humor with a strong focus on creating efficient, user-friendly web applications.
+
+**Education**  
+Master's Degree in Software Engineering, Penn State University, 2003
+
+**Work History**
+
+**Senior Frontend Engineer, Gurobi Optimization, Princeton, NJ (2021–Present)**  
+Annual salary: $140,600  
+- Spearheaded the redesign of the company's main product UI, improving user engagement by 30%.  
+- Implemented new component libraries, reducing load times by 15%.
+
+**Senior Frontend Engineer, University of Wisconsin–Madison, Jersey City, NJ, US (2020–2021)**  
+Annual salary: $137,200  
+- Collaborated with cross-functional teams to launch an award-winning educational platform.  
+- Reduced application errors by 20% through improved code quality and testing.
+
+**Senior Frontend Engineer, City of Wildwood, East Syracuse, NY (2018–2020)**  
+Annual salary: $125,100  
+- Led a project to overhaul municipal service web applications, enhancing accessibility for all users.  
+- Introduced agile methodologies, boosting team productivity by 25%.
+
+**Frontend Engineer, Palmer Group, Albany, NY, US (2014–2018)**  
+Annual salary: $111,300  
+- Developed a responsive web dashboard that increased data visibility for clients.  
+- Trained junior engineers, fostering a collaborative team environment.
+
+**Frontend Engineer, Rippling, Groton, CT, US (2009–2014)**  
+Annual salary: $97,900  
+- Designed and implemented UI components that improved user satisfaction rates.  
+- Enhanced website performance, achieving faster load times.
+
+**Frontend Engineer, CubX Inc, New York, NY (2007–2009)**  
+Annual salary: $89,500  
+- Collaborated on creating a mobile-first design strategy that increased mobile traffic by 40%.  
+- Streamlined codebase, reducing application load times by 10%.
+
+**Frontend Engineer, American Technical Services, Andes, NY, US (2003–2007)**  
+Annual salary: $78,100  
+- Developed and maintained user interfaces for a suite of enterprise applications.  
+- Conducted code reviews to improve code quality and team collaboration.

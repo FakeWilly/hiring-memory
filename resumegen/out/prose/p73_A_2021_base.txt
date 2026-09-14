@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing robust software solutions. Passionate about problem-solving and leveraging data to drive impactful results, with a strong foundation in statistical analysis and software development.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2006
+
+**Work History**
+
+Data Engineer, Q1 Technologies, Inc., Buffalo, NY, US (2020–Present)  
+Annual salary: $104,100  
+- Spearheaded the migration of legacy systems to cloud-based infrastructure, resulting in a 30% reduction in operational costs.  
+- Developed data pipelines that increased data processing efficiency by 40%.  
+
+Junior Software Engineer, BubbleUp LLC, Parsippany-Troy Hills, NJ, US (2015–2020)  
+Annual salary: $69,000  
+- Collaborated with cross-functional teams to design and implement new software features that boosted user engagement by 25%.  
+- Optimized codebase to enhance application performance, reducing load times by 15%.  
+
+Junior Software Engineer, Applied Concepts, Bedminster, NJ, US (2011–2015)  
+Annual salary: $68,900  
+- Played a key role in the development of a customer feedback tool that improved customer satisfaction scores by 20%.  
+- Implemented automated testing procedures, reducing bug-related issues by 35%.  
+
+Junior Software Engineer, ICF, Orchard Park, NY, US (2006–2011)  
+Annual salary: $61,300  
+- Assisted in the creation of a data analysis software that increased processing speed by 50%.  
+- Maintained and updated software systems, resulting in a 20% improvement in system reliability.

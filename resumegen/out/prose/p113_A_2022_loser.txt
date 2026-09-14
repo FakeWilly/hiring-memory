@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and detail-oriented software engineer with over 18 years of experience in developing innovative solutions and leading engineering teams. Known for a humorous communication style and punctuality, I excel at crafting efficient and scalable software designs that enhance user experience.
+
+**Work Experience**
+
+**Senior Software Engineer, C-4 Analytics, Warren, NJ, US (2017–Present)**  
+Annual salary: $144,400  
+- Led a team of developers in redesigning a key analytics tool, improving processing speed by 40%.  
+- Implemented a new code review process that reduced bugs in the production environment by 30%.  
+
+**Senior Software Engineer, Numerica Corporation, White Plains, NY, US (2014–2017)**  
+Annual salary: $99,300  
+- Spearheaded the development of a data visualization platform, resulting in a 20% increase in client engagement.  
+- Mentored junior engineers, fostering a collaborative team environment that boosted project delivery timelines by 15%.  
+
+**Software Engineer, RadCube, Princeton, NJ (2009–2014)**  
+Annual salary: $90,400  
+- Developed and launched a custom CRM system, increasing sales team efficiency by 25%.  
+- Collaborated with cross-functional teams to implement a new UI/UX design, enhancing user satisfaction ratings by 10%.  
+
+**Junior Software Engineer, Apple, New York, NY, USA (2004–2009)**  
+Annual salary: $68,300  
+- Contributed to the development of a new mobile application, leading to a successful product launch.  
+- Assisted in automating testing processes, reducing manual testing time by 20%.  
+
+**Education**  
+Bachelor's Degree in Software Engineering, Drexel University, 2004

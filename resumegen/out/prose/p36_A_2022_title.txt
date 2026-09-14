@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic software engineer with over 14 years of experience specializing in backend development across diverse industries. Passionate about solving complex puzzles through innovative engineering solutions, with a knack for optimizing system performance.
+
+**Education**  
+Bachelor's Degree in Information Systems, University of Connecticut, 2008
+
+**Work History**
+
+**Senior Backend Engineer, InStride, Rochester, NY, US (2021–Present)**  
+Annual salary: $152,400  
+- Spearheaded the development of scalable backend solutions, reducing server response time by 30%.  
+- Collaborated with cross-functional teams to enhance data processing efficiency, achieving a 25% increase in throughput.
+
+**Backend Engineer, Cargill, Franklin Lakes, NJ, US (2020–2021)**  
+Annual salary: $148,700  
+- Implemented new microservices architecture, improving system reliability and reducing downtime by 20%.  
+- Developed robust APIs that enhanced data integration capabilities with third-party platforms.
+
+**Backend Engineer, Siemens Corp, Albany, NY, US (2018–2020)**  
+Annual salary: $136,200  
+- Optimized existing system processes, leading to a 40% reduction in data retrieval times.  
+- Collaborated in a cross-departmental initiative to enhance security protocols, reducing potential vulnerabilities by 50%.
+
+**Backend Engineer, Virtusa, Groton, CT, US (2013–2018)**  
+Annual salary: $118,600  
+- Designed and implemented backend systems for large-scale applications, increasing client satisfaction scores by 15%.  
+- Streamlined database processes, cutting query execution time by 30%.
+
+**Junior Software Engineer, Centerfield, Rochester, NY, US (2008–2013)**  
+Annual salary: $80,900  
+- Contributed to the enhancement of software functionalities, significantly improving user experience.  
+- Assisted in the migration of legacy systems to modern platforms, facilitating a seamless transition for end-users.

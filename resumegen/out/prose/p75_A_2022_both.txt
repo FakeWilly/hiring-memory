@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with nearly two decades of experience in the New York metro area. Adept at developing robust software solutions and excelling in fast-paced environments, while maintaining a diplomatic communication style.
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2003
+
+**Work History**
+
+**Junior Software Engineer, Alloyed Enterprises, Jersey City, NJ, US (2003–2007)**  
+Annual salary: $70,500  
+- Assisted in the development of key modules for high-profile projects, which resulted in a 15% increase in company efficiency.  
+- Collaborated effectively in a team environment to deliver software solutions ahead of schedule.
+
+**Junior Software Engineer, Netsimco, Princeton, NJ, US (2007–2012)**  
+Annual salary: $82,500  
+- Developed and maintained software applications that enhanced user experience, leading to a 25% customer satisfaction increase.  
+- Implemented a new debugging protocol, reducing bug resolution time by 30%.  
+
+**Software Engineer, Str8grade Engineering, LLC, Orchard Park, NY, US (2012–2015)**  
+Annual salary: $124,900  
+- Spearheaded the transition to a new software architecture that decreased latency by 40%.  
+- Led a team in creating a suite of tools that improved code quality across the company.  
+
+**Senior Software Engineer, Morris & Associates, Inc., Hackensack, NJ, US (2015–2019)**  
+Annual salary: $170,100  
+- Developed scalable software solutions that supported a 50% increase in user base.  
+- Mentored junior engineers, fostering a culture of learning and innovation within the team.
+
+**Senior Software Engineer, EMTAK LLC, Bridgewater, NJ, US (2019–2021)**  
+Annual salary: $193,100  
+- Designed and implemented a critical system update that improved system uptime by 20%.  
+- Led cross-functional teams in delivering key projects, consistently meeting tight deadlines.
+
+**Staff Software Engineer, Inspire Medical Systems I, Lakewood, NJ (2021–Present)**  
+Annual salary: $216,300  
+- Developed innovative software features that enhanced product functionality and user engagement.  
+- Collaborated with leadership to align technical strategies with business goals, achieving a 30% boost in project efficiency.

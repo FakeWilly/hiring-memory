@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 14 years of experience in developing robust applications and systems. Highly skilled at collaborating within diverse teams to drive successful project completion and improve technology solutions.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2008  
+
+**Work History**  
+
+Software Engineer, SWORD Health, Syracuse, NY, US (2021–Present)  
+Annual salary: $154,800  
+- Spearheaded the development of a scalable telehealth platform that increased user engagement by 30%.  
+- Implemented machine learning algorithms to enhance patient treatment plans, resulting in a 20% improvement in patient outcomes.  
+
+Software Engineer, Cognosante, East Newark, NJ, US (2016–2021)  
+Annual salary: $138,200  
+- Led the migration of a legacy system to a cloud-based architecture, improving system uptime by 40%.  
+- Automated data processing tasks, reducing operational costs by 15% annually.  
+
+Software Engineer, Penske Truck Leasing, New York, NY (2011–2016)  
+Annual salary: $118,100  
+- Developed a fleet management system that improved asset tracking efficiency by 25%.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing customer satisfaction by 18%.  
+
+Software Engineer, Atriano LLC, Greene, NY, USA (2008–2011)  
+Annual salary: $106,300  
+- Created a custom CRM tool that boosted sales team productivity by 22%.  
+- Designed and implemented security features that reduced data breaches by 40%.

@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over a decade of experience in infrastructure engineering. Proven track record of implementing innovative solutions and optimizing system performance in fast-paced environments.
+
+---
+
+**Work History**
+
+**Infrastructure Engineer, HII, East Newark, NJ, US (2011–2016)**  
+Annual salary: $104,700  
+- Designed and implemented automated processes that reduced system downtime by 30%.  
+- Collaborated with cross-functional teams to enhance infrastructure scalability, increasing efficiency by 20%.
+
+**Infrastructure Engineer, GalaxE.Solutions, Kingston, NY, US (2016–2020)**  
+Annual salary: $120,200  
+- Led a team in migrating legacy systems to a cloud-based infrastructure, improving accessibility and reducing costs by 25%.  
+- Developed and deployed innovative monitoring solutions, enhancing system reliability and performance.
+
+**Senior Infrastructure Engineer, Caleres Inc., Rochester, NY, US (2020–2021)**  
+Annual salary: $148,600  
+- Spearheaded the transition to a new virtualization platform, resulting in a 40% increase in operational efficiency.  
+- Streamlined incident response procedures, reducing resolution times by 45%.
+
+**Staff Infrastructure Engineer, IPG Photonics, Troy, NY, US (2021–Present)**  
+Annual salary: $166,400  
+- Architected a robust infrastructure strategy that increased system uptime to 99.9%.  
+- Implemented cutting-edge security protocols, safeguarding critical data assets and reducing vulnerabilities by 50%.
+
+---
+
+**Education**  
+Master's Degree in Mathematics, Rochester Institute of Technology, 2011

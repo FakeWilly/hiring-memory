@@ -1,0 +1,30 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Innovative and detail-oriented software engineer with over a decade of experience in developing high-quality software solutions. Proven track record of leading projects from concept to completion while ensuring code quality and meeting business objectives.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Penn State University, 2008
+
+**Work History**
+
+**Senior Software Engineer**, Anchor Qea, Parsippany-Troy Hills, NJ (2019–Present)  
+Annual salary: $135,800  
+- Spearheaded the development of a high-volume data processing system that improved processing speed by 40%.  
+- Led a team of five engineers in the successful implementation of a new software architecture, reducing system redundancy by 25%.  
+
+**Software Engineer**, nooro, Whippany, NJ (2014–2019)  
+Annual salary: $89,700  
+- Developed and maintained web applications with a focus on performance and scalability, increasing user engagement by 20%.  
+- Collaborated with cross-functional teams to design and implement new features, resulting in a 15% increase in customer satisfaction.  
+
+**Junior Software Engineer**, Code and Theory, Albany, NY (2008–2013)  
+Annual salary: $75,200  
+- Assisted in the development of client-specific applications, contributing to a 10% increase in project delivery efficiency.  
+- Participated in code reviews and debugging sessions, which improved overall code quality by 30%.  
+
+---
+
+**Hobbies**: Photography, Gaming

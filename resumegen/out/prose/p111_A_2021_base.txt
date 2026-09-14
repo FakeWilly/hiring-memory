@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience designing and implementing innovative software solutions. Known for a collaborative approach and strong problem-solving skills, I am seeking to contribute my expertise to a dynamic team in the New York metro area.
+
+**Education**  
+Master's Degree in Computer Science, Penn State University, 2007  
+
+**Work Experience**  
+
+**Senior Software Engineer, Progress Residential,** New York, NY, US (2020–Present)  
+Annual salary: $155,100  
+- Spearheaded the development of a scalable microservices architecture, improving system performance by 30%.  
+- Collaborated with cross-functional teams to streamline software deployment processes, reducing downtime by 50%.  
+
+**Senior Software Engineer, Cadence Design Systems,** Groton, CT, US (2017–2020)  
+Annual salary: $138,500  
+- Led the migration of legacy systems to a modern cloud infrastructure, enhancing data accessibility and security.  
+- Developed an automated testing suite decreasing bug discovery time by 40%.  
+
+**Senior Software Engineer, Lynker Corporation,** Astoria, NY (2012–2017)  
+Annual salary: $119,800  
+- Implemented a new code review process that reduced technical debt by 25%.  
+- Mentored a team of junior engineers, fostering a culture of continuous learning and improvement.  
+
+**Software Engineer, General Dynamics Information Technology,** Newark, NJ, US (2007–2012)  
+Annual salary: $90,900  
+- Contributed to the development of a mission-critical application adopted by multiple defense clients.  
+- Optimized existing codebases, resulting in a 15% increase in application efficiency.

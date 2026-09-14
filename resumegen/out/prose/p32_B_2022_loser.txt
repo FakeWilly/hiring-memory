@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with over 15 years of experience in developing robust code for high-volume businesses. Known for punctuality and tech-savviness, I excel in collaborative environments and have a strong passion for creating efficient and innovative software solutions.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, University of Connecticut, 2005
+
+**Work History**
+
+Senior Software Engineer, Netsmart Technologies, Groton, CT (2017–Present)  
+Annual salary: $131,800
+- Spearheaded the development of a critical healthcare software module that improved data processing efficiency by 30%.
+- Collaborated with cross-functional teams to implement an agile workflow, reducing project delivery times by 25%.
+
+Senior Software Engineer, defi SOLUTIONS, Groton, CT (2012–2016)  
+Annual salary: $122,000
+- Designed and implemented a scalable architecture that supported a 50% increase in user base.
+- Mentored junior engineers, enhancing team productivity and contributing to a 15% reduction in bug-related incidents.
+
+Software Engineer, Squarespace, Orchard Park, NY (2007–2012)  
+Annual salary: $100,400
+- Developed and optimized web applications, resulting in a 20% increase in site speed and user engagement.
+- Played a key role in redesigning the company's flagship product, leading to a 40% boost in user satisfaction ratings.
+
+Junior Software Engineer, RLI, New York, NY (2005–2007)  
+Annual salary: $76,800
+- Assisted in the development of internal tools, which improved data retrieval times by 10%.
+- Contributed to the successful migration of legacy systems to new technology, enhancing system reliability.

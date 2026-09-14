@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in backend development, known for punctuality and a knack for humorous communication. Passionate about crafting efficient solutions and enhancing system performance, with a strong background in private sector roles across various locations in New York and New Jersey.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2003
+
+**Work History**
+
+**Senior Backend Engineer, Optizm Inc, Orchard Park, NY, US (2021–Present)**  
+Annual salary: $134,800
+- Led a team in reducing server response time by 30% through optimized code and efficient load balancing techniques.
+- Implemented a scalable microservices architecture that improved software deployment speeds by 25%.
+
+**Senior Backend Engineer, ASSYST, Inc., Mahwah, NJ (2017–2021)**  
+Annual salary: $131,500
+- Spearheaded the integration of third-party APIs, enhancing platform capabilities and user engagement by 40%.
+- Automated routine data processing tasks, reducing manual workload by 50% and increasing overall team productivity.
+
+**Senior Backend Engineer, FIS Management Services LLC, Mahwah, NJ (2015–2017)**  
+Annual salary: $107,000
+- Designed and launched a data analytics platform, contributing to a 20% increase in client satisfaction through improved data insights.
+- Reduced system downtime by 15% by implementing robust error handling and real-time monitoring solutions.
+
+**Backend Engineer, Esri, Buffalo, NY (2010–2015)**  
+Annual salary: $87,700
+- Developed a geospatial data processing module that decreased processing time by 40%.
+- Collaborated with cross-functional teams to deliver a comprehensive mapping solution, leading to a 25% increase in product adoption.
+
+**Backend Engineer, Scale AI, Albany, NY, US (2007–2010)**  
+Annual salary: $74,800
+- Enhanced data labeling efficiency by 30% through the development of automated tools.
+- Contributed to the design and implementation of a scalable AI model training framework.
+
+**Junior Software Engineer, AT&T, Hartford, CT (2003–2007)**  
+Annual salary: $50,400
+- Assisted in the development of a customer support system that improved response times by 20%.
+- Participated in code reviews and QA testing, ensuring the delivery of high-quality software products.

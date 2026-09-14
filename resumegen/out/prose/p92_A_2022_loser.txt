@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Dynamic and tech-savvy software engineer with over 13 years of experience in developing innovative solutions for complex systems. Proficient in collaborating across teams, leveraging strong communication skills to deliver projects effectively and efficiently.
+
+Education  
+Master's Degree in Mathematics, CUNY City College, 2009
+
+Work History  
+
+Software Engineer, Peloton, Astoria, NY (2009–2011)  
+Annual salary: $91,500  
+- Developed and maintained key features for the fitness platform, enhancing user engagement by 20%.  
+- Collaborated with cross-functional teams to integrate new technologies, improving system performance by 15%.
+
+Software Engineer, Pw tech, Greene, NY, USA (2011–2016)  
+Annual salary: $97,800  
+- Spearheaded the design and implementation of a scalable software solution, reducing processing time by 25%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.
+
+Senior Software Engineer, Osaic, Bridgewater, NJ, US (2016–2018)  
+Annual salary: $101,300  
+- Led a team to develop a microservices architecture, resulting in a 30% increase in deployment efficiency.  
+- Implemented robust security protocols that decreased system vulnerabilities by 40%.
+
+Senior Software Engineer, ICR, Inc., Old Westbury, NY (2018–Present)  
+Annual salary: $143,500  
+- Architected a cloud-based platform that improved system reliability by 35% and reduced operational costs.  
+- Championed the adoption of agile methodologies, enhancing project delivery speed by 20%.

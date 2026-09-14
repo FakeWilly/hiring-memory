@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in developing innovative solutions and leading engineering teams. Known for open communication and a passion for solving complex problems, I apply my expertise to drive efficiency and enhance product offerings.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rochester Institute of Technology, 2003
+
+**Work History**  
+
+**Staff Software Engineer, Ardmore Home Design, Hartford, CT, US (2020–Present)**  
+Annual salary: $201,300  
+- Spearheaded the migration to a cloud-based infrastructure, reducing costs by 30% while increasing system reliability.  
+- Collaborated with cross-functional teams to launch a new e-commerce platform, improving user experience and boosting sales by 15%.
+
+**Staff Software Engineer, SteadyRain, Inc., Hartford, CT, US (2016–2020)**  
+Annual salary: $177,100  
+- Led the development of a scalable API framework, resulting in a 40% reduction in data processing time.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation within the team.
+
+**Senior Software Engineer, BeiGene, Bedminster, NJ, US (2013–2016)**  
+Annual salary: $124,000  
+- Implemented a microservices architecture that improved system modularity and decreased downtime by 25%.  
+- Collaborated on a cross-departmental project to streamline software deployment processes, reducing release cycles by 20%.
+
+**Senior Software Engineer, ARKA Group, L.P., Buffalo, NY, US (2008–2013)**  
+Annual salary: $114,000  
+- Developed a critical data analysis tool that enhanced decision-making capabilities for the analytics team.  
+- Optimized legacy codebase, resulting in a 30% increase in application performance.
+
+**Software Engineer, Belt Power LLC, Andes, NY, US (2006–2008)**  
+Annual salary: $87,100  
+- Designed and implemented new features for the company's flagship product, leading to a 10% increase in market share.  
+- Automated testing processes, significantly reducing bug resolution time and improving software quality.
+
+**Junior Software Engineer, Chenega Corporation, Orchard Park, NY, US (2003–2006)**  
+Annual salary: $64,200  
+- Contributed to the development of a web-based application that improved customer engagement by 15%.  
+- Assisted in the migration of a legacy system to a new platform, enhancing system security and scalability.

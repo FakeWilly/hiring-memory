@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Tech-savvy software engineer with a Bachelor's Degree in Computer Science from Penn State University. Known for exceptional organizational skills and a direct communication style, I bring over eight years of software development experience, specializing in systems engineering and junior software roles.
+
+Education  
+Bachelor's Degree in Computer Science, Penn State University, 2014
+
+Work History  
+
+Junior Software Engineer, Netsimco, Kingston, NY, US (2014–2016)  
+Annual salary: $70,100  
+- Developed and maintained features for internal tools, improving efficiency by 20%.  
+- Collaborated with senior engineers to enhance the user interface of a key product, leading to a 15% increase in user satisfaction.
+
+Junior Software Engineer, SHLD, New York, NY, US (2016–2021)  
+Annual salary: $78,100  
+- Led a project to revamp legacy code, reducing system downtime by 30%.  
+- Implemented automated testing processes, cutting defect rates by 25% over two years.
+
+Systems Engineer, Sofar Ocean, Jersey City, NJ (2021–Present)  
+Annual salary: $87,500  
+- Spearheaded the integration of new data management systems, boosting data retrieval speeds by 40%.  
+- Designed and deployed scalable software solutions, reducing maintenance costs by 15%.

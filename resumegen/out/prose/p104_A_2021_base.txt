@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly experienced software engineer with over 18 years in the industry, known for a direct communication style and a passion for innovative technology solutions. Skilled in designing and implementing robust systems, with a track record of delivering successful projects in the New York metro area.
+
+**Education**  
+Master's Degree in Software Engineering, Baruch College, 2003  
+
+**Work History**  
+
+**Software Engineer, Numerica Corporation, Rensselaer, NY, US (2003–2006)**  
+Annual salary: $83,400  
+- Developed and optimized algorithms for data analysis, enhancing processing speed by 30%.  
+- Collaborated with a cross-functional team to deliver a key feature for a flagship product, resulting in a 15% increase in customer satisfaction.
+
+**Software Engineer, State of North Carolina, Hartford, CT, US (2006–2010)**  
+Annual salary: $86,600  
+- Implemented a new software architecture that reduced system downtime by 40%.  
+- Led the migration of legacy systems to modern platforms, improving system reliability and user experience.
+
+**Senior Software Engineer, Clayton Careers, Hackensack, NJ, US (2010–2014)**  
+Annual salary: $126,500  
+- Spearheaded the development of a critical application feature that increased system efficiency by 25%.  
+- Mentored junior engineers, fostering a collaborative environment that improved overall team performance.
+
+**Staff Software Engineer, Novate Solutions Inc, New York, NY (2014–2016)**  
+Annual salary: $170,200  
+- Designed and implemented scalable software solutions that supported a 50% growth in user base.  
+- Played a key role in the strategic planning of software updates, aligning development with business objectives.
+
+**Staff Software Engineer, LEIDOS, INC., Rochester, NY, US (2016–2020)**  
+Annual salary: $169,400  
+- Led a team in developing a machine learning platform, which enhanced data analytics capabilities by 40%.  
+- Improved system security protocols, significantly reducing vulnerability incidences.
+
+**Staff Software Engineer, Dataminr, Inc., Rensselaer, NY, US (2020–Present)**  
+Annual salary: $201,100  
+- Architected a high-throughput data processing system, increasing data handling efficiency by 60%.  
+- Collaborated with product managers to integrate new features, improving overall product marketability and user engagement.

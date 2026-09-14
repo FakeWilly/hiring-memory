@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with over seven years of experience in developing innovative software solutions. Passionate about problem-solving and crafting efficient code, with a strong foundation in electrical engineering.
+
+**Work Experience**
+
+Software Engineer, ASRC Federal, Morris Plains, NJ (2019–Present)  
+Annual salary: $127,400  
+- Developed and implemented a scalable software architecture that improved system efficiency by 30%.  
+- Spearheaded a project that automated data processing, reducing manual work by 50 hours per month.  
+
+Junior Software Engineer, FICO, Whippany, NJ (2016–2019)  
+Annual salary: $88,600  
+- Collaborated on a team to enhance fraud detection algorithms, increasing accuracy by 15%.  
+- Assisted in migrating legacy systems to a modern tech stack, improving performance and reliability.  
+
+Junior Software Engineer, Hive, Princeton, NJ (2014–2016)  
+Annual salary: $81,100  
+- Contributed to the development of a customer-facing application, enhancing user experience and engagement.  
+- Optimized existing codebase, resulting in a 20% reduction in load times.  
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2014

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience in designing and implementing innovative solutions in various industries. Known for a humorous communication style and a passion for puzzles, I bring a unique blend of technical acumen and creativity to every project.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Drexel University, 1999
+
+**Work History**
+
+**Staff Software Engineer, Rebuy, Princeton, NJ, US (2019–Present)**  
+Annual salary: $159,600  
+- Spearheaded the development of a scalable e-commerce platform, enhancing user engagement by 30%.  
+- Mentored a team of junior developers, fostering an environment of continuous learning and improvement.
+
+**Staff Software Engineer, BRIDGE, Hartford, CT (2013–2018)**  
+Annual salary: $148,200  
+- Developed and optimized software solutions that improved system performance by 25%.  
+- Collaborated cross-functionally to integrate cutting-edge technologies into existing systems, reducing operational costs by 15%.
+
+**Senior Software Engineer, HashiCorp, Bridgewater, NJ, US (2009–2013)**  
+Annual salary: $101,100  
+- Led a team to design and deploy a cloud-based infrastructure, increasing system reliability by 40%.  
+- Streamlined code review processes, reducing deployment times by 20%.
+
+**Software Engineer, Sanders Industries Holdings, Kingston, NY, US (2003–2008)**  
+Annual salary: $88,300  
+- Engineered software solutions that automated key business processes, saving approximately 1,000 man-hours annually.  
+- Collaborated with cross-functional teams to deliver high-quality software products on time and under budget.
+
+**Junior Software Engineer, AMMEGA, Binghamton, NY (1999–2003)**  
+Annual salary: $63,300  
+- Assisted in the development of core software components, contributing to a 15% increase in application speed.  
+- Played a key role in debugging and resolving critical issues, ensuring seamless software performance.

@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated software engineer with over 18 years of experience in backend development, recognized for consistently delivering robust and scalable solutions. Known for technical expertise and a reserved communication style, I excel in collaborative environments where my introverted nature fosters deep focus and innovation.
+
+**Education**  
+Bachelor's Degree in Information Systems, Drexel University, 2004  
+
+**Work History**  
+
+Senior Backend Engineer, Roche, Melville, NY, US (2016–Present)  
+Annual salary: $149,000  
+- Spearheaded the development of a secure data management system that improved data processing efficiency by 30%.  
+- Led a team in the successful migration of legacy systems to cloud-based platforms, enhancing scalability and performance.  
+
+Senior Backend Engineer, Maxar Technologies, Warren, NJ, US (2014–2016)  
+Annual salary: $142,800  
+- Designed and implemented an automated API integration framework, reducing integration time by 40%.  
+- Collaborated with cross-functional teams to deliver mission-critical software features ahead of schedule.  
+
+Backend Engineer, Disney Entertainment & ESPN Technology, Buffalo, NY (2009–2014)  
+Annual salary: $103,200  
+- Developed backend services for high-traffic media applications, supporting over 1 million daily users.  
+- Optimized database queries, leading to a 25% reduction in data retrieval times.  
+
+Junior Software Engineer, Murphy Company, Mount Laurel, NJ, US (2004–2009)  
+Annual salary: $71,100  
+- Assisted in the development of internal tools that streamlined project management processes.  
+- Contributed to a team that improved system performance, achieving a 15% increase in application speed.

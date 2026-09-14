@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative solutions across various industries. Known for strong analytical skills and a collaborative spirit, I thrive in environments where I can contribute to team success through my technical expertise and social acumen.
+
+**Education**  
+Bachelor's Degree in Statistics, CUNY City College, 2004
+
+**Work History**
+
+**Senior Software Engineer, USAA, Melville, NY, US (2018–Present)**  
+Annual salary: $103,900  
+- Led a team of developers to design and implement a scalable software solution that improved processing speed by 30%.  
+- Spearheaded the integration of a new API that enhanced client data security, resulting in a 25% reduction in system vulnerabilities.  
+
+**Software Engineer, Anduril Industries, New York, NY, US (2013–2018)**  
+Annual salary: $101,000  
+- Developed and deployed critical backend components for a high-traffic application that handled over 1 million transactions daily.  
+- Collaborated with cross-functional teams to optimize software performance, reducing server response time by 15%.  
+
+**Junior Software Engineer, EMCOR, East Newark, NJ, US (2008–2013)**  
+Annual salary: $66,700  
+- Contributed to the modernization of legacy systems, resulting in a 20% boost in operational efficiency.  
+- Assisted in the development of a customer service platform, improving user satisfaction scores by 10%.  
+
+**Junior Software Engineer, Applied Concepts, East Syracuse, NY (2004–2008)**  
+Annual salary: $57,900  
+- Designed and implemented software solutions that aligned with client specifications, enhancing project delivery by 25%.  
+- Assisted senior engineers in debugging and refining code, which improved software reliability by 30%.

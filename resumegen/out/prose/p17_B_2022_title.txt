@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Experienced software engineer with a strong background in developing scalable solutions and optimizing performance for diverse applications. Combines a deep understanding of complex mathematical problem-solving with tech-savvy approaches to deliver efficient and innovative software solutions.
+
+Education  
+Master's Degree in Mathematics, Penn State University, 2003
+
+Work History  
+
+Software Engineer, Comcast, Orchard Park, NY, US (2003–2006)  
+Annual salary: $91,300  
+- Developed and maintained cable service software, contributing to a 15% increase in system reliability.  
+- Collaborated with cross-functional teams to design scalable solutions, reducing system downtime by 20%.
+
+Software Engineer, cybertrol engineering, Franklin Lakes, NJ, US (2006–2009)  
+Annual salary: $98,700  
+- Implemented automation processes that improved operational efficiency by 25%.  
+- Led a team in the development of a new software module that enhanced client satisfaction ratings by 10%.
+
+Senior Software Engineer, Disney, Jersey City, NJ, US (2009–2014)  
+Annual salary: $130,600  
+- Spearheaded the development of a high-traffic media platform, achieving a 30% increase in user engagement.  
+- Optimized software architecture, resulting in a 40% reduction in application loading time.
+
+Senior Software Engineer, St. Claire HealthCare, White Plains, NY, US (2014–2019)  
+Annual salary: $156,800  
+- Developed critical healthcare software tools, improving data processing speed by 35%.  
+- Integrated state-of-the-art security protocols, enhancing patient data protection.
+
+Senior Software Engineer, KARDEX, Rochester, NY, USA (2019–2021)  
+Annual salary: $178,000  
+- Led the redesign of inventory management software, boosting efficiency by 20%.  
+- Implemented machine learning algorithms to predict inventory needs, reducing excess stock by 30%.
+
+Staff Software Engineer, Knowhirematch, Rochester, NY, US (2021–Present)  
+Annual salary: $182,400  
+- Architected a matching algorithm that increased platform matching accuracy by 45%.  
+- Directed the migration to a cloud-based infrastructure, reducing operational costs by 25%.

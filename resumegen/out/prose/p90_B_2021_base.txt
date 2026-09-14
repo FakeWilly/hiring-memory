@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with 9 years of experience in the New York metro area, known for a punctual and direct communication style. Proficient in developing innovative software solutions and passionate about leveraging technology to enhance business operations and user experiences.
+
+**Education**  
+Bachelor's Degree in Computer Science, Rutgers University, 2012  
+
+**Work History**  
+
+**Software Engineer, Applied Intuition, Bridgewater, NJ (2020–Present)**  
+Annual salary: $125,600  
+- Spearheaded the development and deployment of a new software platform, reducing processing time by 30% and increasing user satisfaction.  
+- Collaborated with cross-functional teams to enhance system architecture, resulting in a 20% increase in system efficiency.  
+
+**Software Engineer, Technology, Automation, and Management, Inc., Orchard Park, NY (2016–2020)**  
+Annual salary: $85,000  
+- Developed and maintained automated tools that improved workflow efficiency by 25% for the engineering team.  
+- Led a team of 4 developers in the successful migration of legacy systems to modern frameworks, improving performance by 40%.  
+
+**Junior Software Engineer, Crain Automotive Team, Iselin, NJ (2012–2016)**  
+Annual salary: $78,600  
+- Assisted in the design and implementation of software applications, contributing to a 15% increase in project delivery speed.  
+- Conducted code reviews and debugging processes, ensuring a 98% error-free deployment rate.

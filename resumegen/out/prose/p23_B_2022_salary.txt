@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Detail-oriented and tech-savvy Software Engineer with a strong foundation in information systems and a keen ability to solve complex problems. Dedicated to delivering innovative solutions in fast-paced environments, leveraging a reserved communication style to collaborate effectively in team settings.
+
+**Education**  
+Bachelor's Degree in Information Systems, Stony Brook University, 2014
+
+**Work History**
+
+Junior Software Engineer, Mycronic USA, Bridgewater, NJ, US (2014–2019)  
+Annual salary: $70,400  
+- Contributed to the development of automated systems, enhancing efficiency by 15% through code optimization and process streamlining.  
+- Assisted in the implementation of software updates, ensuring system stability and minimizing downtime for end users.  
+
+Software Engineer, Government Tactical Solutions, Mahwah, NJ (2019–2021)  
+Annual salary: $96,500  
+- Developed software solutions for government clients, improving data processing speeds by 25% through innovative algorithm design.  
+- Collaborated with cross-functional teams to integrate new features into existing platforms, enhancing functionality and user experience.  
+
+Software Engineer, FIA Tech, Rochester, NY, USA (2021–Present)  
+Annual salary: $108,100  
+- Spearheaded the development of a new trading platform module, reducing latency by 30% and increasing transaction accuracy.  
+- Implemented robust security protocols to protect sensitive financial data, contributing to the company's compliance with industry standards.

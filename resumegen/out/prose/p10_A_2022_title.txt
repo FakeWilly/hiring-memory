@@ -1,0 +1,29 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with a strong foundation in mathematics and a keen eye for detail, specializing in data engineering. Known for a direct communication style, adept at translating complex technical requirements into actionable solutions.
+
+**Education**  
+Bachelor's Degree in Mathematics, Drexel University, 2014  
+
+**Work History**
+
+**Senior Data Engineer, Hensel Phelps Construction, Lakewood, NJ (2021–Present)**  
+Annual salary: $105,200  
+- Spearheaded the implementation of a new data pipeline architecture, reducing data processing time by 30%.  
+- Collaborated with cross-functional teams to improve data accuracy, resulting in a 20% reduction in data errors.
+
+**Data Engineer, Stier Solutions, Melville, NY (2019–2021)**  
+Annual salary: $102,600  
+- Developed and maintained scalable data storage solutions that increased data retrieval speed by 25%.  
+- Automated data integration processes, saving the company approximately 15 hours of manual work weekly.
+
+**Junior Software Engineer, SHB Technology, Inc, Bridgewater, NJ (2014–2018)**  
+Annual salary: $85,500  
+- Assisted in the development of software applications that improved client management efficiency by 40%.  
+- Contributed to the redesign of an internal tool, enhancing its usability and reducing user-reported issues by 50%.  
+
+---

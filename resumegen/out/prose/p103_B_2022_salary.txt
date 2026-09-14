@@ -1,0 +1,51 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with over two decades of experience in data engineering across diverse industries. Proven track record of leveraging software solutions to enhance data management and streamline operations, with a diplomatic communication style that fosters collaboration.
+
+**Education**  
+Associate's Degree in Software Engineering, Stony Brook University, 2000
+
+**Work History**
+
+Senior Data Engineer, OC business finder, Hartford, CT (2021–Present)  
+Annual salary: $166,900  
+- Spearheaded the integration of advanced data analytics tools, increasing data processing efficiency by 30%.  
+- Collaborated with cross-functional teams to redesign the data architecture, enhancing system scalability and reliability.
+
+Senior Data Engineer, Nexagen Networks Inc, Greene, NY, USA (2020–2021)  
+Annual salary: $149,000  
+- Implemented a machine learning model that improved data prediction accuracy by 25%.  
+- Reduced data processing time by 40% through optimizing ETL processes.
+
+Senior Data Engineer, Tennessee Titans, Binghamton, NY (2016–2020)  
+Annual salary: $130,500  
+- Led the development of a real-time analytics dashboard, resulting in a 20% increase in operational decision-making speed.  
+- Successfully migrated legacy systems to cloud solutions, ensuring seamless data accessibility and security.
+
+Senior Data Engineer, Pond & Company, Newark, NJ, US (2014–2016)  
+Annual salary: $117,700  
+- Enhanced data pipeline efficiency by 35% by implementing cutting-edge data integration techniques.  
+- Worked closely with stakeholders to deliver custom data solutions, improving client satisfaction scores by 15%.
+
+Senior Data Engineer, SHLD, East Syracuse, NY (2011–2014)  
+Annual salary: $120,300  
+- Developed a robust data validation framework that reduced data errors by 50%.  
+- Coordinated with the IT department to upgrade and maintain data infrastructure, increasing data retrieval speeds by 40%.
+
+Senior Data Engineer, Nexxen, Lakewood, NJ (2007–2011)  
+Annual salary: $104,700  
+- Designed and implemented a comprehensive ETL system, enhancing data processing capabilities by 50%.  
+- Conducted extensive data analysis to support strategic business initiatives, contributing to a 15% revenue growth.
+
+Data Engineer, Hensel Phelps Construction, Astoria, NY (2002–2007)  
+Annual salary: $70,600  
+- Developed data integration solutions that streamlined project management processes, cutting costs by 10%.  
+- Automated data collection systems, improving data accuracy and availability for stakeholders.
+
+Junior Software Engineer, efabless, Troy, NY, US (2000–2002)  
+Annual salary: $50,700  
+- Assisted in the development of software applications that enhanced operational efficiency.  
+- Contributed to code optimization projects, achieving a 20% reduction in processing times.

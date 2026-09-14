@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and punctual software engineer with over a decade of experience in the New York metro area. Highly skilled in developing scalable solutions and leveraging emerging technologies to drive innovation and efficiency.
+
+**Education**  
+Bachelor's Degree in Computer Science, Rutgers University, 2012
+
+**Work History**
+
+**Senior Software Engineer, Global Payments, Jersey City, NJ (2021–Present)**  
+Annual salary: $140,700  
+- Spearheaded the development of a high-availability payment processing system, improving transaction speed by 30%.  
+- Led a team of five engineers in a successful migration to a microservices architecture, enhancing system scalability and resilience.
+
+**Software Engineer, Applied Intuition, Bridgewater, NJ (2020–2021)**  
+Annual salary: $125,600  
+- Contributed to the design and implementation of simulation software for autonomous vehicles, reducing testing time by 40%.  
+- Optimized existing codebase, resulting in a 25% increase in performance efficiency.
+
+**Software Engineer, Technology, Automation, and Management, Inc., Orchard Park, NY (2016–2020)**  
+Annual salary: $85,000  
+- Developed automation tools that decreased manual testing efforts by 50%.  
+- Collaborated with cross-functional teams to deliver a new client management system, enhancing user satisfaction by 20%.
+
+**Junior Software Engineer, Crain Automotive Team, Iselin, NJ (2012–2016)**  
+Annual salary: $78,600  
+- Assisted in the development of customer-facing web applications, increasing user engagement by 15%.  
+- Improved software deployment processes, reducing downtime by 10%.

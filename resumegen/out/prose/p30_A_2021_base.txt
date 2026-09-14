@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with a strong foundation in statistics and a passion for problem-solving. Experienced in developing innovative solutions in diverse industries, with a focus on maintaining high-quality code and performance.
+
+**Education**  
+Bachelor's Degree in Statistics, Rochester Institute of Technology, 2012
+
+**Work History**
+
+Junior Software Engineer, Disney Experiences, East Syracuse, NY (2019–Present)  
+Annual salary: $85,900  
+- Collaborated in a cross-functional team to enhance the performance of the user experience platform, resulting in a 20% increase in customer satisfaction.  
+- Implemented a new feature for the mobile application that increased user engagement by 15%.
+
+Junior Software Engineer, ITR, Mahwah, NJ (2015–2019)  
+Annual salary: $77,100  
+- Developed and maintained critical components of an internal analytics tool, improving data processing speed by 30%.  
+- Assisted in the migration of legacy systems to modern architectures, enhancing system reliability and scalability.
+
+Junior Software Engineer, DocuSign, Bridgewater, NJ (2012–2014)  
+Annual salary: $79,200  
+- Contributed to the development of secure document management software, resulting in a 25% reduction in processing time.  
+- Collaborated in a team to implement new features that improved user interface and experience, increasing client satisfaction.

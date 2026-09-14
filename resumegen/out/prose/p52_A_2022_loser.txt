@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 17 years in frontend development and a strong focus on creating intuitive user interfaces. Proven track record of enhancing web applications and effectively collaborating with cross-functional teams to deliver high-quality software solutions.
+
+**Work History**  
+
+**Senior Frontend Engineer, Music & Arts, Hartford, CT (2017–Present)**  
+Annual salary: $134,700  
+- Led the complete redesign of the company’s e-commerce platform, resulting in a 20% increase in user engagement and a 15% rise in sales.  
+- Streamlined frontend development processes, reducing deployment time by 30% through the adoption of modern tools and frameworks.  
+
+**Frontend Engineer, Arkana Laboratories, East Syracuse, NY (2013–2017)**  
+Annual salary: $99,500  
+- Developed and maintained the laboratory's internal software systems, enhancing data processing efficiency by 25%.  
+- Initiated and led the adoption of responsive design techniques, significantly improving user experience on mobile devices.  
+
+**Frontend Engineer, County of Bergen, New York, NY, USA (2009–2013)**  
+Annual salary: $94,700  
+- Spearheaded the development of a new public-facing web portal, resulting in a 30% increase in public engagement.  
+- Collaborated with backend teams to improve system integration, reducing page load times by 40%.  
+
+**Junior Software Engineer, Gainwell Technologies LLC, New York, NY (2005–2009)**  
+Annual salary: $64,900  
+- Contributed to the development of multiple client projects, ensuring consistent delivery of high-quality software.  
+- Assisted in implementing code reviews, leading to a 15% decrease in post-deployment issues.  
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2005

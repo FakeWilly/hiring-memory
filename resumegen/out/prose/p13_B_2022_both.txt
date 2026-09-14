@@ -1,0 +1,38 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented software engineer with over a decade of experience in developing innovative software solutions across diverse industries. Passionate about leveraging technology to solve complex problems and enhance operational efficiency.  
+
+---
+
+**Education**  
+Master's Degree in Mathematics, Baruch College, 2011  
+
+---
+
+**Work Experience**  
+
+**Staff Software Engineer, Projex Plus Solutions, Inc, Binghamton, NY (2021–Present)**  
+Annual salary: $176,400  
+- Spearheaded the development of a new project management platform, increasing team productivity by 25%.  
+- Collaborated with cross-functional teams to integrate AI capabilities, resulting in a 30% reduction in manual processes.  
+
+**Senior Software Engineer, Metagenics, Buffalo, NY (2018–2021)**  
+Annual salary: $157,500  
+- Led a team of 5 engineers to develop a scalable cloud-based application, improving system reliability by 40%.  
+- Implemented robust data analytics tools that provided actionable insights, driving a 15% increase in sales revenue.  
+
+**Software Engineer, Sumitomo Mitsui Banking Corporation, Orchard Park, NY (2013–2018)**  
+Annual salary: $121,400  
+- Developed financial software solutions that improved transaction processing speed by 50%.  
+- Automated data processing tasks, significantly reducing reporting time by 60%.  
+
+**Software Engineer, 2HB Incorporated, Mahwah, NJ (2011–2013)**  
+Annual salary: $107,400  
+- Collaborated on the development of a secure communication platform, enhancing client data protection.  
+- Contributed to streamlining software deployment processes, reducing downtime by 20%.  
+
+---

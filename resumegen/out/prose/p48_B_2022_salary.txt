@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and results-driven software engineer with over a decade of experience specializing in platform engineering. Known for a diplomatic communication style and a passion for solving complex problems, I have consistently delivered high-quality solutions in fast-paced environments.  
+
+**Education**  
+Master's Degree in Statistics, University of Connecticut, 2009  
+
+**Work History**  
+
+**Senior Platform Engineer, i-Tech, Warren, NJ, US (2021–Present)**  
+Annual salary: $191,200  
+- Spearheaded the design and implementation of a scalable cloud-based platform, increasing system efficiency by 30%.  
+- Collaborated with cross-functional teams to refine product features, resulting in a 25% reduction in customer-reported issues.  
+
+**Senior Platform Engineer, Sandia, Rochester, NY, USA (2017–2021)**  
+Annual salary: $170,700  
+- Led a team of engineers in the migration of legacy systems to modern cloud infrastructure, reducing operational costs by 20%.  
+- Developed a real-time data processing pipeline that improved data accuracy and processing speed by 40%.  
+
+**Platform Engineer, Upstart, Rochester, NY, US (2012–2017)**  
+Annual salary: $132,900  
+- Engineered a robust platform architecture that supported a user base growth of 50% year-over-year.  
+- Implemented automated testing procedures, decreasing deployment times by 35%.  
+
+**Platform Engineer, The Raymond Corporation, Princeton, NJ (2009–2012)**  
+Annual salary: $111,500  
+- Designed and developed critical software components that enhanced product performance by 15%.  
+- Conducted comprehensive code reviews, improving code quality and reducing bugs by 20%.

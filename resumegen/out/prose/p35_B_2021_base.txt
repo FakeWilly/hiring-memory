@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Accomplished software engineer with a Master's Degree in Mathematics, offering a decade of experience in infrastructure engineering. Known for a keen technical acumen and a knack for problem-solving, I bring a humorous yet focused approach to team collaboration and project execution.
+
+**Education**  
+Master's Degree in Mathematics, Rutgers University, 2011
+
+**Work History**
+
+Senior Infrastructure Engineer, University of the Cumberlands, Buffalo, NY, US (2016–Present)  
+Annual salary: $131,200  
+- Spearheaded the transition to cloud-based infrastructure, improving system uptime by 30%.  
+- Implemented automated deployment pipelines, reducing release times by 50%.  
+
+Infrastructure Engineer, Lucid Motors, Albany, NY, US (2013–2016)  
+Annual salary: $102,000  
+- Led a team to design and deploy an enterprise-wide network infrastructure, enhancing connectivity by 40%.  
+- Developed monitoring tools that decreased response times to service disruptions by 25%.  
+
+Infrastructure Engineer, Carshield, Groton, CT, US (2011–2013)  
+Annual salary: $99,200  
+- Engineered a secure VPN solution that increased remote access efficiency by 20%.  
+- Collaborated on a cross-functional team to migrate legacy systems, improving data retrieval speeds by 15%.

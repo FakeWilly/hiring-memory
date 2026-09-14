@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in developing robust software solutions. Known for a humorous communication style and a passion for solving complex puzzles, I thrive in collaborative environments where creativity meets technical expertise.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Drexel University, 1999
+
+**Work History**
+
+**Principal Software Engineer, Veeva Systems, Orchard Park, NY (2021–Present)**  
+Annual salary: $178,800  
+- Led a team of engineers in the development and successful deployment of a new enterprise-grade software platform.  
+- Spearheaded the implementation of advanced data analytics features, improving system efficiency by 30%.
+
+**Staff Software Engineer, Rebuy, Princeton, NJ, US (2019–2021)**  
+Annual salary: $159,600  
+- Developed and optimized key algorithms, enhancing the system's processing speed by 20%.  
+- Collaborated cross-functionally to integrate new technologies, resulting in a 15% increase in customer satisfaction.
+
+**Staff Software Engineer, BRIDGE, Hartford, CT (2013–2018)**  
+Annual salary: $148,200  
+- Architected scalable software solutions that supported a growing user base of over 100,000 clients.  
+- Played a pivotal role in launching a major product overhaul, reducing operational costs by 25%.
+
+**Senior Software Engineer, HashiCorp, Bridgewater, NJ, US (2009–2013)**  
+Annual salary: $101,100  
+- Enhanced system scalability through innovative caching strategies, boosting throughput by 40%.  
+- Mentored junior engineers, fostering a culture of continuous improvement and technical excellence.
+
+**Software Engineer, Sanders Industries Holdings, Kingston, NY, US (2003–2008)**  
+Annual salary: $88,300  
+- Developed custom software tools that automated routine tasks, saving the company over 500 hours annually.  
+- Successfully implemented a new customer management system, increasing team productivity by 20%.
+
+**Junior Software Engineer, AMMEGA, Binghamton, NY (1999–2003)**  
+Annual salary: $63,300  
+- Contributed to the design and development of a core application, resulting in a 10% increase in user engagement.  
+- Assisted in the migration of legacy systems to a more modern architecture, improving overall system reliability.

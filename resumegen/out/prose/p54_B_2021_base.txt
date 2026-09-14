@@ -1,0 +1,17 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with a Bachelor's degree in Computer Science and four years of experience in developing innovative solutions. Highly diplomatic communicator and team player, adept at collaborating with cross-functional teams to deliver high-quality software products.
+
+**Work Experience**  
+
+Junior Software Engineer, Hologic, Mount Laurel, NJ (2017–Present)  
+Annual salary: $92,200  
+- Collaborated with a team of engineers to develop and maintain software applications, resulting in a 20% improvement in system efficiency.  
+- Assisted in the implementation of a new testing protocol, reducing software bugs by 30% and enhancing product reliability.  
+- Participated in code reviews and contributed to the refinement of coding standards, improving code quality and maintainability.
+
+**Education**  
+Bachelor's Degree in Computer Science, Drexel University, 2017

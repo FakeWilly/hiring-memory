@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Experienced software engineer with over 18 years in data engineering and software development roles. Known for a reserved yet effective communication style and a strong ability to collaboratively solve complex problems and deliver scalable data solutions.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 2004
+
+**Work History**
+
+**Staff Data Engineer, General Inspection, Parsippany-Troy Hills, NJ, US (2021–Present)**  
+Annual salary: $188,000
+- Spearheaded the implementation of a new data pipeline, improving data processing efficiency by 30%.
+- Collaborated with cross-functional teams to enhance data accuracy, resulting in a 20% increase in reporting reliability.
+
+**Staff Data Engineer, Lynker Corporation, Rochester, NY, USA (2019–2021)**  
+Annual salary: $167,900
+- Developed an advanced data integration framework, reducing data latency by 40%.
+- Led a team of five engineers to successfully migrate legacy data systems to a cloud-based solution.
+
+**Senior Data Engineer, U.S. Bank, Princeton, NJ, US (2016–2019)**  
+Annual salary: $159,800
+- Engineered a scalable data warehouse solution, supporting key business analytics and reducing query times by 50%.
+- Streamlined ETL processes, contributing to a 25% reduction in operational costs.
+
+**Senior Data Engineer, Pw tech, Old Westbury, NY (2012–2015)**  
+Annual salary: $155,000
+- Implemented a real-time analytics platform, enhancing decision-making capabilities and improving data accessibility.
+- Enhanced system reliability by introducing fault-tolerant data architecture, increasing uptime to 99.9%.
+
+**Senior Data Engineer, Vulcan Wireless, Inc., Buffalo, NY, US (2009–2012)**  
+Annual salary: $129,200
+- Designed a distributed data processing system, improving scalability and performance in handling large datasets.
+- Coordinated with product teams to deliver data-driven insights, promoting data-informed decision-making.
+
+**Data Engineer, Progress Residential, Kingston, NY, US (2007–2009)**  
+Annual salary: $107,200
+- Built and maintained data pipelines, ensuring seamless data flow across various platforms.
+- Collaborated with developers to optimize database performance, achieving a 20% increase in query efficiency.
+
+**Junior Software Engineer, IntellectFaces, Inc., Rochester, NY, US (2004–2007)**  
+Annual salary: $76,200
+- Assisted in the development of software applications, contributing to the successful launch of three products.
+- Participated in code reviews and debugging sessions, enhancing overall code quality and reliability.

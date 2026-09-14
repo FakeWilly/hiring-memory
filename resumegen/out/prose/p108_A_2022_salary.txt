@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in the tech industry, specializing in frontend development. Adept at creating scalable and efficient software solutions, with a proven track record of enhancing user interface experiences.  
+
+**Education**  
+Associate's Degree in Software Engineering, Drexel University, 1999  
+
+**Work History**  
+
+Frontend Engineer, Edge Autonomy, New York, NY, USA (2021–Present)  
+Annual salary: $132,000  
+- Spearheaded the development of a high-performance web application, improving load times by 30% and enhancing user engagement.  
+- Collaborated with cross-functional teams to design and implement innovative UI features, resulting in a 20% increase in customer satisfaction.  
+
+Frontend Engineer, Meritage Homes, New York, NY, US (2018–2021)  
+Annual salary: $117,900  
+- Played a key role in redesigning the company's digital platform, boosting mobile traffic by 25%.  
+- Developed reusable code modules, reducing development time for new projects by 15%.  
+
+Frontend Engineer, 2HB Incorporated, Albany, NY, US (2013–2018)  
+Annual salary: $105,500  
+- Led a team to transition legacy systems to modern frameworks, enhancing system performance and reliability.  
+- Implemented a new testing protocol that reduced software bugs by 40%.  
+
+Frontend Engineer, ASML, Rensselaer, NY, US (2008–2013)  
+Annual salary: $69,200  
+- Developed user-friendly interfaces for complex software products, improving user experience ratings by 15%.  
+- Collaborated in agile teams to deliver projects ahead of schedule and under budget.  
+
+Junior Software Engineer, Viasat, Princeton, NJ (2006–2008)  
+Annual salary: $68,400  
+- Assisted in the development of core application components, contributing to a 10% system performance improvement.  
+- Regularly updated and maintained codebase, ensuring software security and stability.  
+
+Junior Software Engineer, Purple Squirrel Search Group, Hackensack, NJ, US (2002–2006)  
+Annual salary: $61,500  
+- Participated in the successful launch of a critical software update, enhancing functionality and user satisfaction.  
+- Worked closely with senior engineers to troubleshoot and resolve complex technical issues.  
+
+Junior Software Engineer, Moveworks, Rochester, NY, USA (1999–2002)  
+Annual salary: $55,700  
+- Contributed to the development of a key software module that improved processing efficiency by 20%.  
+- Supported the quality assurance team in identifying and fixing software defects.

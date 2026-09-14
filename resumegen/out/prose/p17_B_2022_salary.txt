@@ -1,0 +1,48 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with nearly two decades of expertise in developing innovative software solutions for leading companies. Known for a diplomatic communication style and a passion for leveraging technology to solve complex problems, I excel in collaborative environments that prioritize cutting-edge development and strategic growth.
+
+---
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2003
+
+---
+
+**Work History**
+
+Senior Software Engineer, Knowhirematch, Rochester, NY, US (2021–Present)  
+Annual salary: $199,400  
+- Spearheaded the design and implementation of a scalable software framework, increasing processing efficiency by 30%.  
+- Collaborated with cross-functional teams to adapt new technologies, resulting in a 20% reduction in system errors.
+
+Senior Software Engineer, KARDEX, Rochester, NY, USA (2019–2021)  
+Annual salary: $178,000  
+- Led a team of engineers to develop a cloud-based storage solution, enhancing data retrieval speed by 40%.  
+- Introduced a new code review process that improved code quality and reduced deployment time by 25%.
+
+Senior Software Engineer, St. Claire HealthCare, White Plains, NY, US (2014–2019)  
+Annual salary: $156,800  
+- Developed a patient management system that improved scheduling efficiency and reduced appointment wait times by 15%.  
+- Implemented security protocols that enhanced patient data protection, ensuring compliance with industry standards.
+
+Senior Software Engineer, Disney, Jersey City, NJ, US (2009–2014)  
+Annual salary: $130,600  
+- Designed and optimized interactive applications for high-traffic websites, resulting in a 50% increase in user engagement.  
+- Pioneered the integration of emerging technologies, which led to a 20% increase in content delivery speed.
+
+Software Engineer, cybertrol engineering, Franklin Lakes, NJ, US (2006–2009)  
+Annual salary: $98,700  
+- Developed and maintained automation software, improving system reliability and reducing downtime by 30%.  
+- Collaborated with clients to customize software solutions, enhancing satisfaction and repeat business.
+
+Software Engineer, Comcast, Orchard Park, NY, US (2003–2006)  
+Annual salary: $91,300  
+- Contributed to the development of network management software, improving monitoring capabilities and response times.  
+- Assisted in the rollout of new software tools, which increased operational efficiency by 20%.  
+
+---

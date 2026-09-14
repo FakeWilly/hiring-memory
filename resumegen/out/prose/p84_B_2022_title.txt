@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly skilled software engineer with over 19 years of experience in developing innovative solutions and leading cross-functional teams. Tech-savvy and introverted, I excel in complex problem-solving and direct communication, bringing a unique blend of technical expertise and creative thinking to every project.
+
+**Education**  
+Bachelor's Degree in Information Systems, Drexel University, 2003
+
+**Work History**  
+
+**Principal Software Engineer, ShorePoint, White Plains, NY, US (2021–Present)**  
+Annual salary: $210,100  
+- Lead a team of engineers in designing and implementing scalable software solutions that improved system efficiency by 30%.  
+- Spearheaded a project to integrate cutting-edge technology, reducing development time by 20%.
+
+**Staff Software Engineer, Coalition, Inc., Whippany, NJ, US (2020–2021)**  
+Annual salary: $205,000  
+- Developed and optimized high-performance algorithms, increasing data processing speed by 40%.  
+- Collaborated with product managers to design features that enhanced user experience and engagement.
+
+**Staff Software Engineer, Mayo Clinic, Hartford, CT (2016–2020)**  
+Annual salary: $175,900  
+- Architected a comprehensive data analysis platform that improved patient data accuracy and retrieval speed.  
+- Implemented robust security protocols, ensuring compliance with healthcare data protection regulations.
+
+**Senior Software Engineer, EvolutionIQ, East Syracuse, NY (2013–2016)**  
+Annual salary: $123,600  
+- Enhanced system architecture to support new product lines, resulting in a 25% increase in sales.  
+- Played a key role in migrating legacy systems to cloud-based platforms, improving operational efficiency.
+
+**Senior Software Engineer, Blue Origin, LLC, Hartford, CT, US (2008–2013)**  
+Annual salary: $113,100  
+- Led software development for mission-critical aerospace projects, ensuring adherence to strict timelines and quality standards.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.
+
+**Software Engineer, A3 Consulting, Melville, NY, US (2006–2008)**  
+Annual salary: $87,500  
+- Successfully implemented client-tailored software solutions, contributing to a 15% increase in client satisfaction.  
+- Assisted in the development of an internal tool that reduced project turnaround time by 10%.
+
+**Junior Software Engineer, Hecta Data (DBA) Vilwaa, White Plains, NY, US (2003–2006)**  
+Annual salary: $64,400  
+- Participated in the full software development lifecycle, from requirements gathering to deployment.  
+- Contributed to the development of a data management system, improving data retrieval efficiency by 25%.

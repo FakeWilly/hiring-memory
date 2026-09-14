@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing innovative software solutions. Highly skilled in collaboration and problem-solving, with a track record of success in diverse engineering roles and environments.
+
+**Education**  
+Associate's Degree in Information Systems, Baruch College, 2009  
+
+**Work Experience**
+
+**Staff Software Engineer, Next Level Talent, LLC, Franklin Lakes, NJ, US (2021–Present)**  
+Annual salary: $152,900  
+- Spearheaded the development of a new software architecture that improved system performance by 30%.  
+- Led a team of 5 engineers to deliver key product features on time and under budget.
+
+**Senior Software Engineer, Realtor.com, Jersey City, NJ, US (2020–2021)**  
+Annual salary: $149,200  
+- Implemented a scalable data processing solution, reducing data retrieval time by 40%.  
+- Collaborated with cross-functional teams to enhance user experience across the platform.
+
+**Senior Software Engineer, The DarkStar Group, Rochester, NY, US (2016–2020)**  
+Annual salary: $101,000  
+- Designed and developed critical backend systems supporting high-volume transactions.  
+- Mentored junior developers, fostering a culture of continuous learning and improvement.
+
+**Software Engineer, Bounteous, Groton, CT, US (2014–2016)**  
+Annual salary: $99,600  
+- Developed new application features that increased user engagement by 25%.  
+- Streamlined codebase by optimizing algorithms, resulting in a 15% reduction in processing time.
+
+**Junior Software Engineer, Roche, Newark, NJ, US (2009–2014)**  
+Annual salary: $66,800  
+- Assisted in the development of key software modules for pharmaceutical data analytics.  
+- Contributed to the successful migration of legacy systems to a modern tech stack.

@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy Infrastructure Engineer with over a decade of experience designing, implementing, and optimizing IT infrastructures in high-paced environments. Known for punctuality and a humorous communication style, consistently delivering robust solutions that enhance operational efficiency.
+
+**Education**  
+Master's Degree in Statistics, Rutgers University, 2011  
+
+**Work History**  
+
+**Senior Infrastructure Engineer**, Plexe LLC, Kingston, NY, US (2021–Present)  
+Annual salary: $144,100  
+- Spearheaded the migration of legacy systems to cloud-based architecture, improving system reliability by 30%.  
+- Designed and implemented a network monitoring solution, reducing system downtime by 20%.  
+
+**Infrastructure Engineer**, BLN24, New York, NY, USA (2018–2021)  
+Annual salary: $128,700  
+- Developed and deployed a scalable infrastructure framework, supporting a 50% increase in user traffic.  
+- Optimized server configurations, resulting in a 15% reduction in operational costs.  
+
+**Infrastructure Engineer**, Cognitive Medical Systems, East Newark, NJ, US (2016–2018)  
+Annual salary: $121,800  
+- Led the integration of advanced security protocols, enhancing data protection across the organization.  
+- Collaborated with cross-functional teams to streamline infrastructure processes, increasing efficiency by 25%.  
+
+**Infrastructure Engineer**, Minutes To Seconds, New York, NY, USA (2011–2016)  
+Annual salary: $105,500  
+- Implemented virtualization strategies, achieving a 40% improvement in resource utilization.  
+- Automated key operational workflows, reducing manual tasks by 30%.

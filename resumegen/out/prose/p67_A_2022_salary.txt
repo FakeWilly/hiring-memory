@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy and diplomatically skilled software engineer with over a decade of experience in developing and optimizing software solutions. Adept at collaborating across teams to drive innovation and efficiency in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Mathematics, CUNY City College, 2010
+
+**Work History**
+
+Systems Engineer, Eagle Horizon Group, Greene, NY, USA (2021–Present)  
+Annual salary: $137,300
+- Spearheaded the integration of advanced system architectures, resulting in a 25% increase in operational efficiency.
+- Led a team of engineers to successfully deploy a large-scale software update, improving system reliability and reducing downtime by 30%.
+
+Systems Engineer, ARKA Group, L.P., Mount Laurel, NJ, US (2018–2021)  
+Annual salary: $122,600
+- Developed a comprehensive data analytics tool that reduced processing time by 15% and increased data accuracy.
+- Collaborated with cross-functional teams to enhance system performance, leading to a 20% growth in client satisfaction.
+
+Junior Software Engineer, Quicken Inc., Astoria, NY (2015–2018)  
+Annual salary: $86,000
+- Implemented new software features that improved user interface and increased customer retention by 10%.
+- Streamlined backend processes, decreasing response time by 35% and enhancing user experience.
+
+Junior Software Engineer, Lynker Corporation, Troy, NY, US (2013–2015)  
+Annual salary: $80,400
+- Assisted in the development of a mobile application that expanded the company's service reach and boosted engagement by 20%.
+- Contributed to the optimization of codebases, resulting in a 40% reduction in bug-related incidents.
+
+Junior Software Engineer, Oceanit Laboratories, Inc., Warren, NJ, US (2010–2013)  
+Annual salary: $73,700
+- Participated in the design and implementation of software solutions, enhancing system functionality.
+- Collaborated in a team to develop automated testing processes, improving software reliability by 15%.

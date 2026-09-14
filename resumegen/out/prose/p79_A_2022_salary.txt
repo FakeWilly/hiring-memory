@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in both junior and senior roles. Highly adept at developing innovative solutions and working collaboratively within team environments to achieve complex project goals.
+
+**Education**  
+Associate's Degree in Statistics, Rutgers University, 2009
+
+**Work History**  
+
+Senior Software Engineer, Elevate Government Solutions, Mount Laurel, NJ, US (2021–Present)  
+Annual salary: $122,800  
+- Spearheaded a team project to revamp a critical government application, improving processing speed by 40%.  
+- Successfully reduced system downtime by 30% through proactive monitoring and code optimization.
+
+Senior Software Engineer, Capgemini, Morris Plains, NJ, US (2019–2021)  
+Annual salary: $109,600  
+- Led a cross-functional team in the development of a scalable cloud-based platform, increasing client satisfaction by 25%.  
+- Enhanced software performance, leading to a 15% reduction in operational costs.
+
+Software Engineer, reveleer, East Syracuse, NY (2017–2019)  
+Annual salary: $112,800  
+- Developed and implemented a data analytics tool that streamlined reporting processes, reducing delivery time by 50%.  
+- Collaborated with stakeholders to redesign the UI/UX of a major application, improving user engagement by 20%.
+
+Junior Software Engineer, Carshield, East Syracuse, NY (2012–2017)  
+Annual salary: $75,100  
+- Participated in the full software development lifecycle from design to deployment, ensuring timely delivery of projects.  
+- Assisted in migrating legacy systems to a new architecture, enhancing system reliability and performance.
+
+Junior Software Engineer, Nexzentek, Old Westbury, NY (2009–2012)  
+Annual salary: $60,800  
+- Contributed to the development of key software features, leading to a 10% increase in product efficiency.  
+- Collaborated effectively with senior engineers to troubleshoot and resolve technical issues swiftly.

@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over two decades of experience in developing scalable and efficient software solutions. Adept at collaborating with multidisciplinary teams to deliver innovative technology solutions, and known for a diplomatic communication style that fosters strong team dynamics.
+
+**Education**  
+Associate's Degree in Statistics, Baruch College, 2000
+
+**Work History**
+
+**Principal Software Engineer, ShorePoint, Iselin, NJ, US (2021–Present)**  
+Annual salary: $214,900  
+- Spearheaded the development of a high-availability cloud platform, reducing downtime by 40%.  
+- Mentored a team of 10 engineers, enhancing productivity by implementing agile methodologies.
+
+**Staff Software Engineer, EMCOR, Buffalo, NY (2019–2021)**  
+Annual salary: $209,700  
+- Led the migration of legacy systems to a microservices architecture, improving system performance by 30%.  
+- Collaborated with cross-functional teams to integrate machine learning algorithms, increasing data processing efficiency.
+
+**Staff Software Engineer, Reliable Robotics, Melville, NY, US (2016–2019)**  
+Annual salary: $176,500  
+- Developed a robust automation framework that reduced manual testing hours by 50%.  
+- Pioneered the implementation of continuous integration practices, accelerating release cycles by 20%.
+
+**Senior Software Engineer, CloudRay Inc, Andes, NY, US (2013–2016)**  
+Annual salary: $123,600  
+- Enhanced system security protocols, reducing vulnerability incidents by 60%.  
+- Coordinated with product managers to refine and optimize user interface designs.
+
+**Senior Software Engineer, TheMasonGroup, Syracuse, NY, US (2008–2012)**  
+Annual salary: $123,700  
+- Designed and deployed scalable backend services, supporting a 100% increase in user base.  
+- Streamlined code review processes, decreasing error rates by 25%.
+
+**Software Engineer, BoldTek, East Newark, NJ, US (2005–2008)**  
+Annual salary: $88,600  
+- Developed and maintained critical software applications, resulting in a 15% increase in operational efficiency.  
+- Collaborated with clients to gather requirements, ensuring seamless project execution.
+
+**Junior Software Engineer, archer, Rochester, NY, USA (2000–2005)**  
+Annual salary: $59,000  
+- Assisted in the development of web-based applications, improving client satisfaction rates.  
+- Participated in code refactoring projects, reducing codebase size by 10%.

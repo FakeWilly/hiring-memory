@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Data Engineer with a robust background in software development and data management. Proficient in designing large-scale data processing systems and employing analytics to drive business improvements.
+
+**Education**  
+Bachelor's Degree in Mathematics, Baruch College, 2001  
+
+**Work History**  
+
+**Junior Software Engineer, Marga Consulting, Buffalo, NY, US (2001–2004)**  
+Annual salary: $65,100  
+- Developed and maintained software applications, enhancing system performance by 20%.  
+- Assisted in the migration of legacy systems to new architectures, ensuring minimal downtime.  
+
+**Data Engineer, First Technology Federal Credit Union, Orchard Park, NY, US (2004–2006)**  
+Annual salary: $94,000  
+- Spearheaded data integration projects, improving data flow efficiency by 30%.  
+- Collaborated with cross-functional teams to design and implement ETL processes.  
+
+**Data Engineer, Orlando Utilities Commission, Troy, NY, US (2006–2010)**  
+Annual salary: $90,200  
+- Optimized data storage solutions, reducing retrieval times by 25%.  
+- Implemented data security protocols, enhancing information protection measures.  
+
+**Senior Data Engineer, Hire And Tech, Buffalo, NY (2010–2014)**  
+Annual salary: $119,000  
+- Led a team to deliver a scalable data warehousing solution, increasing reporting capabilities by 40%.  
+- Introduced innovative data processing techniques, cutting processing time by 50%.  
+
+**Senior Data Engineer, Classic Design, Parsippany-Troy Hills, NJ, US (2014–2016)**  
+Annual salary: $142,300  
+- Engineered data pipelines to support real-time analytics, enhancing decision-making processes.  
+- Mentored junior engineers, fostering a culture of knowledge sharing and continuous learning.  
+
+**Senior Data Engineer, Arcesium, Hartford, CT (2016–2018)**  
+Annual salary: $155,100  
+- Devised strategies for big data management, increasing data accessibility by 35%.  
+- Coordinated with stakeholders to align data solutions with business objectives.  
+
+**Senior Data Engineer, Exiger, Orchard Park, NY, US (2018–2020)**  
+Annual salary: $172,700  
+- Developed machine learning models to predict customer behavior, driving user engagement.  
+- Streamlined data validation processes, enhancing data accuracy and reliability.  
+
+**Senior Data Engineer, Lightship, Orchard Park, NY, US (2020–Present)**  
+Annual salary: $181,500  
+- Architected robust data infrastructures to support large-scale analytics applications.  
+- Improved data ingestion processes, reducing operational costs by 15%.

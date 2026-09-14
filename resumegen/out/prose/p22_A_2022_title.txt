@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 15 years of experience specializing in frontend development. Known for a strong ability to deliver high-quality, innovative solutions in fast-paced environments, while maintaining open communication and a collaborative spirit.
+
+**Education**  
+Master's Degree in Software Engineering, Drexel University, 2007
+
+**Work History**
+
+Principal Frontend Engineer, VergeSense, Whippany, NJ, US (2021–Present)  
+Annual salary: $199,200  
+- Spearheaded the development of a scalable, cross-platform web application, improving user engagement by 30%.  
+- Led a team of 5 engineers in implementing a new design system, reducing development time for new features by 25%.  
+
+Staff Frontend Engineer, GM Financial, Princeton, NJ (2018–2021)  
+Annual salary: $194,300  
+- Collaborated with UX designers to overhaul the user interface, resulting in a 40% increase in customer satisfaction scores.  
+- Implemented advanced caching strategies, which improved application load times by 50%.  
+
+Senior Frontend Engineer, BioHorizons Implant Systems, Rensselaer, NY, US (2014–2018)  
+Annual salary: $131,400  
+- Developed a responsive, single-page application that increased system performance by 35%.  
+- Mentored junior engineers, improving team efficiency and contributing to a 20% reduction in code review times.  
+
+Frontend Engineer, Lucid Motors, Parsippany-Troy Hills, NJ, US (2012–2014)  
+Annual salary: $99,400  
+- Played a key role in launching the first company-wide frontend framework, resulting in consistent design language across products.  
+- Enhanced the automation of testing processes, leading to a 15% reduction in bug-related delays.  
+
+Frontend Engineer, Baxter, Kingston, NY, US (2010–2012)  
+Annual salary: $103,800  
+- Optimized frontend code for the company's flagship product, reducing page load times by 20%.  
+- Successfully implemented new accessibility features, broadening the product's market reach.  
+
+Frontend Engineer, Fidelity TalentSource, Buffalo, NY (2007–2010)  
+Annual salary: $93,400  
+- Contributed to the development of an award-winning client interface that increased client retention by 25%.  
+- Streamlined codebase, reducing technical debt and increasing developer productivity by 15%.

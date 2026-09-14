@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing and optimizing frontend solutions for diverse industries. Recognized for exceptional organizational skills and a passion for driving technological innovation in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2008
+
+**Work Experience**
+
+Frontend Engineer, Omnicell, Franklin Lakes, NJ (2018–Present)  
+Annual salary: $103,200  
+- Spearheaded the development of a new user interface, reducing page load time by 40% and enhancing user experience.  
+- Collaborated with cross-functional teams to integrate customer feedback into product design, resulting in a 25% increase in user satisfaction.  
+
+Junior Software Engineer, Datasys Consulting & Software Inc., Mount Laurel, NJ (2016–2018)  
+Annual salary: $72,700  
+- Developed and maintained software solutions that improved data processing efficiency by 30%.  
+- Assisted in migrating legacy systems to modern platforms, contributing to a 20% reduction in system downtime.  
+
+Junior Software Engineer, Keeper Memorials USA Inc, Andes, NY (2010–2015)  
+Annual salary: $74,900  
+- Implemented a new code review process, reducing bugs by 15% and improving code quality.  
+- Played a key role in a project that automated workflows, resulting in a 50% increase in team productivity.  
+
+Junior Software Engineer, Hologic, Newark, NJ (2008–2010)  
+Annual salary: $72,600  
+- Contributed to the development of medical software applications, enhancing data accuracy by 25%.  
+- Assisted in the creation of a comprehensive testing framework that improved system reliability.

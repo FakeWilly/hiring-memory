@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a master's degree in statistics and two decades of expertise in backend development. Known for a tech-savvy approach and a knack for punctuality, I bring a blend of technical acumen and a humorous communication style to collaborative environments.
+
+**Education**  
+Master's Degree in Statistics, Drexel University, 2002  
+
+**Work History**  
+
+**Principal Backend Engineer**, Meritage Homes, Newark, NJ, US (2021–Present)  
+Annual salary: $218,000  
+- Spearheaded a major overhaul of backend systems, boosting processing efficiency by 30%.  
+- Collaborated with cross-functional teams to implement scalable architecture solutions.  
+
+**Staff Backend Engineer**, Clients First Business Solutions, East Syracuse, NY (2017–2021)  
+Annual salary: $212,700  
+- Led the migration of legacy systems to cloud-based solutions, reducing operational costs by 25%.  
+- Mentored a team of junior engineers, enhancing their productivity through targeted training sessions.  
+
+**Senior Backend Engineer**, Delinea, Troy, NY, US (2012–2017)  
+Annual salary: $141,000  
+- Developed a high-availability data processing pipeline that improved data throughput by 40%.  
+- Streamlined code deployment processes, reducing downtime during updates by 20%.  
+
+**Senior Backend Engineer**, CBRE, New York, NY (2009–2012)  
+Annual salary: $128,600  
+- Engineered backend solutions that supported a 50% increase in user load without performance degradation.  
+- Implemented security enhancements that reduced vulnerabilities by 15%.  
+
+**Backend Engineer**, 2H Talent LLC, White Plains, NY, US (2004–2009)  
+Annual salary: $106,400  
+- Played a key role in redesigning database structures, improving query response times by 35%.  
+- Contributed to the development of an API suite that expanded service offerings by 25%.  
+
+**Backend Engineer**, Edward Jones, Hackensack, NJ, US (2002–2004)  
+Annual salary: $98,500  
+- Assisted in the development of a robust financial reporting application, enhancing data accuracy by 20%.  
+- Collaborated with frontend teams to ensure seamless integration with backend services.

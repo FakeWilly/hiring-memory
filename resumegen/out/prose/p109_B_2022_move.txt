@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in frontend development and junior software engineering roles. Adept at solving complex problems and delivering high-quality software solutions, leveraging a strong foundation in statistics and a passion for puzzle-solving.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2008
+
+**Work History**  
+
+Frontend Engineer, Ultimate Technologies Group, Orchard Park, NY, US (2021–Present)  
+Annual salary: $104,900  
+- Spearheaded the redesign of a client-facing application, improving user engagement by 20%.  
+- Collaborated with cross-functional teams to implement new features, enhancing application performance and reducing load times by 15%.  
+
+Frontend Engineer, M&T Bank, Rensselaer, NY, US (2018–2021)  
+Annual salary: $102,300  
+- Developed and maintained responsive web applications, increasing customer satisfaction scores by 25%.  
+- Led a team in migrating legacy code to modern frameworks, resulting in a 30% reduction in maintenance costs.  
+
+Junior Software Engineer, Cognizant Technology Solutions, Binghamton, NY (2016–2018)  
+Annual salary: $73,200  
+- Assisted in developing backend services for financial applications, ensuring robust data handling and security.  
+- Enhanced code efficiency through diligent bug fixing and refactoring, leading to a 10% performance increase.  
+
+Junior Software Engineer, Hyun LLC, Old Westbury, NY (2010–2015)  
+Annual salary: $75,600  
+- Contributed to the development of internal tools that streamlined business processes and improved team productivity by 15%.  
+- Engaged in extensive unit testing, raising the software quality standards across the team.  
+
+Junior Software Engineer, Comcast, Bedminster, NJ, US (2008–2010)  
+Annual salary: $72,800  
+- Worked on developing customer-facing network applications, facilitating seamless user experiences.  
+- Participated in collaborative team projects, gaining valuable skills in agile development practices.

@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades of expertise in data engineering and software development. Highly organized and tech-savvy, with a passion for creating efficient solutions and a proven track record of leading data teams to success.
+
+**Education**  
+Associate's Degree in Software Engineering, Stony Brook University, 2000
+
+**Work History**  
+
+**Staff Data Engineer, OC business finder, Hartford, CT (2021–Present)**  
+Annual salary: $166,900  
+- Spearheaded a project that increased data processing efficiency by 30%.  
+- Led a team of engineers to develop a scalable data architecture, supporting business growth.
+
+**Senior Data Engineer, Nexagen Networks Inc, Greene, NY, USA (2020–2021)**  
+Annual salary: $149,000  
+- Optimized data pipelines, reducing latency by 25%.  
+- Collaborated with cross-functional teams to implement machine learning models.
+
+**Senior Data Engineer, Tennessee Titans, Binghamton, NY (2016–2020)**  
+Annual salary: $130,500  
+- Developed analytical tools that improved decision-making for player performance metrics.  
+- Enhanced data security protocols, safeguarding sensitive team information.
+
+**Senior Data Engineer, Pond & Company, Newark, NJ, US (2014–2016)**  
+Annual salary: $117,700  
+- Led a project to integrate new data systems, enhancing data accessibility by 45%.  
+- Automated reporting processes, reducing manual workload by 20%.
+
+**Senior Data Engineer, SHLD, East Syracuse, NY (2011–2014)**  
+Annual salary: $120,300  
+- Designed and implemented a data warehouse solution, streamlining data retrieval.  
+- Collaborated with software teams to improve application performance.
+
+**Senior Data Engineer, Nexxen, Lakewood, NJ (2007–2011)**  
+Annual salary: $104,700  
+- Managed a team to deliver high-impact data solutions for e-commerce platforms.  
+- Reduced data processing times by 40% through innovative engineering practices.
+
+**Data Engineer, Hensel Phelps Construction, Astoria, NY (2002–2007)**  
+Annual salary: $70,600  
+- Built data models to support project management decisions.  
+- Improved data accuracy by implementing a new validation framework.
+
+**Junior Software Engineer, efabless, Troy, NY, US (2000–2002)**  
+Annual salary: $50,700  
+- Assisted in the development of software applications for client-specific needs.  
+- Streamlined code review processes, improving team productivity.

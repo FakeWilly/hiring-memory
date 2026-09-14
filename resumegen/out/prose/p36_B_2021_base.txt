@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with over 13 years of experience specializing in backend development. Passionate about creating efficient and scalable solutions, with a proven track record of improving system performance and driving impactful technology initiatives.
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2008
+
+**Work Experience**
+
+Junior Software Engineer, PlanHub, Inc., Morris Plains, NJ (2008–2013)  
+Annual salary: $80,800  
+- Developed and maintained web applications, enhancing performance by 30% through code optimization.  
+- Collaborated with cross-functional teams to identify and implement innovative software solutions.  
+
+Backend Engineer, RadCube, Groton, CT (2013–2018)  
+Annual salary: $120,600  
+- Implemented RESTful APIs that improved data retrieval speed by 40%.  
+- Spearheaded a project to migrate legacy systems to microservices architecture, enhancing scalability.  
+
+Backend Engineer, Cognizant, Jersey City, NJ (2018–2020)  
+Annual salary: $138,000  
+- Optimized backend processing for high-traffic applications, reducing load times by 25%.  
+- Led a team of developers to successfully deliver a critical software upgrade under tight deadlines.  
+
+Backend Engineer, CommandLink, New York, NY (2020–Present)  
+Annual salary: $148,800  
+- Designed and developed backend systems supporting high-volume data transactions with 99.9% uptime.  
+- Collaborated with product teams to implement data-driven features, resulting in a 20% increase in user engagement.

@@ -1,0 +1,21 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**PROFESSIONAL SUMMARY**  
+Detail-oriented software engineer with a strong foundation in software development and a proven ability to deliver high-quality solutions. Known for exceptional punctuality and a passion for technology, seeking to leverage expertise in software engineering to contribute to innovative projects in the New York metro area.
+
+**EDUCATION**  
+Bachelor's Degree in Software Engineering, Stony Brook University, 2017
+
+**WORK EXPERIENCE**
+
+Junior Software Engineer, Q1 Technologies, Inc., Mount Laurel, NJ (2017–2021)  
+Annual salary: $81,800  
+- Developed and maintained web applications, enhancing user experience and increasing application speed by 25%.  
+- Collaborated with cross-functional teams to implement new software features, resulting in a 15% increase in client satisfaction.
+
+Junior Software Engineer, California Institute of Technology, Parsippany-Troy Hills, NJ (2021–Present)  
+Annual salary: $83,800  
+- Spearheaded the integration of a new API, reducing data retrieval time by 30%.  
+- Improved system reliability by implementing robust testing procedures, decreasing bug reports by 20%.

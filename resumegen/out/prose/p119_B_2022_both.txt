@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy software engineer with 15+ years of experience in designing and implementing innovative software solutions. Known for a punctual work ethic and a humorous communication style, I excel in collaborative environments to drive complex projects to successful completion.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rochester Institute of Technology, 2007  
+
+**Work Experience**  
+
+**Staff Software Engineer, Macquarie Group Limited, Kingston, NY, US (2021–Present)**  
+Annual salary: $179,100  
+- Spearheaded the development of a high-frequency trading platform, increasing transaction processing speed by 40%.  
+- Collaborated with cross-functional teams to streamline legacy systems, reducing maintenance costs by 25%.  
+
+**Senior Software Engineer, The State of Arizona, Melville, NY, US (2019–2021)**  
+Annual salary: $159,900  
+- Led the modernization of statewide digital infrastructure, improving system reliability by 30%.  
+- Implemented agile methodologies, reducing project delivery times by 50%.  
+
+**Senior Software Engineer, Comcast, Princeton, NJ (2017–2019)**  
+Annual salary: $154,000  
+- Developed a scalable API architecture that improved user engagement by 20%.  
+- Mentored a team of 5 engineers, fostering professional growth and enhancing team productivity.  
+
+**Software Engineer, ICR, Inc., Syracuse, NY, US (2013–2017)**  
+Annual salary: $111,300  
+- Optimized backend processes, reducing server load by 15%.  
+- Integrated new data analytics tools, enhancing data processing efficiency by 25%.  
+
+**Software Engineer, Athlete To Athlete, New York, NY (2011–2013)**  
+Annual salary: $100,300  
+- Designed and implemented a user-friendly application interface, boosting user retention by 35%.  
+- Collaborated with UI/UX designers to enhance user interaction and satisfaction.  
+
+**Junior Software Engineer, Coalition Technologies, New York, NY, USA (2007–2011)**  
+Annual salary: $67,800  
+- Assisted in the development of e-commerce platforms, contributing to a 20% increase in client sales.  
+- Conducted code reviews, ensuring adherence to coding standards and best practices.  
+
+---  
+
+Hobbies: Cooking and Hiking

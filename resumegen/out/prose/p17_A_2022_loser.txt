@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 19 years of experience in developing innovative software solutions in the New York metro area. Passionate about solving complex problems and enhancing system efficiencies through advanced engineering skills and a love for puzzles.
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2003
+
+**Work History**  
+
+Senior Software Engineer, ResortPass, Melville, NY (2019–Present)  
+Annual salary: $185,700  
+- Spearheaded the development of a scalable booking platform, increasing system capacity by 40%.  
+- Implemented a new code review process that reduced deployment errors by 30%.  
+
+Senior Software Engineer, Amentum, Lakewood, NJ (2014–2019)  
+Annual salary: $156,300  
+- Led a team in modernizing legacy systems, resulting in a 50% reduction in maintenance costs.  
+- Designed and deployed an API integration that improved data retrieval speed by 45%.  
+
+Senior Software Engineer, Christian Career, Princeton, NJ (2009–2014)  
+Annual salary: $130,300  
+- Developed a high-availability application architecture, enhancing system uptime by 99.9%.  
+- Automated the testing process, reducing QA time by 20%.  
+
+Software Engineer, Eagle Horizon Group, Lakewood, NJ (2006–2009)  
+Annual salary: $100,600  
+- Collaborated on the creation of a customer management platform, increasing user engagement by 25%.  
+- Streamlined backend processes, achieving a 30% boost in processing efficiency.  
+
+Software Engineer, Stier Solutions, Old Westbury, NY (2003–2006)  
+Annual salary: $89,900  
+- Contributed to developing an internal tool that cut data processing times by 15%.  
+- Assisted in optimizing code for legacy systems, boosting overall performance by 10%.

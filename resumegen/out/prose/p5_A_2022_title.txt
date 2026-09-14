@@ -1,0 +1,51 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with nearly two decades of expertise in developing and optimizing software solutions. A tech-savvy professional with a unique ability to combine technical knowledge and social skills to drive team success and innovation in fast-paced environments.
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2003
+
+**Work History**  
+
+**Principal Software Engineer, AltaML, Bridgewater, NJ (2021–Present)**  
+Annual salary: $224,700  
+- Spearheaded the design and implementation of scalable machine learning models, enhancing data processing efficiency by 30%.  
+- Led cross-functional teams in the development of AI-driven solutions, contributing to a 20% increase in client satisfaction.
+
+**Staff Software Engineer, Minutes To Seconds, Melville, NY (2020–2021)**  
+Annual salary: $219,200  
+- Developed robust backend services that improved data retrieval speed by 40%, significantly enhancing user experience.  
+- Mentored junior engineers, fostering a collaborative and innovative team culture.
+
+**Staff Software Engineer, Realtor.com, Jersey City, NJ (2018–2020)**  
+Annual salary: $203,100  
+- Designed and implemented critical system components that supported a 50% increase in user traffic during peak periods.  
+- Collaborated on the development of a new feature that increased user engagement by 25%.
+
+**Senior Software Engineer, Mixpanel, Jersey City, NJ (2016–2018)**  
+Annual salary: $163,500  
+- Played a key role in migrating legacy systems to cloud-based solutions, reducing operational costs by 15%.  
+- Enhanced data analytics capabilities, resulting in more actionable insights for marketing strategies.
+
+**Senior Software Engineer, Lowe's Home Improvement, Groton, CT (2011–2016)**  
+Annual salary: $125,400  
+- Implemented a new inventory management system that reduced stock discrepancies by 35%.  
+- Collaborated with project managers to align software solutions with business objectives, improving project delivery times by 20%.
+
+**Senior Software Engineer, Hadrian, Mount Laurel, NJ (2009–2011)**  
+Annual salary: $132,500  
+- Developed high-performance APIs that improved system integration and data flow.  
+- Led efforts in optimizing software code, resulting in a 25% reduction in processing time.
+
+**Software Engineer, B Garage, Buffalo, NY (2006–2009)**  
+Annual salary: $104,900  
+- Contributed to the development of innovative software tools that increased client efficiency by 30%.  
+- Coordinated with cross-functional teams to streamline software development processes.
+
+**Software Engineer, Bausch Health, Rochester, NY (2003–2006)**  
+Annual salary: $95,100  
+- Assisted in the development of new software applications, enhancing product offerings by 20%.  
+- Collaborated with senior engineers to troubleshoot and resolve critical software issues.

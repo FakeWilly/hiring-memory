@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 15 years in developing innovative solutions for diverse industries. Known for punctuality and a tech-savvy approach, excels in complex problem-solving while maintaining a reserved communication style.
+
+**Education**  
+Master's Degree in Computer Science, Rutgers University, 2007  
+
+**Work History**
+
+**Software Engineer, Taskrabbit, Hartford, CT, US (2007–2011)**  
+Annual salary: $108,100  
+- Developed a robust task management system that improved user engagement by 30%.  
+- Collaborated with a team to transition legacy systems to a new, scalable architecture.
+
+**Software Engineer, Habasit America, Troy, NY, US (2011–2014)**  
+Annual salary: $121,900  
+- Engineered a custom software solution that reduced production time by 20%.  
+- Spearheaded an initiative to enhance software testing processes, improving defect detection rates.
+
+**Senior Software Engineer, Stanford University, Astoria, NY (2014–2016)**  
+Annual salary: $147,600  
+- Led a team in developing a secure online platform for academic research collaboration.  
+- Implemented performance improvements that increased system efficiency by 25%.
+
+**Senior Software Engineer, Cisco Meraki, Rensselaer, NY, US (2016–2018)**  
+Annual salary: $164,500  
+- Drove the development of cloud-based network solutions, increasing client adoption by 40%.  
+- Coordinated cross-functional teams to ensure seamless integration of software systems.
+
+**Senior Software Engineer, Delinea, Lakewood, NJ (2018–2021)**  
+Annual salary: $175,300  
+- Designed and delivered high-impact security software, enhancing data protection measures significantly.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.
+
+**Senior Software Engineer, Yurts, Syracuse, NY, US (2021–Present)**  
+Annual salary: $196,300  
+- Architected scalable microservices to support rapid company growth, improving system resilience.  
+- Championed the adoption of cutting-edge technologies, staying ahead in a competitive market.

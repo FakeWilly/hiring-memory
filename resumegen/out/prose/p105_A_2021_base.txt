@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented Software Engineer with over 15 years of experience in designing, developing, and implementing software solutions. Adept at problem-solving and passionate about leveraging technology to drive innovation and efficiency.
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2005
+
+**Work History**  
+
+Junior Software Engineer, INFO IMAGE, Jersey City, NJ (2005–2007)  
+Annual salary: $61,700  
+- Developed and maintained scalable web applications, enhancing performance by 15%.  
+- Collaborated in a team of five to support the company’s core software products.
+
+Software Engineer, SentinelOne, Newark, NJ, US (2007–2009)  
+Annual salary: $61,100  
+- Implemented new software features that improved user experience and increased user engagement by 10%.  
+- Assisted in debugging and resolving software issues, reducing incident response time by 20%.
+
+Software Engineer, Teradyne, Whippany, NJ, US (2009–2013)  
+Annual salary: $83,800  
+- Led the design and rollout of a key module in the company’s flagship product, contributing to a 25% increase in sales.  
+- Collaborated cross-functionally to optimize software processes, resulting in a 30% reduction in server downtime.
+
+Senior Software Engineer, Plexe LLC, Newark, NJ, US (2013–2018)  
+Annual salary: $122,700  
+- Spearheaded the development of a high-demand product feature, leading to a 40% boost in customer satisfaction.  
+- Mentored junior developers, enhancing team productivity and code quality standards.
+
+Senior Software Engineer, Chugach Government Solutions, Whippany, NJ, US (2018–Present)  
+Annual salary: $145,700  
+- Architected and deployed secure and efficient software systems for government contracts, ensuring compliance with federal standards.  
+- Led a team in the integration of new technologies, achieving a 35% increase in system performance.

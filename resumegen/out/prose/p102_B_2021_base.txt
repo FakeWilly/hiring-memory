@@ -1,0 +1,29 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with a Bachelor's Degree in Mathematics and nearly a decade of experience in system engineering and software development. Known for a reserved communication style and strong collaborative skills, coupled with a passion for solving complex technical problems and delivering innovative software solutions.
+
+**Education**  
+Bachelor's Degree in Mathematics, CUNY City College, 2012
+
+**Work Experience**
+
+Senior Systems Engineer, CD PROJEKT RED, New York, NY, USA (2019–Present)  
+Annual salary: $161,300
+- Led the design and implementation of high-performance system architectures, enhancing software efficiency by 25%.
+- Collaborated with cross-functional teams to streamline development processes, reducing project delivery times by 15%.
+- Spearheaded the integration of new technologies, improving system scalability and reliability.
+
+Systems Engineer, BRIDGE, Old Westbury, NY (2016–2019)  
+Annual salary: $114,100
+- Developed and maintained robust system infrastructures, ensuring 99.9% uptime for critical applications.
+- Implemented automated monitoring tools, reducing system downtime by 20% through proactive issue identification.
+- Coordinated with developers to optimize software performance, leading to a 30% increase in processing speed.
+
+Junior Software Engineer, VTekis Consulting LLP, Iselin, NJ, US (2012–2016)  
+Annual salary: $80,300
+- Assisted in the development of custom software solutions, contributing to a 15% increase in client satisfaction.
+- Conducted code reviews and debugging, improving overall code quality and reducing defect rates by 10%.
+- Participated in team meetings and collaborated on project plans, ensuring timely completion of deliverables.

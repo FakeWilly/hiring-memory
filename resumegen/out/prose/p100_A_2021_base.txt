@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over a decade of experience in developing innovative solutions and leading projects in fast-paced environments. Highly organized and tech-savvy, with a strong background in electrical engineering and a passion for continuous learning and improvement.
+
+**Education**  
+Master's Degree in Electrical Engineering, Stony Brook University, 2009
+
+**Work History**  
+
+**Senior Software Engineer, Snowflake, East Newark, NJ, US (2019–Present)**  
+Annual salary: $169,500  
+- Spearheaded the development of a scalable data analytics platform, improving data processing speed by 40%.  
+- Led a team of engineers in the successful migration of legacy systems to cloud-based infrastructure, enhancing system performance and reliability.  
+
+**Software Engineer, American Technology Consulting LLC, Syracuse, NY, US (2016–2019)**  
+Annual salary: $123,000  
+- Developed and implemented a customer management system that resulted in a 25% increase in client satisfaction.  
+- Collaborated with cross-functional teams to design and deploy software solutions that reduced operational costs by 15%.  
+
+**Software Engineer, SWORD Health, New York, NY (2011–2016)**  
+Annual salary: $107,500  
+- Designed and optimized algorithms for medical data processing, increasing data accuracy by 30%.  
+- Contributed to the development of a mobile application that expanded the company's user base by 50%.  
+
+**Software Engineer, ASRC Federal, Jersey City, NJ, US (2009–2011)**  
+Annual salary: $100,900  
+- Assisted in the development of secure software solutions for federal clients, maintaining compliance with industry standards.  
+- Enhanced existing software functionalities, leading to a 20% improvement in system efficiency.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and results-driven software engineer with over 13 years of experience in developing innovative solutions across diverse industries. Demonstrates exceptional problem-solving skills and a passion for leveraging technology to drive business success.
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2009  
+
+**Work History**  
+
+**Staff Software Engineer, Solutions, East Syracuse, NY (2021–Present)**  
+Annual salary: $186,800  
+- Spearheaded the development of a new enterprise-level application, reducing processing time by 40%.  
+- Collaborated with cross-functional teams to integrate AI-driven features, enhancing user experience and engagement by 25%.  
+
+**Senior Software Engineer, GalaxE.Solutions, Morris Plains, NJ, US (2020–2021)**  
+Annual salary: $182,200  
+- Led a team of developers in migrating legacy systems to cloud-based infrastructure, improving system scalability and uptime.  
+- Implemented a continuous integration pipeline, decreasing deployment time by 50% and reducing errors.  
+
+**Software Engineer, ritepros, Parsippany-Troy Hills, NJ, US (2016–2020)**  
+Annual salary: $132,400  
+- Developed and optimized back-end services for high-traffic applications, increasing performance by 35%.  
+- Automated testing procedures, resulting in a 20% increase in test coverage and reliability.  
+
+**Software Engineer, Blueprint Technologies, Rochester, NY, US (2012–2016)**  
+Annual salary: $120,100  
+- Designed and implemented dynamic web applications, leading to a 30% increase in customer satisfaction.  
+- Collaborated with UI/UX teams to enhance application interfaces, improving usability ratings.  
+
+**Software Engineer, CTL Group, Princeton, NJ (2009–2012)**  
+Annual salary: $105,100  
+- Contributed to the development of a key software product, which boosted company revenue by 15%.  
+- Streamlined codebase management, reducing overhead and improving code efficiency.

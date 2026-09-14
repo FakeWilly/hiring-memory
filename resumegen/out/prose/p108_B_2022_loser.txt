@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience specializing in frontend development. Skilled in creating intuitive user interfaces and improving web application performance within collaborative environments.
+
+**Education**  
+Associate's Degree in Software Engineering, CUNY City College, 1999  
+
+**Work History**  
+
+Frontend Engineer, HashiCorp, White Plains, NY, US (2018–Present)  
+Annual salary: $121,700  
+- Spearheaded the redesign of the company's primary web application, resulting in a 30% increase in user engagement.  
+- Collaborated with cross-functional teams to implement new features, enhancing customer satisfaction by 25%.  
+
+Frontend Engineer, SDI Management, LLC, Lakewood, NJ (2013–2018)  
+Annual salary: $104,800  
+- Successfully led a team in the development of a responsive web portal, improving client access speeds by 40%.  
+- Introduced a new CSS framework that reduced load times by 20%, significantly enhancing user experience.  
+
+Frontend Engineer, Tellus Solutions, Buffalo, NY (2008–2013)  
+Annual salary: $69,700  
+- Developed innovative UI components that increased application usability, earning recognition from senior management.  
+- Coordinated with backend engineers to optimize data retrieval processes, reducing latency by 15%.  
+
+Junior Software Engineer, FormFactor, Inc., Buffalo, NY (2006–2008)  
+Annual salary: $69,700  
+- Assisted in the migration of legacy systems to modern technologies, improving system reliability by 30%.  
+- Contributed to the successful rollout of an internal tool, enhancing team productivity by 10%.  
+
+Junior Software Engineer, Life360, Hartford, CT (2002–2006)  
+Annual salary: $62,200  
+- Played a key role in developing mobile-friendly web applications, increasing mobile traffic by 25%.  
+- Implemented bug fixes and performance enhancements that improved application stability by 15%.  
+
+Junior Software Engineer, Lynker Corporation, East Newark, NJ, US (1999–2002)  
+Annual salary: $55,800  
+- Collaborated on the development of a key company project that enhanced user interface efficiency by 20%.  
+- Conducted thorough testing and debugging, which reduced critical errors by 35%.

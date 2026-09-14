@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a solid background in systems engineering and a deep understanding of software development life cycles. Skilled at delivering efficient and reliable software solutions, with a proven track record of improving system performance and scalability.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rutgers University, 2003
+
+**Work History**
+
+Systems Engineer, New York ISO, Syracuse, NY, US (2016–Present)  
+Annual salary: $113,300  
+- Spearheaded the redesign of the energy management system, improving operational efficiency by 20%.  
+- Collaborated with cross-functional teams to enhance grid reliability through innovative software solutions.
+
+Systems Engineer, reveleer, Buffalo, NY, US (2011–2016)  
+Annual salary: $99,900  
+- Developed and implemented automation tools, reducing manual data processing time by 30%.  
+- Led a team of engineers in a successful migration to a cloud-based infrastructure.
+
+Systems Engineer, Synapse Health, East Syracuse, NY (2009–2011)  
+Annual salary: $94,100  
+- Streamlined the healthcare data exchange processes, enhancing system interoperability.  
+- Played a key role in the deployment of an electronic health records system.
+
+Systems Engineer, Bausch Health, Old Westbury, NY (2006–2009)  
+Annual salary: $83,100  
+- Improved system uptime by 15% through proactive maintenance strategies.  
+- Developed software solutions that increased data processing speed by 25%.
+
+Junior Software Engineer, Thales, Mount Laurel, NJ, US (2003–2006)  
+Annual salary: $60,000  
+- Assisted in the development of navigation software for defense applications.  
+- Conducted code reviews, ensuring adherence to quality standards and best practices.

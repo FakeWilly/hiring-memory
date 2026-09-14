@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over 17 years of experience in developing and optimizing complex systems. Known for an exceptional organizational ability and a reserved yet effective communication style, leveraging technical expertise to drive innovative solutions in various industries.
+
+**Education**  
+Master's Degree in Mathematics, Drexel University, 2005  
+
+**Work History**  
+
+Software Engineer, Hasbro, Inc., New York, NY, US (2005–2008)  
+Annual salary: $87,900  
+- Developed and maintained interactive software applications for high-profile toy products, enhancing user engagement by 20%.  
+- Collaborated with multidisciplinary teams to integrate new technology features, reducing time-to-market by 15%.
+
+Software Engineer, Mobomo, LLC, Bedminster, NJ, US (2008–2013)  
+Annual salary: $105,400  
+- Led a team in the development of mobile applications, improving customer satisfaction ratings by 30%.  
+- Implemented agile methodologies, increasing project efficiency and reducing development timelines by 25%.
+
+Senior Software Engineer, STP, Mahwah, NJ (2013–2017)  
+Annual salary: $136,000  
+- Spearheaded the redesign of core software platforms, increasing system reliability and performance by 40%.  
+- Mentored junior engineers, fostering a culture of continuous learning and professional development within the team.
+
+Staff Software Engineer, Vertex Professional Service LLC, Whippany, NJ, US (2017–2021)  
+Annual salary: $143,000  
+- Architected and deployed scalable software solutions, handling increased user loads seamlessly.  
+- Enhanced code quality and testing processes, reducing critical bugs in production by 50%.
+
+Staff Software Engineer, Raytheon, Bedminster, NJ, US (2021–Present)  
+Annual salary: $146,600  
+- Developed robust defense software systems, improving security measures by 35%.  
+- Collaborated on cross-functional teams to innovate and implement cutting-edge technologies in mission-critical applications.

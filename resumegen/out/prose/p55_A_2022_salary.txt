@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with over two decades of experience in developing and optimizing scalable solutions across various platforms. Passionate about leveraging technical skills to solve complex problems and enhance performance within dynamic team environments.
+
+**Education**  
+Associate's Degree in Statistics, Penn State University, 2000
+
+**Work History**
+
+**Junior Software Engineer**, National Funding, Hartford, CT, US (2000–2004)  
+Annual salary: $63,300  
+- Collaborated on a team to develop and maintain a financial software suite, reducing processing time by 20%.  
+- Assisted in the migration of legacy systems to modern platforms, improving system reliability.
+
+**Platform Engineer**, Ascella Technologies, Jersey City, NJ (2004–2009)  
+Annual salary: $91,600  
+- Engineered a critical platform feature that increased client engagement by 15%.  
+- Conducted code reviews and implemented best practices, leading to a 30% reduction in system errors.
+
+**Senior Platform Engineer**, Edward Jones, Franklin Lakes, NJ, US (2009–2011)  
+Annual salary: $127,300  
+- Spearheaded the development of a new data analysis tool that improved decision-making efficiency by 25%.  
+- Mentored junior engineers, fostering a collaborative and innovative work environment.
+
+**Senior Platform Engineer**, Crown Equipment Corporation, Rensselaer, NY, US (2011–2015)  
+Annual salary: $151,800  
+- Led a team in redesigning key infrastructure components, boosting system performance by 40%.  
+- Streamlined deployment processes, reducing downtime by 50%.
+
+**Senior Platform Engineer**, Honeywell, Bridgewater, NJ, US (2015–2019)  
+Annual salary: $169,100  
+- Developed and integrated complex software solutions that enhanced product reliability and customer satisfaction.  
+- Optimized existing platforms, resulting in a 35% increase in operational efficiency.
+
+**Senior Platform Engineer**, The DarkStar Group, Princeton, NJ, US (2019–2021)  
+Annual salary: $189,300  
+- Architected and implemented a high-performance computing solution, leading to a 30% boost in processing speed.  
+- Collaborated with cross-functional teams to deliver innovative software products on time and within budget.
+
+**Senior Platform Engineer**, Bozeman Health, Syracuse, NY, US (2021–Present)  
+Annual salary: $212,000  
+- Pioneered the integration of cutting-edge technologies, enhancing system capabilities and expanding user engagement.  
+- Identified and resolved critical system bottlenecks, improving overall system responsiveness by 25%.

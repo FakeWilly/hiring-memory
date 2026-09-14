@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over a decade of expertise in infrastructure engineering. Known for a humorous communication style and a strong technical acumen, I am passionate about building robust systems and optimizing performance within dynamic environments.
+
+**Education**  
+Master's Degree in Mathematics, Rutgers University, 2011
+
+**Work History**  
+
+*Staff Infrastructure Engineer, Microsoft, Warren, NJ, US (2021–Present)*  
+Annual salary: $134,500  
+- Led the development and deployment of scalable infrastructure solutions, resulting in a 25% increase in system efficiency.  
+- Collaborated with cross-functional teams to enhance cloud integration strategies, improving service reliability by 15%.  
+
+*Senior Infrastructure Engineer, University of the Cumberlands, Buffalo, NY, US (2016–2021)*  
+Annual salary: $131,200  
+- Spearheaded a project to overhaul the campus network infrastructure, reducing downtime by 30%.  
+- Implemented automated monitoring systems, significantly decreasing incident response times.  
+
+*Infrastructure Engineer, Lucid Motors, Albany, NY, US (2013–2016)*  
+Annual salary: $102,000  
+- Optimized server configurations, achieving a 20% reduction in latency for critical applications.  
+- Developed and maintained high-performance computing clusters, supporting advanced automotive research.  
+
+*Infrastructure Engineer, Carshield, Groton, CT, US (2011–2013)*  
+Annual salary: $99,200  
+- Assisted in the design and implementation of a new data center, improving resource allocation and scalability.  
+- Contributed to the successful migration of legacy systems to modern platforms, enhancing operational efficiency.

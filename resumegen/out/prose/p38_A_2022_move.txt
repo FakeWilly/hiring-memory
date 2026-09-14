@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly skilled software engineer with over a decade of experience in developing robust and scalable software solutions. Known for a direct communication style and a strong relationship with technology, I am committed to driving efficiency and innovation in the software development process.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2012
+
+**Work History**
+
+*Junior Software Engineer, Info Image, Astoria, NY (2012–2015)*  
+Annual salary: $76,800  
+- Contributed to the development of web applications, resulting in a 15% increase in client satisfaction.  
+- Collaborated with senior engineers to enhance system performance, reducing load times by 20%.  
+
+*Software Engineer, LevelTen Energy, Syracuse, NY, US (2015–2018)*  
+Annual salary: $109,900  
+- Developed and maintained energy analytics software that improved data processing efficiency by 30%.  
+- Led a project team to design a new feature that increased user engagement by 25%.  
+
+*Software Engineer, UKG, Franklin Lakes, NJ, US (2018–2021)*  
+Annual salary: $123,300  
+- Spearheaded the integration of cloud-based applications, enhancing platform scalability.  
+- Optimized legacy codebases, reducing technical debt by 40%.  
+
+*Software Engineer, GalaxE.Solutions, Troy, NY, US (2021–Present)*  
+Annual salary: $126,400  
+- Implemented automated testing procedures, decreasing bug-related downtime by 35%.  
+- Played a key role in a cross-functional team to launch a new product line ahead of schedule.

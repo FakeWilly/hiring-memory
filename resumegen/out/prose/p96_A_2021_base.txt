@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly skilled and experienced Software Engineer with over 13 years of expertise in backend development. Proficient in designing robust and scalable systems, with a strong ability to solve complex technical problems efficiently.
+
+**Education**  
+Master's Degree in Mathematics, Stony Brook University, 2008
+
+**Work Experience**  
+
+Senior Backend Engineer, Tensec, Jersey City, NJ, US (2020–Present)  
+Annual salary: $172,400  
+- Spearheaded the development of a new authentication system that improved security and reduced access times by 25%.  
+- Collaborated with cross-functional teams to successfully deploy microservices architecture, enhancing system scalability and performance.  
+
+Senior Backend Engineer, VBO Tickets, Morris Plains, NJ, US (2017–2020)  
+Annual salary: $159,400  
+- Led the backend team in optimizing ticket processing algorithms, resulting in a 30% increase in processing speed.  
+- Developed and implemented a new database schema that reduced data retrieval times by 40%.  
+
+Backend Engineer, Airwallex, New York, NY, USA (2013–2017)  
+Annual salary: $114,200  
+- Developed key components of the payment processing system, contributing to a 15% increase in transaction efficiency.  
+- Improved system reliability by implementing comprehensive testing procedures and automated monitoring solutions.  
+
+Backend Engineer, Reliability Center, Mount Laurel, NJ, US (2008–2013)  
+Annual salary: $94,100  
+- Contributed to the design and optimization of backend services, enhancing system uptime by 20%.  
+- Played a key role in migrating legacy systems to modern platforms, improving overall application performance.

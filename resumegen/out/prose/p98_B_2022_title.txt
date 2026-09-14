@@ -1,0 +1,55 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced frontend engineer with over two decades of expertise in developing user-centric applications and leading engineering teams. Known for punctuality and a reserved communication style, consistently delivering high-quality code and solutions in fast-paced environments.
+
+**Education**  
+Associate's Degree in Computer Science, University of Connecticut, 2000  
+
+**Work History**  
+
+**Principal Frontend Engineer, bastion technologies, Princeton, NJ, US (2021–Present)**  
+Annual salary: $206,200  
+- Spearheaded the development of a cross-platform application that increased user engagement by 30%.  
+- Implemented a new design system, reducing UI inconsistencies by 40%.  
+
+**Staff Frontend Engineer, Syntricate Technologies, Melville, NY, US (2020–2021)**  
+Annual salary: $201,200  
+- Led a team of 10 engineers to achieve a project completion rate improvement of 25%.  
+- Enhanced application performance by optimizing key algorithms, resulting in a 15% load time reduction.  
+
+**Staff Frontend Engineer, Prudent Engineering, Bridgewater, NJ, US (2017–2020)**  
+Annual salary: $181,800  
+- Designed and executed a new frontend architecture that supported scalability for future growth.  
+- Mentored junior engineers, contributing to a 20% increase in team productivity.  
+
+**Senior Frontend Engineer, TransCore, Buffalo, NY (2015–2017)**  
+Annual salary: $129,300  
+- Developed a user feedback system that improved customer satisfaction scores by 10%.  
+- Collaborated on the redesign of a critical application feature, enhancing usability.  
+
+**Senior Frontend Engineer, LENSAR, Inc., Whippany, NJ, US (2012–2015)**  
+Annual salary: $128,200  
+- Led the transition to a modern JavaScript framework, increasing development efficiency by 30%.  
+- Coordinated with cross-functional teams to deliver projects on time and within budget.  
+
+**Senior Frontend Engineer, BKG Structural Engineers, Parsippany-Troy Hills, NJ, US (2010–2012)**  
+Annual salary: $98,900  
+- Oversaw the implementation of responsive design techniques, improving mobile user experience.  
+- Introduced code review processes that enhanced code quality and reduced bugs by 15%.  
+
+**Frontend Engineer, vapi, Hackensack, NJ, US (2004–2009)**  
+Annual salary: $87,300  
+- Developed dynamic web applications that aligned with client specifications, receiving positive feedback.  
+- Implemented client-side optimization techniques, reducing page load times significantly.  
+
+**Frontend Engineer, Raytheon, Princeton, NJ, US (2002–2004)**  
+Annual salary: $79,500  
+- Collaborated with backend engineers to integrate APIs, ensuring seamless data flow.  
+- Enhanced the UI of main applications, contributing to improved user satisfaction.  
+
+**Junior Software Engineer, Netflix, Buffalo, NY (2000–2002)**  
+Annual salary: $57,900  
+- Assisted in the development of streaming applications, contributing to early innovations in the field.  
+- Supported the team in debugging and testing, ensuring high-quality releases.

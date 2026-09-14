@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and highly organized software engineer with over 18 years of experience in developing innovative solutions within diverse industries. Demonstrates a direct communication style and a commitment to excellence in software engineering projects.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Northeastern University, 2004
+
+**Work History**
+
+**Staff Software Engineer, Schneider Electric, Rochester, NY, USA (2019–Present)**  
+Annual salary: $204,000  
+- Spearheaded the development of a new energy management software platform, enhancing system efficiency by 30%.  
+- Led a team of 10 engineers in implementing a cloud-based solution, resulting in a 25% increase in user engagement.  
+
+**Staff Software Engineer, Disney Entertainment & ESPN Technology, Buffalo, NY (2017–2019)**  
+Annual salary: $183,100  
+- Developed scalable software solutions that improved streaming performance by 40%.  
+- Collaborated with cross-functional teams to reduce system downtimes by 20%.  
+
+**Senior Software Engineer, Slesha, New York, NY, USA (2012–2017)**  
+Annual salary: $123,500  
+- Designed and implemented high-traffic web applications, increasing client satisfaction scores by 15%.  
+- Optimized existing codebases, decreasing load times by 40%.  
+
+**Software Engineer, Firefly Aerospace, Hartford, CT, US (2008–2012)**  
+Annual salary: $93,500  
+- Contributed to the development of aerospace navigation systems, reducing error rates by 10%.  
+- Automated testing processes, saving 500+ man-hours annually.  
+
+**Junior Software Engineer, Disney Entertainment & ESPN Technology, Hackensack, NJ, US (2004–2008)**  
+Annual salary: $66,800  
+- Assisted in the development of interactive entertainment applications, enhancing user experience.  
+- Developed tools that improved data processing speeds by 20%.

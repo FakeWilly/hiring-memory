@@ -1,0 +1,54 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+With over two decades of experience in software engineering, I am a highly skilled engineer specializing in developing robust software solutions. Known for my punctuality and direct communication style, I excel in leading engineering teams to deliver high-quality products.
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2001  
+
+**Work History**  
+
+**Staff Software Engineer, EO Solutions, Jersey City, NJ, US (2021–Present)**  
+Annual salary: $205,000  
+- Spearheaded the migration of legacy systems to cloud-based solutions, improving application performance by 30%.  
+- Mentored junior engineers, fostering a culture of continuous learning and knowledge sharing.  
+
+**Senior Software Engineer, Sierra Nevada Corporation, Groton, CT, US (2020–2021)**  
+Annual salary: $183,000  
+- Led the development of a critical software module that increased system reliability by 25%.  
+- Collaborated with cross-functional teams to streamline the software development cycle, reducing delivery time by 15%.  
+
+**Senior Software Engineer, Feedonomics, Whippany, NJ, US (2016–2020)**  
+Annual salary: $161,400  
+- Designed and implemented scalable data processing pipelines, handling over 1 million transactions daily.  
+- Enhanced system security protocols, reducing potential vulnerabilities by 40%.  
+
+**Senior Software Engineer, Robinhood, New York, NY, USA (2013–2016)**  
+Annual salary: $144,900  
+- Played a key role in launching a new trading platform, significantly increasing user engagement.  
+- Optimized existing codebase, resulting in a 20% boost in application speed.  
+
+**Senior Software Engineer, Stemuli Studios, Inc, Mahwah, NJ (2009–2013)**  
+Annual salary: $127,900  
+- Developed innovative algorithms that improved game performance by 40%.  
+- Coordinated with designers and artists to ensure seamless integration of new features.  
+
+**Software Engineer, Radiance Technologies Inc., East Syracuse, NY (2006–2009)**  
+Annual salary: $102,400  
+- Implemented advanced signal processing software, enhancing detection accuracy by 30%.  
+- Conducted thorough code reviews, ensuring adherence to industry standards.  
+
+**Software Engineer, NICE, Morris Plains, NJ, US (2004–2006)**  
+Annual salary: $93,200  
+- Developed custom software solutions for client-specific needs, increasing customer satisfaction by 25%.  
+- Automated routine tasks, reducing development time by 10%.  
+
+**Software Engineer, Delinea, Syracuse, NY, US (2001–2004)**  
+Annual salary: $80,700  
+- Contributed to the design and development of embedded systems for industrial applications.  
+- Collaborated with hardware engineers to integrate software components efficiently.  
+
+---

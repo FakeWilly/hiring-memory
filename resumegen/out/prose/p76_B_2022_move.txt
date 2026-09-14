@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and social software engineer with over a decade of experience in frontend development, specializing in creating intuitive and responsive user interfaces. Tech-savvy and passionate about integrating innovative solutions, with a proven track record of enhancing user engagement and satisfaction in fast-paced environments.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2009
+
+**Work History**  
+
+Frontend Engineer, Novate Solutions Inc, Hartford, CT (2009–2011)  
+Annual salary: $103,600  
+- Implemented key features for the company's flagship product, improving user interaction by 25%.  
+- Collaborated with cross-functional teams to design and launch a new web-based application.  
+
+Frontend Engineer, Youtube, Bedminster, NJ, US (2011–2014)  
+Annual salary: $111,100  
+- Spearheaded the development of a major UI overhaul, resulting in a 30% increase in user retention.  
+- Streamlined frontend processes by introducing automated testing, reducing bug-related incidents by 20%.  
+
+Frontend Engineer, SoFi, Hartford, CT, US (2014–2017)  
+Annual salary: $119,400  
+- Played a pivotal role in transitioning legacy systems to modern frameworks, enhancing system performance by 40%.  
+- Championed a project that improved site accessibility, expanding the user base by reaching underrepresented groups.  
+
+Frontend Engineer, Four Growers, Mount Laurel, NJ, US (2017–2020)  
+Annual salary: $136,900  
+- Designed responsive web applications that increased mobile traffic by 50%.  
+- Collaborated with UX designers to develop intuitive navigation features, boosting customer satisfaction scores.  
+
+Senior Frontend Engineer, Kimley-Horn, East Newark, NJ, US (2020–2021)  
+Annual salary: $188,100  
+- Led a team in developing a dynamic dashboard that improved client data visualization, enhancing client decision-making processes.  
+- Introduced a component library that reduced development time for new features by 35%.  
+
+Senior Frontend Engineer, MetLife, New York, NY, US (2021–Present)  
+Annual salary: $192,800  
+- Architected and developed high-traffic web applications, significantly improving user experience and engagement.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.

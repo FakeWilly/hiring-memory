@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in backend development and a proven track record in delivering robust software solutions. Adept at collaborating in diverse teams and always punctual, I bring a diplomatic communication style and a tech-savvy approach to every project.
+
+**Education**  
+Master's Degree in Computer Science, Drexel University, 2003  
+
+**Work History**  
+
+Principal Backend Engineer, Smartcar, East Syracuse, NY (2021–Present)  
+Annual salary: $208,500  
+- Spearheaded the development of a scalable microservices architecture, improving system throughput by 30%.  
+- Led a cross-functional team to implement API integrations that enhanced user engagement by 25%.
+
+Staff Backend Engineer, Pixar Animation Studios, New York, NY (2019–2021)  
+Annual salary: $186,200  
+- Developed backend services for award-winning animation projects, increasing data processing efficiency by 40%.  
+- Collaborated with animation teams to streamline render pipeline, reducing project turnaround time by 20%.  
+
+Staff Backend Engineer, Blue Origin, Kingston, NY, US (2015–2019)  
+Annual salary: $125,200  
+- Engineered mission-critical backend systems for aerospace applications, enhancing reliability by 35%.  
+- Implemented cloud-based solutions that reduced infrastructure costs by 15%.
+
+Senior Backend Engineer, SonicWall, Bridgewater, NJ, US (2012–2015)  
+Annual salary: $88,000  
+- Designed and launched secure backend solutions for network security products, cutting response time by 50%.  
+- Mentored junior engineers, fostering a collaborative learning environment.
+
+Backend Engineer, Blue Origin, Whippany, NJ, US (2009–2012)  
+Annual salary: $91,000  
+- Built scalable backend systems for aerospace data processing, boosting performance by 30%.  
+- Automated deployment processes, reducing manual errors by 40%.
+
+Backend Engineer, Watsco, Troy, NY, US (2006–2009)  
+Annual salary: $108,100  
+- Developed and optimized backend systems for HVAC solutions, improving data integrity by 25%.  
+- Streamlined backend workflows, enhancing team productivity by 20%.
+
+Backend Engineer, Graham & Associates, Astoria, NY (2003–2006)  
+Annual salary: $95,800  
+- Created efficient backend solutions for client management systems, increasing client satisfaction by 15%.  
+- Enhanced database performance, achieving a 40% reduction in query response time.

@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing robust applications and solutions. Highly skilled in problem-solving and open communication, with a strong background in mathematics and a passion for creating innovative software solutions.
+
+---
+
+**Education**  
+Bachelor's Degree in Mathematics, CUNY City College, 2010
+
+---
+
+**Work History**
+
+**Junior Software Engineer, Baxter, East Newark, NJ, US (2010–2015)**  
+Annual salary: $71,000  
+- Developed and implemented software solutions that improved processing efficiency by 15%.  
+- Collaborated with cross-functional teams to design and launch a new internal tool, reducing operational overhead by 10%.  
+
+**Junior Software Engineer, Delmock Technologies Inc., Greene, NY, USA (2015–2018)**  
+Annual salary: $82,000  
+- Contributed to a team that upgraded legacy systems, enhancing system reliability by 20%.  
+- Participated in code reviews and debugging, leading to a 30% reduction in post-release defects.
+
+**Junior Software Engineer, RK Logistics Group, Astoria, NY (2018–Present)**  
+Annual salary: $87,900  
+- Spearheaded the development of a modular application framework, cutting development time for new features by 25%.  
+- Implemented a comprehensive testing protocol that increased software stability by 18%.

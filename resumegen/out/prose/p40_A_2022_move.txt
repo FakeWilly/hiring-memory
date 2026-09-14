@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly experienced Frontend Engineer with nearly two decades of expertise in designing and developing user-centric web applications. Adept at collaborating with cross-functional teams to deliver innovative solutions and enhance user experience, with a strong commitment to punctuality and direct communication.
+
+**Education**  
+Master's Degree in Statistics, Penn State University, 2003
+
+**Work History**
+
+**Senior Frontend Engineer, Peraton, Morris Plains, NJ, US (2021–Present)**  
+Annual salary: $155,900  
+- Spearheaded a project to revamp the user interface of a legacy application, resulting in a 30% increase in user engagement.  
+- Collaborated with backend developers to introduce a new feature that reduced load times by 25%.  
+
+**Senior Frontend Engineer, Genentech, Inc., Parsippany-Troy Hills, NJ, US (2017–2021)**  
+Annual salary: $152,100  
+- Led a team of developers in creating a responsive web application used by over 10,000 users daily.  
+- Implemented a new design system that improved the overall consistency and accessibility of multiple applications.  
+
+**Senior Frontend Engineer, MORI Associates, Mount Laurel, NJ, US (2015–2017)**  
+Annual salary: $135,900  
+- Developed a cutting-edge prototype that was pivotal in securing a $2M contract.  
+- Enhanced the performance of existing web applications, achieving a 40% reduction in page load times.  
+
+**Frontend Engineer, Azure Summit Technology, Rochester, NY, USA (2010–2015)**  
+Annual salary: $114,100  
+- Played a key role in developing a custom dashboard application, enhancing data visualization capabilities.  
+- Successfully optimized several frontend processes, increasing application efficiency by 20%.  
+
+**Frontend Engineer, Thermo King Chesapeake, Warren, NJ, US (2006–2010)**  
+Annual salary: $100,200  
+- Collaborated with UX designers to implement a new UI, resulting in improved customer satisfaction scores.  
+- Developed and maintained client-side code for multiple high-traffic applications.  
+
+**Frontend Engineer, Edward Jones, Morris Plains, NJ, US (2003–2006)**  
+Annual salary: $90,400  
+- Assisted in the development of a secure online portal, enhancing client access to financial data.  
+- Implemented responsive design techniques to improve mobile accessibility of web applications.

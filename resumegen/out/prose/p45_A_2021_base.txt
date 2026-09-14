@@ -1,0 +1,29 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a strong foundation in frontend development and a passion for creating intuitive user experiences. Known for a humorous communication style and punctuality, I thrive in collaborative environments and consistently deliver high-quality work on time.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2012  
+
+**Work History**  
+
+Frontend Engineer, American Airlines, Buffalo, NY, US (2019–Present)  
+Annual salary: $95,000  
+- Led a team of developers in redesigning the user interface for the customer booking system, resulting in a 15% increase in user engagement.  
+- Implemented modern web technologies, enhancing application performance by 20%.  
+- Collaborated with cross-functional teams to integrate new features that improved user satisfaction scores.
+
+Junior Software Engineer, The State of Arizona, Buffalo, NY (2015–2019)  
+Annual salary: $90,900  
+- Developed and maintained internal software applications, improving efficiency across multiple departments.  
+- Spearheaded the migration of legacy systems to modern platforms, reducing maintenance costs by 30%.  
+- Assisted in the development of a secure online portal for residents, receiving positive feedback for usability.
+
+Junior Software Engineer, Base-2 Solutions, LLC, Princeton, NJ, US (2012–2015)  
+Annual salary: $80,800  
+- Contributed to the development of key software components for government clients, ensuring compliance with rigorous standards.  
+- Enhanced system debugging processes, decreasing resolution time for critical issues by 25%.  
+- Participated in code reviews and team meetings to improve software quality and team productivity.

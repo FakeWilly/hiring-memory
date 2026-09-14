@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]
+
+**Professional Summary**  
+Tech-savvy software engineer with over 14 years of experience in developing and optimizing software systems. Known for strong communication skills, direct collaboration, and a passion for innovation and efficiency.
+
+**Education**  
+Master's Degree in Electrical Engineering, Penn State University, 2008
+
+**Work History**
+
+**Software Engineer, Hyun LLC, New York, NY, US (2008–2012)**  
+Annual salary: $100,500  
+- Developed and maintained key components of a high-traffic web application, improving load times by 30%.  
+- Collaborated with cross-functional teams to deliver projects ahead of schedule, enhancing client satisfaction and retention.
+
+**Software Engineer, Estes Express Lines, Bedminster, NJ, US (2012–2017)**  
+Annual salary: $110,600  
+- Spearheaded the migration of legacy systems to modern architectures, reducing system downtime by 25%.  
+- Implemented automated testing protocols, increasing software reliability and cutting bug-related delays by 40%.
+
+**Senior Software Engineer, Applied Intuition, Orchard Park, NY, US (2017–2021)**  
+Annual salary: $130,100  
+- Led a team in designing a scalable architecture that supported a 50% increase in user base.  
+- Introduced best practices in code review processes, resulting in a 20% improvement in code quality.
+
+**Senior Software Engineer, Metrostar Systems, Binghamton, NY (2021–Present)**  
+Annual salary: $133,400  
+- Enhanced application security protocols, mitigating potential threats and ensuring compliance with industry standards.  
+- Developed innovative solutions to optimize system performance, leading to a 15% reduction in resource consumption.

@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over seven years of experience specializing in frontend development and a strong foundation in electrical engineering. Known for a humorous communication style, I excel in collaborative environments and enjoy solving complex puzzles to deliver innovative software solutions.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2014  
+
+**Work History**  
+
+Frontend Engineer, Xcelerate Solutions, Whippany, NJ (2018–Present)  
+Annual salary: $126,900  
+- Spearheaded the redesign of the company's main product interface, improving user experience and increasing customer engagement by 30%.  
+- Implemented a new responsive design framework that reduced page load times by 40% across multiple platforms.  
+- Collaborated with cross-functional teams to integrate cutting-edge technology solutions, enhancing overall system performance.  
+
+Junior Software Engineer, KeyLogic Systems, Mahwah, NJ (2014–2018)  
+Annual salary: $89,700  
+- Developed and maintained code for in-house applications, contributing to a 15% increase in operational efficiency.  
+- Assisted in the migration of legacy systems to a new cloud-based platform, ensuring minimal downtime and seamless transition.  
+- Engaged in code reviews and debugging processes, significantly reducing the number of critical bugs by 25%.  
+
+**Hobbies**  
+Traveling, Hiking

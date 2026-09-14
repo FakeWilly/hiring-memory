@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience developing innovative solutions in diverse industries. Known for punctuality and a humorous communication style, I excel in collaborative environments and am passionate about creating efficient, scalable software systems.
+
+**Education**  
+Master's Degree in Software Engineering, Rutgers University, 2008
+
+**Work History**  
+
+**Software Engineer, Indeed, Old Westbury, NY (2016–Present)**  
+Annual salary: $139,200  
+- Led the development of a new job matching algorithm, increasing user engagement by 25%.  
+- Streamlined backend processes, reducing server response time by 30% and enhancing user experience.
+
+**Software Engineer, Mercedes-Benz Group, Buffalo, NY (2011–2016)**  
+Annual salary: $118,800  
+- Spearheaded the integration of a cloud-based system, improving data accessibility and operational efficiency across departments.  
+- Developed a real-time diagnostic tool that improved vehicle system checks' accuracy by 20%.
+
+**Software Engineer, Poshmark, New York, NY (2008–2011)**  
+Annual salary: $106,200  
+- Played a key role in launching the mobile app, which achieved over a million downloads within the first year.  
+- Collaborated on the design and implementation of a scalable database architecture, facilitating a 40% increase in data handling capacity.

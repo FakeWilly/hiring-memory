@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong focus on developing innovative solutions for complex problems. Proficient in various programming languages and adept at collaborating in team environments to deliver high-quality software products.
+
+**Education**  
+Master's Degree in Information Systems, Drexel University, 2001
+
+**Work History**
+
+Software Engineer, LENSAR, Inc., Mount Laurel, NJ, US (2001–2004)  
+Annual salary: $95,900  
+- Developed and maintained critical software components for medical devices, improving system reliability by 20%.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing product features and user engagement.
+
+Software Engineer, Magic AI, Syracuse, NY, US (2004–2006)  
+Annual salary: $103,900  
+- Engineered AI algorithms that increased data processing speed by 30%, significantly reducing operational costs.  
+- Implemented innovative software solutions resulting in a 15% increase in customer satisfaction.
+
+Software Engineer, AS&E, Princeton, NJ, US (2006–2008)  
+Annual salary: $113,600  
+- Spearheaded a project on image processing software, leading to a 25% improvement in system accuracy.  
+- Optimized existing codebase to enhance performance, reducing loading times by 40%.
+
+Senior Software Engineer, Hecta Data (DBA) Vilwaa, Troy, NY, US (2008–2012)  
+Annual salary: $122,000  
+- Led a team in the development of a scalable data management system, increasing data retrieval efficiency by 50%.  
+- Designed software architecture that supported the company's expansion into new markets.
+
+Staff Software Engineer, B Garage, Kingston, NY, US (2012–2017)  
+Annual salary: $167,200  
+- Architected and implemented cloud-based solutions, reducing infrastructure costs by 35%.  
+- Mentored junior engineers, fostering a collaborative and productive team environment.
+
+Staff Software Engineer, Peloton, East Newark, NJ, US (2017–2020)  
+Annual salary: $214,200  
+- Drove the development of a high-demand feature that boosted user engagement by 40%.  
+- Collaborated with product teams to enhance UI/UX design, leading to a 20% increase in user retention.
+
+Staff Software Engineer, Keeper Memorials USA Inc, Hartford, CT, US (2020–Present)  
+Annual salary: $236,600  
+- Leading the transition to a microservices architecture, enhancing system scalability and maintainability.  
+- Implementing cutting-edge security protocols, resulting in a 30% reduction in system vulnerabilities.

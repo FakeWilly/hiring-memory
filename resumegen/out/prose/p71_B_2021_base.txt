@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy and results-driven software engineer with nearly two decades of experience in platform engineering. Skilled in designing, implementing, and optimizing software solutions that drive business success, with a strong focus on collaboration and continual improvement.
+
+**Education**  
+Master's Degree in Information Systems, Rutgers University, 2002  
+
+**Work History**  
+
+**Senior Platform Engineer, Northwestern Mutual, Parsippany-Troy Hills, NJ, US (2016–Present)**  
+Annual salary: $189,500  
+- Spearheaded the migration of legacy systems to cloud-based solutions, increasing operational efficiency by 25%.  
+- Developed and implemented a new security protocol that reduced vulnerabilities by 40%.  
+
+**Senior Platform Engineer, ShorePoint, Princeton, NJ (2012–2016)**  
+Annual salary: $164,900  
+- Led a team to enhance platform stability, achieving 99.9% uptime.  
+- Collaborated on cross-functional projects, introducing a new feature that boosted client satisfaction scores by 15%.  
+
+**Senior Platform Engineer, Slesha, Jersey City, NJ, US (2010–2012)**  
+Annual salary: $149,300  
+- Optimized deployment processes, reducing release times by 30%.  
+- Championed the introduction of agile methodologies, improving team productivity by 20%.  
+
+**Senior Platform Engineer, U.S. Bank, Melville, NY, US (2007–2010)**  
+Annual salary: $132,200  
+- Designed a scalable platform architecture, accommodating a 50% increase in user base.  
+- Improved system performance metrics by 35% through database optimization techniques.  
+
+**Platform Engineer, Avail, White Plains, NY, US (2005–2007)**  
+Annual salary: $110,100  
+- Implemented automated testing procedures, enhancing software reliability by 20%.  
+- Collaborated with developers to create a new API, facilitating easier third-party integrations.  
+
+**Platform Engineer, Peak Technology Solutions, Inc, Lakewood, NJ (2002–2005)**  
+Annual salary: $97,400  
+- Developed core platform functionalities, contributing to a 30% increase in product adoption.  
+- Enhanced data processing capabilities, resulting in a 25% reduction in processing time.

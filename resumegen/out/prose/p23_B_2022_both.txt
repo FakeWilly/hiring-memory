@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over eight years of experience in developing and optimizing software solutions. Highly skilled in leveraging advanced programming techniques to enhance system performance, with a strong track record of delivering robust solutions in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, Stony Brook University, 2014
+
+**Work History**
+
+**Senior Software Engineer, FIA Tech, Rochester, NY, USA (2021–Present)**  
+Annual salary: $108,100  
+- Spearheaded the development of a new trading platform feature, improving processing speed by 15%.  
+- Mentored junior developers, facilitating a 50% reduction in onboarding time.  
+
+**Software Engineer, Government Tactical Solutions, Mahwah, NJ (2019–2021)**  
+Annual salary: $96,500  
+- Led the integration of security protocols across multiple systems, enhancing data protection by 20%.  
+- Collaborated on a cross-functional team to streamline project delivery, reducing timelines by 30%.  
+
+**Junior Software Engineer, Mycronic USA, Bridgewater, NJ, US (2014–2019)**  
+Annual salary: $70,400  
+- Assisted in the development of a key software module, contributing to a 25% increase in system efficiency.  
+- Analyzed and resolved system bugs, improving overall software reliability and user satisfaction.

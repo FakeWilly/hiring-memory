@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in backend development, known for punctuality and a humorous communication style. Specializes in designing scalable systems and improving software performance to enhance business outcomes.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2003
+
+**Work History**
+
+**Senior Backend Engineer**, Optizm Inc, Orchard Park, NY, US (2021–Present)  
+Annual salary: $147,300  
+- Spearheaded the migration of legacy systems to cloud-based architecture, improving system efficiency by 30%.  
+- Collaborated with cross-functional teams to integrate new APIs, enhancing data accessibility and processing speed.  
+
+**Senior Backend Engineer**, ASSYST, Inc., Mahwah, NJ (2017–2021)  
+Annual salary: $131,500  
+- Led the backend development for a high-traffic web application, resulting in a 25% increase in user engagement.  
+- Implemented a real-time data processing system that reduced latency by 40%.  
+
+**Senior Backend Engineer**, FIS Management Services LLC, Mahwah, NJ (2015–2017)  
+Annual salary: $107,000  
+- Developed a robust microservices architecture that supported scaling to meet increased demand by 50%.  
+- Optimized database queries to reduce processing time by 20%, enhancing overall application performance.  
+
+**Backend Engineer**, Esri, Buffalo, NY (2010–2015)  
+Annual salary: $87,700  
+- Designed and implemented a new backend feature that improved data visualization capabilities.  
+- Collaborated with frontend teams to streamline user interface interactions, enhancing user experience.  
+
+**Backend Engineer**, Scale AI, Albany, NY, US (2007–2010)  
+Annual salary: $74,800  
+- Contributed to the development of a machine learning platform, enhancing data analysis capabilities.  
+- Improved backend system reliability by implementing advanced error-handling mechanisms.  
+
+**Junior Software Engineer**, AT&T, Hartford, CT (2003–2007)  
+Annual salary: $50,400  
+- Assisted in the development and maintenance of telecommunications software, increasing system uptime.  
+- Participated in the migration of legacy systems to more modern platforms.

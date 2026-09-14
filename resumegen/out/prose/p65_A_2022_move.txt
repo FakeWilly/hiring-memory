@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a Master's Degree in Mathematics and extensive experience in infrastructure engineering. Known for a humorous communication style, enjoys solving complex puzzles and has a passion for creating efficient, scalable systems in fast-paced environments.  
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2008  
+
+**Work Experience**
+
+Staff Infrastructure Engineer, Betts Precision Inc, Morris Plains, NJ (2021–Present)  
+Annual salary: $217,700  
+- Spearheaded the migration of legacy systems to cloud infrastructure, reducing operational costs by 25%.  
+- Developed automated monitoring tools that improved system reliability and reduced downtime by 15%.  
+
+Staff Infrastructure Engineer, Atlassian, Hartford, CT (2020–2021)  
+Annual salary: $212,400  
+- Led a team to enhance system scalability, resulting in a 30% increase in processing capacity.  
+- Implemented a CI/CD pipeline that reduced deployment times by 40%.  
+
+Senior Infrastructure Engineer, Lucid Motors, Newark, NJ (2018–2020)  
+Annual salary: $164,200  
+- Optimized network architecture to support a 50% increase in user base without compromising performance.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing platform capabilities.  
+
+Senior Infrastructure Engineer, Disney Streaming Technology LLC, Bedminster, NJ (2014–2018)  
+Annual salary: $148,900  
+- Designed and deployed a high-availability system architecture, increasing uptime to 99.99%.  
+- Established a robust disaster recovery plan that cut potential recovery times by 60%.  
+
+Infrastructure Engineer, reveleer, Bedminster, NJ (2010–2014)  
+Annual salary: $108,200  
+- Developed and maintained infrastructure solutions that supported a 40% growth in data processing needs.  
+- Engineered a scalable server infrastructure, reducing hardware costs by 20%.  
+
+Infrastructure Engineer, Scientific Games, Groton, CT (2008–2010)  
+Annual salary: $101,400  
+- Implemented infrastructure improvements that enhanced system performance by 25%.  
+- Assisted in the deployment of a new data center, supporting the company's expansion goals.

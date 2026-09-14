@@ -1,0 +1,38 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented software engineer with over a decade of experience in data engineering and software development. Proven track record of delivering innovative solutions to complex technical challenges in the New York metro area.
+
+---
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2008
+
+---
+
+**Work Experience**  
+
+**Senior Data Engineer, Ops Tech Alliance, Franklin Lakes, NJ** (2019–Present)  
+Annual salary: $118,000  
+- Spearheaded the migration of legacy data systems to cloud-based solutions, improving scalability and reducing costs by 30%.  
+- Developed and implemented data processing frameworks that increased data retrieval speed by 40%.  
+
+**Data Engineer, SmarterTools Inc., Buffalo, NY** (2016–2019)  
+Annual salary: $82,900  
+- Optimized ETL processes, reducing data processing time by 25% and enhancing data pipeline efficiency.  
+- Collaborated with cross-functional teams to design data models that improved reporting accuracy by 15%.  
+
+**Data Engineer, InDepth Engineering Solutions, Greene, NY, USA** (2012–2015)  
+Annual salary: $71,100  
+- Designed and maintained robust databases that supported a 20% increase in project output.  
+- Developed automated data validation tools that minimized data entry errors by 35%.  
+
+**Junior Software Engineer, Calyxo, Jersey City, NJ** (2008–2012)  
+Annual salary: $68,600  
+- Played a key role in the development of an internal tool that increased productivity by 20%.  
+- Assisted in the successful launch of software applications, meeting tight deadlines with 100% functionality.  
+
+---

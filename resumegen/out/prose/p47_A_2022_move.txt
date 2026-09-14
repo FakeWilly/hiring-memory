@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over eight years of experience in developing and implementing software solutions in highly regulated environments. Known for a reserved communication style, a passion for puzzles, and a strong commitment to delivering robust engineering solutions.
+
+---
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2014
+
+---
+
+**Work History**
+
+Software Engineer, M&T Bank, Jersey City, NJ (2021–Present)  
+Annual salary: $130,600  
+- Developed and maintained secure APIs, improving data exchange efficiency by 30%.  
+- Collaborated with cross-functional teams to streamline banking operations, leading to a 20% reduction in transaction processing time.  
+
+Software Engineer, ASRC Federal, Morris Plains, NJ, US (2019–2021)  
+Annual salary: $127,400  
+- Spearheaded the implementation of a critical software update, enhancing system reliability by 25%.  
+- Automated testing processes, reducing manual testing time by 40% and increasing test coverage.  
+
+Junior Software Engineer, FICO, Whippany, NJ, US (2016–2019)  
+Annual salary: $88,600  
+- Assisted in the development of fraud detection algorithms, contributing to a 15% increase in fraud detection accuracy.  
+- Participated in code reviews, improving code quality and reducing bugs by 20%.  
+
+Junior Software Engineer, Hive, Princeton, NJ, US (2014–2016)  
+Annual salary: $81,100  
+- Contributed to the development of a scalable cloud-based platform, supporting a user increase of 50%.  
+- Enhanced existing software features, leading to a 10% boost in user engagement.

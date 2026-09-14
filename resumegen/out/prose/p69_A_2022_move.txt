@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned Software Engineer with over two decades of experience in developing innovative solutions that enhance functionality and user experience. Known for a love of puzzles and a humorous communication style, I bring a unique approach to problem-solving and team collaboration.
+
+**Education**  
+Master's Degree in Software Engineering, Rochester Institute of Technology, 2001
+
+**Work History**  
+
+**Software Engineer, Captivation Software, Groton, CT, US (2001–2004)**  
+Annual salary: $95,400  
+- Developed key components of a pioneering data encryption system, enhancing security for clients.  
+- Collaborated with cross-functional teams to optimize software performance, reducing processing time by 20%.
+
+**Software Engineer, Airwallex, Rochester, NY, USA (2004–2006)**  
+Annual salary: $105,100  
+- Implemented new payment gateway integrations, improving transaction success rate by 15%.  
+- Spearheaded a project to migrate legacy systems to a modern architecture, resulting in a 25% efficiency gain.
+
+**Software Engineer, Knowhirematch, Bridgewater, NJ, US (2006–2008)**  
+Annual salary: $113,300  
+- Designed and developed a scalable recruitment platform, increasing user engagement by 30%.  
+- Automated processes to reduce data entry errors, improving data accuracy by 40%.
+
+**Senior Software Engineer, NEOnet, Troy, NY, US (2008–2012)**  
+Annual salary: $121,400  
+- Led a team in developing a real-time monitoring system, enhancing operational uptime by 35%.  
+- Initiated code refactoring strategies, decreasing system bugs by 50%.
+
+**Staff Software Engineer, OpenAI, Mount Laurel, NJ, US (2012–2017)**  
+Annual salary: $167,000  
+- Engineered AI-driven solutions that increased user interaction by 40% in interactive applications.  
+- Pioneered the integration of machine learning models into existing frameworks, improving predictive accuracy by 25%.
+
+**Staff Software Engineer, Inspire Medical Systems I, Hackensack, NJ, US (2017–2020)**  
+Annual salary: $213,300  
+- Developed critical software modules for medical devices, ensuring compliance with industry standards.  
+- Enhanced device performance through algorithm optimizations, leading to a 30% improvement in battery life.
+
+**Staff Software Engineer, Vision IT, Mount Laurel, NJ, US (2020–2021)**  
+Annual salary: $235,100  
+- Streamlined software deployment processes, cutting release cycles by 20%.  
+- Led the implementation of cloud-based solutions, reducing infrastructure costs by 15%.
+
+**Staff Software Engineer, Motorola Solutions, White Plains, NY, US (2021–Present)**  
+Annual salary: $241,000  
+- Implementing advanced communication protocols to improve product reliability and customer satisfaction.  
+- Collaborating with global teams to drive the development of next-generation public safety software solutions.

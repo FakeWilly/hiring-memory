@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with extensive experience in data engineering roles across diverse industries. Known for a humorous communication style and a passion for developing efficient data infrastructure solutions to drive business optimization.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2005
+
+**Work History**
+
+Senior Data Engineer, Schneider Electric, Groton, CT, US (2021–Present)  
+Annual salary: $156,000  
+- Spearheaded the redesign of data pipelines, resulting in a 30% reduction in processing time.  
+- Collaborated with cross-functional teams to deploy scalable cloud-based solutions, improving data accessibility and security.
+
+Senior Data Engineer, Omitron, Inc., Syracuse, NY, US (2019–2021)  
+Annual salary: $139,300  
+- Led a team to implement advanced data processing frameworks, enhancing data accuracy by 25%.  
+- Introduced automated monitoring systems, decreasing system downtime by 40%.
+
+Data Engineer, Diversified Services Network, Princeton, NJ (2017–2019)  
+Annual salary: $107,200  
+- Developed an innovative data integration platform that increased data retrieval speed by 50%.  
+- Optimized ETL processes, reducing operational costs by 15%.
+
+Data Engineer, DPA Consultant, Orchard Park, NY, US (2013–2017)  
+Annual salary: $97,000  
+- Executed large-scale data migration projects, ensuring minimal disruption and data integrity.  
+- Improved data visualization tools, enhancing decision-making capabilities for stakeholders.
+
+Data Engineer, Dr. Bronner's, Hartford, CT (2010–2013)  
+Annual salary: $94,000  
+- Streamlined data collection processes, increasing efficiency by 30%.  
+- Collaborated with analysts to customize dashboards, providing real-time insights.
+
+Data Engineer, RLI, Troy, NY, US (2007–2010)  
+Annual salary: $85,500  
+- Built robust data models, supporting strategic business initiatives.  
+- Enhanced data storage solutions, achieving a 20% improvement in retrieval times.
+
+Junior Software Engineer, Wolfjaw Studios, Astoria, NY (2005–2007)  
+Annual salary: $61,500  
+- Assisted in the development of key software applications, contributing to a 15% increase in user engagement.  
+- Implemented bug fixes and updates, improving software reliability.

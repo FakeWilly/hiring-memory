@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and direct communication specialist with nearly two decades of experience in software engineering, excelling in team collaboration and complex problem-solving. Proven track record of delivering high-quality software solutions across diverse industries, leveraging a strong educational background and passion for technology.
+
+**Education**  
+Master's Degree in Software Engineering, Baruch College, 2003
+
+**Work History**  
+
+Staff Software Engineer, CD PROJEKT RED, Morris Plains, NJ, US (2021–Present)  
+Annual salary: $206,100  
+- Spearheaded the development of a critical gaming engine component, enhancing performance by 25%.  
+- Collaborated across multi-disciplinary teams to ensure seamless integration of new features, receiving commendations for leadership.  
+
+Staff Software Engineer, Dataminr, Inc., Rensselaer, NY, US (2020–2021)  
+Annual salary: $201,100  
+- Led the development of real-time alerting features, resulting in a 30% increase in user engagement.  
+- Optimized backend processes to reduce system latency by 15%, directly contributing to improved user experience.  
+
+Staff Software Engineer, LEIDOS, INC., Rochester, NY, US (2016–2020)  
+Annual salary: $169,400  
+- Directed a team in creating secure software solutions for government contracts, achieving 100% compliance with regulatory standards.  
+- Designed and implemented an automated testing framework that reduced QA cycles by 40%.  
+
+Staff Software Engineer, Novate Solutions Inc, New York, NY (2014–2016)  
+Annual salary: $170,200  
+- Developed a scalable cloud-based application, increasing client satisfaction and retention rates by 20%.  
+- Mentored junior engineers, fostering a culture of innovation and continuous learning.  
+
+Senior Software Engineer, Clayton Careers, Hackensack, NJ, US (2010–2014)  
+Annual salary: $126,500  
+- Streamlined the software development lifecycle, reducing time-to-market by 15% through process improvements.  
+- Implemented a new data analytics tool that enhanced decision-making capabilities for the management team.  
+
+Software Engineer, State of North Carolina, Hartford, CT, US (2006–2010)  
+Annual salary: $86,600  
+- Contributed to the modernization of legacy systems, improving system reliability and performance.  
+- Developed custom software solutions that reduced operational costs by 10%.  
+
+Software Engineer, Numerica Corporation, Rensselaer, NY, US (2003–2006)  
+Annual salary: $83,400  
+- Participated in the development of a real-time data processing system, reducing processing time by 20%.  
+- Assisted in the integration of new technology platforms, enhancing overall system capabilities.

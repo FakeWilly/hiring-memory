@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy and detail-oriented software engineer with extensive experience in developing robust solutions and leading engineering teams. Known for exceptional organizational skills and a diplomatic communication style, I excel in creating efficient and innovative software systems.
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2003
+
+**Work History**
+
+**Staff Software Engineer, Inspire Medical Systems I, Lakewood, NJ (2021–Present)**  
+Annual salary: $197,900  
+- Spearheaded the development of a cross-functional application, improving patient data accessibility by 30%.  
+- Introduced a new code review process that reduced bugs in production by 25%.  
+
+**Senior Software Engineer, EMTAK LLC, Bridgewater, NJ (2019–2021)**  
+Annual salary: $193,100  
+- Developed a scalable microservices architecture, enhancing system performance by 40%.  
+- Led a team to successfully launch a mission-critical health care platform within a tight six-month deadline.  
+
+**Senior Software Engineer, Morris & Associates, Inc., Hackensack, NJ (2015–2019)**  
+Annual salary: $170,100  
+- Engineered a high-availability system that increased uptime to 99.9%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.  
+
+**Software Engineer, Str8grade Engineering, LLC, Orchard Park, NY (2012–2015)**  
+Annual salary: $124,900  
+- Designed and implemented a data processing pipeline that increased throughput by 50%.  
+- Collaborated with cross-functional teams to integrate software solutions, reducing project delivery time by 20%.  
+
+**Junior Software Engineer, Netsimco, Princeton, NJ (2007–2012)**  
+Annual salary: $82,500  
+- Assisted in the development of a real-time analytics dashboard, improving data-driven decision-making.  
+- Upgraded legacy systems, reducing maintenance costs by 15%.  
+
+**Junior Software Engineer, Alloyed Enterprises, Jersey City, NJ (2003–2007)**  
+Annual salary: $70,500  
+- Contributed to the successful deployment of enterprise applications, enhancing customer satisfaction.  
+- Streamlined codebase, leading to a 10% increase in application efficiency.

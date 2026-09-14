@@ -1,0 +1,29 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with a decade of expertise in developing innovative solutions and improving system performance. Known for exceptional organizational skills and a tech-savvy approach, adept at working on complex projects in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Computer Science, University of Connecticut, 2012  
+
+**Work History**  
+
+**Junior Software Engineer, GalaxE.Solutions, Warren, NJ, US (2012–2015)**  
+Annual salary: $76,100  
+- Assisted in the development and implementation of software applications, improving system functionality by 20%.  
+- Collaborated with senior engineers to debug and optimize code, reducing system errors by 15%.  
+
+**Software Engineer, Visionary Integration Professionals, Bridgewater, NJ, US (2015–2020)**  
+Annual salary: $108,400  
+- Led a team to design and deploy a comprehensive software solution, boosting client satisfaction ratings by 30%.  
+- Streamlined existing codebases, enhancing application efficiency and reducing load times by 25%.  
+
+**Software Engineer, VHB, Astoria, NY (2020–Present)**  
+Annual salary: $127,700  
+- Spearheaded the development of a high-impact project that increased user engagement by 40%.  
+- Enhanced system architecture for scalability, resulting in a 50% improvement in processing speed.  
+
+**Hobbies**  
+Gardening, playing sports

@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and detail-oriented Infrastructure Engineer with over a decade of experience in designing and managing robust IT systems. Known for a punctual nature and a humorous communication style, I excel in collaborative environments, driving innovative solutions in high-pressure settings.
+
+**Education**  
+Master's Degree in Statistics, Rutgers University, 2011  
+
+**Work History**  
+
+Infrastructure Engineer, Minutes To Seconds, New York, NY, USA (2011–2016)  
+Annual salary: $105,500  
+- Spearheaded the implementation of a scalable server infrastructure, reducing downtime by 30% in the first year.  
+- Collaborated with cross-functional teams to enhance system security protocols, leading to a 25% reduction in security incidents.  
+
+Infrastructure Engineer, Cognitive Medical Systems, East Newark, NJ, USA (2016–2018)  
+Annual salary: $121,800  
+- Led a migration project to a cloud-based environment, improving data accessibility by 40%.  
+- Developed automated monitoring tools that increased operational efficiency, resulting in a 20% decrease in manual intervention.  
+
+Infrastructure Engineer, BLN24, New York, NY, USA (2018–Present)  
+Annual salary: $128,700  
+- Architected a high-availability network infrastructure that improved system reliability by 35%.  
+- Implemented a comprehensive disaster recovery plan that reduced recovery times by half.

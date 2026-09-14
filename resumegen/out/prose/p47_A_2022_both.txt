@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over 8 years of experience in designing and implementing software solutions. Skilled in problem-solving and passionate about developing efficient code to enhance user experience.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2014
+
+**Work History**
+
+**Senior Software Engineer, M&T Bank, Jersey City, NJ (2021–Present)**  
+Annual salary: $142,700  
+- Spearheaded the architecture and development of a high-availability financial transaction processing system, improving transaction speed by 30%.  
+- Led a team of 5 engineers in an agile environment to deliver software updates, boosting product release efficiency by 20%.  
+
+**Software Engineer, ASRC Federal, Morris Plains, NJ, US (2019–2021)**  
+Annual salary: $127,400  
+- Designed and implemented a secure data exchange system, reducing data breach incidents by 40%.  
+- Collaborated with cross-functional teams to integrate cloud solutions, leading to a 50% increase in system scalability.  
+
+**Junior Software Engineer, FICO, Whippany, NJ, US (2016–2019)**  
+Annual salary: $88,600  
+- Developed algorithms for credit scoring models that enhanced accuracy by 15%.  
+- Automated data processing tasks, reducing manual workload by 25%.  
+
+**Junior Software Engineer, Hive, Princeton, NJ, US (2014–2016)**  
+Annual salary: $81,100  
+- Assisted in the development of a machine learning application, improving predictive analysis capabilities.  
+- Contributed to the integration of a new API, increasing system interoperability by 20%.

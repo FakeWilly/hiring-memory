@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in system engineering and software development. Adept at solving complex technical challenges with a direct communication style and a passion for innovative solutions.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work Experience**
+
+**Junior Software Engineer, Belt Power LLC, Syracuse, NY, US (2003–2007)**  
+Annual salary: $55,000  
+- Developed and maintained internal software tools, improving operational efficiency by 20%.  
+- Collaborated with cross-functional teams to redesign existing systems, resulting in a 15% reduction in processing time.
+
+**Junior Software Engineer, Teradyne, Binghamton, NY (2007–2010)**  
+Annual salary: $61,800  
+- Contributed to the successful deployment of a new testing framework, enhancing product quality assurance processes.  
+- Implemented a software update that reduced system downtime by 25%.
+
+**Junior Software Engineer, Allied Solutions, East Newark, NJ, US (2010–2015)**  
+Annual salary: $68,700  
+- Spearheaded the upgrade of legacy systems, leading to a 30% increase in performance.  
+- Assisted in the development of client-specific applications, boosting customer satisfaction by 15%.
+
+**Systems Engineer, BNY, New York, NY (2016–2019)**  
+Annual salary: $77,400  
+- Managed critical system infrastructure projects, resulting in a 40% improvement in system reliability.  
+- Optimized data processing pipelines, reducing resource usage by 20%.
+
+**Systems Engineer, LRP Media Group, East Syracuse, NY (2019–2021)**  
+Annual salary: $101,300  
+- Designed and implemented a scalable system architecture that supported a 50% growth in user base.  
+- Led a team in automating routine tasks, decreasing operational costs by 15%.
+
+**Systems Engineer, Palo Alto Networks, Astoria, NY (2021–Present)**  
+Annual salary: $103,800  
+- Enhancing cybersecurity protocols, increasing threat detection rates by 30%.  
+- Collaborating with global teams to integrate advanced security solutions, maintaining top-tier data protection standards.

@@ -1,0 +1,39 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with over 17 years in frontend development, specializing in creating intuitive user interfaces and enhancing user experience. Adept at working in fast-paced environments and delivering high-quality results through a detail-oriented and reserved communication style.
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2004
+
+**Work History**
+
+**Staff Frontend Engineer**, Exiger, Buffalo, NY (2018–Present)  
+Annual salary: $172,700  
+- Led the development of a scalable frontend architecture for a flagship product, improving load times by 30%.  
+- Spearheaded a team of engineers to implement a new design system, enhancing the user interface consistency across multiple platforms.  
+
+**Senior Frontend Engineer**, Cargill, Newark, NJ (2014–2018)  
+Annual salary: $117,000  
+- Developed and optimized web applications, leading to a 25% increase in user engagement.  
+- Collaborated with cross-functional teams to integrate customer feedback into product enhancements, resulting in improved client satisfaction.  
+
+**Frontend Engineer**, NICE, Bridgewater, NJ (2012–2014)  
+Annual salary: $117,600  
+- Implemented responsive design techniques that increased mobile traffic by 40%.  
+- Worked closely with designers to create a seamless and interactive user interface, receiving commendations for creativity and effectiveness.  
+
+**Junior Software Engineer**, Digital Trust Technologies Private Limited, Hackensack, NJ, US (2007–2012)  
+Annual salary: $79,900  
+- Assisted in the development of a secure payment gateway, enhancing transaction security for clients.  
+- Collaborated on various projects, contributing to codebase optimization and feature expansions.  
+
+**Junior Software Engineer**, BlueHalo, Groton, CT, US (2004–2007)  
+Annual salary: $70,400  
+- Participated in the development of military-grade software solutions, ensuring compliance with stringent security standards.  
+- Supported senior engineers in troubleshooting and debugging, leading to a reduction in critical errors by 20%.  
+
+**Hobbies**  
+Reading, Crafting

@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over seven years of experience in developing solutions within the private sector. Known for a methodical approach and proficiency in multiple programming languages, resulting in efficient and high-quality software applications.
+
+**Education**  
+Bachelor's Degree in Information Systems, Stony Brook University, 2014
+
+**Work History**
+
+**Software Engineer**, Government Tactical Solutions, Mahwah, NJ (2019–Present)  
+Annual salary: $96,500  
+- Spearheaded the development of a new secure communications platform, improving data transmission speeds by 30%.  
+- Implemented automation testing procedures, reducing the testing lifecycle by 25% and increasing software reliability.  
+
+**Junior Software Engineer**, Mycronic USA, Bridgewater, NJ (2014–2019)  
+Annual salary: $70,400  
+- Collaborated on a cross-functional team to enhance an existing software suite, contributing to a 15% increase in client satisfaction.  
+- Developed and maintained software modules for precision equipment, ensuring adherence to strict quality standards.

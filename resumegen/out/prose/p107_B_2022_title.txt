@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Accomplished software engineer with over 15 years of experience in developing innovative software solutions and leading engineering teams. Expert in designing and implementing scalable software architectures with a keen ability to adapt to new technologies and industry trends.
+
+Education  
+Master's Degree in Software Engineering, Stony Brook University, 2007
+
+Work History  
+
+Software Engineer, Aligned Development Strategies, Inc., Lakewood, NJ (2007–2012)  
+Annual salary: $104,100  
+- Developed and maintained web applications that improved user engagement by 30%.  
+- Collaborated with cross-functional teams to deliver projects on time and within budget.  
+
+Senior Software Engineer, Zillow, Greene, NY, USA (2012–2017)  
+Annual salary: $147,000  
+- Led a team of 5 engineers in the redesign of a core application, resulting in a 40% performance improvement.  
+- Implemented best practices in code reviews and automated testing, enhancing code quality significantly.  
+
+Staff Software Engineer, TOTAL EXPERT, Hackensack, NJ, US (2017–2020)  
+Annual salary: $211,300  
+- Spearheaded the development of a microservices-based architecture, reducing system downtime by 50%.  
+- Mentored junior engineers, fostering a culture of innovation and collaboration within the team.  
+
+Staff Software Engineer, AustinPPS, Franklin Lakes, NJ, US (2020–2021)  
+Annual salary: $246,400  
+- Designed and executed a cloud migration strategy that improved system scalability and reduced operational costs by 20%.  
+- Collaborated with product managers to define technical requirements, ensuring alignment with business goals.  
+
+Principal Software Engineer, Foss Maritime Company, Hartford, CT (2021–Present)  
+Annual salary: $252,600  
+- Leading the development of cutting-edge maritime software solutions, resulting in a 25% increase in operational efficiency.  
+- Driving strategic technology initiatives, aligning engineering efforts with company objectives and growth plans.

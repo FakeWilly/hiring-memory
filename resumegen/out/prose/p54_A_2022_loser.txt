@@ -1,0 +1,21 @@
+[NAME]  
+New York Metro Area  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented and highly organized software engineer with a strong foundation in software development and problem-solving. Adept at collaborating with cross-functional teams to create innovative solutions that enhance user experience and drive business success.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Penn State University, 2017
+
+**Work History**
+
+Junior Software Engineer, Hasbro, Inc., Astoria, NY (2017–Present)  
+Annual salary: $94,800
+- Collaborated with senior developers to design and implement user-friendly interfaces, improving customer engagement by 15%.
+- Streamlined codebase for major product lines, which reduced load times by 30% and enhanced overall system performance.
+- Played a key role in the successful launch of a flagship product, contributing to a 20% increase in first-year sales.
+
+---

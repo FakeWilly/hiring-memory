@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Accomplished software engineer with over 15 years of experience in developing and optimizing software solutions across diverse industries. Known for a keen attention to detail and punctuality, I excel in collaborative environments that leverage my technical expertise and problem-solving skills.
+
+**Education**  
+Master's Degree in Computer Science, Rutgers University, 2007  
+
+**Work History**
+
+**Staff Software Engineer, Yurts, Syracuse, NY, US (2021–Present)**  
+Annual salary: $179,700  
+- Spearheaded the development of a scalable microservices architecture, increasing system flexibility and reducing deployment time by 30%.  
+- Led a cross-functional team to enhance application security protocols, resulting in a 40% decrease in security incidents.
+
+**Senior Software Engineer, Delinea, Lakewood, NJ (2018–2021)**  
+Annual salary: $175,300  
+- Optimized legacy codebase, reducing system latency by 25% and improving user experience.  
+- Collaborated on the implementation of a cloud-based infrastructure, increasing application availability and resilience.
+
+**Senior Software Engineer, Cisco Meraki, Rensselaer, NY, US (2016–2018)**  
+Annual salary: $164,500  
+- Developed and maintained critical backend services, achieving 99.9% uptime.  
+- Implemented machine learning algorithms that enhanced network performance analysis by 20%.
+
+**Senior Software Engineer, Stanford University, Astoria, NY (2014–2016)**  
+Annual salary: $147,600  
+- Designed and launched a new student portal that improved access to resources and increased user satisfaction by 50%.  
+- Streamlined data processing workflows, reducing processing time from hours to minutes.
+
+**Software Engineer, Habasit America, Troy, NY, US (2011–2014)**  
+Annual salary: $121,900  
+- Engineered a robust inventory management system that reduced errors by 30%.  
+- Collaborated with teams to integrate new features, enhancing the product's market competitiveness.
+
+**Software Engineer, Taskrabbit, Hartford, CT, US (2007–2011)**  
+Annual salary: $108,100  
+- Played a key role in the development of a task management platform, contributing to a 15% increase in task completion rates.  
+- Implemented automated testing procedures, significantly reducing bug-related downtime.

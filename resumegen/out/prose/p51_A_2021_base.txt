@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 14 years of experience in developing innovative solutions across various industries. Highly skilled in leading projects and implementing cutting-edge technologies, always ensuring timely delivery and exceeding expectations.
+
+**Education**  
+Master's Degree in Computer Science, Rutgers University, 2007
+
+**Work History**
+
+Senior Software Engineer, Delinea, Lakewood, NJ (2018–Present)  
+Annual salary: $175,300  
+- Spearheaded the development of a secure authentication system, reducing breach incidents by 30%.  
+- Optimized codebase performance, leading to a 20% increase in system efficiency.
+
+Senior Software Engineer, Cisco Meraki, Rensselaer, NY, US (2016–2018)  
+Annual salary: $164,500  
+- Led a team in designing a cloud-based networking solution, enhancing client connectivity by 40%.  
+- Implemented automated testing processes, decreasing deployment times by 25%.
+
+Senior Software Engineer, Stanford University, Astoria, NY (2014–2016)  
+Annual salary: $147,600  
+- Developed a scalable data analysis platform, improving research data processing speeds by 50%.  
+- Collaborated on a project that won a national award for technological innovation in education.
+
+Software Engineer, Habasit America, Troy, NY, US (2011–2014)  
+Annual salary: $121,900  
+- Engineered a predictive maintenance tool, minimizing machine downtimes by 15%.  
+- Played a key role in a successful ERP system integration project.
+
+Software Engineer, Taskrabbit, Hartford, CT, US (2007–2011)  
+Annual salary: $108,100  
+- Developed a robust API that increased app user engagement by 20%.  
+- Contributed to the design and launch of a new feature that boosted platform transactions by 12%.

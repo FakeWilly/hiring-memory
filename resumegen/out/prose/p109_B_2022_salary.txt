@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over a decade of experience in developing and optimizing user-focused applications. Adept at leveraging strong analytical skills and a passion for problem-solving to deliver innovative software solutions.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2008  
+
+**Work History**
+
+Frontend Engineer, Ultimate Technologies Group, Orchard Park, NY, US (2021–Present)  
+Annual salary: $114,600  
+- Spearheaded the development of a responsive web application that improved user engagement by 30%.  
+- Collaborated with cross-functional teams to enhance software performance, resulting in a 20% reduction in load times.  
+
+Frontend Engineer, M&T Bank, Rensselaer, NY, US (2018–2021)  
+Annual salary: $102,300  
+- Led the UI redesign of the bank's online platform, increasing customer satisfaction scores by over 25%.  
+- Implemented new frontend technologies that enhanced the platform's scalability and robustness.  
+
+Junior Software Engineer, Cognizant Technology Solutions, Binghamton, NY (2016–2018)  
+Annual salary: $73,200  
+- Developed and maintained software modules that improved system efficiency by 15%.  
+- Assisted in debugging and troubleshooting, reducing downtime by 10%.  
+
+Junior Software Engineer, Hyun LLC, Old Westbury, NY (2010–2015)  
+Annual salary: $75,600  
+- Contributed to the design and implementation of software applications, enhancing functionality and performance.  
+- Participated in code reviews, ensuring adherence to industry standards and best practices.  
+
+Junior Software Engineer, Comcast, Bedminster, NJ, US (2008–2010)  
+Annual salary: $72,800  
+- Assisted in the development of internal tools that streamlined workflow processes.  
+- Engaged in team-driven projects, contributing to a 10% increase in project delivery speed.

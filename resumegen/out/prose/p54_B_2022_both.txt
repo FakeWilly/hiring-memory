@@ -1,0 +1,23 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Enthusiastic and tech-savvy software engineer with a strong foundation in computer science and four years of progressive experience in the software development industry. Known for excellent communication skills and a collaborative approach, I am passionate about leveraging technology to create impactful solutions and enhancing team productivity.
+
+**Education**  
+Bachelor's Degree in Computer Science, Drexel University, 2017  
+
+**Work History**  
+
+**Software Engineer**, TOTAL EXPERT, Old Westbury, NY (2021–Present)  
+Annual salary: $103,300  
+- Spearheaded the development of a new customer management feature that improved user engagement by 30%.  
+- Collaborated with cross-functional teams to streamline internal processes, reducing project delivery times by 15%.  
+
+**Junior Software Engineer**, Hologic, Mount Laurel, NJ, US (2017–2021)  
+Annual salary: $92,200  
+- Contributed to the design and implementation of a scalable data processing platform that enhanced data analysis efficiency by 25%.  
+- Assisted in deploying a microservices architecture, resulting in a 40% faster system response time.  
+
+---

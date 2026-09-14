@@ -1,0 +1,39 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative solutions and optimizing application performance. Known for punctuality, strong diplomatic communication skills, and a passion for delivering high-quality software solutions.
+
+**Education**  
+Bachelor's Degree in Statistics, CUNY City College, 2004  
+
+**Work History**  
+
+**Senior Software Engineer, On-Board Companies, Melville, NY, US (2016–Present)**  
+Annual salary: $142,000  
+- Spearheaded the development of a critical project that improved system efficiency by 30% through code optimization and streamlined processes.  
+- Collaborated with cross-functional teams to design and implement scalable software solutions, enhancing user experience and reducing latency by 20%.
+
+**Software Engineer, County of Bergen, Lakewood, NJ (2013–2016)**  
+Annual salary: $109,100  
+- Developed a secure data management system, facilitating smoother data access and handling for over 500 users.  
+- Introduced automated testing procedures, resulting in a 25% reduction in bug-related incidents.
+
+**Software Engineer, NightwinG, Jersey City, NJ, US (2011–2013)**  
+Annual salary: $99,900  
+- Implemented a new feature that increased the application’s user engagement by 40%.  
+- Collaborated closely with the product team to refine user interfaces, enhancing customer satisfaction scores.
+
+**Software Engineer, Stanford University, Jersey City, NJ (2009–2011)**  
+Annual salary: $91,500  
+- Designed and deployed a research database system that improved data retrieval times by 50%.  
+- Worked alongside academic researchers to develop software solutions that facilitated advanced data analysis.
+
+**Junior Software Engineer, Clayton Careers, Jersey City, NJ (2004–2009)**  
+Annual salary: $61,800  
+- Assisted in the development of key software features that supported business growth and increased software adoption by 15%.  
+- Successfully maintained and updated legacy systems, ensuring ongoing operational efficiency.  
+
+**Hobbies**  
+Hiking, playing sports

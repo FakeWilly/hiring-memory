@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and diplomatic software engineer with over 18 years of experience in the technology sector, specializing in developing robust software solutions. Renowned for punctuality and a collaborative approach, I excel in driving projects forward and delivering innovative results in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Statistics, CUNY City College, 2004
+
+**Work History**  
+
+**Senior Software Engineer, On-Board Companies, Melville, NY, US (2016–Present)**  
+Annual salary: $145,600  
+- Led a team of 5 developers to create a scalable software platform, increasing client user engagement by 30%.  
+- Spearheaded the integration of new technologies, reducing system downtime by 15%.  
+
+**Software Engineer, County of Bergen, Lakewood, NJ (2013–2016)**  
+Annual salary: $109,100  
+- Developed customized software applications for county departments, improving operational efficiency by 20%.  
+- Collaborated with cross-functional teams to enhance security measures, leading to a 25% decrease in breaches.  
+
+**Software Engineer, NightwinG, Jersey City, NJ, US (2011–2013)**  
+Annual salary: $99,900  
+- Engineered and deployed over 10 software applications, significantly improving client satisfaction rates.  
+- Streamlined codebases, reducing maintenance time by approximately 40%.  
+
+**Software Engineer, Stanford University, Jersey City, NJ (2009–2011)**  
+Annual salary: $91,500  
+- Played a key role in the development of a university-wide portal, improving accessibility for over 10,000 users.  
+- Implemented agile methodologies, reducing project delivery times by 20%.  
+
+**Junior Software Engineer, Clayton Careers, Jersey City, NJ (2004–2009)**  
+Annual salary: $61,800  
+- Assisted in the development of proprietary software, contributing to a 15% increase in company revenue.  
+- Conducted code reviews and testing, ensuring software quality and reliability.

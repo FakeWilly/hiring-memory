@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Data Engineer with over 16 years in software development and data engineering roles. Adept at designing robust data solutions and driving efficiency improvements across diverse industries. Direct communicator with a strong commitment to punctuality and technological innovation.
+
+**Education**  
+Bachelor's Degree in Statistics, University of Connecticut, 2005
+
+**Work Experience**  
+
+**Senior Data Engineer, Epicor Software, White Plains, NY, US (2019–Present)**  
+Annual salary: $138,500  
+- Spearheaded the development of an advanced data pipeline, reducing data processing times by 35%.  
+- Led a team of four engineers in the successful migration of legacy systems to cloud-based solutions, improving data accessibility and security.  
+
+**Data Engineer, Cyclotron, New York, NY, USA (2017–2019)**  
+Annual salary: $107,800  
+- Designed and implemented scalable ETL processes, enhancing data integration across multiple systems.  
+- Collaborated with cross-functional teams to deploy data-driven insights, boosting business decision-making capabilities.  
+
+**Data Engineer, KitRUM, Troy, NY, US (2013–2017)**  
+Annual salary: $96,400  
+- Developed a comprehensive data warehousing solution, increasing data retrieval efficiency by 25%.  
+- Optimized data models to support analytical reporting, reducing query times by 40%.  
+
+**Data Engineer, Lallemand, Greene, NY, USA (2010–2013)**  
+Annual salary: $95,100  
+- Enhanced data pipeline reliability through the implementation of automated monitoring tools.  
+- Played a key role in transitioning from on-premises databases to cloud infrastructure, improving scalability.  
+
+**Data Engineer, BLYK Engineering Services, White Plains, NY, US (2007–2010)**  
+Annual salary: $85,700  
+- Streamlined data processing workflows, leading to a 20% reduction in operational costs.  
+- Developed custom data solutions that supported key business strategies and objectives.  
+
+**Junior Software Engineer, CoStar Realty Information, Inc., Buffalo, NY (2005–2007)**  
+Annual salary: $61,600  
+- Assisted in the development of software applications, contributing to a 15% increase in system efficiency.  
+- Participated in debugging and refining codebases, ensuring high-quality software releases.

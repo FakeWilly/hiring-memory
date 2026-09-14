@@ -1,0 +1,35 @@
+[NAME]
+[EMAIL]
+
+Professional Summary
+Tech-savvy software engineer with over 17 years of experience in developing innovative software solutions. Known for exceptional organizational skills and a reserved communication style, I leverage my deep understanding of technology to enhance efficiency and drive project success.
+
+Education
+Master's Degree in Mathematics, Drexel University, 2005
+
+Work History
+
+Software Engineer, Hasbro, Inc., New York, NY, US (2005–2008)  
+Annual salary: $87,900
+- Developed and maintained critical software applications that improved product lifecycle management.
+- Collaborated with cross-functional teams to design innovative solutions, reducing production time by 15%.
+
+Software Engineer, Mobomo, LLC, Bedminster, NJ, US (2008–2013)  
+Annual salary: $105,400
+- Spearheaded the development of mobile applications, leading to a 20% increase in user engagement.
+- Enhanced system performance by implementing efficient algorithms and optimizing code structure.
+
+Senior Software Engineer, STP, Mahwah, NJ (2013–2017)  
+Annual salary: $136,000
+- Led a team of engineers in the redesign of a legacy system, boosting processing speed by 30%.
+- Introduced agile methodologies, resulting in a 25% improvement in project delivery times.
+
+Staff Software Engineer, Vertex Professional Service LLC, Whippany, NJ, US (2017–2021)  
+Annual salary: $143,000
+- Architected scalable software systems that supported the company’s growing user base.
+- Mentored junior engineers, fostering a collaborative environment and enhancing technical competencies across the team.
+
+Staff Software Engineer, Raytheon, Bedminster, NJ, US (2021–Present)  
+Annual salary: $160,200
+- Currently leading cutting-edge projects focused on defense technology, enhancing system reliability by 40%.
+- Played a pivotal role in integrating advanced analytics into existing platforms, resulting in improved data accuracy and insights.

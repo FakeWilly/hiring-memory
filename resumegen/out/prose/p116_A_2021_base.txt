@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy Platform Engineer with over a decade of experience in diverse technological environments, known for enhancing system capabilities and improving infrastructure efficiencies. Highly effective in collaborative settings and skilled in deploying innovative solutions that drive company success.
+
+**Education**  
+Master's Degree in Statistics, Rutgers University, 2008
+
+**Work Experience**
+
+Platform Engineer, John Boos & Co., Albany, NY, US (2018–Present)  
+Annual salary: $133,000
+- Spearheaded the revamp of the company's cloud infrastructure, resulting in a 30% increase in system performance.
+- Collaborated with cross-functional teams to implement an automated deployment pipeline, reducing release time by 50%.
+
+Platform Engineer, Info Image, Parsippany-Troy Hills, NJ, US (2016–2018)  
+Annual salary: $115,600
+- Developed a monitoring system that decreased downtime by 40% through proactive alerts and anomaly detection.
+- Optimized network operations, leading to a 25% cost reduction in server maintenance.
+
+Platform Engineer, Atlas Technologies, Inc, Binghamton, NY (2011–2015)  
+Annual salary: $124,300
+- Led a team of engineers in transitioning legacy systems to a modern platform, enhancing reliability and scalability.
+- Implemented automated testing practices that improved code quality and reduced bug occurrence by 35%.
+
+Platform Engineer, Baxter, Warren, NJ, US (2008–2011)  
+Annual salary: $111,200
+- Contributed to the design and deployment of a scalable network architecture, improving data transmission speed by 20%.
+- Assisted in the integration of new technologies, facilitating seamless operations across departments.

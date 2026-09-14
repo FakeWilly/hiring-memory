@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in software development and a proven track record of delivering high-quality solutions. Known for punctuality and diplomatic communication skills, offering extensive experience in both team and individual projects within the public sector.
+
+**Education**  
+Master's Degree in Software Engineering, CUNY City College, 2005
+
+**Work History**  
+
+**Senior Software Engineer, U.S. Bank, Rochester, NY, US (2021–Present)**  
+Annual salary: $147,700  
+- Led the development of a new security feature that improved system integrity by 25%.  
+- Collaborated with cross-functional teams to redesign the user interface, enhancing user experience and reducing customer service inquiries by 15%.  
+
+**Senior Software Engineer, Raytheon, Hackensack, NJ, US (2019–2021)**  
+Annual salary: $131,900  
+- Spearheaded the migration to a cloud-based infrastructure, resulting in a 30% increase in system efficiency.  
+- Mentored junior engineers, fostering a collaborative environment and improving team productivity by 20%.  
+
+**Software Engineer, xAI, Newark, NJ, US (2016–2019)**  
+Annual salary: $93,600  
+- Developed algorithms that reduced data processing time by 40%.  
+- Implemented a code review process that decreased bug occurrences by 15% prior to deployment.  
+
+**Software Engineer, bastion technologies, Hackensack, NJ, US (2011–2015)**  
+Annual salary: $93,700  
+- Improved software scalability, supporting a 50% increase in user base.  
+- Automated testing procedures, reducing manual QA efforts by 30%.  
+
+**Software Engineer, Clear Street, Jersey City, NJ, US (2009–2011)**  
+Annual salary: $89,000  
+- Contributed to the development of a financial analysis tool that enhanced data accuracy by 20%.  
+- Optimized existing codebase, reducing system downtime by 15%.  
+
+**Software Engineer, Uplist, LLC, Buffalo, NY (2005–2009)**  
+Annual salary: $78,400  
+- Designed and implemented a client management system that increased client onboarding efficiency by 25%.  
+- Collaborated with the design team to enhance the software’s user interface, improving client satisfaction scores by 10%.

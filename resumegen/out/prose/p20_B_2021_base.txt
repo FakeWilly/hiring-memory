@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with a Master's Degree in Statistics and over a decade of experience in infrastructure engineering. Adept at optimizing system performance and enhancing operational efficiency within fast-paced environments, while maintaining a strong focus on collaboration and communication.
+
+**Education**  
+Master's Degree in Statistics, Rochester Institute of Technology, 2011  
+
+**Work History**  
+
+Infrastructure Engineer, Clear Street, Melville, NY (2011–2016)  
+Annual salary: $104,300  
+- Spearheaded the migration of legacy systems to cloud-based solutions, resulting in a 30% reduction in operational costs.  
+- Developed and implemented automated monitoring tools that improved system uptime by 15%.  
+
+Infrastructure Engineer, Box, Syracuse, NY (2016–2018)  
+Annual salary: $122,300  
+- Led a team of engineers to enhance data storage solutions, increasing retrieval speeds by 25%.  
+- Collaborated with cross-functional teams to deploy scalable network solutions, supporting a 40% growth in user base.  
+
+Infrastructure Engineer, Walgreens, Lakewood, NJ (2018–Present)  
+Annual salary: $129,700  
+- Designed and maintained robust infrastructure systems that improved the reliability and security of enterprise operations.  
+- Implemented cost-effective upgrades to server architecture, achieving a 20% increase in processing efficiency.

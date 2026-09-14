@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with nearly a decade of experience in designing and implementing efficient software solutions. Proven track record in delivering high-quality code with a strong focus on performance and reliability in dynamic work environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Northeastern University, 2012  
+
+**Work History**  
+
+Junior Software Engineer, Life360, White Plains, NY (2012–2014)  
+Annual salary: $79,700  
+- Contributed to the development of a location-based service platform, enhancing user engagement by 20%.  
+- Assisted in optimizing backend processes, resulting in a 15% increase in system efficiency.
+
+Junior Software Engineer, Cadence Design Systems, New York, NY (2015–2019)  
+Annual salary: $77,400  
+- Collaborated on a cross-functional team to improve the electronic design automation tools, reducing processing time by 30%.  
+- Successfully implemented debugging tools that improved code accuracy and reduced errors by 25%.
+
+Junior Software Engineer, ServiceCore, Inc., Jersey City, NJ (2019–Present)  
+Annual salary: $86,300  
+- Played a key role in developing a user-friendly application interface that increased customer satisfaction by 35%.  
+- Enhanced software modules to support scaling, contributing to a 40% increase in service capacity.

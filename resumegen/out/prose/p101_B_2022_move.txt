@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and experienced software engineer with a strong background in data engineering. Proven track record of delivering innovative solutions in challenging environments while excelling in team collaboration and communication.
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2005  
+
+**Work History**  
+
+**Senior Data Engineer, Digital Trust Technologies Private Limited, Mount Laurel, NJ, US (2021–Present)**  
+Annual salary: $179,900  
+- Spearheaded the migration of critical data infrastructure to cloud-based solutions, improving system reliability by 30%.  
+- Developed advanced data visualization tools for executive reporting, enhancing decision-making processes.  
+
+**Senior Data Engineer, City of Wildwood, Old Westbury, NY (2020–2021)**  
+Annual salary: $175,500  
+- Led a team in designing a data pipeline that reduced data processing time by 50%.  
+- Enhanced data security protocols, resulting in a 40% reduction in data breaches.  
+
+**Senior Data Engineer, Coterra Energy, Lakewood, NJ (2016–2020)**  
+Annual salary: $146,800  
+- Implemented data warehousing solutions that increased data retrieval speed by 20%.  
+- Optimized ETL processes, reducing operational costs by 15%.  
+
+**Senior Data Engineer, The Travelers Companies, Inc., Old Westbury, NY (2012–2016)**  
+Annual salary: $103,300  
+- Developed a scalable data architecture that supported a 40% increase in data volume.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing data accuracy.  
+
+**Data Engineer, BRIDGE, Iselin, NJ, US (2010–2012)**  
+Annual salary: $106,200  
+- Designed and implemented data collection systems, improving data integrity by 30%.  
+- Automated data processing workflows, reducing manual tasks by 25%.  
+
+**Junior Software Engineer, Quantum Systems Inc, Jersey City, NJ (2005–2010)**  
+Annual salary: $69,500  
+- Assisted in the development of software applications, contributing to a 20% increase in user satisfaction.  
+- Supported the maintenance of legacy systems, ensuring uninterrupted service delivery.

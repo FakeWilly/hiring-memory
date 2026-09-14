@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and diplomatic software engineer with over a decade of experience in developing innovative solutions and leading complex projects. Proficient in optimizing performance and solving challenging problems with a passion for puzzles and a keen eye for detail.
+
+**Education**  
+Master's Degree in Information Systems, Stony Brook University, 2009  
+
+**Work History**  
+
+Software Engineer, Collective Inc, New York, NY, US (2009–2012)  
+Annual salary: $102,400  
+- Developed and maintained software applications, improving efficiency by 20% through streamlined code.  
+- Collaborated with cross-functional teams to enhance user experience, leading to a 15% increase in client satisfaction.
+
+Software Engineer, Chicago Financial Search, New York, NY, USA (2012–2015)  
+Annual salary: $111,200  
+- Implemented robust financial data processing systems, reducing data retrieval times by 30%.  
+- Played a key role in transitioning legacy systems to modern frameworks, increasing overall system reliability.
+
+Senior Software Engineer, Shummi US LLC, Troy, NY, US (2015–2020)  
+Annual salary: $145,900  
+- Led a team of 5 engineers to develop a scalable platform, resulting in a 40% increase in application performance.  
+- Spearheaded the implementation of security protocols, reducing vulnerabilities by 50%.
+
+Senior Software Engineer, DPA Consultant, Greene, NY, USA (2020–2021)  
+Annual salary: $167,100  
+- Designed and launched a new data analytics tool, enhancing data processing capabilities by 35%.  
+- Mentored junior engineers, fostering a collaborative environment that improved team productivity by 25%.
+
+Senior Software Engineer, FIS Management Services LLC, Lakewood, NJ (2021–Present)  
+Annual salary: $171,300  
+- Optimized existing software architecture, increasing system efficiency by 20%.  
+- Collaborated with cross-departmental teams to develop innovative solutions, contributing to a 10% growth in client base.

@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with nearly two decades of experience in infrastructure engineering and software development. Adept at leading complex projects and optimizing system performance, seeking to leverage expertise in a challenging software engineering role in the New York metro area.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2003
+
+**Work History**  
+
+**Senior Infrastructure Engineer, Quality Theorem, Lakewood, NJ (2021–Present)**  
+Annual salary: $192,500  
+- Led a team of infrastructure engineers to enhance system reliability, resulting in a 20% reduction in downtime.  
+- Implemented a new monitoring solution that increased the system's incident response time by 30%.
+
+**Senior Infrastructure Engineer, Vertafore, Buffalo, NY, US (2019–2021)**  
+Annual salary: $171,900  
+- Spearheaded the migration to cloud infrastructure, improving scalability and reducing operational costs by 25%.  
+- Developed automation scripts that decreased manual workload by 40%, boosting team productivity.
+
+**Senior Infrastructure Engineer, Camden Kelly Corporation, Kingston, NY, US (2014–2019)**  
+Annual salary: $144,700  
+- Optimized network architecture leading to a 15% increase in data processing speed.  
+- Coordinated cross-departmental teams to enhance system integration, resulting in a 10% cost reduction.
+
+**Senior Infrastructure Engineer, Arcesium, Morris Plains, NJ, US (2009–2014)**  
+Annual salary: $123,800  
+- Designed and implemented a robust disaster recovery plan that improved data protection by 50%.  
+- Introduced process improvements that reduced system maintenance time by 35%.
+
+**Infrastructure Engineer, General Dynamics Corporation, Princeton, NJ, US (2006–2009)**  
+Annual salary: $89,400  
+- Contributed to the deployment of secure communication systems, enhancing overall security by 20%.  
+- Developed internal tools for performance monitoring, increasing efficiency by 15%.
+
+**Junior Software Engineer, ELEVI Associates, LLC, Bridgewater, NJ, US (2003–2006)**  
+Annual salary: $65,200  
+- Assisted in the design and implementation of software solutions, contributing to a 10% increase in project completion rates.  
+- Collaborated with senior engineers to refine coding practices, reducing bug occurrence by 25%.

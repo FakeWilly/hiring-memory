@@ -1,0 +1,52 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+---
+
+**Professional Summary**  
+Accomplished software engineer with over two decades of experience in designing and implementing high-quality software solutions. Skilled in leading complex projects and collaborating with cross-functional teams to drive product innovation and efficiency.
+
+---
+
+**Education**  
+Master's Degree in Mathematics, Stony Brook University, 2001
+
+---
+
+**Work History**
+
+**Senior Software Engineer, RFA Engineering, Binghamton, NY (2020–Present)**  
+Annual salary: $186,400  
+- Spearheaded the development of a new data analytics platform, improving processing speed by 45%.  
+- Collaborated with product teams to design customer-centric features, leading to a 20% increase in user engagement.
+
+**Senior Software Engineer, Zeta Global, Albany, NY (2016–2020)**  
+Annual salary: $163,000  
+- Led a team in the redesign of the company’s main software product, resulting in a 30% boost in performance efficiency.  
+- Developed a scalable microservices architecture that reduced system downtime by 50%.
+
+**Senior Software Engineer, UltraCamp, Parsippany-Troy Hills, NJ, US (2013–2016)**  
+Annual salary: $146,700  
+- Implemented a cloud-based solution reducing operational costs by 25%.  
+- Streamlined the software deployment process, cutting release times from weeks to days.
+
+**Senior Software Engineer, Google, Jersey City, NJ (2009–2013)**  
+Annual salary: $130,200  
+- Enhanced search algorithms, contributing to a 15% increase in search accuracy.  
+- Pioneered a machine learning initiative that optimized user data analysis.
+
+**Software Engineer, Boston Children's Hospital, East Newark, NJ, US (2006–2009)**  
+Annual salary: $101,400  
+- Developed a patient data management system, improving data retrieval times by 40%.  
+- Collaborated with clinical staff to create software tools that enhanced patient care services.
+
+**Software Engineer, McKesson, Troy, NY, US (2004–2006)**  
+Annual salary: $92,100  
+- Engineered a secure data transmission protocol, enhancing data security measures.  
+- Automated inventory management systems, reducing manual errors by 30%.
+
+**Software Engineer, INFO IMAGE, Hartford, CT, US (2001–2004)**  
+Annual salary: $80,900  
+- Contributed to the development of a client-server application that increased client satisfaction.  
+- Participated in code reviews and implemented best practices, improving overall code quality.

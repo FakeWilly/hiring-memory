@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned software engineer with over 14 years of experience specializing in developing scalable applications and leading complex software projects. Known for punctuality, direct communication, and a passion for integrating innovative solutions to enhance performance and user experience.
+
+**Education**  
+Master's Degree in Computer Science, Drexel University, 2007  
+
+**Work History**  
+
+Senior Software Engineer, Bayer, Hackensack, NJ, US (2020–Present)  
+Annual salary: $155,500  
+- Led the integration of a new software module, improving system efficiency by 20%.  
+- Collaborated with cross-functional teams to streamline deployment processes, reducing time-to-market by 15%.
+
+Senior Software Engineer, Osaic, White Plains, NY, US (2017–2020)  
+Annual salary: $138,500  
+- Spearheaded the development of a customer management system that enhanced client engagement by 30%.  
+- Optimized legacy codebases, resulting in a 25% reduction in application load time.
+
+Senior Software Engineer, cybertrol engineering, Mount Laurel, NJ, US (2012–2017)  
+Annual salary: $119,000  
+- Directed a team of engineers in the successful launch of three major software releases.  
+- Improved data processing algorithms, increasing throughput by 40%.
+
+Software Engineer, Updater, Iselin, NJ, US (2007–2012)  
+Annual salary: $91,300  
+- Developed key features for a client-facing application, contributing to a 15% increase in user retention.  
+- Collaborated in an agile environment to deliver regular software updates ahead of schedule.

@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced Frontend Engineer with over 15 years in software development, specializing in creating intuitive and efficient user interfaces. Highly skilled in collaborating with cross-functional teams to deliver innovative solutions in fast-paced environments.
+
+---
+
+**Work History**
+
+Senior Frontend Engineer, CoStar Group, East Syracuse, NY (2018–Present)  
+Annual salary: $159,300  
+- Led the development of a responsive web application that increased user engagement by 30% within the first year.  
+- Implemented a component library that reduced UI development time by 40% across teams.  
+
+Frontend Engineer, Gurobi Optimization, New York, NY (2015–2018)  
+Annual salary: $129,300  
+- Engineered a new client-side caching strategy that improved application load times by 25%.  
+- Collaborated with backend developers to integrate new API features, enhancing data accuracy and application performance.  
+
+Frontend Engineer, Schneider Electric, Binghamton, NY (2011–2015)  
+Annual salary: $113,400  
+- Developed custom widgets for real-time data visualization, improving user interaction with dashboards by 50%.  
+- Spearheaded the migration of legacy systems to a modern front-end framework, reducing maintenance costs by 20%.  
+
+Frontend Engineer, Amentum, Hartford, CT (2007–2011)  
+Annual salary: $106,600  
+- Designed and implemented a modular CSS architecture that improved code maintainability and scalability.  
+- Successfully collaborated with UX designers to revamp the company’s flagship product, enhancing overall user satisfaction.  
+
+---
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2007

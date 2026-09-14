@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in developing scalable solutions and leading complex projects. Known for a humorous communication style and ability to foster team collaboration, bringing a tech-savvy approach to problem-solving.
+
+**Education**  
+Bachelor's Degree in Computer Science, Stony Brook University, 2008
+
+**Work History**
+
+Staff Software Engineer, Uplist, LLC, Franklin Lakes, NJ, US (2021–Present)  
+Annual salary: $165,900  
+- Led the development of a high-traffic web application increasing user engagement by 30%.  
+- Implemented a microservices architecture that improved system reliability and reduced downtime by 40%.  
+
+Senior Software Engineer, Keeper Memorials USA Inc, Parsippany-Troy Hills, NJ, US (2019–2021)  
+Annual salary: $161,900  
+- Spearheaded the migration of legacy systems to cloud-based solutions, improving data accessibility and reducing costs by 25%.  
+- Enhanced the company's main software product, resulting in a 15% increase in sales.  
+
+Senior Software Engineer, Mastercard, Melville, NY, US (2014–2019)  
+Annual salary: $139,200  
+- Developed and optimized payment processing algorithms that sped up transaction times by 20%.  
+- Collaborated with cross-functional teams to deploy a fraud detection system that reduced fraudulent activities by 35%.  
+
+Software Engineer, M Technical Services, LLC, Jersey City, NJ (2010–2014)  
+Annual salary: $101,300  
+- Engineered solutions for complex system integrations, improving overall system performance by 40%.  
+- Played a key role in redesigning the company's core software, leading to a 50% increase in user satisfaction.  
+
+Junior Software Engineer, Publix, Bridgewater, NJ, US (2008–2010)  
+Annual salary: $72,600  
+- Assisted in the development of internal tools that streamlined business operations and increased efficiency by 20%.  
+- Collaborated in a team that delivered software updates, enhancing system security and reliability.

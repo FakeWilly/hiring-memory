@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated and highly experienced software engineer with over two decades of expertise in systems engineering. Proven track record of delivering robust solutions and enhancements in fast-paced environments, leveraging keen problem-solving skills and comprehensive technical knowledge.
+
+**Education**  
+Bachelor's Degree in Mathematics, Baruch College, 2001
+
+**Work History**
+
+**Principal Systems Engineer, Tellus Solutions,** Rochester, NY, US (2021–Present)  
+Annual salary: $216,400
+- Spearheaded the development of a high-availability system architecture, reducing system downtime by 30%.
+- Led a team of engineers in implementing a new software framework that improved processing speed by 40%.
+
+**Staff Systems Engineer, Meinberg USA,** Syracuse, NY, US (2019–2021)  
+Annual salary: $193,200
+- Developed and integrated a real-time monitoring system, enhancing operational efficiency by 25%.
+- Collaborated with cross-functional teams to streamline software deployment processes, reducing time-to-market by 15%.
+
+**Senior Systems Engineer, Disney Experiences,** Hartford, CT (2017–2019)  
+Annual salary: $173,100
+- Engineered a scalable backend solution that supported a user increase of 50% without performance loss.
+- Innovated data processing methods, resulting in a 20% reduction in data retrieval time.
+
+**Senior Systems Engineer, Medtronic,** Astoria, NY (2014–2017)  
+Annual salary: $155,800
+- Designed and implemented a secure data encryption protocol, enhancing data security by 35%.
+- Automated testing procedures, reducing bug resolution time by 25%.
+
+**Senior Systems Engineer, Colorado Professional Resources, LLC,** Franklin Lakes, NJ, US (2011–2014)  
+Annual salary: $134,200
+- Optimized server infrastructure, increasing system uptime to 99.9%.
+- Led a team to redesign legacy systems, improving performance and reducing maintenance costs by 15%.
+
+**Senior Systems Engineer, Qualtrics,** Newark, NJ, US (2008–2011)  
+Annual salary: $122,400
+- Developed a comprehensive system integration plan, resulting in seamless operations across platforms.
+- Enhanced software applications, increasing customer satisfaction scores by 20%.
+
+**Systems Engineer, Prelim,** New York, NY (2003–2008)  
+Annual salary: $85,100
+- Implemented system upgrades, resulting in a 30% increase in efficiency.
+- Collaborated on the development of a client-server application, improving user accessibility.
+
+**Junior Software Engineer, ASRC Federal,** Buffalo, NY (2001–2003)  
+Annual salary: $61,200
+- Contributed to the development of a proprietary software solution, reducing processing time by 15%.
+- Assisted in debugging and optimizing code, enhancing software reliability.

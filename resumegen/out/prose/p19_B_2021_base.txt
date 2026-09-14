@@ -1,0 +1,37 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with a master's degree in statistics and nearly two decades in backend development. Known for punctuality and a humorous communication style, I combine technical expertise with a knack for collaborative problem-solving.
+
+**Education**  
+Master's Degree in Statistics, Drexel University, 2002
+
+**Work History**
+
+**Staff Backend Engineer, Clients First Business Solutions, East Syracuse, NY (2017–Present)**  
+Annual salary: $212,700  
+- Spearheaded the migration of legacy systems to cloud-based solutions, improving system performance by 30%.  
+- Collaborated with cross-functional teams to enhance backend services, resulting in a 25% increase in customer satisfaction.  
+
+**Senior Backend Engineer, Delinea, Troy, NY, US (2012–2017)**  
+Annual salary: $141,000  
+- Led the design and implementation of scalable microservices architecture, reducing system downtime by 40%.  
+- Mentored junior engineers, fostering a collaborative team environment and improving project turnaround times.  
+
+**Senior Backend Engineer, CBRE, New York, NY (2009–2012)**  
+Annual salary: $128,600  
+- Optimized database queries, boosting application speed by 20% and reducing latency issues.  
+- Managed backend integrations for new software platforms, supporting a 15% increase in user engagement.  
+
+**Backend Engineer, 2H Talent LLC, White Plains, NY, US (2004–2009)**  
+Annual salary: $106,400  
+- Developed and maintained backend services for financial applications, ensuring system reliability and data integrity.  
+- Implemented automated testing frameworks, reducing bugs in production by 25%.  
+
+**Backend Engineer, Edward Jones, Hackensack, NJ, US (2002–2004)**  
+Annual salary: $98,500  
+- Collaborated on the development of backend solutions for trading platforms, enhancing transaction processing speed.  
+- Assisted in the introduction of version control systems, improving code management and team collaboration.

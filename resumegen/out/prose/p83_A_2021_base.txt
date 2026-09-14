@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in diverse roles across multiple industries. Adept at developing robust software solutions and improving system performance, with a knack for infusing humor into collaborative environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2001  
+
+**Work History**  
+
+**Senior Software Engineer, Galileo Financial Technologies, Whippany, NJ, US (2018–Present)**  
+Annual salary: $91,300  
+- Led a team in the successful migration of legacy systems to cloud-based architectures, increasing efficiency by 30%.  
+- Developed a new microservices framework that reduced system downtime by 15%.  
+
+**Software Engineer, DISTILLERY, Binghamton, NY (2015–2017)**  
+Annual salary: $65,800  
+- Designed and implemented a scalable software platform that supported a 50% increase in user base.  
+- Collaborated with cross-functional teams to enhance the application's user interface, boosting user satisfaction scores by 20%.  
+
+**Junior Software Engineer, Mayo Clinic, Warren, NJ, US (2010–2015)**  
+Annual salary: $63,100  
+- Developed custom software solutions that improved data processing speed by 25%.  
+- Assisted in the creation of a patient management system that enhanced operational efficiency.  
+
+**Junior Software Engineer, BDO, Rochester, NY, USA (2005–2010)**  
+Annual salary: $53,400  
+- Implemented software enhancements that reduced processing time by 15%.  
+- Worked closely with senior engineers to develop and test new financial reporting tools.  
+
+**Junior Software Engineer, ShorePoint, Jersey City, NJ, US (2001–2005)**  
+Annual salary: $53,700  
+- Contributed to the development of a secure client-server application, ensuring data integrity.  
+- Participated in team projects that improved software deployment times by 10%.

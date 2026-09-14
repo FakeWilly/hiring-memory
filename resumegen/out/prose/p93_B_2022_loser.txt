@@ -1,0 +1,23 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+---
+
+**Professional Summary**  
+Tech-savvy and detail-oriented software engineer with a robust foundation in electrical engineering. Adept at developing efficient software solutions and passionate about leveraging technology to solve complex problems.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2014
+
+**Work History**
+
+**Junior Software Engineer, ICR, Inc., Albany, NY, US (2014–2016)**  
+Annual salary: $70,400
+- Contributed to the development of scalable software solutions, enhancing system performance by 20%.
+- Assisted in the implementation of a new code review process, reducing code defects by 15%.
+
+**Junior Software Engineer, Base-2 Solutions, LLC, Melville, NY, US (2016–Present)**  
+Annual salary: $80,200
+- Spearheaded a team project that improved application load times by 30% through code optimization.
+- Developed a user-friendly feature that increased client satisfaction and engagement metrics by 25%.

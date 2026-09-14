@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in frontend development, specializing in creating intuitive and engaging user experiences. Highly social and effective in team environments, with a proven track record of delivering high-quality, scalable software solutions.
+
+**Education**  
+Master's Degree in Information Systems, Rutgers University, 2007  
+
+**Work History**  
+
+**Staff Frontend Engineer**, HelloGov, Bedminster, NJ, US (2018–Present)  
+Annual salary: $192,600  
+- Spearheaded a major redesign of the organization's web platform, enhancing user engagement by 30%.  
+- Mentored junior engineers, leading to a 15% increase in team productivity and efficiency.
+
+**Senior Frontend Engineer**, Keeper Memorials USA Inc, Old Westbury, NY (2014–2018)  
+Annual salary: $132,200  
+- Led the development of a responsive web application, resulting in a 20% increase in mobile user retention.  
+- Collaborated cross-functionally to implement a new CMS, reducing content update times by 40%.
+
+**Frontend Engineer**, Fidelity Investments, East Syracuse, NY (2012–2014)  
+Annual salary: $98,600  
+- Developed and maintained a suite of financial tools, improving client satisfaction scores by 25%.  
+- Streamlined frontend code, reducing load times by 15%.
+
+**Frontend Engineer**, nooro, Newark, NJ, US (2010–2012)  
+Annual salary: $105,600  
+- Engineered dynamic UI components that increased user interaction by 18%.  
+- Coordinated with design teams to enhance UX, leading to a 10% boost in site traffic.
+
+**Frontend Engineer**, Meritage Homes, Groton, CT, US (2007–2010)  
+Annual salary: $92,300  
+- Contributed to the launch of a new real estate portal, expanding the user base by 20%.  
+- Implemented a modular CSS framework, reducing maintenance time by 25%.

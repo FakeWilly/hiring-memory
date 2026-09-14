@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience, specializing in developing robust, scalable applications. Renowned for punctuality and a humorous communication style, I excel in collaborative environments and deliver consistent results under tight deadlines.  
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rochester Institute of Technology, 2007  
+
+**Work History**  
+
+**Senior Software Engineer, Macquarie Group Limited, Kingston, NY, US (2021–Present)**  
+Annual salary: $179,100  
+- Spearheaded the development of a secure data processing application, increasing data throughput by 30%.  
+- Led a team of five engineers to implement a new DevOps pipeline, reducing deployment times by 40%.  
+
+**Senior Software Engineer, The State of Arizona, Melville, NY, US (2019–2021)**  
+Annual salary: $159,900  
+- Developed and optimized a public service app that improved user engagement by 25%.  
+- Mentored junior engineers, fostering a culture of learning and collaboration within the team.  
+
+**Senior Software Engineer, Comcast, Princeton, NJ (2017–2019)**  
+Annual salary: $154,000  
+- Designed a scalable video streaming solution that enhanced user experience and reduced buffering by 50%.  
+- Collaborated with cross-functional teams to integrate a new authentication system, improving security measures.  
+
+**Software Engineer, ICR, Inc., Syracuse, NY, US (2013–2017)**  
+Annual salary: $111,300  
+- Developed a real-time analytics platform that improved data insights and reporting accuracy.  
+- Implemented a caching mechanism that reduced data retrieval times by 20%.  
+
+**Software Engineer, Athlete To Athlete, New York, NY (2011–2013)**  
+Annual salary: $100,300  
+- Created a mobile application that streamlined athlete performance tracking, adopted by 100+ users.  
+- Participated in code reviews, improving overall code quality and software reliability.  
+
+**Junior Software Engineer, Coalition Technologies, New York, NY, USA (2007–2011)**  
+Annual salary: $67,800  
+- Assisted in developing e-commerce solutions, enhancing customer transaction efficiency.  
+- Collaborated on a team to migrate legacy systems to modern architectures.

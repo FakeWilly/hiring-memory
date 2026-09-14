@@ -1,0 +1,22 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a Master's in Information Systems and nearly a decade of experience in dynamic development environments. Known for a humorous communication style and a dedication to creating efficient, robust software solutions.
+
+**Education**  
+Master's Degree in Information Systems, Rutgers University, 2013
+
+**Work History**  
+
+Software Engineer, Blue Origin, East Syracuse, NY (2016–Present)  
+Annual salary: $129,500  
+- Spearheaded the development of mission-critical software components, improving system performance by 20%.  
+- Collaborated in cross-functional teams to integrate new technologies, enhancing overall project efficiency.  
+- Implemented automated testing processes that reduced bug occurrence by 30%.  
+
+Software Engineer, The Reynolds and Reynolds Company, White Plains, NY (2013–2016)  
+Annual salary: $125,500  
+- Developed and maintained web applications, resulting in a 15% increase in user engagement.  
+- Successfully migrated legacy systems to modern platforms, reducing maintenance costs by 25%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.

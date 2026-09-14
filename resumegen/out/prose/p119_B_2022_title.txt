@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience designing and implementing high-performance applications. Known for delivering solutions on time and fostering a collaborative team environment with a touch of humor.  
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rochester Institute of Technology, 2007  
+
+**Work History**  
+
+**Staff Software Engineer, Macquarie Group Limited, Kingston, NY, US (2021–Present)**  
+Annual salary: $163,900  
+- Spearheaded the development of a real-time financial analytics platform, improving data processing efficiency by 30%.  
+- Mentored a team of five engineers, enhancing their coding proficiency and boosting team productivity by 20%.  
+
+**Senior Software Engineer, The State of Arizona, Melville, NY, US (2019–2021)**  
+Annual salary: $159,900  
+- Led the redesign of a statewide digital public service system, reducing user complaints by 40%.  
+- Implemented a robust security protocol that decreased system vulnerabilities by 25%.  
+
+**Senior Software Engineer, Comcast, Princeton, NJ (2017–2019)**  
+Annual salary: $154,000  
+- Developed a cutting-edge streaming service backend, resulting in a 15% increase in subscriber retention.  
+- Optimized server infrastructure, cutting operational costs by 10%.  
+
+**Software Engineer, ICR, Inc., Syracuse, NY, US (2013–2017)**  
+Annual salary: $111,300  
+- Engineered a scalable data processing solution that reduced latency by 50%.  
+- Collaborated with cross-functional teams to integrate new features, leading to a 20% increase in user engagement.  
+
+**Software Engineer, Athlete To Athlete, New York, NY (2011–2013)**  
+Annual salary: $100,300  
+- Implemented a cloud-based solution that improved application uptime by 99.9%.  
+- Automated key processes, reducing manual intervention by 35%.  
+
+**Junior Software Engineer, Coalition Technologies, New York, NY, USA (2007–2011)**  
+Annual salary: $67,800  
+- Contributed to the development of e-commerce platforms, enhancing user experience and increasing sales by 10%.  
+- Assisted in the migration of legacy systems to modern architectures, improving system reliability.

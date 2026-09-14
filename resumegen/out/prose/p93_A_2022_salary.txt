@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with a solid foundation in software development and a knack for organization. Adept at delivering high-quality code and collaborating effectively in team environments.
+
+**Education**  
+Bachelor's Degree in Computer Science, Penn State University, 2014
+
+**Work History**
+
+Junior Software Engineer, Netsimco, Kingston, NY, US (2014–2016)  
+Annual salary: $70,100  
+- Developed and maintained web applications, resulting in a 20% increase in user engagement.  
+- Collaborated with cross-functional teams to streamline deployment processes, reducing release times by 15%.
+
+Junior Software Engineer, SHLD, New York, NY, US (2016–2021)  
+Annual salary: $78,100  
+- Optimized database queries, leading to a 25% improvement in application performance.  
+- Implemented automated testing procedures, enhancing code reliability and reducing bugs by 30%.
+
+Junior Software Engineer, Sofar Ocean, Jersey City, NJ (2021–Present)  
+Annual salary: $87,500  
+- Contributed to the design and development of scalable software solutions for ocean data analytics.  
+- Spearheaded the integration of new APIs, improving data accessibility and expanding system capabilities.

@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades of expertise in frontend development. Adept at crafting efficient, high-performance user interfaces, with a proven track record of leading engineering teams and delivering complex projects on time and within budget.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Rochester Institute of Technology, 2000
+
+**Work History**
+
+**Staff Frontend Engineer, Artera Technologies, East Newark, NJ, US (2020–Present)**  
+Annual salary: $205,900  
+- Spearheaded the development of a new web application, improving user engagement by 30%.  
+- Mentored a team of junior engineers, fostering a collaborative and high-achieving environment.
+
+**Staff Frontend Engineer, SHB Technology, Inc, Rensselaer, NY, US (2017–2020)**  
+Annual salary: $179,400  
+- Oversaw the successful migration of a legacy frontend system to a modern framework, reducing page load times by 40%.  
+- Collaborated with cross-functional teams to develop innovative solutions, enhancing overall product quality.
+
+**Senior Frontend Engineer, FedWriters, New York, NY (2015–2017)**  
+Annual salary: $129,900  
+- Developed a responsive frontend for a major client, resulting in a 25% increase in mobile traffic.  
+- Implemented advanced analytics tools to better track user behavior and improve interface design.
+
+**Senior Frontend Engineer, NextDecade, Mount Laurel, NJ, US (2012–2015)**  
+Annual salary: $127,700  
+- Led a team in designing a scalable web platform, increasing system efficiency by 50%.  
+- Improved code quality and maintainability by introducing automated testing processes.
+
+**Senior Frontend Engineer, Scout AI, Mount Laurel, NJ, US (2010–2012)**  
+Annual salary: $100,100  
+- Enhanced the UI/UX of a flagship product, leading to a 20% boost in user retention.  
+- Collaborated closely with the backend team to streamline the data retrieval process.
+
+**Frontend Engineer, County of Bergen, Jersey City, NJ, US (2004–2009)**  
+Annual salary: $87,300  
+- Developed intuitive user interfaces for municipal applications, increasing citizen engagement.  
+- Played a key role in transitioning legacy systems to modern web technologies.
+
+**Frontend Engineer, Bankers' Bank, Jersey City, NJ (2002–2004)**  
+Annual salary: $79,400  
+- Contributed to the design and implementation of secure banking applications.  
+- Worked with senior engineers to establish best practices for frontend development.
+
+**Junior Software Engineer, Nuclear Science & Technology (Cxxx), East Syracuse, NY (2000–2002)**  
+Annual salary: $57,000  
+- Assisted in the development of software solutions for scientific research projects.  
+- Gained foundational experience in software engineering and team collaboration.

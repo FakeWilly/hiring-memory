@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+A tech-savvy software engineer with extensive experience in systems engineering and a strong foundation in software development. Adept at solving complex problems and driving efficiency through innovative engineering solutions, with a direct communication style that enhances team collaboration.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**  
+
+**Systems Engineer, Palo Alto Networks, Astoria, NY (2021–Present)**  
+Annual salary: $113,500  
+- Spearheaded the implementation of a new network security protocol, reducing breach incidents by 30%.  
+- Collaborated with cross-functional teams to enhance system performance, resulting in a 25% increase in operational efficiency.
+
+**Systems Engineer, LRP Media Group, East Syracuse, NY (2019–2021)**  
+Annual salary: $101,300  
+- Developed and integrated a robust data management system that improved data retrieval times by 40%.  
+- Led a team of engineers in the successful migration to a cloud-based infrastructure, increasing scalability and reducing costs by 20%.
+
+**Systems Engineer, BNY, New York, NY (2016–2019)**  
+Annual salary: $77,400  
+- Optimized existing software systems to boost processing speed by 15%.  
+- Implemented automated testing protocols, decreasing system downtime by 25%.  
+
+**Junior Software Engineer, Allied Solutions, East Newark, NJ, US (2010–2015)**  
+Annual salary: $68,700  
+- Assisted in developing customer-focused applications, enhancing user experience and increasing customer satisfaction scores by 20%.  
+- Streamlined codebase, reducing maintenance time by 30%.  
+
+**Junior Software Engineer, Teradyne, Binghamton, NY (2007–2010)**  
+Annual salary: $61,800  
+- Contributed to the development of testing software that improved product quality by 15%.  
+- Collaborated on a project that reduced system response time by 10%.  
+
+**Junior Software Engineer, Belt Power LLC, Syracuse, NY, US (2003–2007)**  
+Annual salary: $55,000  
+- Participated in the design and implementation of software solutions, enhancing process efficiency by 10%.  
+- Engaged in troubleshooting and debugging, leading to a 20% reduction in error rates.

@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy and diplomatic software engineer with over a decade of experience in platform engineering. Skilled in designing and implementing robust software solutions in fast-paced environments, with a passion for optimizing performance and enhancing system reliability.
+
+**Education**  
+Master's Degree in Information Systems, Northeastern University, 2009
+
+**Work History**  
+
+Platform Engineer, Capital One, Buffalo, NY (2018–Present)  
+Annual salary: $117,100  
+- Spearheaded the development of a high-availability payment platform that increased transaction processing speed by 30%.  
+- Collaborated with cross-functional teams to enhance the security protocols, reducing system vulnerabilities by 25%.  
+
+Platform Engineer, Laiba Technologies, Whippany, NJ, US (2013–2018)  
+Annual salary: $103,800  
+- Led a team in migrating legacy systems to cloud-based solutions, achieving a 40% reduction in operational costs.  
+- Designed and implemented automated testing frameworks that improved software release cycles by 15%.  
+
+Platform Engineer, GQR, Troy, NY, US (2009–2013)  
+Annual salary: $100,100  
+- Developed scalable backend systems, facilitating a 20% increase in system performance.  
+- Engaged in code optimization projects, which resulted in a 10% reduction in resource consumption.

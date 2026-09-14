@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and highly experienced software engineer with over 20 years of experience in platform engineering across various industries. Proven track record of delivering high-quality software solutions and leading engineering teams to success.
+
+**Education**  
+Bachelor's Degree in Computer Science, Stony Brook University, 1999
+
+**Work History**
+
+**Junior Software Engineer, RFA Engineering, Princeton, NJ (1999–2004)**  
+Annual salary: $58,800  
+- Developed and maintained software applications, contributing to a 15% increase in client satisfaction.  
+- Collaborated with senior engineers to enhance system performance, resulting in a 20% reduction in processing time.
+
+**Platform Engineer, CCS CORPORATE, Hartford, CT (2004–2007)**  
+Annual salary: $89,100  
+- Engineered robust software platforms, improving system uptime by 30%.  
+- Led a team of junior developers, enhancing project delivery times by 25%.
+
+**Senior Platform Engineer, Solutions, White Plains, NY, US (2007–2011)**  
+Annual salary: $117,900  
+- Spearheaded platform migration projects, reducing operational costs by 20%.  
+- Implemented advanced monitoring tools, decreasing system downtime by 40%.
+
+**Staff Platform Engineer, Huntington Bank, Bridgewater, NJ, US (2011–2013)**  
+Annual salary: $170,700  
+- Directed engineering efforts for a mission-critical platform, achieving a 99.9% uptime.  
+- Streamlined processes to improve deployment efficiency by 50%.
+
+**Staff Platform Engineer, Kimley-Horn, Rensselaer, NY, US (2013–2015)**  
+Annual salary: $181,400  
+- Optimized platform architecture, resulting in a 25% increase in transaction throughput.  
+- Mentored a cross-functional team, fostering a culture of innovation and continuous improvement.
+
+**Staff Platform Engineer, Acadian Ambulance Service, Astoria, NY (2015–2018)**  
+Annual salary: $174,200  
+- Led a successful overhaul of the core platform, enhancing reliability by 35%.  
+- Developed strategic technology solutions, contributing to a 20% growth in service capacity.
+
+**Staff Platform Engineer, BMC Software, Troy, NY, US (2018–Present)**  
+Annual salary: $196,200  
+- Driving the development of scalable platform solutions, improving performance metrics by 40%.  
+- Leading initiatives to integrate cutting-edge technologies, resulting in a 30% increase in productivity.

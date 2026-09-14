@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over a decade of experience in infrastructure engineering, specializing in innovative solutions to complex problems. Adept at enhancing system performance and reliability, with a knack for integrating humor and creativity into problem-solving.
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2008  
+
+**Work History**  
+
+**Staff Infrastructure Engineer, Atlassian, Hartford, CT, US (2020–Present)**  
+Annual salary: $212,400  
+- Spearheaded the implementation of a new infrastructure monitoring system, reducing downtime by 30%.  
+- Collaborated with cross-functional teams to enhance system scalability, supporting a 50% increase in user base.  
+
+**Senior Infrastructure Engineer, Lucid Motors, Newark, NJ, US (2018–2020)**  
+Annual salary: $164,200  
+- Led the migration of legacy systems to cloud infrastructure, improving operational efficiency by 40%.  
+- Developed automated deployment scripts, decreasing release time by 25%.  
+
+**Senior Infrastructure Engineer, Disney Streaming Technology LLC, Bedminster, NJ, US (2014–2018)**  
+Annual salary: $148,900  
+- Designed and implemented a secure streaming infrastructure, enhancing user experience during high-traffic events.  
+- Optimized server performance, resulting in a 20% reduction in latency.  
+
+**Infrastructure Engineer, reveleer, Bedminster, NJ, US (2010–2014)**  
+Annual salary: $108,200  
+- Implemented infrastructure improvements that increased data processing speed by 15%.  
+- Collaborated with developers to integrate infrastructure solutions, improving system reliability.  
+
+**Infrastructure Engineer, Scientific Games, Groton, CT, US (2008–2010)**  
+Annual salary: $101,400  
+- Engineered a backup system that reduced data recovery time by 50%.  
+- Contributed to the development of a scalable network infrastructure that supported company growth.

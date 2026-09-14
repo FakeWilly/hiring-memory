@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in the industry, known for exceptional organizational skills and a reserved communication style. Passionate about leveraging technology to drive innovative solutions and improve operational efficiency.  
+
+**Education**  
+Bachelor's Degree in Computer Science, University of Connecticut, 2005  
+
+**Work History**  
+
+**Staff Software Engineer, American Airlines, East Newark, NJ, US (2021–Present)**  
+Annual salary: $169,600  
+- Spearheaded the development of a real-time flight tracking system, enhancing operational efficiency by 20%.  
+- Collaborated with cross-functional teams to streamline software deployment, reducing time-to-market by 15%.  
+
+**Staff Software Engineer, Updater, Mount Laurel, NJ, US (2017–2021)**  
+Annual salary: $165,500  
+- Led a team to integrate machine learning algorithms, improving customer targeting accuracy by 30%.  
+- Implemented a QA automation process, resulting in a 40% reduction in bug-related incidents.  
+
+**Senior Software Engineer, Optizm Inc, East Newark, NJ, US (2015–2017)**  
+Annual salary: $119,900  
+- Developed a scalable cloud-based application, reducing server costs by 25%.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.  
+
+**Senior Software Engineer, Zedcor Inc., East Syracuse, NY (2011–2014)**  
+Annual salary: $124,900  
+- Designed and developed a robust data processing pipeline, increasing data throughput by 50%.  
+- Collaborated with stakeholders to deliver critical software updates, achieving a 95% satisfaction rate.  
+
+**Software Engineer, Reliability Center, Rochester, NY, USA (2009–2011)**  
+Annual salary: $89,400  
+- Enhanced system performance by optimizing code, leading to a 30% reduction in processing time.  
+- Contributed to the successful launch of a new inventory management system.  
+
+**Junior Software Engineer, CPS Insurance Services, Old Westbury, NY (2005–2009)**  
+Annual salary: $60,700  
+- Developed and maintained internal tools, improving team productivity by 15%.  
+- Assisted in the migration of legacy systems to modern platforms.

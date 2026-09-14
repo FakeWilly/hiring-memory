@@ -1,0 +1,43 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing and optimizing software solutions. Known for an open communication style and a strong capability in designing efficient, innovative applications to solve complex challenges.
+
+---
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2005
+
+---
+
+**Work History**  
+
+**Senior Software Engineer**, DCI Solutions, New York, NY, USA (2019–Present)  
+Annual salary: $135,900  
+- Led the development of a scalable application architecture, improving system performance by 30%.  
+- Mentored junior engineers, fostering a collaborative and efficient team environment.
+
+**Software Engineer**, Clients First Business Solutions, Whippany, NJ, US (2016–2019)  
+Annual salary: $93,200  
+- Spearheaded a project that decreased system downtime by 25% through enhanced error detection protocols.  
+- Coordinated with cross-functional teams to integrate new features into existing products, increasing customer satisfaction ratings by 15%.
+
+**Software Engineer**, Kunz, Leigh & Associates, Greene, NY, USA (2011–2015)  
+Annual salary: $94,500  
+- Developed and implemented software solutions that streamlined client operations, resulting in a 20% cost reduction.  
+- Enhanced data processing speed by 40% through code optimization and algorithm updates.
+
+**Software Engineer**, Cognizant Technology Solutions, New York, NY, US (2009–2011)  
+Annual salary: $88,900  
+- Successfully collaborated on a project that increased application efficiency by 35% through innovative coding practices.  
+- Played a key role in the deployment of a major software upgrade, ensuring seamless transition for clients.
+
+**Software Engineer**, Signet Jewelers, Jersey City, NJ, US (2005–2009)  
+Annual salary: $78,400  
+- Designed and implemented critical software modules that improved system reliability by 25%.  
+- Contributed to a team that reduced bug resolution time by 40% through effective debugging techniques.  
+
+---

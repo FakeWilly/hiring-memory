@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with over eight years of experience in developing and optimizing web-based applications. Highly skilled in frontend technologies and passionate about delivering seamless user experiences.
+
+**Education**  
+Bachelor's Degree in Computer Science, University of Connecticut, 2014
+
+**Work History**
+
+Frontend Engineer, Metagenics, Hackensack, NJ (2018–Present)  
+Annual salary: $130,200  
+- Spearheaded the redesign of the company’s main e-commerce platform, improving load time by 30% and increasing user engagement by 25%.  
+- Developed and maintained a responsive design framework, ensuring consistent performance across various devices and browsers.  
+
+Junior Software Engineer, Dealer Tire, Jersey City, NJ (2014–2018)  
+Annual salary: $90,600  
+- Collaborated with cross-functional teams to implement a new inventory management system, reducing data processing time by 40%.  
+- Assisted in the development of a customer portal, enhancing the user interface for improved customer satisfaction.

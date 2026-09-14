@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a solid track record in developing and optimizing high-performance applications. Adept at leveraging technical skills and statistical knowledge to deliver innovative solutions in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2004
+
+**Work History**
+
+**Staff Software Engineer**, cybertrol engineering, Hackensack, NJ, US (2021–Present)  
+Annual salary: $145,800  
+- Spearheaded the development of a scalable cloud-based platform, boosting data processing efficiency by 30%.  
+- Designed and implemented a microservices architecture that improved system reliability and agility.  
+
+**Senior Software Engineer**, Snowflake, New York, NY (2016–2021)  
+Annual salary: $142,200  
+- Led a team to enhance data warehousing solutions, achieving a 25% increase in query performance.  
+- Introduced automated testing frameworks, reducing time for regression testing by 40%.  
+
+**Software Engineer**, Base-2 Solutions, LLC, Rensselaer, NY, US (2013–2016)  
+Annual salary: $108,400  
+- Optimized legacy systems, resulting in a 15% reduction in application load time.  
+- Collaborated on client projects that increased customer satisfaction ratings by 20%.  
+
+**Software Engineer**, Metrostar Systems, Hartford, CT (2011–2013)  
+Annual salary: $99,100  
+- Developed new features for enterprise applications, improving user engagement by 10%.  
+- Streamlined processes through automation, saving 200+ man-hours annually.  
+
+**Software Engineer**, Workday, Parsippany-Troy Hills, NJ, US (2009–2011)  
+Annual salary: $92,000  
+- Contributed to the development of HR software solutions, enhancing usability and performance.  
+- Implemented security protocols that reduced system vulnerabilities by 35%.  
+
+**Junior Software Engineer**, Jackson Sumner & Associates, Franklin Lakes, NJ, US (2004–2009)  
+Annual salary: $61,700  
+- Assisted in coding and debugging software applications, enhancing application stability.  
+- Collaborated with senior engineers on critical projects, gaining valuable industry experience.

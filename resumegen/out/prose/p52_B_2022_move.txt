@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Dynamic and tech-savvy software engineer with over 17 years of experience in frontend development, known for exceptional organizational skills and a humorous approach to problem-solving. Proven track record of delivering high-quality, user-centric software solutions in fast-paced environments.
+
+**EDUCATION**  
+Bachelor's Degree in Mathematics, Penn State University, 2005
+
+**WORK HISTORY**
+
+Senior Frontend Engineer, Allergan Data Labs, Franklin Lakes, NJ (2021–Present)  
+Annual salary: $133,800  
+- Led the frontend team in redesigning the user interface for a flagship product, improving user engagement by 25%.  
+- Implemented cutting-edge technologies to enhance performance, reducing load times by 40%.  
+
+Senior Frontend Engineer, Edge Autonomy, Iselin, NJ (2017–2021)  
+Annual salary: $130,500  
+- Spearheaded the development of a complex web application, increasing client acquisition by 30%.  
+- Mentored junior developers, fostering a collaborative team environment and improving overall productivity.  
+
+Frontend Engineer, HighNote, Syracuse, NY (2013–2017)  
+Annual salary: $101,400  
+- Developed a responsive web application that scaled to support 10,000+ concurrent users.  
+- Collaborated with UX designers to create an intuitive interface, resulting in a 15% increase in user satisfaction.  
+
+Frontend Engineer, Qualia, Buffalo, NY (2009–2013)  
+Annual salary: $93,900  
+- Engineered new features for the company’s core product, contributing to a 20% growth in user base.  
+- Optimized existing codebase, reducing technical debt and improving maintainability.  
+
+Junior Software Engineer, Tenica, Princeton, NJ (2005–2009)  
+Annual salary: $64,900  
+- Assisted in the development and maintenance of client-server applications, ensuring timely delivery within budget constraints.  
+- Developed automated scripts to streamline testing processes, reducing manual testing time by 30%.

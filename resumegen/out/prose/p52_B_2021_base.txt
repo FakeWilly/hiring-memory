@@ -1,0 +1,30 @@
+[NAME]
+[EMAIL]
+
+Professional Summary
+Tech-savvy and extremely organized software engineer with over 15 years of experience in frontend development. Known for a humorous communication style and dedication to delivering high-quality software solutions.
+
+Education
+Bachelor's Degree in Mathematics, Penn State University, 2005
+
+Work History
+
+Senior Frontend Engineer, Edge Autonomy, Iselin, NJ, US (2017–Present)  
+Annual salary: $130,500
+- Led a team of 5 engineers in the successful redesign of the company's flagship product, improving user engagement by 25%.
+- Implemented a new testing framework that reduced bugs in production by 30%.
+
+Frontend Engineer, HighNote, Syracuse, NY, US (2013–2017)  
+Annual salary: $101,400
+- Developed and launched a feature-rich web application that increased customer retention by 15%.
+- Collaborated with cross-functional teams to enhance UI/UX, leading to a 20% rise in customer satisfaction ratings.
+
+Frontend Engineer, Qualia, Buffalo, NY, US (2009–2013)  
+Annual salary: $93,900
+- Spearheaded the migration of legacy code to modern frameworks, reducing load times by 40%.
+- Played a key role in the development of a responsive design that boosted mobile traffic by 30%.
+
+Junior Software Engineer, Tenica, Princeton, NJ, US (2005–2009)  
+Annual salary: $64,900
+- Assisted in the development and deployment of software solutions that improved operational efficiency by 20%.
+- Collaborated with senior engineers to troubleshoot and resolve critical software issues.

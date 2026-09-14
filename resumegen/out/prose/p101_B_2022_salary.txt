@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 17 years of experience in data engineering and software development. Adept at leveraging technical expertise to drive data-driven solutions and enhance business operations within fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2005  
+
+**Work Experience**  
+
+Senior Data Engineer, Digital Trust Technologies Private Limited, Mount Laurel, NJ (2021–Present)  
+Annual salary: $196,600  
+- Spearheaded the design and implementation of scalable data pipelines that improved data processing efficiency by 30%.  
+- Collaborated with cross-functional teams to integrate advanced data analytics solutions, enhancing decision-making capabilities.  
+
+Senior Data Engineer, City of Wildwood, Old Westbury, NY (2020–2021)  
+Annual salary: $175,500  
+- Led a team to optimize data storage systems, resulting in a 25% reduction in storage costs.  
+- Developed and deployed a real-time analytics platform, increasing operational insights and reporting accuracy.  
+
+Senior Data Engineer, Coterra Energy, Lakewood, NJ (2016–2020)  
+Annual salary: $146,800  
+- Managed complex ETL processes to consolidate data across multiple systems, improving data accessibility.  
+- Implemented data security protocols that reduced vulnerabilities by 40%.  
+
+Senior Data Engineer, The Travelers Companies, Inc., Old Westbury, NY (2012–2016)  
+Annual salary: $103,300  
+- Enhanced existing data solutions, leading to a 20% increase in data processing speed.  
+- Streamlined data engineering processes, resulting in more reliable data delivery to stakeholders.  
+
+Data Engineer, BRIDGE, Iselin, NJ, US (2010–2012)  
+Annual salary: $106,200  
+- Developed robust data extraction frameworks that reduced data retrieval times by 15%.  
+- Collaborated with software development teams to integrate data-driven insights into product development.  
+
+Junior Software Engineer, Quantum Systems Inc, Jersey City, NJ (2005–2010)  
+Annual salary: $69,500  
+- Contributed to the development of innovative software solutions, receiving commendations for technical excellence.  
+- Assisted in the migration of legacy systems to modern platforms, enhancing system performance.

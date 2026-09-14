@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Frontend Engineer with a strong track record in developing user-friendly interfaces and improving web performance. Highly organized, tech-savvy professional known for direct communication and a passion for crafting intuitive digital experiences.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2003  
+
+**Work History**  
+
+Frontend Engineer, Blueprint Technologies, Morris Plains, NJ, US (2003–2007)  
+Annual salary: $78,200  
+- Developed and maintained web applications, leading to a 20% increase in user engagement.  
+- Collaborated with cross-functional teams to deliver projects on time and within budget.  
+
+Frontend Engineer, ADT, Lakewood, NJ (2007–2009)  
+Annual salary: $88,200  
+- Redesigned the company’s client dashboard, improving usability and reducing load times by 30%.  
+- Implemented new frontend technologies, enhancing the overall security of web applications.  
+
+Frontend Engineer, Nisum, Buffalo, NY (2009–2014)  
+Annual salary: $98,300  
+- Led a team in migrating legacy systems to modern web frameworks, increasing application speed by 40%.  
+- Recognized for exceptional problem-solving skills and improving UI/UX across multiple projects.  
+
+Frontend Engineer, FICO, Mahwah, NJ (2014–2018)  
+Annual salary: $110,900  
+- Spearheaded the frontend development of a high-profile financial analytics tool, resulting in significant client satisfaction.  
+- Enhanced application scalability, supporting a 50% increase in user base.  
+
+Senior Frontend Engineer, ThunderYard, Franklin Lakes, NJ, US (2018–2020)  
+Annual salary: $124,700  
+- Managed a team of engineers in developing innovative web solutions, boosting team productivity by 25%.  
+- Played a key role in the successful launch of a critical client project with zero post-launch defects.  
+
+Senior Frontend Engineer, Parsons, Buffalo, NY, US (2020–Present)  
+Annual salary: $136,900  
+- Leading the development of next-generation web applications, focusing on responsive design and performance optimization.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.

@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over a decade of experience in platform engineering. Known for effective communication and a collaborative approach, I have consistently driven technological advancements and optimized platform performance across diverse industries.
+
+**Education**  
+Master's Degree in Software Engineering, Penn State University, 2009  
+
+**Work History**
+
+**Platform Engineer, Körber Group, Buffalo, NY (2009–2014)**  
+Annual salary: $111,200  
+- Spearheaded the design and implementation of a scalable platform architecture, enhancing system performance by 30%.  
+- Collaborated with cross-functional teams to integrate new technologies, improving product lifecycle efficiency.  
+
+**Senior Platform Engineer, UL Solutions, Jersey City, NJ (2014–2017)**  
+Annual salary: $141,400  
+- Led initiatives to streamline deployment processes, reducing time-to-market by 20%.  
+- Mentored junior engineers, fostering a culture of innovation and continuous improvement.  
+
+**Senior Platform Engineer, Stemuli Studios, Inc, Troy, NY, US (2017–Present)**  
+Annual salary: $146,600  
+- Architected robust platform solutions that supported a 40% increase in user base.  
+- Enhanced platform security measures, reducing vulnerabilities by 50% while maintaining regulatory compliance.

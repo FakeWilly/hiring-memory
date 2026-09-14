@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 16 years of experience in developing robust applications and leading high-performing technical teams. Highly organized and committed to delivering innovative and efficient solutions in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, University of Connecticut, 2005
+
+**Work History**  
+
+**Staff Software Engineer, NORTHROP GRUMMAN, Syracuse, NY, US (2017–Present)**  
+Annual salary: $191,100  
+- Spearheaded the development of a mission-critical software system, resulting in a 30% increase in process efficiency.  
+- Led a cross-functional team of engineers to deliver a complex project ahead of schedule and under budget.  
+
+**Senior Software Engineer, Vision IT, Astoria, NY (2014–2017)**  
+Annual salary: $155,500  
+- Designed and implemented a scalable cloud-based architecture that improved application performance by 40%.  
+- Mentored junior engineers, fostering a culture of continuous learning and professional growth.  
+
+**Software Engineer, Western & Southern Financial Group, Hartford, CT (2010–2014)**  
+Annual salary: $106,900  
+- Collaborated on a team to modernize legacy systems, reducing operational costs by 25%.  
+- Developed a suite of automated tests that decreased bug incidence by 20%.  
+
+**Software Engineer, Cheetah, an Accutech company, Rochester, NY, US (2007–2010)**  
+Annual salary: $96,800  
+- Implemented new features that enhanced user experience and increased customer satisfaction ratings by 15%.  
+- Streamlined the code review process, cutting down review times by 30%.  
+
+**Junior Software Engineer, Midland Credit Management, Groton, CT, US (2005–2007)**  
+Annual salary: $68,700  
+- Assisted in the development of a new billing system, reducing manual errors by 50%.  
+- Developed and maintained software documentation, ensuring easy onboarding for new team members.

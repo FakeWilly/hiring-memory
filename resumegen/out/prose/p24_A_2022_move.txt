@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy and highly organized senior data engineer with extensive experience in data engineering and software development. Adept at designing robust data solutions and improving data workflows, with a strong background in leveraging technology to drive business growth.
+
+**Education**  
+Bachelor's Degree in Computer Science, Penn State University, 2004
+
+**Work History**  
+
+Senior Data Engineer, NORTHROP GRUMMAN, Groton, CT, US (2021–Present)  
+Annual salary: $159,800  
+- Spearheaded the integration of advanced data analytics tools, resulting in a 20% increase in data processing efficiency.  
+- Collaborated with cross-functional teams to develop scalable data pipelines that reduced data latency by 30%.  
+
+Senior Data Engineer, Viasat, Iselin, NJ, US (2016–2021)  
+Annual salary: $155,900  
+- Led a team in the migration of data infrastructure to cloud-based platforms, enhancing system reliability by 40%.  
+- Implemented machine learning models that improved predictive analytics accuracy by 25%.  
+
+Data Engineer, The San Francisco Compute Company, Bridgewater, NJ, US (2012–2016)  
+Annual salary: $111,600  
+- Developed and maintained ETL processes that streamlined data transformation and loading, reducing processing time by 50%.  
+- Collaborated on the design of a data warehousing solution, contributing to a 35% increase in data accessibility.  
+
+Data Engineer, Western & Southern Financial Group, Morris Plains, NJ, US (2007–2012)  
+Annual salary: $93,800  
+- Engineered data-driven solutions that optimized reporting capabilities and reduced query times by 40%.  
+- Enhanced data quality assurance processes, boosting data accuracy by 30%.  
+
+Junior Software Engineer, Mastercard, Bedminster, NJ, US (2004–2007)  
+Annual salary: $66,300  
+- Assisted in the development of secure payment processing systems, contributing to a 15% increase in transaction throughput.  
+- Supported the implementation of software updates, improving system stability and user satisfaction.

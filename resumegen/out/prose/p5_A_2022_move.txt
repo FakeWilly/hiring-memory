@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with nearly two decades of experience in developing innovative solutions across various industries. Known for a humorous communication style and ability to thrive in social environments, I am keen on leveraging my skills to drive technological advancements at forward-thinking companies.
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2003  
+
+**Work History**  
+
+**Software Engineer, Bausch Health, Rochester, NY, US (2003–2006)**  
+Annual salary: $95,100  
+- Developed and implemented a new software tool that reduced processing time by 30%.  
+- Collaborated with cross-functional teams to enhance user interface design, improving user satisfaction ratings by 20%.
+
+**Software Engineer, B Garage, Buffalo, NY, US (2006–2009)**  
+Annual salary: $104,900  
+- Led a project to migrate legacy systems to a new platform, increasing system efficiency by 45%.  
+- Designed and deployed automated testing frameworks that cut down testing time by 50%.
+
+**Senior Software Engineer, Hadrian, Mount Laurel, NJ, US (2009–2011)**  
+Annual salary: $132,500  
+- Spearheaded the development of a critical component for a flagship product, boosting sales by 15%.  
+- Mentored junior engineers, fostering a culture of innovation and continuous improvement.
+
+**Senior Software Engineer, Lowe's Home Improvement, Groton, CT, US (2011–2016)**  
+Annual salary: $125,400  
+- Optimized inventory management software, resulting in a 25% reduction in stock discrepancies.  
+- Collaborated closely with stakeholders to enhance system functionality, aligning with business objectives.
+
+**Senior Software Engineer, Mixpanel, Jersey City, NJ, US (2016–2018)**  
+Annual salary: $163,500  
+- Designed an analytics tool that improved data processing speed by 60%.  
+- Worked alongside product managers to ensure successful product launches and feature rollouts.
+
+**Staff Software Engineer, Realtor.com, Jersey City, NJ, US (2018–2020)**  
+Annual salary: $203,100  
+- Architected scalable solutions for high-traffic real estate platforms, increasing user engagement by 35%.  
+- Pioneered cloud integration strategies, reducing operational costs by 20%.
+
+**Staff Software Engineer, Minutes To Seconds, Melville, NY, US (2020–2021)**  
+Annual salary: $219,200  
+- Enhanced application performance, leading to a 40% reduction in load times.  
+- Led team in adopting agile methodologies, improving delivery timelines and team productivity.
+
+**Staff Software Engineer, AltaML, Bridgewater, NJ, US (2021–Present)**  
+Annual salary: $224,700  
+- Driving the development of machine learning models that have increased predictive accuracy by 70%.  
+- Collaborating with data scientists to optimize algorithms, significantly enhancing product capabilities.

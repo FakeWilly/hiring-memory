@@ -1,0 +1,22 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over eight years of experience in developing and optimizing software solutions. Adept at solving complex problems with innovative solutions while effectively collaborating with cross-functional teams.
+
+**Education**  
+Bachelor's Degree in Information Systems, CUNY City College, 2014  
+
+**Work Experience**  
+
+**Data Engineer, FIS Global, Rochester, NY, USA (2019–Present)**  
+Annual salary: $105,500  
+- Developed data pipelines and ETL processes, improving data processing efficiency by 30%.  
+- Collaborated with data scientists to implement machine learning models that enhanced data-driven decision making.  
+- Spearheaded the migration of legacy systems to cloud platforms, reducing operational costs by 20%.  
+
+**Junior Software Engineer, Koch Global Services, Parsippany-Troy Hills, NJ, USA (2014–2018)**  
+Annual salary: $84,900  
+- Assisted in the development of web applications using JavaScript and Python, contributing to a 15% increase in user engagement.  
+- Participated in code reviews and debugging processes that improved software reliability by 25%.  
+- Engaged with cross-functional teams to deliver projects on time, consistently meeting client expectations.

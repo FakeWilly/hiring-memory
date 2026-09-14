@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in frontend development and a proven track record of enhancing user interfaces for various industries. Adept at leveraging advanced technologies to create seamless user experiences and collaborating effectively with cross-functional teams to drive project success.
+
+**Education**  
+Master's Degree in Software Engineering, Drexel University, 2007
+
+**Work History**
+
+**Staff Frontend Engineer, GM Financial, Princeton, NJ (2018–Present)**  
+Annual salary: $194,300  
+- Spearheaded the development of a new customer portal that increased user engagement by 30%.  
+- Led a team of engineers in migrating legacy systems to a modern React framework, reducing page load times by 40%.  
+
+**Senior Frontend Engineer, BioHorizons Implant Systems, Rensselaer, NY, US (2014–2018)**  
+Annual salary: $131,400  
+- Developed a responsive design framework that improved mobile site performance by 50%.  
+- Collaborated with UX designers to implement A/B testing strategies, resulting in a 20% rise in conversion rates.  
+
+**Frontend Engineer, Lucid Motors, Parsippany-Troy Hills, NJ, US (2012–2014)**  
+Annual salary: $99,400  
+- Implemented a new CSS architecture that decreased styling codebase by 25%.  
+- Optimized JavaScript code, enhancing website speed and improving user satisfaction.  
+
+**Frontend Engineer, Baxter, Kingston, NY, US (2010–2012)**  
+Annual salary: $103,800  
+- Enhanced the company's main product interface, leading to a 15% increase in customer retention.  
+- Automated testing processes, reducing bug-related downtime by 20%.  
+
+**Frontend Engineer, Fidelity TalentSource, Buffalo, NY (2007–2010)**  
+Annual salary: $93,400  
+- Contributed to the development of dynamic web applications, improving user interaction rates.  
+- Streamlined frontend workflows, reducing project delivery times by 10%.

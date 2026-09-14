@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Backend Engineer with over 14 years in software engineering, specializing in high-performance system architecture and cloud-based solutions. Known for strong problem-solving skills and a collaborative approach to team projects, with a passion for developing scalable and efficient backend systems.
+
+**Education**  
+Master's Degree in Computer Science, Northeastern University, 2008  
+
+**Work History**
+
+Staff Backend Engineer, Concepts Beyond, New York, NY (2021–Present)  
+Annual salary: $176,000  
+- Spearheaded the migration of legacy systems to cloud-based infrastructure, reducing operational costs by 30%.  
+- Developed a real-time data processing system that improved data retrieval speed by 40%.  
+
+Senior Backend Engineer, Hilton, Newark, NJ (2020–2021)  
+Annual salary: $171,700  
+- Led a cross-functional team to deliver a scalable booking API, enhancing system reliability and reducing downtime.  
+- Implemented security protocols that decreased breaches by 25%.  
+
+Senior Backend Engineer, U.S. Bank National Association, New York, NY (2017–2020)  
+Annual salary: $159,000  
+- Engineered backend frameworks supporting the launch of a mobile banking app, driving a 50% increase in user engagement.  
+- Optimized database queries, improving transaction processing time by 35%.  
+
+Backend Engineer, Absolute Business Solutions Corp., Orchard Park, NY (2013–2017)  
+Annual salary: $115,600  
+- Designed and maintained backend systems for data analytics applications, contributing to a 20% increase in client satisfaction.  
+- Collaborated on a project to automate system monitoring, reducing response time to incidents by 40%.  
+
+Backend Engineer, CDK, White Plains, NY (2008–2013)  
+Annual salary: $94,800  
+- Developed backend components for enterprise-level automotive software, improving data processing efficiency by 25%.  
+- Assisted in the implementation of RESTful API services, enhancing client-side application performance.

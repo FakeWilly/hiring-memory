@@ -1,0 +1,21 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy and highly social software engineer with over five years of experience in developing and maintaining software systems. Adept at collaborating with cross-functional teams to deliver innovative solutions and improve software performance.
+
+**Education**  
+Bachelor's Degree in Computer Science, Drexel University, 2017  
+
+**Work History**  
+
+Junior Software Engineer, TOTAL EXPERT, Old Westbury, NY (2021–Present)  
+Annual salary: $94,500  
+- Collaborated on a team to develop a new client-facing app which increased customer engagement by 30%.  
+- Implemented a streamlined code review process, reducing the average review time by 40%.  
+
+Junior Software Engineer, Hologic, Mount Laurel, NJ, US (2017–2021)  
+Annual salary: $92,200  
+- Contributed to the successful launch of a major software release, highly praised for its improved user interface.  
+- Developed automated testing solutions that decreased QA testing time by 25%.

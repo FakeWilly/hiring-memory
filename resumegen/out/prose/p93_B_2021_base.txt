@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 7 years of experience in developing robust applications and automating workflows. Known for a diplomatic communication style and strong problem-solving skills, with a deep passion for gaming and music.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2014
+
+**Work History**  
+
+Junior Software Engineer, Base-2 Solutions, LLC, Melville, NY, US (2016–Present)  
+Annual salary: $78,200  
+- Developed and maintained web applications to enhance data processing, improving efficiency by 30%.  
+- Collaborated with cross-functional teams to implement new features, leading to a 15% increase in user satisfaction.  
+
+Junior Software Engineer, ICR, Inc., Albany, NY, US (2014–2016)  
+Annual salary: $70,400  
+- Assisted in the development of software that reduced processing time by 20% through effective code optimization.  
+- Successfully debugged and resolved critical system issues, improving overall system stability.

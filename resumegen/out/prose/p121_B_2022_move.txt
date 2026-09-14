@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Enthusiastic and tech-savvy software engineer with a passion for solving complex problems through innovative technology solutions. A humorous communicator who excels in frontend development, consistently delivering user-friendly and high-performance applications.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2014  
+
+**Work History**  
+
+Frontend Engineer, Robert Half, Rochester, NY, US (2021–Present)  
+Annual salary: $130,100  
+- Spearheaded the redesign of client-facing web applications, improving user engagement by 30%.  
+- Optimized frontend performance, reducing load times by 25% through code refactoring and implementing lazy loading strategies.  
+
+Frontend Engineer, Xcelerate Solutions, Whippany, NJ, US (2018–2021)  
+Annual salary: $126,900  
+- Led a team of developers in building a responsive web application that increased customer satisfaction scores by 20%.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing application scalability and performance.  
+
+Junior Software Engineer, KeyLogic Systems, Mahwah, NJ (2014–2018)  
+Annual salary: $89,700  
+- Contributed to the development of a key software module that reduced processing time by 15%.  
+- Assisted in implementing a new version control system, streamlining the workflow and improving team efficiency.

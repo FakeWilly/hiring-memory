@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy Senior Software Engineer with a robust background in developing innovative solutions and a proven track record of enhancing software performance across various industries. Known for a humorous communication style and punctuality, I bring 17+ years of experience to the table, with a passion for leveraging technology to drive growth and efficiency.
+
+**Work History**
+
+Senior Software Engineer, Mayo Clinic, Orchard Park, NY, US (2021–Present)  
+Annual salary: $148,700  
+- Spearheaded the development of a new patient management system, enhancing operational efficiency by 30%.  
+- Collaborated with cross-functional teams to integrate cutting-edge technologies, resulting in a 20% increase in data processing speed.
+
+Senior Software Engineer, Infotron, Kingston, NY, US (2018–2021)  
+Annual salary: $145,100  
+- Led a team to successfully migrate legacy systems to cloud-based solutions, achieving a 40% reduction in infrastructure costs.  
+- Developed a proprietary software that improved client data security, leading to a 25% increase in client satisfaction.
+
+Senior Software Engineer, Cox Automotive, Andes, NY, US (2013–2018)  
+Annual salary: $123,400  
+- Designed and implemented a scalable architecture that supported a 50% increase in user base without compromising performance.  
+- Played a key role in the launch of a mobile application that expanded the company’s market reach by 15%.
+
+Software Engineer, Innovation Associates, Inc., New York, NY, US (2009–2013)  
+Annual salary: $84,200  
+- Optimized existing codebase to reduce application load time by 30%, enhancing user experience.  
+- Contributed to the development of an award-winning software platform that increased company revenue by 10%.
+
+Software Engineer, Keeper Memorials USA Inc, Bridgewater, NJ, US (2007–2009)  
+Annual salary: $60,400  
+- Developed user-friendly interfaces that improved client interaction by 20%.  
+- Collaborated on a project that automated key business processes, reducing manual workload by 35%.
+
+Junior Software Engineer, State of Washington, Newark, NJ, US (2005–2007)  
+Annual salary: $62,200  
+- Assisted in the development of a web application that increased system efficiency by 25%.  
+- Played a crucial role in debugging and testing applications to enhance software reliability.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2005

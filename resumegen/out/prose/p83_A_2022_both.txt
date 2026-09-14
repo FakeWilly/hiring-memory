@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and humorous software engineer with over two decades of experience in developing and optimizing software solutions within the private sector. Skilled in delivering robust applications and leading teams to achieve project goals efficiently in the New York metro area.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Baruch College, 2001
+
+**Work History**
+
+**Staff Software Engineer, OKX, Rochester, NY, US (2021–Present)**  
+Annual salary: $102,300  
+- Spearheaded the development of a new microservices architecture, reducing system downtime by 30%.  
+- Mentored a team of junior engineers, enhancing team productivity by 20% through effective code reviews and knowledge sharing sessions.  
+
+**Senior Software Engineer, Galileo Financial Technologies, Whippany, NJ, US (2018–2021)**  
+Annual salary: $91,300  
+- Led the successful migration of financial services platform to a cloud-based infrastructure, improving scalability by 50%.  
+- Implemented CI/CD processes, reducing deployment times from weeks to hours.  
+
+**Software Engineer, DISTILLERY, Binghamton, NY (2015–2017)**  
+Annual salary: $65,800  
+- Developed and maintained critical components of a data analytics platform, increasing data processing speed by 40%.  
+- Collaborated with cross-functional teams to design user-friendly interfaces that enhanced customer satisfaction scores by 25%.
+
+**Junior Software Engineer, Mayo Clinic, Warren, NJ, US (2010–2015)**  
+Annual salary: $63,100  
+- Assisted in the development of health management systems, integrating new features that improved patient data accuracy by 15%.  
+- Contributed to codebase optimizations, reducing application load times by 20%.  
+
+**Junior Software Engineer, BDO, Rochester, NY, USA (2005–2010)**  
+Annual salary: $53,400  
+- Played a key role in the development of financial reporting software, increasing report generation efficiency by 30%.  
+- Collaborated on a team that improved software security measures, reducing vulnerabilities by 20%.  
+
+**Junior Software Engineer, ShorePoint, Jersey City, NJ, US (2001–2005)**  
+Annual salary: $53,700  
+- Developed and tested software components, contributing to a 25% increase in overall application performance.  
+- Automated routine tasks that reduced manual work by 15%, allowing the team to focus on complex problem-solving tasks.

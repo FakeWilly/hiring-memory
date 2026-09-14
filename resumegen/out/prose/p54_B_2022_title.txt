@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over five years of experience in developing robust applications and optimizing code efficiency. Known for strong communication skills and the ability to collaborate effectively across teams, bringing both technical expertise and a diplomatic approach to projects.
+
+**Education**  
+Bachelor's Degree in Computer Science, Drexel University, 2017  
+
+**Work History**  
+
+Software Engineer, TOTAL EXPERT, Old Westbury, NY (2021–Present)  
+Annual salary: $94,500  
+- Spearheaded the migration of legacy systems to cloud-based solutions, increasing system scalability and reliability by 30%.  
+- Collaborated with cross-functional teams to integrate new features into existing software applications, enhancing user experience and functionality.  
+
+Junior Software Engineer, Hologic, Mount Laurel, NJ, US (2017–2021)  
+Annual salary: $92,200  
+- Developed and maintained critical software components for medical diagnostic equipment, contributing to improved performance and accuracy.  
+- Implemented automated testing procedures that reduced bug-related downtime by 20%.

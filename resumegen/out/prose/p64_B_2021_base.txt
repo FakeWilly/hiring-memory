@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Seasoned software engineer with over a decade of experience in developing innovative solutions and enhancing software performance across various industries. Tech-savvy and introverted, with a strong ability to work independently, communicate openly, and collaborate effectively within team environments.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2008
+
+**Work History**
+
+Software Engineer, Cognosante, East Newark, NJ, US (2016–Present)  
+Annual salary: $138,200  
+- Spearheaded the development of a health data management system, resulting in a 30% increase in data processing efficiency.  
+- Collaborated with cross-functional teams to integrate new software features, enhancing user experience and application functionality.
+
+Software Engineer, Penske Truck Leasing, New York, NY (2011–2016)  
+Annual salary: $118,100  
+- Developed and maintained software applications that improved fleet tracking and logistics, reducing operational costs by 15%.  
+- Led a team in the transition to a new enterprise resource planning system, facilitating improved data accuracy and reporting capabilities.
+
+Software Engineer, Atriano LLC, Greene, NY, USA (2008–2011)  
+Annual salary: $106,300  
+- Engineered a real-time monitoring application that decreased system downtime by 40%, enhancing overall network reliability.  
+- Implemented code optimizations that improved application speed and reduced server load, contributing to a smoother user experience.

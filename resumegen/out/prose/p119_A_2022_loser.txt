@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing robust software solutions. Extremely organized and direct communicator, with a passion for crafting efficient code and an affinity for traveling in personal time.
+
+**Education**  
+Bachelor's Degree in Statistics, Baruch College, 2007  
+
+**Work History**  
+
+Senior Software Engineer, FedEx Dataworks, Mount Laurel, NJ, US (2019–Present)  
+Annual salary: $163,900  
+- Spearheaded the development of a data analytics platform that improved delivery route efficiency by 30%.  
+- Led a team of 5 engineers in migrating legacy systems to modern cloud-based architecture, reducing maintenance costs by 20%.  
+
+Senior Software Engineer, Verizon, Mahwah, NJ (2017–2019)  
+Annual salary: $153,900  
+- Developed a highly scalable notification system that supported over 10 million users, enhancing customer engagement by 15%.  
+- Implemented CI/CD pipelines that reduced software release cycles from weeks to days.  
+
+Software Engineer, Grammarly, Lakewood, NJ (2013–2017)  
+Annual salary: $112,900  
+- Designed and implemented a grammar-checking algorithm that increased accuracy by 40%.  
+- Collaborated with cross-functional teams to integrate new language support, expanding user base by 25%.  
+
+Software Engineer, Peraton, Old Westbury, NY (2011–2013)  
+Annual salary: $100,400  
+- Developed secure communication software for government contracts, ensuring compliance with federal regulations.  
+- Automated testing procedures, reducing manual testing time by 50%.  
+
+Junior Software Engineer, nFocus Solutions, White Plains, NY, US (2007–2011)  
+Annual salary: $67,600  
+- Assisted in the development of educational software tools that improved learning outcomes by 20%.  
+- Implemented data visualization features that enhanced user interaction and satisfaction.

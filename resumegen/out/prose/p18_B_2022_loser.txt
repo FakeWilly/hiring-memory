@@ -1,0 +1,22 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a strong foundation in statistical analysis and a knack for humor-infused communication. Known for exceptional organizational skills and a passion for implementing efficient, scalable software solutions.
+
+**Education**  
+Bachelor's Degree in Statistics, Northeastern University, 2014
+
+**Work History**
+
+**Software Engineer**, Stier Solutions, East Newark, NJ, US (2019–Present)  
+Annual salary: $114,700  
+- Spearheaded the development of a new feature that increased user engagement by 25%, enhancing the overall product experience.  
+- Collaborated with cross-functional teams to redesign the core application architecture, improving system efficiency by 30%.  
+- Mentored junior developers, fostering a collaborative and innovative work environment.  
+
+**Junior Software Engineer**, Apptronik, Syracuse, NY, US (2014–2019)  
+Annual salary: $80,600  
+- Contributed to the successful launch of key software products by developing and optimizing code for performance and reliability.  
+- Assisted in troubleshooting and resolving complex software issues, reducing downtime by 20%.  
+- Developed thorough documentation that improved team efficiency and knowledge sharing.

@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+A results-driven Software Engineer with over 14 years of experience in developing robust applications and leading successful project implementations. Recognized for delivering high-quality code and improving system efficiencies in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Northeastern University, 2007  
+
+**Work History**  
+
+**Junior Software Engineer, Synapse Health, Binghamton, NY (2007–2009)**  
+Annual salary: $66,500  
+- Developed and maintained web applications, improving user engagement by 15%.  
+- Collaborated with a team to redesign the company’s primary software, reducing load times by 20%.  
+
+**Software Engineer, Airtable, Princeton, NJ, US (2009–2014)**  
+Annual salary: $93,100  
+- Spearheaded the development of a critical software component, increasing system reliability by 25%.  
+- Led a cross-functional team to implement a new data processing architecture, enhancing performance by 30%.  
+
+**Software Engineer, Odyssey Systems Consulting Group, Newark, NJ, US (2014–2019)**  
+Annual salary: $110,700  
+- Engineered a scalable software solution that reduced processing errors by 40%.  
+- Developed automated testing frameworks, decreasing bug incidence by 35%.  
+
+**Software Engineer, Novate Solutions Inc, Albany, NY, US (2019–Present)**  
+Annual salary: $129,200  
+- Architected a cloud-based application, reducing operational costs by 20%.  
+- Implemented CI/CD pipelines, accelerating deployment cycles by 50%.

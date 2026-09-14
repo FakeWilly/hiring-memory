@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with over 17 years of experience in designing and implementing robust software solutions. Known for open communication and exceptional problem-solving skills, I thrive in collaborative environments and have a solid track record of delivering high-quality projects on time.
+
+**Education**  
+Master's Degree in Statistics, University of Connecticut, 2005
+
+**Work History**
+
+**Staff Software Engineer, Knowhirematch, Mount Laurel, NJ, US (2019–Present)**  
+Annual salary: $154,800  
+- Spearheaded the development of a scalable matching algorithm, increasing system efficiency by 30%.  
+- Led a team of five engineers in transitioning legacy systems to cloud-based architecture, reducing operational costs by 20%.  
+
+**Senior Software Engineer, TensorWave, Groton, CT, US (2017–2019)**  
+Annual salary: $147,700  
+- Designed and implemented a microservices framework that improved deployment speed by 40%.  
+- Collaborated with cross-functional teams to optimize system performance, resulting in a 25% decrease in load times.  
+
+**Senior Software Engineer, ECS Federal, LLC, Rochester, NY, US (2015–2017)**  
+Annual salary: $136,600  
+- Developed a secure data exchange platform that enhanced data integrity and compliance with federal standards.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.  
+
+**Software Engineer, Costco Wholesale, Hackensack, NJ, US (2011–2015)**  
+Annual salary: $96,700  
+- Implemented a new inventory management system that reduced errors by 15%.  
+- Improved user interface design, enhancing customer satisfaction and engagement.  
+
+**Software Engineer, Caliber Collision, Hartford, CT (2009–2011)**  
+Annual salary: $91,400  
+- Streamlined repair process tracking software, shortening service times by 20%.  
+- Automated reporting tools, increasing data accuracy and reporting efficiency.  
+
+**Software Engineer, CeDent, Hackensack, NJ, US (2005–2009)**  
+Annual salary: $82,000  
+- Played a key role in developing the company's flagship product, contributing to a 10% increase in sales.  
+- Enhanced codebase quality through meticulous code reviews and testing, reducing bugs by 30%.

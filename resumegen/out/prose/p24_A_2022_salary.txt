@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in data engineering and software development. Known for exceptional organizational skills and an open communication style, I leverage my expertise to streamline processes and enhance data-driven decision-making in fast-paced environments.  
+
+**Education**  
+Bachelor's Degree in Computer Science, Penn State University, 2004  
+
+**Work History**  
+
+**Senior Data Engineer, NORTHROP GRUMMAN, Groton, CT, US (2021–Present)**  
+Annual salary: $174,600  
+- Spearheaded the integration of advanced data analytics tools, resulting in a 30% improvement in operational efficiency.  
+- Led a team of data engineers in the development of a scalable data architecture, enhancing data accessibility for strategic business units.  
+
+**Senior Data Engineer, Viasat, Iselin, NJ, US (2016–2021)**  
+Annual salary: $155,900  
+- Developed and implemented data models that reduced data processing time by 25%, supporting key business initiatives.  
+- Collaborated with cross-functional teams to optimize data pipelines, significantly improving data accuracy and reliability.  
+
+**Data Engineer, The San Francisco Compute Company, Bridgewater, NJ, US (2012–2016)**  
+Annual salary: $111,600  
+- Enhanced data extraction processes, leading to a 20% increase in data retrieval efficiency.  
+- Played a key role in the migration of legacy systems to cloud-based solutions, improving system scalability and performance.  
+
+**Data Engineer, Western & Southern Financial Group, Morris Plains, NJ, US (2007–2012)**  
+Annual salary: $93,800  
+- Designed and maintained data warehouse solutions, enabling improved data analytics capabilities for financial reporting.  
+- Automated data integration workflows, reducing manual processing time by 15%.  
+
+**Junior Software Engineer, Mastercard, Bedminster, NJ, US (2004–2007)**  
+Annual salary: $66,300  
+- Assisted in the development of payment processing software, contributing to a 10% increase in transaction speed.  
+- Collaborated with senior engineers to implement coding best practices, enhancing software quality and maintainability.

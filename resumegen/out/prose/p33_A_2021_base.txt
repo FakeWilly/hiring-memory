@@ -1,0 +1,38 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly organized and tech-savvy software engineer with over 17 years of experience in diverse engineering roles. Proven track record in developing innovative software solutions and leading engineering teams to success in high-pressure environments.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Northeastern University, 2004
+
+**Work History**  
+
+**Staff Software Engineer, Schneider Electric, Rochester, NY, USA (2019–Present)**  
+Annual salary: $199,000  
+- Spearheaded the development of a cutting-edge energy management system, enhancing efficiency by 30%.  
+- Led a team of 10 engineers in the successful deployment of a cloud-based application, increasing scalability and reducing operational costs.  
+
+**Staff Software Engineer, Disney Entertainment & ESPN Technology, Buffalo, NY (2017–2019)**  
+Annual salary: $183,100  
+- Designed and implemented a high-traffic streaming service infrastructure, resulting in a 25% improvement in user engagement.  
+- Collaborated with cross-functional teams to integrate AI-powered features, enhancing content personalization.  
+
+**Senior Software Engineer, Slesha, New York, NY, USA (2012–2017)**  
+Annual salary: $123,500  
+- Developed and maintained a large-scale e-commerce platform, which supported over 1 million daily transactions.  
+- Optimized backend processes, reducing load times by 15% and improving user experience.  
+
+**Software Engineer, Firefly Aerospace, Hartford, CT, US (2008–2012)**  
+Annual salary: $93,500  
+- Engineered mission-critical software for satellite communications, ensuring data integrity and reliability.  
+- Implemented automated testing procedures, reducing bug-related downtime by 20%.  
+
+**Junior Software Engineer, Disney Entertainment & ESPN Technology, Hackensack, NJ, US (2004–2008)**  
+Annual salary: $66,800  
+- Assisted in the development of interactive media applications, contributing to a 10% increase in digital engagement.  
+- Collaborated with senior engineers to enhance software quality and reliability through rigorous testing protocols.  
+
+**Interests**  
+Playing sports, crafting.

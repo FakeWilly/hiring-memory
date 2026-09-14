@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over 13 years of experience in developing and optimizing systems. Committed to delivering high-quality solutions with a strong focus on organization and efficiency.
+
+**Education**  
+Bachelor's Degree in Software Engineering, CUNY City College, 2009
+
+**Work History**
+
+**Junior Software Engineer, Zivaro, Andes, NY, US (2009–2013)**  
+Annual salary: $75,800  
+- Developed and maintained software solutions, contributing to a 20% increase in system efficiency.  
+- Collaborated with cross-functional teams to streamline processes, improving project turnaround time by 15%.
+
+**Systems Engineer, General Dynamics Information Technology, Princeton, NJ, US (2013–2018)**  
+Annual salary: $110,000  
+- Spearheaded the design and implementation of a new system architecture, resulting in a 25% reduction in operational costs.  
+- Enhanced system security protocols, reducing vulnerabilities by 30%.
+
+**Systems Engineer, siteline, East Newark, NJ, US (2018–2021)**  
+Annual salary: $132,100  
+- Led a team in the successful migration of legacy systems to cloud-based solutions, increasing scalability and reliability.  
+- Optimized database processes, which improved data retrieval speeds by 40%.
+
+**Systems Engineer, DCI Solutions, Syracuse, NY, US (2021–Present)**  
+Annual salary: $135,400  
+- Designed and executed a system upgrade project that increased processing speeds by 35%.  
+- Collaborated on a project to integrate AI solutions into existing systems, leading to enhanced decision-making capabilities.

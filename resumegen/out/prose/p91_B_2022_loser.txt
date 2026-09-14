@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing innovative software solutions. Known for punctuality and open communication, I excel in collaborative environments and am passionate about leveraging technology to solve complex problems.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Baruch College, 2009
+
+**Work History**  
+
+**Senior Software Engineer, Dennis Group Salt Lake City, Rochester, NY, US (2017–Present)**  
+Annual salary: $149,800  
+- Led a team of five engineers in developing a real-time data processing system, improving system efficiency by 30%.  
+- Spearheaded the migration to a cloud-based architecture, resulting in a 40% reduction in infrastructure costs.  
+- Mentored junior developers, enhancing team productivity and reducing onboarding time by 20%.
+
+**Software Engineer, Celonis, Rochester, NY, US (2012–2017)**  
+Annual salary: $96,700  
+- Developed and implemented a new software feature that increased user engagement by 25%.  
+- Collaborated with cross-functional teams to design and launch a successful mobile application.  
+- Improved system performance through code optimization, leading to a 15% reduction in load times.
+
+**Junior Software Engineer, Plexe LLC, Hackensack, NJ, US (2009–2012)**  
+Annual salary: $71,900  
+- Assisted in the development of an internal tool that streamlined workflow processes, increasing team efficiency by 20%.  
+- Conducted rigorous testing and debugging of software, ensuring quality and reliability.  
+- Participated in code reviews and contributed to various software development projects, gaining recognition for attention to detail.  
+
+---

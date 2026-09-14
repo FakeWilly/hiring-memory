@@ -1,0 +1,16 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a passion for problem-solving and a direct communication style. Experienced in developing robust software solutions and eager to contribute innovative ideas to a dynamic team in the New York metro area.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2017
+
+**Work History**  
+
+Junior Software Engineer, Etactics, Inc., White Plains, NY, US (2017–Present)  
+Annual salary: $81,600  
+- Collaborated with a team to develop and implement a new client management system, reducing manual processing time by 30%.  
+- Enhanced existing software features for improved user experience, leading to a 15% increase in customer satisfaction ratings.  
+- Assisted in debugging and maintenance of legacy systems, ensuring consistent and reliable software performance across platforms.

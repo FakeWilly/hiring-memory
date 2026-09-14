@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative solutions to complex problems. Known for a diplomatic communication style and a passion for puzzles, complemented by a strong background in electrical engineering.
+
+---
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2005  
+
+---
+
+**Work History**
+
+**Principal Software Engineer, OCLC, Andes, NY, US (2021–Present)**  
+Annual salary: $197,000  
+- Spearheaded the development of a scalable library management system, improving data retrieval efficiency by 30%.  
+- Mentored a team of 10+ engineers, fostering a collaborative environment that enhanced project delivery timelines.  
+
+**Staff Software Engineer, Intel Corporation, Astoria, NY (2017–2021)**  
+Annual salary: $192,200  
+- Collaborated on the design of a high-performance computing platform, resulting in a 25% increase in processing speed.  
+- Streamlined cross-departmental communication channels, reducing project bottlenecks and delays.  
+
+**Senior Software Engineer, Vaco, Rochester, NY, US (2014–2017)**  
+Annual salary: $155,800  
+- Led a project to modernize legacy systems, reducing maintenance costs by 40% annually.  
+- Implemented agile methodologies, accelerating the product development lifecycle by 20%.  
+
+**Software Engineer, Nexagen Networks Inc, East Syracuse, NY (2010–2014)**  
+Annual salary: $105,200  
+- Developed a robust network security solution that decreased vulnerability incidents by 50%.  
+- Enhanced system performance through critical codebase optimizations, increasing uptime reliability.  
+
+**Software Engineer, Concept Plus, Rensselaer, NY, US (2007–2010)**  
+Annual salary: $95,900  
+- Contributed to the development of an award-winning software application used in public sector projects.  
+- Collaborated with cross-functional teams to deliver user-centric software enhancements.  
+
+**Junior Software Engineer, AIR Communities, Newark, NJ, US (2005–2007)**  
+Annual salary: $69,700  
+- Assisted in the creation of scalable applications, laying a foundation for future software expansions.  
+- Participated actively in code reviews, improving code quality and project outcomes.

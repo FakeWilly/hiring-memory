@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over eight years of experience in designing, developing, and managing software solutions. Adept at leading cross-functional teams to deliver high-quality projects on time and within budget.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Northeastern University, 2014  
+
+**Work History**  
+
+**Senior Software Engineer**, Gartner, Groton, CT, US (2021–Present)  
+Annual salary: $115,100  
+- Spearheaded the development of a new analytics platform that improved data processing speed by 40%.  
+- Collaborated with product management to identify and implement new features, enhancing user satisfaction by 30%.  
+
+**Software Engineer**, UP Entertainment, Parsippany-Troy Hills, NJ, US (2019–2021)  
+Annual salary: $112,300  
+- Developed and maintained key components of a streaming service, contributing to a 20% increase in customer retention.  
+- Led a team of five in migrating legacy systems to a microservices architecture, reducing system downtime by 50%.  
+
+**Junior Software Engineer**, ASSYST, Inc., Jersey City, NJ (2014–2019)  
+Annual salary: $80,700  
+- Assisted in the design and implementation of a customer relationship management tool, leading to a 15% increase in sales efficiency.  
+- Developed automated testing procedures that decreased bug resolution time by 25%.

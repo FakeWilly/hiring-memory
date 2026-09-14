@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy infrastructure engineer with over 14 years of experience in designing and implementing robust IT solutions. Known for a humorous communication style and a knack for solving complex puzzles, I have consistently driven improvements and efficiency in every role.
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2008  
+
+**Work History**  
+
+**Principal Infrastructure Engineer, Betts Precision Inc, Morris Plains, NJ (2021–Present)**  
+Annual salary: $237,900  
+- Spearheaded the design and deployment of a new cloud-based infrastructure, reducing operational costs by 20%.  
+- Implemented a comprehensive monitoring system, improving system reliability and reducing downtime by 35%.
+
+**Staff Infrastructure Engineer, Atlassian, Hartford, CT (2020–2021)**  
+Annual salary: $212,400  
+- Led a team in migrating legacy systems to a more efficient cloud-based solution, enhancing scalability and security.  
+- Developed automation scripts that decreased system maintenance time by 40%.
+
+**Senior Infrastructure Engineer, Lucid Motors, Newark, NJ (2018–2020)**  
+Annual salary: $164,200  
+- Optimized server performance, leading to a 25% increase in processing speed.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing company-wide productivity.
+
+**Senior Infrastructure Engineer, Disney Streaming Technology LLC, Bedminster, NJ (2014–2018)**  
+Annual salary: $148,900  
+- Designed and implemented a scalable streaming platform, supporting the rapid growth of user traffic.  
+- Reduced latency by 30% through innovative network engineering and optimization techniques.
+
+**Infrastructure Engineer, reveleer, Bedminster, NJ (2010–2014)**  
+Annual salary: $108,200  
+- Developed and maintained secure infrastructure systems, ensuring compliance with industry regulations.  
+- Streamlined backup and recovery processes, reducing data recovery time by 50%.
+
+**Infrastructure Engineer, Scientific Games, Groton, CT (2008–2010)**  
+Annual salary: $101,400  
+- Engineered network solutions that increased data throughput and reduced bottlenecks.  
+- Implemented robust security measures, minimizing potential vulnerabilities and breaches.

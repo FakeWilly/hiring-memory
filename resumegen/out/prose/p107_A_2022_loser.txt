@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 15 years of experience in building and optimizing systems for diverse industries. Known for a collaborative spirit and a touch of humor, I thrive in team settings and excel in complex problem-solving.
+
+**Education**  
+Master's Degree in Computer Science, CUNY City College, 2007  
+
+**Work History**  
+
+Software Engineer, Catholic Health System, Old Westbury, NY (2007–2012)  
+Annual salary: $103,700  
+- Developed and maintained key components of the hospital's patient management system, improving processing speed by 30%.  
+- Streamlined data entry processes, reducing errors by 25% and enhancing user satisfaction.
+
+Senior Software Engineer, PerBlue, East Syracuse, NY (2012–2017)  
+Annual salary: $147,200  
+- Led a team in designing a scalable gaming platform, resulting in a 50% increase in user engagement.  
+- Implemented a robust API layer that improved system reliability and reduced downtime by 40%.
+
+Staff Software Engineer, Brock & Scott PLLC, Jersey City, NJ (2017–2020)  
+Annual salary: $212,500  
+- Architected a secure document management system, enhancing data protection and compliance.  
+- Spearheaded the migration to a cloud-based infrastructure, cutting operational costs by 20%.
+
+Staff Software Engineer, Orlando Utilities Commission, Melville, NY (2020–Present)  
+Annual salary: $250,400  
+- Overhauled the billing system, accelerating processing times by 45% and reducing operational bottlenecks.  
+- Championed the implementation of a customer-facing application, boosting user interactions by 60%.

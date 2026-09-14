@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in developing innovative solutions and optimizing software performance. Skilled at leading engineering teams and passionate about puzzle-solving and technology-driven problem-solving.
+
+**Education**  
+Associate's Degree in Electrical Engineering, Drexel University, 1999
+
+**Work History**
+
+Principal Software Engineer, Veeva Systems, Orchard Park, NY (2021–Present)  
+Annual salary: $163,600  
+- Spearheaded the development of a new data integration platform, increasing data processing efficiency by 35%.  
+- Mentored a team of 10 engineers, fostering a collaborative and innovative work environment.  
+
+Staff Software Engineer, Rebuy, Princeton, NJ, US (2019–2021)  
+Annual salary: $159,600  
+- Successfully transitioned legacy systems to cloud-based architecture, reducing operational costs by 20%.  
+- Implemented advanced security protocols, enhancing data protection measures company-wide.  
+
+Staff Software Engineer, BRIDGE, Hartford, CT (2013–2018)  
+Annual salary: $148,200  
+- Led the redesign of the core application architecture, resulting in a 50% reduction in load times.  
+- Collaborated with cross-functional teams to deploy a new feature that increased user engagement by 30%.  
+
+Senior Software Engineer, HashiCorp, Bridgewater, NJ, US (2009–2013)  
+Annual salary: $101,100  
+- Developed and optimized algorithms for cloud-based solutions, improving performance by 25%.  
+- Coordinated with product teams to launch a new service, achieving a 15% increase in market share.  
+
+Software Engineer, Sanders Industries Holdings, Kingston, NY, US (2003–2008)  
+Annual salary: $88,300  
+- Integrated cutting-edge tools into the development lifecycle, enhancing software reliability.  
+- Automated testing processes, reducing the defect rate by 40%.  
+
+Junior Software Engineer, AMMEGA, Binghamton, NY (1999–2003)  
+Annual salary: $63,300  
+- Assisted in the development of a key product feature, contributing to a 10% increase in sales.  
+- Streamlined codebases, reducing technical debt and improving maintainability.

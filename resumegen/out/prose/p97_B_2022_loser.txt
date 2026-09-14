@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in various roles, ranging from junior to senior positions. Known for punctuality and a reserved communication style, consistently delivering high-quality software solutions in diverse industries.
+
+**Education**  
+Associate's Degree in Statistics, CUNY City College, 1999  
+
+**Work History**  
+
+**Staff Software Engineer, Glow Networks, Groton, CT, US (2019–Present)**  
+Annual salary: $165,500  
+- Spearheaded the development of a new microservices architecture, reducing system response time by 30%.  
+- Mentored a team of 5 junior developers, leading to a 15% increase in code quality and a reduction in bug reports.  
+
+**Staff Software Engineer, Lowe's Home Improvement, Orchard Park, NY, US (2013–2018)**  
+Annual salary: $147,000  
+- Designed and implemented a scalable inventory management system, improving stock accuracy by 25%.  
+- Collaborated with cross-functional teams to enhance e-commerce platform, boosting online sales by 20%.  
+
+**Senior Software Engineer, Zayo Group, Bedminster, NJ, US (2009–2013)**  
+Annual salary: $100,900  
+- Led a team in migrating legacy systems to cloud-based infrastructure, resulting in a 40% cost reduction.  
+- Developed a robust API ecosystem, increasing third-party integrations by 50%.  
+
+**Software Engineer, Syncreon Consulting, Orchard Park, NY, US (2003–2008)**  
+Annual salary: $88,000  
+- Contributed to a major system overhaul, which improved application performance by 35%.  
+- Played a key role in enhancing system security, decreasing vulnerabilities by 20%.  
+
+**Junior Software Engineer, Info Image, Albany, NY, US (1999–2003)**  
+Annual salary: $62,600  
+- Assisted in the development of an internal tool that reduced data processing time by 40%.  
+- Supported the team in debugging and maintaining legacy systems, ensuring 99.9% uptime.

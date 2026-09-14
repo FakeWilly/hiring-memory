@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing and maintaining high-quality software solutions. Known for exceptional organization skills and a methodical approach to complex problem-solving, currently seeking to leverage expertise in software engineering roles within the New York metro area.
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2009
+
+**Work Experience**  
+
+**Senior Software Engineer, Watsco, Syracuse, NY, US (2017–Present)**  
+Annual salary: $146,300  
+- Led a team of six engineers in designing and implementing a new HVAC control system, improving energy efficiency by 15%.  
+- Spearheaded the integration of a cloud-based data analytics platform, enhancing data processing speed by 40%.  
+
+**Software Engineer, Bayer, Troy, NY, US (2012–2017)**  
+Annual salary: $96,000  
+- Developed a scalable inventory management system that reduced errors by 30% and improved stock tracking accuracy.  
+- Collaborated with cross-functional teams to launch a new product line, achieving a 25% increase in market share within the first year.  
+
+**Junior Software Engineer, Library Systems & Services LLC, Princeton, NJ, US (2009–2012)**  
+Annual salary: $70,800  
+- Assisted in the development of a digital library platform, contributing to a 20% increase in user engagement.  
+- Automated routine testing procedures, reducing testing time by 50% and increasing software reliability.

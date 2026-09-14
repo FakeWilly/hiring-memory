@@ -1,0 +1,43 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Tech-savvy Frontend Engineer with over a decade of experience in developing and optimizing web applications. Highly skilled in translating user needs into functional, intuitive interfaces while thriving in dynamic and collaborative environments.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2009
+
+**Work History**
+
+**Staff Frontend Engineer, MetLife, New York, NY, US (2021–Present)**  
+Annual salary: $210,700  
+- Spearheaded the redesign of the customer portal, increasing user engagement by 30%.  
+- Collaborated with cross-functional teams to implement scalable solutions, reducing page load times by 40%.
+
+**Senior Frontend Engineer, Kimley-Horn, East Newark, NJ, US (2020–2021)**  
+Annual salary: $188,100  
+- Led the development of a responsive design framework adopted company-wide.  
+- Optimized legacy code, enhancing application performance by 25%.
+
+**Frontend Engineer, Four Growers, Mount Laurel, NJ, US (2017–2020)**  
+Annual salary: $136,900  
+- Developed and maintained front-end components for a high-traffic e-commerce platform.  
+- Implemented A/B testing strategies that boosted conversion rates by 15%.
+
+**Frontend Engineer, SoFi, Hartford, CT, US (2014–2017)**  
+Annual salary: $119,400  
+- Designed user-friendly interfaces for financial tools, improving user satisfaction scores.  
+- Streamlined the software development process, cutting release times by 20%.
+
+**Frontend Engineer, Youtube, Bedminster, NJ, US (2011–2014)**  
+Annual salary: $111,100  
+- Collaborated on the development of new video streaming features, enhancing user experience.  
+- Assisted in the transition to a mobile-first design strategy.
+
+**Frontend Engineer, Novate Solutions Inc, Hartford, CT (2009–2011)**  
+Annual salary: $103,600  
+- Contributed to the launch of multiple client-facing web applications.  
+- Improved load times and user interface consistency across platforms.

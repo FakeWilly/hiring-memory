@@ -1,0 +1,34 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Innovative and tech-savvy software engineer with over a decade of experience developing and optimizing robust software solutions. Known for a humorous communication style and a strong ability to collaborate effectively in team settings.
+
+---
+
+**Education**  
+Master's Degree in Software Engineering, Stony Brook University, 2009
+
+---
+
+**Work History**
+
+**Senior Software Engineer, IPG Photonics, Parsippany-Troy Hills, NJ, US (2020–Present)**  
+Annual salary: $173,600  
+- Spearheaded the development of a high-performance application that increased data processing speeds by 35%.  
+- Streamlined deployment processes using containerization, resulting in a 20% reduction in release time.
+
+**Senior Software Engineer, KeyLogic Systems, Bridgewater, NJ, US (2015–2020)**  
+Annual salary: $147,400  
+- Led a team in designing a scalable microservices architecture, boosting system maintainability and uptime.  
+- Mentored junior developers, enhancing team productivity and fostering professional growth.
+
+**Software Engineer, Motive Companies, Morris Plains, NJ, US (2012–2015)**  
+Annual salary: $112,700  
+- Developed and implemented key features for a client management system, improving user engagement by 30%.  
+- Collaborated on cross-functional teams to integrate software solutions with external platforms seamlessly.
+
+**Software Engineer, iCatalyst, Troy, NY, US (2009–2012)**  
+Annual salary: $102,800  
+- Engineered a secure data encryption module, ensuring compliance with industry standards.  
+- Optimized existing codebase, resulting in a 25% increase in application efficiency.

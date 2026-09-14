@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing and optimizing software solutions. Known for a punctual and humorous approach to teamwork, consistently delivering high-quality code and innovative solutions to complex problems.
+
+**Work History**
+
+**Junior Software Engineer, Acuity Brands, Newark, NJ, US (2009–2014)**  
+Annual salary: $65,800  
+- Contributed to the development of lighting control software, improving system efficiency by 15%.  
+- Collaborated with cross-functional teams to integrate new features based on market demand.
+
+**Software Engineer, AXIANS, Mount Laurel, NJ, US (2014–2016)**  
+Annual salary: $100,400  
+- Led a team in the migration of legacy systems to cloud-based platforms, reducing operational costs by 20%.  
+- Developed custom software solutions that enhanced client satisfaction scores by 30%.
+
+**Senior Software Engineer, Zayo Group, Rochester, NY, USA (2016–2020)**  
+Annual salary: $101,400  
+- Designed and implemented scalable network solutions, increasing data throughput by 25%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.
+
+**Senior Software Engineer, Perr&Knight, Hartford, CT, US (2020–Present)**  
+Annual salary: $152,000  
+- Spearheaded the development of a proprietary analytics tool, boosting client data insights by 40%.  
+- Enhanced software deployment processes, reducing downtime by 35%.
+
+**Education**  
+Associate's Degree in Software Engineering, Penn State University, 2009

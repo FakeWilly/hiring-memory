@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with over a decade of experience in platform engineering, specializing in designing and optimizing scalable systems. Known for strong problem-solving skills and the ability to collaborate effectively in team environments to deliver high-quality solutions.
+
+**Education**  
+Master's Degree in Statistics, Rutgers University, 2008
+
+**Work History**  
+
+Platform Engineer, Acuity Brands, Hartford, CT, US (2021–Present)  
+Annual salary: $136,300  
+- Spearheaded the redesign of key platform components, improving system performance by 20%.  
+- Collaborated with cross-functional teams to implement innovative solutions that enhanced user experience.
+
+Platform Engineer, John Boos & Co., Albany, NY, US (2018–2021)  
+Annual salary: $133,000  
+- Developed and deployed a new platform feature that increased customer engagement by 15%.  
+- Led a team of engineers in a successful migration to a cloud-based infrastructure.
+
+Platform Engineer, Info Image, Parsippany-Troy Hills, NJ, US (2016–2018)  
+Annual salary: $115,600  
+- Optimized existing platform architecture, resulting in a 30% reduction in load time.  
+- Implemented robust security measures that reduced vulnerability incidents by 40%.
+
+Platform Engineer, Atlas Technologies, Inc, Binghamton, NY (2011–2015)  
+Annual salary: $124,300  
+- Played a key role in the development of a large-scale distributed system, increasing processing capacity by 50%.  
+- Enhanced system reliability through proactive monitoring and automated alert systems.
+
+Platform Engineer, Baxter, Warren, NJ, US (2008–2011)  
+Annual salary: $111,200  
+- Successfully integrated new software tools, reducing operational costs by 10%.  
+- Collaborated with developers to streamline deployment processes, significantly reducing downtime.

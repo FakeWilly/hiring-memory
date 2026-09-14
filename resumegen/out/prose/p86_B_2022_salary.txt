@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Strategic and detail-oriented Infrastructure Engineer with over a decade of experience in designing and managing robust infrastructure solutions. Proven expertise in optimizing systems for performance and reliability while maintaining cost efficiency in high-demand environments.
+
+**Education**  
+Master's Degree in Mathematics, Rutgers University, 2009
+
+**Work History**  
+
+Senior Infrastructure Engineer, Seven Hills Group Technologies Inc, Troy, NY, US (2021–Present)  
+Annual salary: $180,200  
+- Spearheaded the migration to a cloud-based infrastructure, improving system uptime by 30%.  
+- Implemented automated deployment processes, reducing release times by 40%.  
+
+Senior Infrastructure Engineer, SHB Technology, Inc, Whippany, NJ, US (2019–2021)  
+Annual salary: $160,900  
+- Led a team in the overhaul of network architecture, enhancing data security and reducing latency by 25%.  
+- Developed and integrated a scalable backup solution, ensuring data integrity and recovery.  
+
+Infrastructure Engineer, HelloGov, Princeton, NJ (2014–2019)  
+Annual salary: $131,100  
+- Streamlined infrastructure operations, cutting operational costs by 15% through strategic technology upgrades.  
+- Collaborated with cross-functional teams to deploy new systems, increasing efficiency and user satisfaction.  
+
+Infrastructure Engineer, Hallmark Marketing Company LLC, Hackensack, NJ, US (2012–2014)  
+Annual salary: $117,000  
+- Designed and implemented high-availability systems, reducing downtime by 20%.  
+- Conducted performance analysis leading to a 10% improvement in system throughput.  
+
+Infrastructure Engineer, Oracle, Troy, NY, US (2009–2012)  
+Annual salary: $98,400  
+- Contributed to network design improvements, achieving a 15% increase in network performance.  
+- Played a key role in server consolidation projects, optimizing resource utilization.

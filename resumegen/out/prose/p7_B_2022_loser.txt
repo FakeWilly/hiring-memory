@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with a decade of experience in developing innovative software solutions. Proven track record of working collaboratively in dynamic environments to deliver high-quality products that drive efficiency and user satisfaction.
+
+**Education**  
+Bachelor's Degree in Information Systems, Stony Brook University, 2012
+
+**Work History**  
+
+Junior Software Engineer, TomTom, Buffalo, NY (2019–Present)  
+Annual salary: $100,700  
+- Spearheaded the development of a key navigation feature that improved user experience and increased customer retention by 15%.  
+- Actively collaborated with cross-functional teams to optimize existing code, reducing system latency by 25%.  
+
+Junior Software Engineer, Alethea Communications Technologies, Binghamton, NY (2015–2019)  
+Annual salary: $86,700  
+- Designed and implemented a scalable communication protocol that enhanced system performance, resulting in a 30% increase in data throughput.  
+- Played a vital role in transitioning legacy systems to modern platforms, streamlining operations and reducing maintenance costs by 20%.  
+
+Junior Software Engineer, iRhythm Technologies, Warren, NJ, US (2012–2015)  
+Annual salary: $74,400  
+- Contributed to the development of a diagnostic tool that improved patient monitoring accuracy by 10%.  
+- Collaborated with senior engineers to integrate new software modules, enhancing functionality and meeting project deadlines efficiently.

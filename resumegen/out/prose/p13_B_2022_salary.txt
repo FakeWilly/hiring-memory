@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over a decade of expertise in developing robust software solutions, particularly for the financial and healthcare sectors. Known for an open communication style and a deep, tech-savvy understanding of modern software engineering practices.  
+
+**Education**  
+Master's Degree in Mathematics, Baruch College, 2011  
+
+**Work History**  
+
+Software Engineer, 2HB Incorporated, Mahwah, NJ (2011–2013)  
+Annual salary: $107,400  
+- Developed and maintained high-performance software applications, contributing to a 20% increase in operational efficiency.  
+- Collaborated with cross-functional teams to enhance system reliability and reduce downtime by 15%.  
+
+Software Engineer, Sumitomo Mitsui Banking Corporation, Orchard Park, NY (2013–2018)  
+Annual salary: $121,400  
+- Spearheaded the implementation of a new transaction processing system, reducing processing time by 30%.  
+- Enhanced security protocols for financial software systems, leading to a 25% decrease in security incidents.  
+
+Senior Software Engineer, Metagenics, Buffalo, NY (2018–2021)  
+Annual salary: $157,500  
+- Led a team of engineers in the development of a scalable healthcare application, improving patient data management by 40%.  
+- Implemented agile practices across development teams, resulting in a 50% improvement in project delivery timelines.  
+
+Senior Software Engineer, Projex Plus Solutions, Inc, Binghamton, NY (2021–Present)  
+Annual salary: $176,400  
+- Architected microservices infrastructure, enhancing system resilience and scalability by 35%.  
+- Pioneered the adoption of cloud-based technologies, reducing infrastructure costs by 20%.

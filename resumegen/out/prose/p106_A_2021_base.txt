@@ -1,0 +1,23 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with a strong foundation in statistics and a passion for problem-solving. Possesses excellent communication skills and a talent for collaborating in diverse teams to deliver innovative software solutions.
+
+---
+
+**Work History**
+
+Junior Software Engineer, IT Customer Service - POST, Groton, CT (2017–Present)  
+Annual salary: $93,400  
+- Developed and maintained customer service software solutions that improved service efficiency by 20%.  
+- Collaborated with cross-functional teams to design and implement new features, enhancing user satisfaction and receiving positive feedback from stakeholders.  
+- Streamlined the bug tracking process, reducing average resolution time by 15%.
+
+---
+
+**Education**  
+Bachelor's Degree in Statistics, Stony Brook University, 2017

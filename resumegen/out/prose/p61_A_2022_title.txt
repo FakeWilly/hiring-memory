@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy Software Engineer with over a decade of experience in software development and automation. Passionate about delivering efficient, scalable solutions and known for a humorous communication style that enhances team collaboration.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Penn State University, 2010
+
+**Work History**  
+
+Software Engineer, Tensec, New York, NY, USA (2021–Present)  
+Annual salary: $88,700  
+- Developed and implemented key features for a high-traffic web application, improving user engagement by 20%.  
+- Collaborated with cross-functional teams to reduce system downtimes by 35% through improved code efficiency.  
+
+Junior Software Engineer, Grey Matters Defense Solutions, Whippany, NJ, US (2018–2021)  
+Annual salary: $86,500  
+- Assisted in the creation of a defense-grade software tool, leading to a 15% increase in project delivery speed.  
+- Streamlined software testing processes, reducing bug fix times by 25%.  
+
+Junior Software Engineer, UiPath, Whippany, NJ, US (2015–2018)  
+Annual salary: $83,000  
+- Developed automation scripts that decreased manual task time by 40%.  
+- Played a key role in upgrading a legacy system, resulting in a 30% performance improvement.  
+
+Junior Software Engineer, Plexe LLC, Mount Laurel, NJ, US (2010–2015)  
+Annual salary: $71,700  
+- Contributed to the design and development of a mobile application, increasing company revenue by 10%.  
+- Implemented new data handling procedures that improved data processing speed by 15%.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Tech-savvy software engineer with a strong foundation in frontend development and a passion for solving complex problems. Experienced in delivering robust and scalable solutions, with a keen interest in enhancing user experience through innovative design.
+
+**EDUCATION**  
+Bachelor's Degree in Statistics, University of Connecticut, 2008
+
+**WORK EXPERIENCE**
+
+**Senior Frontend Engineer, Ultimate Technologies Group, Orchard Park, NY, US (2021–Present)**  
+Annual salary: $104,900  
+- Led a team to develop and launch a new client-facing web application, improving user engagement by 30%.  
+- Optimized website performance, reducing load times by 40% through code refactoring and implementing best practices.
+
+**Frontend Engineer, M&T Bank, Rensselaer, NY, US (2018–2021)**  
+Annual salary: $102,300  
+- Collaborated with cross-functional teams to design and implement a responsive mobile banking application.  
+- Spearheaded the transition to a new frontend framework, reducing maintenance overhead by 20%.
+
+**Junior Software Engineer, Cognizant Technology Solutions, Binghamton, NY (2016–2018)**  
+Annual salary: $73,200  
+- Contributed to the successful migration of legacy systems to modern architectures.  
+- Assisted in the development of reusable components, enhancing team productivity by 15%.
+
+**Junior Software Engineer, Hyun LLC, Old Westbury, NY (2010–2015)**  
+Annual salary: $75,600  
+- Played a key role in the development of internal tools that streamlined data processing, cutting down task time by 25%.  
+- Participated in code reviews to improve code quality and maintainability across projects.
+
+**Junior Software Engineer, Comcast, Bedminster, NJ, US (2008–2010)**  
+Annual salary: $72,800  
+- Developed software solutions that improved customer support efficiency by 20%.  
+- Assisted in the implementation of new features that enhanced user experience for over 1 million customers.

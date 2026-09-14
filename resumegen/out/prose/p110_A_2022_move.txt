@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in developing reliable and efficient software solutions. Punctual and tech-savvy professional with a proven track record in contributing to team success through innovative problem-solving and attention to detail.
+
+**Education**  
+Master's Degree in Software Engineering, CUNY City College, 2005  
+
+**Work History**  
+
+**Senior Software Engineer, U.S. Bank, Rochester, NY, US (2021–Present)**  
+Annual salary: $135,200  
+- Spearheaded the development of a new transaction processing system, reducing processing time by 30%.  
+- Collaborated with cross-functional teams to enhance security features, resulting in a 50% decrease in unauthorized access incidents.  
+
+**Senior Software Engineer, Raytheon, Hackensack, NJ, US (2019–2021)**  
+Annual salary: $131,900  
+- Led the redesign of a critical defense application, improving system resilience and reducing downtime by 40%.  
+- Mentored junior engineers, improving team productivity and morale through effective leadership and knowledge sharing.  
+
+**Software Engineer, xAI, Newark, NJ, US (2016–2019)**  
+Annual salary: $93,600  
+- Developed machine learning algorithms that increased data processing accuracy by 25%.  
+- Collaborated on a team to integrate AI solutions that enhanced customer engagement by 15%.  
+
+**Software Engineer, bastion technologies, Hackensack, NJ, US (2011–2015)**  
+Annual salary: $93,700  
+- Played a key role in the development of a scalable cloud infrastructure supporting a 20% increase in client adoption.  
+- Optimized existing software systems, resulting in a 10% boost in operational efficiency.  
+
+**Software Engineer, Clear Street, Jersey City, NJ, US (2009–2011)**  
+Annual salary: $89,000  
+- Designed and implemented a secure payment processing module, reducing transaction errors by 20%.  
+- Collaborated with the QA team to improve software testing protocols, increasing bug detection rate by 30%.  
+
+**Software Engineer, Uplist, LLC, Buffalo, NY (2005–2009)**  
+Annual salary: $78,400  
+- Developed a user-friendly interface for a major web application, enhancing customer satisfaction scores by 15%.  
+- Implemented a robust data encryption protocol, safeguarding sensitive information and reducing security breaches by 35%.

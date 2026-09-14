@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with a bachelor's degree in Statistics and a passion for developing innovative solutions. Experienced in collaborating across teams to enhance user experience and optimize system performance.
+
+**Education**  
+Bachelor's Degree in Statistics, Rochester Institute of Technology, 2012
+
+**Work Experience**
+
+**Systems Engineer, WEX Inc., Kingston, NY (2021–Present)**  
+Annual salary: $96,200  
+- Spearheaded the integration of new software systems, improving operational efficiency by 20%.  
+- Collaborated with cross-functional teams to design and implement scalable solutions for customer needs.
+
+**Junior Software Engineer, Disney Experiences, East Syracuse, NY (2019–2021)**  
+Annual salary: $85,900  
+- Developed and maintained software applications that enhanced user engagement by 30%.  
+- Assisted in the migration of legacy systems to modern architectures.
+
+**Junior Software Engineer, ITR, Mahwah, NJ (2015–2019)**  
+Annual salary: $77,100  
+- Contributed to the development of data-driven applications, reducing processing time by 15%.  
+- Implemented debugging processes that decreased system downtime by 25%.
+
+**Junior Software Engineer, DocuSign, Bridgewater, NJ (2012–2014)**  
+Annual salary: $79,200  
+- Participated in the development of e-signature solutions, increasing client satisfaction scores by 18%.  
+- Engaged in code optimization projects that improved system speed by 10%.

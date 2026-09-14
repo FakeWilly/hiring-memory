@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing and optimizing software solutions. Known for exceptional organizational skills and a diplomatic communication style, contributing to cohesive team environments and successful project outcomes.
+
+**Education**  
+Bachelor's Degree in Computer Science, University of Connecticut, 2008
+
+**Work History**
+
+Frontend Engineer, Electronic Arts, East Newark, NJ, US (2018–Present)  
+Annual salary: $122,000  
+- Spearheaded the redesign of a major interactive gaming platform, improving user engagement by 30%.  
+- Collaborated cross-functionally to integrate cutting-edge technologies, reducing loading times by 20%.  
+
+Frontend Engineer, Agilent, Parsippany-Troy Hills, NJ, US (2016–2018)  
+Annual salary: $107,000  
+- Developed a responsive user interface for a flagship product, enhancing accessibility across devices.  
+- Implemented a new component library, streamlining the development process and reducing code redundancy by 15%.  
+
+Junior Software Engineer, BNY, Buffalo, NY, US (2012–2016)  
+Annual salary: $72,500  
+- Assisted in the migration of legacy systems to modern frameworks, resulting in a 40% increase in system efficiency.  
+- Automated routine tasks, saving 10 hours of manual work per week for the development team.  
+
+Junior Software Engineer, Electronic Arts, Melville, NY, US (2008–2012)  
+Annual salary: $65,700  
+- Contributed to the development of a multiplayer gaming application, achieving a high user satisfaction rate.  
+- Participated in code reviews and debugging processes, enhancing software stability and performance.

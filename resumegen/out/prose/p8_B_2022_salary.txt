@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and organized software engineer with over 14 years of experience in developing and optimizing software solutions within fast-paced environments. Demonstrates a tech-savvy approach with a humorous communication style, contributing to an engaging and productive workplace.
+
+**Education**  
+Master's Degree in Statistics, Stony Brook University, 2008  
+
+**Work History**  
+
+Software Engineer, BLN24, Albany, NY, US (2021–Present)  
+Annual salary: $146,300
+- Spearheaded the development of a new client management system that increased customer satisfaction scores by 25%.
+- Led a team of developers to successfully migrate a legacy system to a modern architecture, reducing system downtime by 30%.
+
+Software Engineer, Cheetah, an Accutech company, White Plains, NY, US (2020–2021)  
+Annual salary: $130,600
+- Developed a predictive analytics tool that improved decision-making efficiency by 20%.
+- Collaborated with cross-functional teams to enhance software performance, resulting in a 15% increase in processing speed.
+
+Software Engineer, Info Image, New York, NY (2017–2020)  
+Annual salary: $120,500
+- Implemented a new data integration platform, improving data accessibility and reducing data retrieval time by 40%.
+- Optimized existing software applications, leading to a reduction in bug-related incidents by 25%.
+
+Software Engineer, Stier Solutions, Hackensack, NJ, US (2012–2017)  
+Annual salary: $102,900
+- Designed and developed web applications that increased user engagement by 30%.
+- Automated reporting processes, saving over 100 hours of manual work per month.
+
+Software Engineer, The Cigna Group, Buffalo, NY, US (2008–2012)  
+Annual salary: $84,700
+- Contributed to the development of a claims processing system that reduced processing time by 20%.
+- Enhanced software functionality based on client feedback, leading to a 15% increase in client satisfaction.

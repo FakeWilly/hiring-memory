@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a decade of experience in developing and maintaining robust infrastructure solutions. Adept at working in fast-paced environments, with a proven track record of improving system efficiency and reliability.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Drexel University, 2012  
+
+**Work History**  
+
+Junior Software Engineer, Binti, Astoria, NY (2012–2014)  
+Annual salary: $76,100  
+- Contributed to the development of front-end features, enhancing user experience and increasing user engagement by 15%.  
+- Collaborated with cross-functional teams to streamline code, reducing system errors by 20%.  
+
+Junior Software Engineer, Incept Data Solutions, Inc, New York, NY (2014–2018)  
+Annual salary: $81,000  
+- Implemented new software solutions that improved data processing speed by 25%.  
+- Assisted in the integration of third-party APIs, expanding the system's capabilities and client offerings.  
+
+Infrastructure Engineer, Acuity Brands, Warren, NJ, US (2018–2021)  
+Annual salary: $105,200  
+- Led the overhaul of the company's server infrastructure, resulting in a 30% reduction in downtime.  
+- Developed automated solutions for routine maintenance tasks, enhancing operational efficiency by 40%.  
+
+Infrastructure Engineer, Magic AI, Jersey City, NJ (2021–Present)  
+Annual salary: $107,800  
+- Spearheaded the transition to a cloud-based infrastructure, achieving a seamless migration with zero data loss.  
+- Optimized network configurations, leading to a 20% increase in data throughput and system performance.

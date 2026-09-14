@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+A highly experienced software engineer with over two decades in the tech industry, known for a direct communication style and ability to lead and innovate in complex projects. A social and tech-savvy professional who enjoys collaborating in dynamic environments to deliver cutting-edge solutions.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Drexel University, 2001
+
+**Work History**
+
+**Staff Software Engineer, HighNote, White Plains, NY, US (2018–Present)**  
+Annual salary: $207,600  
+- Led the development of a new payment processing system, reducing transaction times by 30%.
+- Collaborated with cross-functional teams to integrate AI-driven analytics, enhancing product performance by 25%.
+
+**Staff Software Engineer, Ariana Solutions, Andes, NY, US (2015–2018)**  
+Annual salary: $180,700  
+- Spearheaded the design of a cloud-based infrastructure, resulting in a 40% increase in system scalability.
+- Improved application security protocols, decreasing vulnerability incidents by 50%.
+
+**Staff Software Engineer, POLARIS Laboratories, Syracuse, NY, US (2013–2015)**  
+Annual salary: $167,400  
+- Developed a predictive maintenance platform that reduced equipment downtime by 35%.
+- Enhanced software deployment processes, cutting down release cycles by 20%.
+
+**Staff Software Engineer, Kamstrup, Orchard Park, NY, US (2011–2013)**  
+Annual salary: $120,500  
+- Optimized data processing algorithms, increasing efficiency by 45%.
+- Managed a team of developers, improving project delivery times by 15%.
+
+**Senior Software Engineer, TensorWave, East Syracuse, NY (2009–2011)**  
+Annual salary: $121,700  
+- Led migration to a microservices architecture, improving system reliability and flexibility.
+- Mentored junior engineers, fostering a collaborative and innovative team environment.
+
+**Software Engineer, Vickers & Nolan Enterprises, Jersey City, NJ, US (2006–2009)**  
+Annual salary: $88,700  
+- Developed a high-performance database system, improving data retrieval speeds by 60%.
+- Implemented a new coding standard that enhanced code maintainability across projects.
+
+**Junior Software Engineer, RQ Construction, Buffalo, NY, US (2001–2006)**  
+Annual salary: $57,900  
+- Contributed to the design and deployment of a customer management system.
+- Assisted in upgrading legacy systems, improving overall functionality and user experience.

@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in backend development and a proven track record of delivering robust and scalable solutions. Highly organized and tech-savvy, adept at working collaboratively in dynamic environments to drive innovative projects forward.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rutgers University, 2005
+
+**Work History**
+
+**Staff Backend Engineer, Truenorth Corporation, East Syracuse, NY (2021–Present)**  
+Annual salary: $180,300  
+- Spearheaded the development of a new microservices architecture, reducing system downtime by 30%.  
+- Implemented advanced caching strategies that improved response times by 20%.
+
+**Senior Backend Engineer, Dezign Concepts LLC, East Newark, NJ, US (2019–2021)**  
+Annual salary: $161,000  
+- Designed and optimized database schemas, resulting in a 25% increase in query performance.  
+- Led a team to integrate third-party APIs, enhancing platform capabilities and user engagement.
+
+**Senior Backend Engineer, Early Warning Services, Mahwah, NJ (2015–2019)**  
+Annual salary: $140,400  
+- Developed a real-time fraud detection system, decreasing fraudulent transactions by 40%.  
+- Collaborated with cross-functional teams to launch new features, increasing customer satisfaction scores by 15%.
+
+**Senior Backend Engineer, Nextmove Technologies, LLC, Mount Laurel, NJ, US (2013–2015)**  
+Annual salary: $126,200  
+- Implemented automated testing frameworks, reducing bug-related delays by 35%.  
+- Optimized server-side components, resulting in a 50% reduction in server costs.
+
+**Senior Backend Engineer, TapHere Technology, LLC, Hartford, CT (2010–2013)**  
+Annual salary: $115,600  
+- Developed scalable backend services, supporting a 5x increase in user base.  
+- Pioneered the integration of cloud services, enhancing system redundancy and uptime.
+
+**Backend Engineer, Atriano LLC, New York, NY, US (2007–2010)**  
+Annual salary: $87,100  
+- Contributed to the development of a high-load data processing application, improving data throughput by 40%.  
+- Assisted in the migration to a new tech stack, ensuring a seamless transition with zero downtime.
+
+**Junior Software Engineer, Scanogen Inc., Warren, NJ, US (2005–2007)**  
+Annual salary: $63,300  
+- Supported senior engineers in coding and debugging, contributing to a key product release.  
+- Automated routine testing processes, reducing manual testing efforts by 20%.

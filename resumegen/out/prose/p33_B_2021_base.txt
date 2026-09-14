@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of progressive experience in developing innovative software solutions. Adept at collaborating with cross-functional teams to drive complex projects to completion and enhance system performance.  
+
+**Education**  
+Associate's Degree in Computer Science, University of Connecticut, 2004  
+
+**Work History**  
+
+**Staff Software Engineer, Hasbro, Inc., Old Westbury, NY (2019–Present)**  
+Annual salary: $200,500  
+- Spearheaded the development of a new gaming platform, enhancing user engagement by 30%.  
+- Optimized legacy codebase, reducing system downtime by 20% and improving response times.  
+
+**Staff Software Engineer, Verite Group, Inc., Hartford, CT (2017–2019)**  
+Annual salary: $185,500  
+- Led a team to integrate AI capabilities into the core product suite, increasing sales by 15%.  
+- Implemented a secure coding initiative, decreasing security vulnerabilities by 40%.  
+
+**Senior Software Engineer, Penske Truck Leasing, Melville, NY (2012–2017)**  
+Annual salary: $122,200  
+- Developed a comprehensive fleet management system, improving operational efficiency by 25%.  
+- Collaborated with stakeholders to modernize software architecture, supporting scalable growth.  
+
+**Software Engineer, Quantum Systems Inc, Kingston, NY (2008–2012)**  
+Annual salary: $93,500  
+- Engineered a data analytics platform used to optimize client operations, saving $500K annually.  
+- Played a key role in migrating legacy applications to cloud infrastructure, enhancing reliability.  
+
+**Junior Software Engineer, Magic AI, Hackensack, NJ (2004–2008)**  
+Annual salary: $67,100  
+- Assisted in developing AI-driven solutions, contributing to a 20% increase in client satisfaction.  
+- Enhanced application features as part of a team, reducing bug-related complaints by 15%.

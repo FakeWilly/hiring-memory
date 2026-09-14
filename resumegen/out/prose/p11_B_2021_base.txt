@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Experienced software engineer with a Master's Degree in Electrical Engineering and over a decade of expertise in developing and optimizing software solutions. Known for a collaborative approach and ability to deliver complex projects efficiently, leveraging strong communication skills and a passion for technology.
+
+**Education**  
+Master's Degree in Electrical Engineering, Rutgers University, 2007
+
+**Work History**
+
+**Senior Software Engineer, Accenture, Hartford, CT (2019–Present)**  
+Annual salary: $143,500  
+- Spearheaded the development of a scalable cloud-based application, reducing server costs by 15%.  
+- Led a team of five engineers to successfully implement Agile methodologies, increasing project delivery speed by 25%.
+
+**Software Engineer, UL Solutions, Newark, NJ (2014–2019)**  
+Annual salary: $103,800  
+- Designed and implemented a data processing pipeline that improved system performance by 30%.  
+- Collaborated with cross-functional teams to enhance system security, resulting in a 40% reduction in security breaches.
+
+**Software Engineer, TecNiq Inc, Groton, CT, US (2009–2014)**  
+Annual salary: $89,900  
+- Developed a web application that improved customer engagement by 20%.  
+- Optimized legacy code, leading to a 25% increase in application responsiveness.
+
+**Software Engineer, SDI Innovations, Warren, NJ, US (2007–2009)**  
+Annual salary: $81,600  
+- Contributed to the development of a software tool that streamlined internal processes, saving 10 hours of work per week.  
+- Participated in the full software development lifecycle, delivering projects on time and within budget.

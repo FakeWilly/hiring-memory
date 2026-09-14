@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated and highly organized software engineer with nearly two decades of experience in frontend development. Known for a humorous communication style and a passion for technology, I excel in creating intuitive and dynamic user interfaces across various industries.
+
+**Education**  
+Master's Degree in Software Engineering, Penn State University, 2003
+
+**Work History**  
+
+**Senior Frontend Engineer, Gurobi Optimization, Princeton, NJ (2021–Present)**  
+Annual salary: $153,700  
+- Spearheaded the redesign of the company’s main web application, improving user engagement by 30%.  
+- Implemented a component library that reduced development time for new features by 40%.  
+
+**Senior Frontend Engineer, University of Wisconsin–Madison, Jersey City, NJ, US (2020–2021)**  
+Annual salary: $137,200  
+- Developed responsive web solutions for educational platforms, enhancing accessibility for over 10,000 users.  
+- Led a team to integrate a new UI framework, resulting in a 20% increase in page load speed.
+
+**Senior Frontend Engineer, City of Wildwood, East Syracuse, NY (2018–2020)**  
+Annual salary: $125,100  
+- Streamlined the city’s online services portal, increasing user satisfaction scores by 25%.  
+- Automated frontend testing procedures, reducing manual testing time by 50%.
+
+**Frontend Engineer, Palmer Group, Albany, NY, US (2014–2018)**  
+Annual salary: $111,300  
+- Designed and implemented a new layout for the company’s e-commerce platform, boosting conversion rates by 15%.  
+- Collaborated with backend teams to enhance API integration, improving data retrieval times by 35%.
+
+**Frontend Engineer, Rippling, Groton, CT, US (2009–2014)**  
+Annual salary: $97,900  
+- Built and maintained user-friendly web applications, resulting in a 20% increase in customer retention.  
+- Optimized existing codebase, reducing page load times by 50%.
+
+**Frontend Engineer, CubX Inc, New York, NY (2007–2009)**  
+Annual salary: $89,500  
+- Developed interactive UI components that enhanced user interaction and satisfaction.  
+- Participated in cross-functional team projects, contributing to a 10% increase in overall service efficiency.
+
+**Frontend Engineer, American Technical Services, Andes, NY, US (2003–2007)**  
+Annual salary: $78,100  
+- Contributed to the development of a scalable web architecture that supported a 200% growth in user base.  
+- Introduced new coding standards, improving team productivity by 20%.

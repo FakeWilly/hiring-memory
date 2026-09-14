@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Results-driven software engineer with nearly two decades of experience in designing and implementing innovative software solutions. Known for direct communication and a strong ability to collaborate in dynamic, fast-paced environments.
+
+**Education**  
+Master's Degree in Software Engineering, Baruch College, 2003  
+
+**Work History**  
+
+**Principal Software Engineer, CD PROJEKT RED, Morris Plains, NJ, US (2021–Present)**  
+Annual salary: $206,100  
+- Spearheaded the development of a new gaming platform, enhancing user engagement by 40%.  
+- Implemented process improvements that reduced code deployment time by 20%.  
+
+**Staff Software Engineer, Dataminr, Inc., Rensselaer, NY, US (2020–2021)**  
+Annual salary: $201,100  
+- Optimized real-time alerting algorithms, increasing accuracy by 15%.  
+- Led a team to develop a critical data processing module, improving system performance by 30%.  
+
+**Staff Software Engineer, LEIDOS, INC., Rochester, NY, US (2016–2020)**  
+Annual salary: $169,400  
+- Developed scalable software solutions for defense applications, leading to a $2M contract renewal.  
+- Collaborated with cross-functional teams to integrate advanced security features.  
+
+**Staff Software Engineer, Novate Solutions Inc, New York, NY (2014–2016)**  
+Annual salary: $170,200  
+- Designed and launched a cloud-based application suite, reducing overhead costs by 25%.  
+- Streamlined CI/CD processes, resulting in a 50% reduction in deployment errors.  
+
+**Senior Software Engineer, Clayton Careers, Hackensack, NJ, US (2010–2014)**  
+Annual salary: $126,500  
+- Led the development of a flagship product that increased company revenue by 35%.  
+- Mentored junior developers, fostering a culture of continuous learning and innovation.  
+
+**Software Engineer, State of North Carolina, Hartford, CT, US (2006–2010)**  
+Annual salary: $86,600  
+- Implemented a statewide software upgrade, improving system efficiency by 25%.  
+- Collaborated with stakeholders to design user-friendly interfaces for new applications.  
+
+**Software Engineer, Numerica Corporation, Rensselaer, NY, US (2003–2006)**  
+Annual salary: $83,400  
+- Contributed to the development of a data analytics tool that reduced analysis time by 40%.  
+- Improved system reliability and performance through targeted code refactoring.

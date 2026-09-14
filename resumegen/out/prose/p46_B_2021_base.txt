@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Driven and tech-savvy software engineer with over 14 years of experience in developing innovative solutions in diverse environments. Adept at solving complex problems and enhancing system performance through keen attention to detail and passion for cutting-edge technology.
+
+**Education**  
+Bachelor's Degree in Information Systems, Stony Brook University, 2007
+
+**Work History**  
+
+**Junior Software Engineer, Genentech, Inc., Hartford, CT (2007–2009)**  
+Annual salary: $67,600  
+- Assisted in the enhancement of internal software tools, reducing processing time by 15%.  
+- Collaborated with senior engineers to implement robust coding practices, improving code quality and maintainability.
+
+**Software Engineer, emarsys eMarketing Systems, Melville, NY, US (2009–2014)**  
+Annual salary: $93,500  
+- Developed and optimized email marketing software, increasing customer engagement rates by 25%.  
+- Spearheaded the transition to a new CRM system, improving data accuracy and accessibility for the marketing team.
+
+**Software Engineer, Smart Capital Center, Hartford, CT (2014–2019)**  
+Annual salary: $110,300  
+- Designed and deployed scalable web applications, enhancing user experience and system efficiency by 30%.  
+- Led a team of engineers in a successful project that reduced operational costs by 20%.
+
+**Software Engineer, Oncore Electric, Mahwah, NJ (2019–Present)**  
+Annual salary: $129,200  
+- Implemented advanced software solutions to support smart grid technologies, improving grid reliability and efficiency.  
+- Collaborated with cross-functional teams to integrate new features, enhancing customer satisfaction and system functionality.

@@ -1,0 +1,7 @@
+contrast,x,y,pairs,mu_x,mu_y,diff,se,t,p
+H3 redact salary vs full,neutral|no_salary|both,neutral|full|both,20,0.32499999999999996,0.5,-0.175,0.05471216549024155,-3.1985573671218144,0.004729458789911816
+H3 instruct vs full,ignore_comp|full|both,neutral|full|both,20,0.32499999999999996,0.5,-0.175,0.05471216549024155,-3.1985573671218144,0.004729458789911816
+H3 REDACTION vs INSTRUCTION,neutral|no_salary|both,ignore_comp|full|both,20,0.32499999999999996,0.32499999999999996,0.0,0.03627381250550058,0.0,1.0
+H4 rubric vs neutral,rubric|full|both,neutral|full|both,20,0.5,0.5,0.0,0.0,,
+H4 reason vs neutral,reason|full|both,neutral|full|both,20,0.44999999999999996,0.5,-0.05,0.034412360080584264,-1.4529663145135578,0.16254999902972705
+H5 tie-allowed vs neutral,tie_allowed|full|both,neutral|full|both,20,0.5,0.5,0.0,0.0,,

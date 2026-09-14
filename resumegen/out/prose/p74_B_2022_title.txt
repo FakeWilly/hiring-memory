@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy and highly organized software engineer with extensive experience in data engineering roles across diverse industries. Known for a humorous communication style and a passion for delivering innovative and efficient solutions, I thrive in dynamic environments and excel in developing data-driven strategies to enhance business outcomes.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2005
+
+**Work History**
+
+**Junior Software Engineer, Wolfjaw Studios, Astoria, NY (2005–2007)**  
+Annual salary: $61,500  
+- Contributed to the development of key software features, improving user engagement by 15%.  
+- Collaborated with a team to streamline codebase, reducing deployment time by 20%.
+
+**Data Engineer, RLI, Troy, NY, US (2007–2010)**  
+Annual salary: $85,500  
+- Developed and maintained ETL processes that increased data processing efficiency by 30%.  
+- Implemented data validation protocols, reducing errors in data reports by 25%.
+
+**Data Engineer, Dr. Bronner's, Hartford, CT (2010–2013)**  
+Annual salary: $94,000  
+- Spearheaded a project that optimized data storage, resulting in a 40% cost reduction.  
+- Enhanced data pipelines to support real-time analytics, improving decision-making capabilities.
+
+**Data Engineer, DPA Consultant, Orchard Park, NY, US (2013–2017)**  
+Annual salary: $97,000  
+- Designed scalable data architecture solutions, accommodating a 50% increase in data volume.  
+- Automated data integration tasks, reducing manual workload by 35%.
+
+**Data Engineer, Diversified Services Network, Princeton, NJ (2017–2019)**  
+Annual salary: $107,200  
+- Led a team to integrate machine learning models, boosting predictive accuracy by 18%.  
+- Improved database performance, decreasing query response time by 40%.
+
+**Senior Data Engineer, Omitron, Inc., Syracuse, NY, US (2019–2021)**  
+Annual salary: $139,300  
+- Directed the migration to a cloud-based data platform, enhancing scalability and flexibility.  
+- Implemented advanced data security measures, safeguarding against potential breaches.
+
+**Staff Data Engineer, Schneider Electric, Groton, CT, US (2021–Present)**  
+Annual salary: $142,800  
+- Architected a unified data framework, streamlining cross-departmental data access.  
+- Pioneered the deployment of AI-driven analytics tools, increasing operational efficiency by 25%.

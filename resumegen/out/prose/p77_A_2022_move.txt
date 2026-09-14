@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated and highly organized software engineer with over a decade of experience specializing in platform engineering. Adept at optimizing complex systems and developing innovative solutions to enhance performance and user experience.
+
+**Education**  
+Master's Degree in Computer Science, Stony Brook University, 2009
+
+**Work History**
+
+Platform Engineer, Centil, Hartford, CT, US (2009–2014)  
+Annual salary: $110,100  
+- Developed and maintained scalable platform solutions, increasing system efficiency by 30%.  
+- Collaborated with cross-functional teams to deliver projects ahead of schedule, enhancing customer satisfaction.
+
+Senior Platform Engineer, Quality Theorem, Troy, NY, US (2014–2017)  
+Annual salary: $141,400  
+- Led a team to redesign the core platform, resulting in a 25% reduction in operational costs.  
+- Implemented advanced monitoring tools that decreased system downtime by 40%.
+
+Senior Platform Engineer, Daikin, Troy, NY, US (2017–2021)  
+Annual salary: $143,700  
+- Spearheaded the migration of legacy systems to cloud infrastructure, boosting application performance by 50%.  
+- Coordinated with international teams to streamline processes, reducing deployment times by 20%.
+
+Senior Platform Engineer, Jacksonville Sheriff's Office, Franklin Lakes, NJ, US (2021–Present)  
+Annual salary: $147,300  
+- Introduced automated workflows that improved operational efficiency by 35%.  
+- Managed the integration of new security protocols, enhancing system security and compliance standards.

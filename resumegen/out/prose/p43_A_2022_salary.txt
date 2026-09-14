@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing innovative solutions and enhancing user interfaces. Known for diplomatic communication and punctuality, consistently delivers high-quality results in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2008
+
+**Work Experience**
+
+**Frontend Engineer, Quadient, Inc., New York, NY (2021–Present)**  
+Annual salary: $132,600  
+- Led the development of a new user interface, increasing user engagement by 20% through enhanced accessibility and responsiveness.  
+- Collaborated with cross-functional teams to integrate real-time data analytics features, improving decision-making efficiency.
+
+**Frontend Engineer, Centerfield, Syracuse, NY (2018–2021)**  
+Annual salary: $118,400  
+- Implemented a modular design system that reduced maintenance time by 30% and improved UI consistency across applications.  
+- Spearheaded the transition to a cloud-based architecture, optimizing load times and scalability.
+
+**Frontend Engineer, Insurity, Buffalo, NY (2016–2018)**  
+Annual salary: $106,500  
+- Successfully revamped the client-side application, increasing performance by 25% and reducing load times significantly.  
+- Developed and deployed new features that enhanced user experience and increased customer satisfaction scores.
+
+**Junior Software Engineer, Capgemini Engineering, Binghamton, NY (2012–2016)**  
+Annual salary: $73,300  
+- Assisted in the design and deployment of critical system components, contributing to a 15% increase in project delivery speed.  
+- Collaborated with senior engineers to implement best practices in code quality and testing.
+
+**Junior Software Engineer, Sumitomo Mitsui Banking Corporation, East Syracuse, NY (2008–2012)**  
+Annual salary: $65,600  
+- Contributed to the development of secure banking applications, enhancing transaction processing speed and reliability.  
+- Played a key role in the migration of legacy systems to modern platforms, improving overall system efficiency.

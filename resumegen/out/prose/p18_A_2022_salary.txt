@@ -1,0 +1,26 @@
+[NAME]  
+New York Metro Area  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over 8 years of experience in developing innovative solutions and optimizing software projects. Proven track record in enhancing system performance and delivering efficient code in fast-paced environments.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Northeastern University, 2014
+
+**Work Experience**
+
+Software Engineer, Gartner, Groton, CT, US (2021–Present)  
+Annual salary: $125,800  
+- Spearheaded the integration of a new software platform, resulting in a 30% increase in data processing efficiency.  
+- Collaborated with cross-functional teams to debug and enhance system performance, reducing critical errors by 25%.  
+
+Software Engineer, UP Entertainment, Parsippany-Troy Hills, NJ, US (2019–2021)  
+Annual salary: $112,300  
+- Developed and deployed scalable applications, improving user engagement metrics by 40%.  
+- Implemented key software updates that reduced server downtime by 15%.  
+
+Junior Software Engineer, ASSYST, Inc., Jersey City, NJ (2014–2019)  
+Annual salary: $80,700  
+- Assisted in the development of client-side applications, boosting system usability by 20%.  
+- Contributed to code review processes, enhancing software quality and reducing bugs by 30%.

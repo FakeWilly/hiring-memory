@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience specializing in backend development. Extremely organized and diplomatic in communication, consistently delivering high-quality solutions that enhance system performance and user experience.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2004
+
+**Work History**
+
+**Staff Backend Engineer, TecNiq Inc, Bridgewater, NJ, US (2021–Present)**  
+Annual salary: $147,500  
+- Spearheaded the implementation of a new microservices architecture, improving system scalability and reducing server costs by 20%.  
+- Mentored a team of junior engineers, enhancing their technical skills and contributing to a 30% increase in team productivity.  
+
+**Senior Backend Engineer, Yurts, Morris Plains, NJ, US (2016–2021)**  
+Annual salary: $143,900  
+- Optimized database queries, reducing response time by 40% and significantly improving user satisfaction.  
+- Collaborated with cross-functional teams to deliver three major software releases on time and under budget.  
+
+**Senior Backend Engineer, Outscal Technologies, Albany, NY, US (2014–2016)**  
+Annual salary: $143,600  
+- Developed a robust backend system for a high-traffic e-commerce platform, increasing uptime to 99.9%.  
+- Led the integration of third-party APIs, enhancing platform capabilities and user engagement.  
+
+**Backend Engineer, Orbotech, Binghamton, NY (2009–2014)**  
+Annual salary: $102,800  
+- Designed and implemented backend solutions that supported a 50% increase in data processing efficiency.  
+- Played a key role in transitioning legacy systems to modern technologies, reducing maintenance costs by 25%.  
+
+**Junior Software Engineer, Employbridge, Astoria, NY (2004–2009)**  
+Annual salary: $71,300  
+- Assisted in the development of internal tools that automated routine tasks, saving the company 500+ hours annually.  
+- Participated in code reviews and bug fixes, contributing to a 15% improvement in software quality.

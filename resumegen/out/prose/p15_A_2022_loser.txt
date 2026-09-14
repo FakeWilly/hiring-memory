@@ -1,0 +1,25 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over 14 years of experience in developing and optimizing software applications. Known for exceptional punctuality and a diplomatic communication style, I thrive in dynamic and collaborative environments, delivering high-quality technology solutions.
+
+**Education**  
+Master's Degree in Electrical Engineering, Drexel University, 2008
+
+**Work History**
+
+Senior Software Engineer, Orlando Utilities Commission, Hartford, CT, US (2017–Present)  
+Annual salary: $134,400  
+- Spearheaded the development of a customer-facing application, improving user engagement by 30%.  
+- Led a team of 5 engineers in a major system migration, reducing operational costs by 20%.  
+
+Software Engineer, Outrider, Bedminster, NJ, US (2012–2017)  
+Annual salary: $111,000  
+- Implemented a new code review process, decreasing bugs in production by 15%.  
+- Collaborated with cross-functional teams to enhance platform scalability, supporting a 40% increase in user base.  
+
+Software Engineer, Armison Tech, Syracuse, NY, US (2008–2012)  
+Annual salary: $100,400  
+- Developed an innovative algorithm that reduced processing time by 25%, significantly boosting system efficiency.  
+- Assisted in the successful launch of a flagship product that generated $1M in revenue within the first year.

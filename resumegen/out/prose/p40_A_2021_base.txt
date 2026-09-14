@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 18 years of experience in frontend development. Known for punctuality and a direct communication style, I specialize in creating user-centric and efficient web applications.
+
+**Education**  
+Master's Degree in Statistics, Penn State University, 2003
+
+**Work Experience**  
+
+Frontend Engineer, Edward Jones, Morris Plains, NJ, US (2003–2006)  
+Annual salary: $90,400  
+- Developed and maintained user interfaces for financial applications, improving user experience by 20%.  
+- Collaborated with backend developers to integrate RESTful APIs, enhancing application performance and reliability.
+
+Frontend Engineer, Thermo King Chesapeake, Warren, NJ, US (2006–2010)  
+Annual salary: $100,200  
+- Led the redesign of the company's product interface, resulting in a 30% increase in user engagement.  
+- Implemented responsive design techniques, ensuring compatibility across all major devices and platforms.
+
+Frontend Engineer, Azure Summit Technology, Rochester, NY, USA (2010–2015)  
+Annual salary: $114,100  
+- Spearheaded the development of a modular frontend architecture, reducing code redundancy by 40%.  
+- Optimized load time for client applications by 35% through innovative coding and caching techniques.
+
+Senior Frontend Engineer, MORI Associates, Mount Laurel, NJ, US (2015–2017)  
+Annual salary: $135,900  
+- Managed a team of developers to deliver high-quality web applications on time and within budget.  
+- Enhanced application security by implementing advanced encryption protocols, reducing vulnerabilities by 50%.
+
+Senior Frontend Engineer, Genentech, Inc., Parsippany-Troy Hills, NJ, US (2017–Present)  
+Annual salary: $152,100  
+- Architected and developed scalable web solutions for biotech applications, improving processing times by 25%.  
+- Collaborated with cross-functional teams to streamline the product development process, increasing efficiency by 15%.

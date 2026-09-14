@@ -1,0 +1,16 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and highly organized software engineer with a strong foundation in developing efficient and innovative solutions. Adept at collaborating in team settings and implementing technical strategies to enhance product performance and user experience.
+
+**Work Experience**  
+
+Junior Software Engineer, National Air Cargo, Buffalo, NY (2017–Present)  
+Annual salary: $80,000  
+- Collaborated with senior engineers to design and implement software solutions that improved operational efficiency by 15%.  
+- Enhanced the existing codebase by identifying and resolving bugs, which reduced system downtime by 20%.  
+- Contributed to the development of a logistics tracking system, resulting in a 25% increase in data processing capabilities.  
+
+**Education**  
+Bachelor's Degree in Software Engineering, Northeastern University, 2017

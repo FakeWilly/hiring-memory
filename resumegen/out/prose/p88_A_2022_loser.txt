@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with nearly two decades of experience in infrastructure engineering, renowned for punctuality and a humorous communication style. Passionate about innovative solutions and adept at improving system efficiency and reliability in high-pressure environments.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**
+
+**Junior Software Engineer, Komatsu, Rochester, NY, USA (2003–2006)**  
+Annual salary: $64,600  
+- Developed and maintained software applications, contributing to a 20% increase in operational efficiency.  
+- Collaborated with cross-functional teams to troubleshoot and resolve software issues, reducing downtime by 15%.  
+
+**Infrastructure Engineer, Colorado Professional Resources, LLC, New York, NY, USA (2006–2009)**  
+Annual salary: $89,300  
+- Engineered robust infrastructure solutions, resulting in a 25% improvement in system uptime.  
+- Spearheaded the implementation of a new network protocol, enhancing data transmission speeds by 30%.  
+
+**Senior Infrastructure Engineer, Hecta Data (DBA) Vilwaa, Rochester, NY, US (2009–2014)**  
+Annual salary: $125,400  
+- Led a team to redesign the company's data storage solutions, increasing capacity by 50%.  
+- Optimized server configurations, reducing latency by 40% across critical applications.  
+
+**Senior Infrastructure Engineer, Rebuy Engine, Iselin, NJ, US (2014–2019)**  
+Annual salary: $143,800  
+- Managed large-scale infrastructure projects that improved system scalability by 60%.  
+- Pioneered a security protocol overhaul that decreased vulnerability incidents by 35%.  
+
+**Senior Infrastructure Engineer, Omitron, Inc., Jersey City, NJ, US (2019–Present)**  
+Annual salary: $176,500  
+- Designed and implemented cutting-edge infrastructure solutions that enhanced system performance by 45%.  
+- Collaborated with senior management to develop strategic IT initiatives, resulting in a 20% cost reduction.

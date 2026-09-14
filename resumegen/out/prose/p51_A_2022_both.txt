@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 15 years of expertise in developing robust software solutions across various platforms. Highly skilled in leading teams and driving projects to successful completion, with a strong commitment to punctuality and efficiency.
+
+**Education**  
+Master's Degree in Computer Science, Rutgers University, 2007
+
+**Work History**  
+
+**Staff Software Engineer, Yurts, Syracuse, NY, US (2021–Present)**  
+Annual salary: $196,300  
+- Spearheaded the development of a new cloud-native application, reducing deployment times by 40%.  
+- Implemented performance optimizations that improved system reliability, resulting in a 25% reduction in operational costs.  
+
+**Senior Software Engineer, Delinea, Lakewood, NJ (2018–2021)**  
+Annual salary: $175,300  
+- Led a team to automate security protocols, which enhanced data protection and compliance by 30%.  
+- Designed and launched a scalable API service, increasing integration efficiency with third-party applications.  
+
+**Senior Software Engineer, Cisco Meraki, Rensselaer, NY, US (2016–2018)**  
+Annual salary: $164,500  
+- Developed scalable networking solutions, enhancing throughput by 50% for enterprise clients.  
+- Pioneered a machine learning initiative that improved network diagnostics accuracy by 20%.  
+
+**Senior Software Engineer, Stanford University, Astoria, NY (2014–2016)**  
+Annual salary: $147,600  
+- Led the migration of legacy systems to a modern tech stack, reducing maintenance costs by 35%.  
+- Coordinated cross-functional teams to enhance software performance and user experience.  
+
+**Software Engineer, Habasit America, Troy, NY, US (2011–2014)**  
+Annual salary: $121,900  
+- Streamlined manufacturing software processes, achieving a 15% increase in production efficiency.  
+- Worked on developing real-time data analytics tools, improving decision-making processes.  
+
+**Software Engineer, Taskrabbit, Hartford, CT, US (2007–2011)**  
+Annual salary: $108,100  
+- Engineered robust web applications that handled a 200% increase in user traffic.  
+- Played a key role in the agile transformation of the software development lifecycle.

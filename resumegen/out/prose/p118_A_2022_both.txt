@@ -1,0 +1,48 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing and optimizing high-impact solutions. Known for exceptional organizational skills and a methodical approach to complex projects, consistently delivering robust software systems.
+
+---
+
+**Education**  
+Bachelor's Degree in Computer Science, University of Connecticut, 2005  
+
+---
+
+**Work History**  
+
+**Principal Software Engineer**, American Airlines, East Newark, NJ, US (2021–Present)  
+Annual salary: $185,400  
+- Spearheaded the development of a real-time flight management system, improving operational efficiency by 30%.  
+- Implemented advanced data analytics tools that enhanced predictive maintenance capabilities, reducing downtime by 25%.  
+
+**Staff Software Engineer**, Updater, Mount Laurel, NJ, US (2017–2021)  
+Annual salary: $165,500  
+- Led a team to revamp the core platform, resulting in a 20% increase in user retention.  
+- Developed a microservices architecture that improved system scalability and reduced server costs by 15%.  
+
+**Senior Software Engineer**, Optizm Inc, East Newark, NJ, US (2015–2017)  
+Annual salary: $119,900  
+- Designed and implemented a secure authentication module, enhancing application security and compliance.  
+- Optimized database queries, which reduced data retrieval times by 40%.  
+
+**Senior Software Engineer**, Zedcor Inc., East Syracuse, NY (2011–2014)  
+Annual salary: $124,900  
+- Managed the transition from a monolithic to a distributed system, increasing system reliability and performance.  
+- Collaborated in the development of a proprietary API, facilitating third-party integrations and expanding market reach.  
+
+**Software Engineer**, Reliability Center, Rochester, NY, USA (2009–2011)  
+Annual salary: $89,400  
+- Developed automated testing frameworks that increased test coverage by 50%.  
+- Played a key role in the migration to a cloud-based infrastructure, reducing operational costs by 25%.  
+
+**Junior Software Engineer**, CPS Insurance Services, Old Westbury, NY (2005–2009)  
+Annual salary: $60,700  
+- Assisted in the development of insurance claim processing software, reducing processing time by 20%.  
+- Maintained and updated legacy systems to ensure ongoing compliance with industry standards.  
+
+---

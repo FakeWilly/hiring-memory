@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in platform engineering and a proven ability to drive technological innovation. Adept at building scalable systems and leading projects to successful completion in dynamic environments.
+
+**Education**  
+Master's Degree in Computer Science, University of Connecticut, 2002  
+
+**Work History**  
+
+**Platform Engineer, The RealReal, Whippany, NJ, US (2002–2005)**  
+Annual salary: $98,000  
+- Developed and implemented core platform features that improved system performance by 20%.  
+- Collaborated with cross-functional teams to integrate new technologies, enhancing platform capabilities.
+
+**Platform Engineer, Grammarly, East Newark, NJ, US (2005–2007)**  
+Annual salary: $110,600  
+- Engineered key components of a new platform framework, resulting in a 30% increase in processing speed.  
+- Led a team of junior engineers in troubleshooting and resolving critical system issues.
+
+**Senior Platform Engineer, SMX, Greene, NY, USA (2007–2010)**  
+Annual salary: $131,800  
+- Spearheaded the migration of legacy systems to modern platforms, reducing maintenance costs by 25%.  
+- Introduced automated testing procedures that improved code quality and reduced deployment time.
+
+**Senior Platform Engineer, Midnight Oil Marketing, Syracuse, NY, US (2010–2012)**  
+Annual salary: $148,500  
+- Designed and implemented a scalable architecture that supported a 50% increase in user base.  
+- Mentored junior engineers, fostering a culture of continuous improvement and innovation.
+
+**Senior Platform Engineer, ANS Services LLC, Jersey City, NJ, US (2012–2016)**  
+Annual salary: $162,100  
+- Led the development of a new platform that increased operational efficiency by 40%.  
+- Collaborated with product managers to ensure alignment between engineering and business goals.
+
+**Senior Platform Engineer, OptimHire, Andes, NY, US (2016–2021)**  
+Annual salary: $186,500  
+- Developed a high-performance data processing system that decreased latency by 35%.  
+- Championed the adoption of cutting-edge technologies, enhancing overall platform security.
+
+**Staff Platform Engineer, Perr&Knight, Groton, CT, US (2021–Present)**  
+Annual salary: $191,200  
+- Architected a versatile platform infrastructure that supports multiple business applications.  
+- Initiated cross-departmental collaborations to streamline engineering processes and reduce project timelines.

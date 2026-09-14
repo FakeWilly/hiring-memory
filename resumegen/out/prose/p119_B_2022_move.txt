@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and humorous software engineer with over 15 years of experience in developing innovative solutions and leading engineering teams. Consistently recognized for being punctual, thriving in fast-paced environments, and delivering high-quality software solutions.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rochester Institute of Technology, 2007
+
+**Work History**  
+
+**Senior Software Engineer, Macquarie Group Limited, Kingston, NY, US (2021–Present)**  
+Annual salary: $163,900  
+- Spearheaded the development of an automated trading platform, improving efficiency by 25% through optimized algorithms.  
+- Collaborated with cross-functional teams to successfully implement cloud-based solutions, reducing operational costs by 15%.
+
+**Senior Software Engineer, The State of Arizona, Melville, NY, US (2019–2021)**  
+Annual salary: $159,900  
+- Led a team in the migration of legacy systems to modern architectures, enhancing system reliability by 40%.  
+- Developed a secure data integration framework for state agencies, improving data sharing capabilities.
+
+**Senior Software Engineer, Comcast, Princeton, NJ (2017–2019)**  
+Annual salary: $154,000  
+- Engineered scalable video streaming solutions, resulting in a 30% increase in user engagement.  
+- Implemented robust security protocols that minimized potential vulnerabilities by 50%.
+
+**Software Engineer, ICR, Inc., Syracuse, NY, US (2013–2017)**  
+Annual salary: $111,300  
+- Played a key role in developing a predictive analytics tool that increased revenue by 20%.  
+- Improved application performance by optimizing code base, reducing load times by 35%.
+
+**Software Engineer, Athlete To Athlete, New York, NY (2011–2013)**  
+Annual salary: $100,300  
+- Developed and maintained a customer-facing web application that enhanced user experience and increased retention rates by 25%.  
+- Collaborated with designers and product managers to launch new features seamlessly.
+
+**Junior Software Engineer, Coalition Technologies, New York, NY, USA (2007–2011)**  
+Annual salary: $67,800  
+- Assisted in the development of web applications, contributing to a 15% increase in client acquisition.  
+- Conducted comprehensive testing and debugging, ensuring high-quality software delivery.

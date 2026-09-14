@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in infrastructure engineering, known for a humorous communication style and deep technical expertise. Proven track record in designing and implementing robust infrastructure systems that enhance operational efficiency and support innovation.  
+
+**Education**  
+Master's Degree in Information Systems, CUNY City College, 2001  
+
+**Work History**  
+
+**Principal Infrastructure Engineer, DelaGet LLC, Iselin, NJ, US (2021–Present)**  
+Annual salary: $235,500  
+- Spearheaded the migration of legacy systems to cloud-based solutions, reducing operational costs by 20%.  
+- Developed an automated monitoring tool that improved system uptime by 15%.  
+
+**Staff Infrastructure Engineer, B Garage, Kingston, NY, US (2020–2021)**  
+Annual salary: $210,300  
+- Led a team of engineers in revamping the network infrastructure, boosting data processing speeds by 30%.  
+- Implemented a security protocol that decreased vulnerabilities by 40%.  
+
+**Staff Infrastructure Engineer, Arkana Laboratories, New York, NY, USA (2016–2020)**  
+Annual salary: $184,000  
+- Optimized server performance, resulting in a 25% increase in efficiency and a significant reduction in downtime.  
+- Collaborated with cross-functional teams to integrate new technology, enhancing system capabilities.  
+
+**Staff Infrastructure Engineer, Smartcar, Lakewood, NJ (2014–2016)**  
+Annual salary: $153,800  
+- Engineered a scalable infrastructure that supported a 50% increase in traffic without compromising performance.  
+- Devised a backup solution that ensured data integrity and quick recovery times.  
+
+**Senior Infrastructure Engineer, Globus Medical, Old Westbury, NY (2011–2014)**  
+Annual salary: $109,200  
+- Designed and implemented a network architecture that improved data flow efficiency by 20%.  
+- Trained junior engineers, fostering a collaborative and high-performing team environment.  
+
+**Senior Infrastructure Engineer, GitHub, Syracuse, NY, US (2008–2011)**  
+Annual salary: $105,800  
+- Led the deployment of a new infrastructure system, cutting costs by 15% while increasing reliability.  
+- Initiated a successful mentorship program for new hires.  
+
+**Infrastructure Engineer, Airwallex, Jersey City, NJ, US (2006–2008)**  
+Annual salary: $89,600  
+- Developed and deployed a secure firewall system that safeguarded company data.  
+- Streamlined network processes, leading to a 10% improvement in system response times.  
+
+**Infrastructure Engineer, NOCO, Melville, NY, US (2001–2006)**  
+Annual salary: $78,300  
+- Contributed to the successful rollout of an enterprise-wide network upgrade.  
+- Played a key role in the implementation of virtualization technology, enhancing resource utilization.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and detail-oriented software engineer with over 15 years of experience in developing robust software solutions. Proven track record in delivering high-quality projects on time and enhancing system performance across diverse industries.
+
+**Education**  
+Master's Degree in Software Engineering, CUNY City College, 2005  
+
+**Work History**  
+
+**Senior Software Engineer**, Raytheon, Hackensack, NJ, US (2019–Present)  
+Annual salary: $131,900  
+- Led a team of developers to successfully deliver a critical defense software project ahead of schedule, enhancing system efficiency by 30%.  
+- Spearheaded the migration of legacy systems to a modernized tech stack, reducing maintenance costs by 20%.  
+
+**Software Engineer**, xAI, Newark, NJ, US (2016–2019)  
+Annual salary: $93,600  
+- Developed a machine learning algorithm that improved data processing speed by 50%.  
+- Collaborated with cross-functional teams to integrate AI solutions into existing platforms, increasing operational efficiency by 25%.  
+
+**Software Engineer**, bastion technologies, Hackensack, NJ, US (2011–2015)  
+Annual salary: $93,700  
+- Implemented software solutions that enhanced security protocols, reducing vulnerabilities by 40%.  
+- Optimized existing codebases, leading to a 15% increase in application performance.  
+
+**Software Engineer**, Clear Street, Jersey City, NJ, US (2009–2011)  
+Annual salary: $89,000  
+- Designed and deployed web applications that improved user engagement by 30%.  
+- Automated routine processes, saving the team an average of 20 hours per month.  
+
+**Software Engineer**, Uplist, LLC, Buffalo, NY (2005–2009)  
+Annual salary: $78,400  
+- Contributed to the development of scalable web applications, enhancing user experience and system reliability.  
+- Collaborated with design teams to implement intuitive UI/UX features, increasing customer satisfaction.

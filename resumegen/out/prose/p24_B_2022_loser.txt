@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with over 18 years of experience in data engineering and software development. Known for exceptional problem-solving skills and a diplomatic communication style, with a passion for collaborative projects and innovative solutions.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rochester Institute of Technology, 2004  
+
+**Work History**  
+
+**Senior Data Engineer, Cortex Consultants, Jersey City, NJ (2016–Present)**  
+Annual salary: $159,800  
+- Led the architecture and implementation of a scalable data pipeline, increasing processing efficiency by 40%.  
+- Collaborated with cross-functional teams to deliver actionable insights from complex datasets, enhancing decision-making processes.  
+
+**Data Engineer, Outscal Technologies, White Plains, NY, US (2012–2016)**  
+Annual salary: $112,200  
+- Designed and optimized database solutions, reducing query response time by 30%.  
+- Spearheaded the migration of legacy systems to cloud-based infrastructure, resulting in a 25% reduction in operational costs.  
+
+**Data Engineer, Carnegie Mellon University, Newark, NJ, US (2007–2012)**  
+Annual salary: $94,000  
+- Developed robust ETL processes, improving data accuracy and accessibility for research purposes.  
+- Automated data integration workflows, saving 15 hours weekly in manual data entry tasks.  
+
+**Junior Software Engineer, Spectrum Brands, Greene, NY, USA (2004–2007)**  
+Annual salary: $66,200  
+- Contributed to the development of customer-facing applications, enhancing user experience.  
+- Assisted in debugging and testing software components, ensuring high-quality product releases.

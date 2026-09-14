@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in the industry, specializing in frontend development. Proven track record of delivering high-quality code and innovative solutions in dynamic and fast-paced environments.
+
+**Education**  
+Associate's Degree in Software Engineering, Drexel University, 1999
+
+**Work History**
+
+Frontend Engineer, Meritage Homes, New York, NY, US (2018–Present)  
+Annual salary: $117,900  
+- Spearheaded the transition to a modern JavaScript framework that increased application speed by 30%.  
+- Collaborated with cross-functional teams to optimize user experience, resulting in a 25% increase in customer satisfaction scores.
+
+Frontend Engineer, 2HB Incorporated, Albany, NY, US (2013–2018)  
+Annual salary: $105,500  
+- Developed a scalable frontend architecture that supported a 50% increase in user base within a year.  
+- Implemented responsive design techniques that improved mobile user engagement by 40%.
+
+Frontend Engineer, ASML, Rensselaer, NY, US (2008–2013)  
+Annual salary: $69,200  
+- Integrated new UI components that improved user navigation and reduced bounce rate by 20%.  
+- Enhanced the website's accessibility features, aligning with industry standards and increasing inclusivity.
+
+Junior Software Engineer, Viasat, Princeton, NJ (2006–2008)  
+Annual salary: $68,400  
+- Assisted in the development of network management software, contributing to a 15% increase in data throughput.  
+- Collaborated with senior engineers to debug and refine core components, improving system stability.
+
+Junior Software Engineer, Purple Squirrel Search Group, Hackensack, NJ, US (2002–2006)  
+Annual salary: $61,500  
+- Developed and maintained internal tools that streamlined the recruitment process, reducing time-to-hire by 10%.  
+- Conducted code reviews that improved code quality and adherence to standards.
+
+Junior Software Engineer, Moveworks, Rochester, NY, USA (1999–2002)  
+Annual salary: $55,700  
+- Contributed to the development of customer-facing applications, enhancing functionality and user experience.  
+- Actively participated in team meetings to identify and implement process improvements.

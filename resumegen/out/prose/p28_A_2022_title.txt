@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Tech-savvy software engineer with over 17 years of experience in developing innovative solutions and leading engineering teams. Known for a methodical approach to problem-solving and a strong commitment to delivering high-quality software products.
+
+**Education**  
+Master's Degree in Mathematics, Drexel University, 2005
+
+**Work History**
+
+**Principal Software Engineer, Raytheon, Bedminster, NJ, US (2021–Present)**  
+Annual salary: $146,600  
+- Spearheaded the development of mission-critical systems, enhancing performance by 30% through efficient algorithms and optimized code.
+- Led cross-functional teams in complex projects, consistently delivering ahead of schedule and under budget.
+
+**Staff Software Engineer, Vertex Professional Service LLC, Whippany, NJ, US (2017–2021)**  
+Annual salary: $143,000  
+- Architected scalable software systems, reducing operational costs by 25% through automation and integration.
+- Implemented advanced data analysis tools, enhancing decision-making processes and leading to a 15% increase in productivity.
+
+**Senior Software Engineer, STP, Mahwah, NJ (2013–2017)**  
+Annual salary: $136,000  
+- Developed cutting-edge software applications, earning recognition for innovation and excellence in engineering.
+- Mentored junior engineers, improving team skill sets and fostering a collaborative work environment.
+
+**Software Engineer, Mobomo, LLC, Bedminster, NJ, US (2008–2013)**  
+Annual salary: $105,400  
+- Analyzed user requirements and designed efficient software solutions, contributing to a 20% increase in client satisfaction.
+- Collaborated with design teams to streamline application interfaces, enhancing user experience and engagement.
+
+**Software Engineer, Hasbro, Inc., New York, NY, US (2005–2008)**  
+Annual salary: $87,900  
+- Developed interactive software components for consumer products, increasing product usability and customer engagement.
+- Streamlined development processes, reducing project delivery time by 15% through innovative methodologies.

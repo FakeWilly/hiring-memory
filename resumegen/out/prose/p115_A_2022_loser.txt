@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with nearly two decades of experience in backend development. Known for punctuality and a humorous communication style, I have consistently delivered robust and scalable solutions in the financial and diagnostics sectors.
+
+**Education**  
+Master's Degree in Statistics, Drexel University, 2003  
+
+**Work History**
+
+**Staff Backend Engineer**, OMAX Corporation, Binghamton, NY (2019–Present)  
+Annual salary: $188,100  
+- Spearheaded the development of a microservices-based architecture, enhancing system flexibility and scalability.  
+- Led a team of engineers in implementing a CI/CD pipeline, reducing deployment times by 40%.
+
+**Staff Backend Engineer**, MaidCentral Software, Whippany, NJ, US (2015–2019)  
+Annual salary: $127,000  
+- Developed a custom analytics dashboard, increasing data visibility and decision-making efficiency for clients.  
+- Optimized database queries, resulting in a 30% improvement in application performance.
+
+**Senior Backend Engineer**, Antech Diagnostics, Melville, NY, US (2012–2015)  
+Annual salary: $88,100  
+- Collaborated with cross-functional teams to integrate a new payment processing system, improving transaction security.  
+- Streamlined backend processes, reducing server load by 25%.
+
+**Backend Engineer**, First American Financial Corporation, Warren, NJ, US (2009–2012)  
+Annual salary: $89,500  
+- Implemented API integrations that facilitated real-time data exchange, enhancing user experience.  
+- Assisted in the migration of legacy systems to a modern cloud-based infrastructure.
+
+**Backend Engineer**, PNC Financial Services Group, Jersey City, NJ (2006–2009)  
+Annual salary: $107,300  
+- Designed and maintained a secure database system, improving data integrity and reliability.  
+- Developed backend components for a critical financial reporting tool, boosting efficiency by 20%.
+
+**Backend Engineer**, Applied Materials, Inc, Franklin Lakes, NJ, US (2003–2006)  
+Annual salary: $95,800  
+- Contributed to the development of backend modules for an enterprise resource planning system.  
+- Enhanced data processing speeds by optimizing algorithm efficiency.

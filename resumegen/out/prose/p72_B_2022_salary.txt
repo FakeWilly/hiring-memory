@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with nearly two decades in the tech industry, specializing in frontend development. Adept at transforming complex requirements into intuitive user interfaces, with a strong emphasis on performance and scalability.
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2004
+
+**Work History**
+
+**Staff Frontend Engineer, ServiceCore, Inc., Hackensack, NJ, US (2021–Present)**  
+Annual salary: $193,400  
+- Lead the development of a new web application that improved client satisfaction scores by 25%.  
+- Implemented advanced caching techniques, reducing page load times by 40%.
+
+**Staff Frontend Engineer, Exiger, Buffalo, NY (2018–2021)**  
+Annual salary: $172,700  
+- Spearheaded a project to modernize legacy code, enhancing application performance by 30%.  
+- Collaborated with cross-functional teams to integrate new features, resulting in a 15% increase in user engagement.
+
+**Senior Frontend Engineer, Cargill, Newark, NJ, US (2014–2018)**  
+Annual salary: $117,000  
+- Designed and led the implementation of a responsive UI framework, reducing development time for new features by 20%.  
+- Mentored junior engineers, promoting best practices and improving overall team productivity.
+
+**Frontend Engineer, NICE, Bridgewater, NJ, US (2012–2014)**  
+Annual salary: $117,600  
+- Developed and maintained core frontend components used across multiple products.  
+- Played a key role in transitioning the frontend stack to a new JavaScript framework, improving maintainability.
+
+**Junior Software Engineer, Digital Trust Technologies Private Limited, Hackensack, NJ, US (2007–2012)**  
+Annual salary: $79,900  
+- Assisted in the development of security features that enhanced application integrity.  
+- Contributed to team efforts, achieving project milestones ahead of schedule.
+
+**Junior Software Engineer, BlueHalo, Groton, CT, US (2004–2007)**  
+Annual salary: $70,400  
+- Supported the engineering team in building features for a flagship product.  
+- Improved code efficiency by optimizing algorithms, resulting in faster execution times.

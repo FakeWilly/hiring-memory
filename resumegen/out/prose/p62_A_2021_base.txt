@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Highly organized and tech-savvy software engineer with over two decades of experience in infrastructure engineering and development. Known for a direct communication style and a passion for crafting innovative technological solutions to complex problems.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 1999  
+
+**Work History**  
+
+**Senior Infrastructure Engineer, Hexure, Franklin Lakes, NJ, US (2020–Present)**  
+Annual salary: $157,000  
+- Spearheaded the transition to a cloud-based infrastructure, reducing costs by 15% and improving system scalability.  
+- Designed and implemented a new security protocol, resulting in a 30% decrease in data breach incidents.  
+
+**Senior Infrastructure Engineer, KITCHELL, White Plains, NY, US (2017–2020)**  
+Annual salary: $141,900  
+- Led a team to successfully overhaul the company's legacy systems, enhancing performance by 40%.  
+- Implemented automated monitoring tools, which decreased downtime by 25%.  
+
+**Senior Infrastructure Engineer, Legrand, New York, NY, US (2013–2017)**  
+Annual salary: $130,600  
+- Developed a comprehensive disaster recovery plan, significantly reducing recovery time by 50%.  
+- Optimized network performance, leading to a 20% increase in operational efficiency.  
+
+**Senior Infrastructure Engineer, Axon, Hackensack, NJ, US (2009–2013)**  
+Annual salary: $111,100  
+- Engineered a robust infrastructure framework, increasing system reliability by 35%.  
+- Collaborated with cross-functional teams to integrate cutting-edge technologies, enhancing service delivery.  
+
+**Senior Infrastructure Engineer, The San Francisco Compute Company, Mount Laurel, NJ, US (2005–2009)**  
+Annual salary: $75,100  
+- Managed infrastructure projects that improved data processing speeds by 30%.  
+- Played a key role in scaling the infrastructure to support 50% more users.  
+
+**Infrastructure Engineer, Ultragenyx, Hartford, CT (2003–2005)**  
+Annual salary: $76,800  
+- Developed infrastructure solutions that enhanced network security, reducing vulnerabilities by 40%.  
+- Assisted in the migration to an updated server environment, improving system uptime.  
+
+**Junior Software Engineer, Yurts, White Plains, NY, US (1999–2003)**  
+Annual salary: $52,000  
+- Contributed to the development of a new software application that increased user engagement by 25%.  
+- Assisted in debugging and optimizing code, leading to a 15% improvement in application performance.

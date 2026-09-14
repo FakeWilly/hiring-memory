@@ -1,0 +1,46 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with nearly two decades of experience in frontend development. Known for a humorous communication style and a strong ability to integrate engaging user interfaces with robust backend functionality.
+
+**Education**  
+Master's Degree in Software Engineering, Penn State University, 2003
+
+**Work History**
+
+**Staff Frontend Engineer, Gurobi Optimization, Princeton, NJ (2021–Present)**  
+Annual salary: $140,600  
+- Spearheaded the redesign of the core application interface, improving load times by 30% and enhancing user engagement.  
+- Mentored junior engineers, fostering a collaborative team environment and aiding in the professional growth of peers.
+
+**Senior Frontend Engineer, University of Wisconsin–Madison, Jersey City, NJ, US (2020–2021)**  
+Annual salary: $137,200  
+- Developed an innovative web application that reduced data processing time by 25%.  
+- Collaborated with cross-functional teams to implement new features, resulting in a 15% increase in user satisfaction.
+
+**Senior Frontend Engineer, City of Wildwood, East Syracuse, NY (2018–2020)**  
+Annual salary: $125,100  
+- Led a team in the successful launch of a city-wide digital platform, increasing online service efficiency by 40%.  
+- Designed user-centric interfaces that improved accessibility and user engagement.
+
+**Frontend Engineer, Palmer Group, Albany, NY, US (2014–2018)**  
+Annual salary: $111,300  
+- Enhanced the company’s website interface, boosting visitor interaction by 20%.  
+- Pioneered new frontend technologies that streamlined project workflows.
+
+**Frontend Engineer, Rippling, Groton, CT, US (2009–2014)**  
+Annual salary: $97,900  
+- Implemented responsive design techniques, increasing mobile traffic by 35%.  
+- Developed modular components to facilitate reuse and reduce development time.
+
+**Frontend Engineer, CubX Inc, New York, NY (2007–2009)**  
+Annual salary: $89,500  
+- Collaborated on a large-scale project that increased user retention by 25%.  
+- Introduced innovative solutions to improve code efficiency and reduce bugs.
+
+**Frontend Engineer, American Technical Services, Andes, NY, US (2003–2007)**  
+Annual salary: $78,100  
+- Contributed to the development of a high-traffic application, handling over 1 million users.  
+- Played a key role in implementing a new design system that improved consistency and user experience.

@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over 17 years in the field, specializing in developing scalable software solutions. Proven ability to lead teams and deliver innovative products within deadline-driven environments in the New York metro area.
+
+**Education**  
+Master's Degree in Electrical Engineering, Northeastern University, 2005
+
+**Work History**
+
+Staff Software Engineer, Spectrum, Troy, NY, US (2021–Present)  
+Annual salary: $170,200  
+- Spearheaded the development of a new high-performance data processing platform, improving system efficiency by 40%.  
+- Mentored junior engineers, fostering a collaborative environment that led to a 30% improvement in team productivity.
+
+Staff Software Engineer, iCatalyst, Groton, CT, US (2019–2021)  
+Annual salary: $152,000  
+- Architected and implemented a distributed microservices architecture, enhancing system scalability and reliability.  
+- Led a cross-functional team to deliver a major software release ahead of schedule, reducing deployment times by 20%.
+
+Senior Software Engineer, defi SOLUTIONS, Rensselaer, NY, US (2017–2019)  
+Annual salary: $148,600  
+- Developed an automated testing framework that reduced manual testing efforts by 50%, accelerating release cycles.  
+- Collaborated with stakeholders to design a customer-centric application interface, increasing user satisfaction by 25%.
+
+Senior Software Engineer, Anduril Industries, Parsippany-Troy Hills, NJ, US (2015–2017)  
+Annual salary: $136,700  
+- Optimized legacy systems, resulting in a 15% reduction in processing time and improved system stability.  
+- Coordinated with product teams to integrate new features, enhancing overall product functionality.
+
+Software Engineer, Health-E Commerce, Iselin, NJ, US (2011–2015)  
+Annual salary: $97,200  
+- Implemented a secure payment processing system that reduced transaction errors by 35%.  
+- Contributed to the development of a cloud-based application, increasing system uptime by 20%.
+
+Software Engineer, The Urban Electric Co., White Plains, NY, US (2009–2011)  
+Annual salary: $91,100  
+- Designed and deployed a new inventory management system, reducing inventory discrepancies by 30%.  
+- Enhanced system reporting capabilities, leading to improved data-driven decision-making.
+
+Software Engineer, Crown Equipment Corporation, Hartford, CT (2005–2009)  
+Annual salary: $81,900  
+- Developed and maintained software applications that improved operational workflow efficiency by 25%.  
+- Collaborated with cross-functional teams to deliver software solutions that met client specifications.

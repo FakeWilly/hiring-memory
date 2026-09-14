@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in developing innovative solutions and a passion for problem-solving. Adept at working in collaborative environments to deliver high-quality software systems, combining technical expertise with a love for crafting and puzzles to optimize performance and usability.  
+
+**Education**  
+Bachelor's Degree in Computer Science, CUNY City College, 2005  
+
+**Work History**  
+
+**Junior Software Engineer, INFO IMAGE, Jersey City, NJ (2005–2007)**  
+Annual salary: $61,700  
+- Assisted in developing and maintaining company-wide software solutions, leading to a 20% increase in system efficiency.  
+- Collaborated with senior engineers to troubleshoot complex code issues, significantly reducing system downtime.  
+
+**Software Engineer, SentinelOne, Newark, NJ (2007–2009)**  
+Annual salary: $61,100  
+- Designed and implemented new software features that improved user interface and customer satisfaction.  
+- Optimized code for better system performance, resulting in a 15% reduction in processing time.  
+
+**Software Engineer, Teradyne, Whippany, NJ (2009–2013)**  
+Annual salary: $83,800  
+- Developed innovative testing frameworks, improving the accuracy and reliability of software deployments.  
+- Worked closely with cross-functional teams to deliver projects on time and within budget.  
+
+**Senior Software Engineer, Plexe LLC, Newark, NJ (2013–2018)**  
+Annual salary: $122,700  
+- Led a team of engineers in designing a scalable software architecture, increasing user capacity by 30%.  
+- Spearheaded the migration to a new technology stack, cutting maintenance costs by 20%.  
+
+**Senior Software Engineer, Chugach Government Solutions, Whippany, NJ (2018–Present)**  
+Annual salary: $149,300  
+- Implemented advanced algorithms to enhance system security and data integrity.  
+- Mentored junior developers, fostering a culture of continuous learning and improvement within the team.

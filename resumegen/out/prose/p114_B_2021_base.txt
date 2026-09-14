@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in systems engineering and development. Known for a humorous communication style and a knack for building strong team relationships, I bring a unique blend of technical expertise and interpersonal skills to every project.
+
+**Education**  
+Associate's Degree in Statistics, Rochester Institute of Technology, 1999  
+
+**Work History**  
+
+**Junior Software Engineer, EMTAK LLC, Morris Plains, NJ, US (1999–2002)**  
+Annual salary: $64,600  
+- Developed and maintained software applications, improving system performance by 15%.  
+- Collaborated with senior engineers to enhance user interfaces, leading to increased user satisfaction.
+
+**Systems Engineer, Docusign, Whippany, NJ, US (2002–2006)**  
+Annual salary: $84,100  
+- Implemented system upgrades that reduced downtime by 30%.  
+- Developed documentation for system processes, enhancing operational efficiency for the support team.
+
+**Systems Engineer, Caliber Collision, Lakewood, NJ (2006–2010)**  
+Annual salary: $98,800  
+- Spearheaded the migration of legacy systems to new platforms, resulting in a 40% increase in processing speed.  
+- Improved system security protocols, reducing vulnerabilities by 25%.
+
+**Senior Systems Engineer, Epic Games, Parsippany-Troy Hills, NJ, US (2010–2014)**  
+Annual salary: $135,500  
+- Led a team in designing a scalable infrastructure that supported a 50% increase in user traffic.  
+- Developed automated solutions that reduced manual workload by 20%.
+
+**Staff Systems Engineer, Sabel Systems, Binghamton, NY (2014–2018)**  
+Annual salary: $187,000  
+- Designed and implemented cloud-based solutions that cut operational costs by 15%.  
+- Mentored junior engineers, fostering a collaborative and high-performing team environment.
+
+**Staff Systems Engineer, DeNovo Solutions, Newark, NJ, US (2018–Present)**  
+Annual salary: $211,400  
+- Architected a robust system framework that enhanced data processing capabilities by 50%.  
+- Integrated cutting-edge technologies into existing systems, significantly improving performance metrics.

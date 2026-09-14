@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Detail-oriented software engineer with over 14 years of experience in backend development and a passion for solving complex puzzles through innovative coding solutions. Adept at leveraging cutting-edge technologies to create efficient, scalable, and robust software systems.
+
+**Education**  
+Bachelor's Degree in Information Systems, University of Connecticut, 2008
+
+**Work History**
+
+**Senior Backend Engineer, InStride, Rochester, NY (2021–Present)**  
+Annual salary: $166,500  
+- Spearheaded the migration of legacy systems to modern cloud-based architectures, improving system efficiency by 30%.  
+- Led a team of five engineers in designing and implementing microservices, significantly reducing system downtime.
+
+**Backend Engineer, Cargill, Franklin Lakes, NJ (2020–2021)**  
+Annual salary: $148,700  
+- Developed and optimized backend APIs, decreasing response times by 20%.  
+- Collaborated with cross-functional teams to integrate new data analytics tools, enhancing data-driven decision-making processes.
+
+**Backend Engineer, Siemens Corp, Albany, NY (2018–2020)**  
+Annual salary: $136,200  
+- Implemented a new caching mechanism, boosting application performance by 25%.  
+- Conducted code reviews and mentored junior developers, fostering a culture of continuous learning and improvement.
+
+**Backend Engineer, Virtusa, Groton, CT (2013–2018)**  
+Annual salary: $118,600  
+- Engineered robust data processing pipelines to handle large-scale data sets, increasing throughput by 40%.  
+- Coordinated with front-end developers to enhance system integration, improving user experience and reducing bug rates.
+
+**Junior Software Engineer, Centerfield, Rochester, NY (2008–2013)**  
+Annual salary: $80,900  
+- Assisted in the development of core software components, contributing to a 15% increase in application stability.  
+- Enhanced documentation processes, facilitating better knowledge sharing across the engineering team.

@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in backend development and a proven track record of delivering efficient and scalable solutions. Highly organized and tech-savvy, known for direct communication and a passion for implementing innovative technologies in dynamic environments.  
+
+**Education**  
+Bachelor's Degree in Computer Science, Stony Brook University, 2003  
+
+**Work History**  
+
+*Senior Backend Engineer, Patterson Companies, Buffalo, NY, US (2017–Present)*  
+Annual salary: $133,500  
+- Led a team to overhaul the company's legacy systems, improving processing speed by 30%.  
+- Streamlined deployment processes, reducing downtime during updates by 40%.  
+
+*Senior Backend Engineer, Slesha, Hackensack, NJ, US (2015–2017)*  
+Annual salary: $106,900  
+- Implemented a microservices architecture that enhanced system flexibility and reduced server costs by 20%.  
+- Spearheaded the migration of databases to cloud services, improving data retrieval times.  
+
+*Backend Engineer, Publix, Rochester, NY, USA (2010–2015)*  
+Annual salary: $88,300  
+- Developed backend solutions that supported a 50% increase in daily transaction volumes.  
+- Collaborated with cross-functional teams to integrate machine learning algorithms for predictive analytics.  
+
+*Backend Engineer, KitRUM, Lakewood, NJ (2007–2010)*  
+Annual salary: $74,600  
+- Designed and maintained core APIs, supporting key business functions with high reliability.  
+- Enhanced system performance through code optimization, resulting in a 25% decrease in response times.  
+
+*Junior Software Engineer, CTA Incorporated, Mount Laurel, NJ, US (2003–2007)*  
+Annual salary: $50,700  
+- Assisted in developing custom software solutions that improved client workflow efficiency.  
+- Participated in code reviews and contributed to the establishment of coding standards.

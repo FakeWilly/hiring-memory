@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong background in frontend development and a proven track record of delivering high-quality, user-centric applications. Currently working as a Staff Frontend Engineer in the New York metro area, known for leveraging technical expertise and creativity to enhance user experiences.
+
+**Education**  
+Master's Degree in Software Engineering, Drexel University, 2007  
+
+**Work History**  
+
+**Staff Frontend Engineer, VergeSense, Whippany, NJ, US (2021–Present)**  
+Annual salary: $199,200  
+- Spearheaded the redesign of the company's flagship product interface, improving user engagement by 25%.  
+- Collaborated with cross-functional teams to integrate cutting-edge technologies, enhancing product scalability and performance.  
+
+**Staff Frontend Engineer, GM Financial, Princeton, NJ (2018–2021)**  
+Annual salary: $194,300  
+- Led a team of engineers to migrate legacy systems to modern frameworks, reducing load times by 40%.  
+- Implemented a component-based architecture, resulting in a 30% increase in development efficiency.  
+
+**Senior Frontend Engineer, BioHorizons Implant Systems, Rensselaer, NY, US (2014–2018)**  
+Annual salary: $131,400  
+- Developed a new suite of tools for client data visualization, boosting client satisfaction scores by 18%.  
+- Introduced agile development practices, leading to a 20% reduction in project delivery times.  
+
+**Frontend Engineer, Lucid Motors, Parsippany-Troy Hills, NJ, US (2012–2014)**  
+Annual salary: $99,400  
+- Optimized the corporate website for mobile devices, resulting in a 50% increase in mobile traffic.  
+- Implemented SEO best practices, enhancing online visibility and search rankings.  
+
+**Frontend Engineer, Baxter, Kingston, NY, US (2010–2012)**  
+Annual salary: $103,800  
+- Collaborated with backend developers to create an integrated API, improving data retrieval speed by 30%.  
+- Designed an interactive dashboard for real-time data analysis, aiding in strategic decision-making.  
+
+**Frontend Engineer, Fidelity TalentSource, Buffalo, NY (2007–2010)**  
+Annual salary: $93,400  
+- Played a key role in the development of a client-facing application, contributing to a 15% increase in customer satisfaction.  
+- Enhanced UI/UX design, improving user interaction and navigation flow.

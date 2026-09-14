@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Tech-savvy software engineering professional with over 17 years of experience in developing and optimizing high-performance software solutions. Highly organized and adept in leading complex projects from conception to completion in fast-paced environments.  
+
+Education  
+Bachelor's Degree in Computer Science, University of Connecticut, 2005  
+
+Work History  
+
+Principal Software Engineer, American Airlines, East Newark, NJ (2021–Present)  
+Annual salary: $169,600  
+- Spearheaded the integration of next-generation software systems, improving operational efficiency by 30%.  
+- Led a team of 10 engineers to deliver critical software updates on schedule and under budget.  
+
+Staff Software Engineer, Updater, Mount Laurel, NJ (2017–2021)  
+Annual salary: $165,500  
+- Developed a scalable cloud-based platform utilized by over 1 million users nationwide.  
+- Improved system performance by 40% through refactoring legacy code and implementing modern technologies.  
+
+Senior Software Engineer, Optizm Inc, East Newark, NJ (2015–2017)  
+Annual salary: $119,900  
+- Designed and implemented a key feature that increased customer satisfaction ratings by 25%.  
+- Mentored junior engineers, fostering a collaborative and innovative team environment.  
+
+Senior Software Engineer, Zedcor Inc., East Syracuse, NY (2011–2014)  
+Annual salary: $124,900  
+- Architected and deployed a new software suite, reducing processing time by 50%.  
+- Led the transition to an agile development process, enhancing project delivery timelines.  
+
+Software Engineer, Reliability Center, Rochester, NY (2009–2011)  
+Annual salary: $89,400  
+- Developed and maintained software solutions that increased operational efficiency by 20%.  
+- Collaborated with cross-functional teams to implement client-driven enhancements.  
+
+Junior Software Engineer, CPS Insurance Services, Old Westbury, NY (2005–2009)  
+Annual salary: $60,700  
+- Assisted in the development of a claims processing application, speeding up processing times by 15%.  
+- Implemented debugging procedures that reduced software errors by 30%.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing and implementing innovative solutions across various industries. Known for a direct communication style and a passion for problem-solving, I bring a unique blend of technical expertise and a keen analytical mindset to every project.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**
+
+**Systems Engineer, LRP Media Group, East Syracuse, NY (2019–Present)**  
+Annual salary: $101,300  
+- Spearheaded the development of a new system architecture, improving system efficiency by 30%.  
+- Led a team of five engineers in a successful migration to a cloud-based infrastructure, reducing operational costs by 20%.
+
+**Systems Engineer, BNY, New York, NY (2016–2019)**  
+Annual salary: $77,400  
+- Implemented a streamlined process for system updates, reducing downtime by 15%.  
+- Designed and executed a robust security protocol that enhanced data protection and privacy compliance.
+
+**Junior Software Engineer, Allied Solutions, East Newark, NJ, US (2010–2015)**  
+Annual salary: $68,700  
+- Developed and maintained critical software applications, contributing to a 25% increase in system reliability.  
+- Collaborated with cross-functional teams to optimize software performance and user experience.
+
+**Junior Software Engineer, Teradyne, Binghamton, NY (2007–2010)**  
+Annual salary: $61,800  
+- Enhanced software testing procedures, resulting in a 20% reduction in bug-related delays.  
+- Assisted in the design and deployment of a new user interface, improving client satisfaction.
+
+**Junior Software Engineer, Belt Power LLC, Syracuse, NY, US (2003–2007)**  
+Annual salary: $55,000  
+- Contributed to the successful launch of a new software product, increasing company revenue by 10%.  
+- Developed efficient code solutions that optimized system operations and reduced processing time.

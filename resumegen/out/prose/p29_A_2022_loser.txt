@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in the industry, known for reliability and a tech-savvy approach to software development. Adept at leading teams to deliver high-impact solutions, consistently exceeding project goals in dynamic environments.
+
+**Education**  
+Associate's Degree in Statistics, Stony Brook University, 2000  
+
+**Work History**  
+
+**Staff Software Engineer, Smart Capital Center, Andes, NY, US (2019–Present)**  
+Annual salary: $214,100  
+- Spearheaded a cross-functional team to deliver scalable software solutions, reducing system downtime by 30%.  
+- Implemented a new code review system, increasing code quality and team productivity by 25%.
+
+**Staff Software Engineer, Groe Advisors LLC, Hartford, CT (2016–2019)**  
+Annual salary: $177,900  
+- Led the development of a microservices architecture, increasing system efficiency by 40%.  
+- Mentored junior engineers, fostering a collaborative team environment and enhancing skill sets.
+
+**Senior Software Engineer, AI Signal Research Inc (ASRI), Lakewood, NJ (2013–2016)**  
+Annual salary: $125,600  
+- Designed and implemented a new software feature that improved user engagement by 20%.  
+- Collaborated with cross-functional teams to streamline development processes, decreasing project delivery times by 15%.
+
+**Senior Software Engineer, Daifuku, Rensselaer, NY, US (2008–2012)**  
+Annual salary: $124,800  
+- Developed and optimized algorithms, boosting system performance by 35%.  
+- Coordinated with stakeholders to ensure software solutions met business needs, resulting in a 98% client satisfaction rate.
+
+**Software Engineer, Avance Consulting, Bedminster, NJ, US (2005–2008)**  
+Annual salary: $87,600  
+- Contributed to the development of a key application feature, enhancing client retention by 10%.  
+- Assisted in the transition to a new software platform, improving overall system reliability.
+
+**Junior Software Engineer, Boats Group, Hartford, CT (2000–2005)**  
+Annual salary: $60,100  
+- Participated in the full software development lifecycle, contributing to multiple successful project launches.  
+- Developed and maintained software documentation, improving team communication and project tracking.

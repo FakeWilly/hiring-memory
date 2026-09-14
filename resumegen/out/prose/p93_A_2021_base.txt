@@ -1,0 +1,20 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 7 years of experience in developing robust code and innovative solutions. Highly organized and direct in communication, seeking to leverage expertise in software development and problem-solving in the New York metro area.
+
+**Education**  
+Bachelor's Degree in Computer Science, Penn State University, 2014
+
+**Work History**
+
+Junior Software Engineer, Netsimco, Kingston, NY (2014–2016)  
+Annual salary: $70,100  
+- Developed and optimized algorithms for network simulation software, resulting in a 15% increase in processing speed.  
+- Collaborated with a team of engineers to enhance system performance and reliability, reducing incident rates by 20%.
+
+Junior Software Engineer, SHLD, New York, NY (2016–Present)  
+Annual salary: $78,100  
+- Spearheaded the migration of legacy code to modern frameworks, improving system efficiency by 30%.  
+- Assisted in the design and implementation of a new feature set for the company's flagship application, contributing to a 25% increase in user engagement.

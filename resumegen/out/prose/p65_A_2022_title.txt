@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Accomplished infrastructure engineer with over 14 years of progressive experience in designing and implementing scalable technology solutions for high-profile companies. Adept at solving complex puzzles in infrastructure and known for infusing humor and creativity into collaborative projects.
+
+**Education**  
+Master's Degree in Mathematics, Penn State University, 2008  
+
+**Work History**  
+
+Principal Infrastructure Engineer, Betts Precision Inc, Morris Plains, NJ (2021–Present)  
+Annual salary: $217,700  
+- Spearheaded the redesign of the company's data center infrastructure, reducing operational costs by 15%.  
+- Developed and implemented a new automation framework, improving deployment efficiency by 30%.
+
+Staff Infrastructure Engineer, Atlassian, Hartford, CT (2020–2021)  
+Annual salary: $212,400  
+- Led a team to enhance system reliability, achieving a 99.9% uptime for critical services.  
+- Introduced a gamification strategy for incident management, increasing team engagement and response times.
+
+Senior Infrastructure Engineer, Lucid Motors, Newark, NJ (2018–2020)  
+Annual salary: $164,200  
+- Architected a robust cloud infrastructure, supporting the launch of Lucid’s flagship product with zero downtime.  
+- Implemented innovative monitoring solutions, decreasing incident resolution time by 40%.
+
+Senior Infrastructure Engineer, Disney Streaming Technology LLC, Bedminster, NJ (2014–2018)  
+Annual salary: $148,900  
+- Engineered scalable streaming solutions, supporting a 50% increase in subscriber growth.  
+- Collaborated with cross-functional teams to roll out new features, enhancing user experience.
+
+Infrastructure Engineer, reveleer, Bedminster, NJ (2010–2014)  
+Annual salary: $108,200  
+- Optimized server performance, resulting in a 20% increase in application speed.  
+- Played a key role in migrating legacy systems to a modern cloud infrastructure.
+
+Infrastructure Engineer, Scientific Games, Groton, CT (2008–2010)  
+Annual salary: $101,400  
+- Developed networking solutions to support high-traffic gaming applications.  
+- Reduced system downtime by implementing proactive monitoring and maintenance protocols.

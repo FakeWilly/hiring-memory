@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Tech-savvy and detail-oriented Software Engineer with over a decade of experience in designing and implementing cutting-edge software solutions. Known for punctuality and open communication, I excel in fast-paced environments and have a strong passion for photography and cooking.
+
+Education  
+Master's Degree in Software Engineering, CUNY City College, 2009  
+
+Work Experience  
+
+Senior Software Engineer, US News & World Report, Troy, NY, US (2020–Present)  
+Annual salary: $181,700  
+- Spearheaded the redesign of the main website, reducing page load time by 30%.  
+- Collaborated with cross-functional teams to implement new features, increasing user engagement by 20%.  
+
+Software Engineer, Clients First Business Solutions, Andes, NY, US (2016–2020)  
+Annual salary: $131,700  
+- Developed and maintained high-traffic e-commerce platforms, enhancing transaction efficiency by 15%.  
+- Led a team in the integration of a new customer relationship management system, improving client satisfaction.  
+
+Software Engineer, VTekis Consulting LLP, Hartford, CT (2012–2016)  
+Annual salary: $118,600  
+- Implemented agile methodologies that improved project delivery speed by 25%.  
+- Designed a scalable data processing application that handled a 50% increase in client data.  
+
+Software Engineer, Beyond Pricing, Syracuse, NY, US (2009–2012)  
+Annual salary: $104,800  
+- Successfully optimized code for pricing models, leading to a 10% increase in pricing accuracy.  
+- Assisted in the migration of legacy systems to cloud-based solutions, reducing operational costs by 20%.

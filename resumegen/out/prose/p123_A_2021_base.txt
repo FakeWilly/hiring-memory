@@ -1,0 +1,33 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Experienced software engineer with a robust background in developing and optimizing innovative software solutions. Highly skilled at collaborating in dynamic team environments and translating complex technical requirements into scalable applications.
+
+---
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2007
+
+---
+
+**Work History**
+
+**Staff Software Engineer, OC Business Finder, Morris Plains, NJ (2016–Present)**  
+Annual salary: $168,300  
+- Spearheaded the development of a high-traffic web application, increasing user engagement by 40% within the first year.  
+- Implemented a microservices architecture that improved system efficiency and reduced downtime by 30%.  
+
+**Senior Software Engineer, Select Search Associates LLC, Jersey City, NJ (2013–2016)**  
+Annual salary: $118,500  
+- Led a team of engineers in refactoring a legacy system to a modern technology stack, resulting in a 50% improvement in application performance.  
+- Developed and deployed a real-time analytics dashboard that enhanced data visualization and decision-making capabilities for stakeholders.
+
+**Software Engineer, Orlando Utilities Commission, New York, NY (2007–2012)**  
+Annual salary: $97,100  
+- Designed and implemented a customer-facing portal that improved user accessibility and increased online transactions by 25%.  
+- Collaborated with cross-functional teams to integrate new software features that enhanced overall system functionality.  
+
+---

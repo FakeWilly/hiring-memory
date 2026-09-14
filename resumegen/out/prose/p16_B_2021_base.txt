@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy Infrastructure Engineer with over two decades of experience in designing and optimizing complex systems for prominent organizations. Known for exceptional organizational skills and a humorous communication style, I excel in delivering reliable and efficient infrastructure solutions.
+
+**Education**  
+Master's Degree in Information Systems, Northeastern University, 2001  
+
+**Work History**
+
+**Staff Infrastructure Engineer, Ultragenyx, Mahwah, NJ (2020–Present)**  
+Annual salary: $211,000  
+- Spearheaded the migration of legacy systems to cloud-based platforms, enhancing system scalability and reducing operational costs by 20%.  
+- Collaborated with cross-functional teams to implement robust security protocols, resulting in a 30% reduction in incident response times.  
+
+**Staff Infrastructure Engineer, Youtube, Warren, NJ, US (2016–2020)**  
+Annual salary: $181,600  
+- Led a team in the development and deployment of high-availability systems, increasing uptime to 99.99% across all platforms.  
+- Innovated automated monitoring solutions, which decreased system downtime by 25%.  
+
+**Staff Infrastructure Engineer, Digible, Inc, Greene, NY, USA (2014–2016)**  
+Annual salary: $155,400  
+- Managed large-scale infrastructure projects, delivering them on time and under budget by 15%.  
+- Developed and implemented disaster recovery plans, ensuring business continuity and data protection.  
+
+**Senior Infrastructure Engineer, Elevate Government Solutions, Princeton, NJ (2011–2014)**  
+Annual salary: $109,600  
+- Optimized network performance through strategic upgrades, reducing latency and enhancing user experience.  
+- Enhanced system redundancy, which improved service reliability and client satisfaction.  
+
+**Senior Infrastructure Engineer, Laborie Medical Technologies, Troy, NY, US (2008–2011)**  
+Annual salary: $106,200  
+- Implemented advanced virtualization technologies, leading to a 40% reduction in hardware costs.  
+- Streamlined data management processes, improving data retrieval speed by 35%.  
+
+**Infrastructure Engineer, Optizm Inc, Greene, NY, USA (2006–2008)**  
+Annual salary: $89,100  
+- Designed and implemented network architecture, supporting a 50% increase in user capacity.  
+- Conducted comprehensive system audits, enhancing overall security posture.  
+
+**Infrastructure Engineer, Goldman Sachs, New York, NY, USA (2001–2006)**  
+Annual salary: $77,800  
+- Developed and maintained efficient infrastructure systems, contributing to the firm’s operational excellence.  
+- Collaborated on infrastructure projects that supported key financial operations, driving business growth.

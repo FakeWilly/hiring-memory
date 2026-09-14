@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience in platform development and a knack for humor-infused collaboration. Known for exceptional organizational skills and a passion for crafting innovative solutions, I drive efficiency and reliability in high-performance software systems.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 1999
+
+**Work History**
+
+**Staff Platform Engineer, OCLC, Lakewood, NJ (2018–Present)**  
+Annual salary: $196,800  
+- Spearheaded the development of a high-availability platform, increasing system uptime by 15%.  
+- Collaborated with cross-functional teams to streamline deployment processes, reducing time-to-market by 20%.  
+
+**Staff Platform Engineer, Capital Axis Solutions, Morris Plains, NJ, US (2015–2018)**  
+Annual salary: $175,500  
+- Designed and implemented scalable architecture, supporting a 50% increase in concurrent user capacity.  
+- Led a team to optimize resource allocation, cutting operational costs by 10%.  
+
+**Staff Platform Engineer, CyberCoders, New York, NY, USA (2013–2015)**  
+Annual salary: $184,100  
+- Developed and maintained a core platform service that improved data processing speeds by 30%.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation.  
+
+**Staff Platform Engineer, Peraton, Troy, NY, US (2011–2013)**  
+Annual salary: $172,900  
+- Architected a robust data management system, enhancing data retrieval efficiency by 40%.  
+- Implemented security protocols that reduced vulnerabilities by 25%.  
+
+**Senior Platform Engineer, Mission Driven Research, Groton, CT, US (2007–2011)**  
+Annual salary: $117,800  
+- Led the migration to a cloud-based infrastructure, achieving a 60% reduction in downtime.  
+- Enhanced system integration capabilities by developing custom APIs.  
+
+**Platform Engineer, Patterson Companies, New York, NY, US (2004–2007)**  
+Annual salary: $89,300  
+- Developed a comprehensive monitoring system that improved system reliability by 25%.  
+- Collaborated with a multidisciplinary team to deliver key platform enhancements.  
+
+**Junior Software Engineer, Analytical Services & Materials, Inc., Old Westbury, NY (1999–2004)**  
+Annual salary: $59,600  
+- Assisted in the successful launch of a new software platform, contributing to a 20% increase in client satisfaction.  
+- Automated routine tasks, leading to a 15% improvement in team productivity.

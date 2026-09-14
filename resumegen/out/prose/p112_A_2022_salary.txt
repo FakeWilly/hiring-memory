@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]
+
+**Professional Summary**  
+A dedicated software engineer with over two decades of experience in developing innovative solutions in various industries. Known for a keen sense of humor and a passion for technology, I excel in collaborative environments where I can leverage my skills to solve complex problems efficiently.
+
+**Education**  
+Bachelor's Degree in Mathematics, Penn State University, 1999
+
+**Work History**
+
+Senior Software Engineer, Splunk, Whippany, NJ, US (2021–Present)  
+Annual salary: $113,700  
+- Spearheaded the development of a high-performance data analysis tool, improving processing speed by 25%.  
+- Led a team in implementing a new security protocol that reduced system vulnerabilities by 40%.  
+
+Senior Software Engineer, MORI Associates, East Newark, NJ, US (2017–2021)  
+Annual salary: $101,500  
+- Designed and implemented a scalable microservices architecture, enhancing system flexibility and reliability.  
+- Collaborated with cross-functional teams to streamline the software deployment process, decreasing deployment time by 30%.  
+
+Senior Software Engineer, Artius Solutions, Mahwah, NJ (2013–2017)  
+Annual salary: $93,800  
+- Optimized existing codebase, resulting in a 20% increase in application efficiency.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.  
+
+Software Engineer, RedZone Robotics, Greene, NY, USA (2008–2013)  
+Annual salary: $87,900  
+- Developed software solutions for autonomous robotic systems, enhancing operational accuracy by 15%.  
+- Successfully integrated new AI algorithms, improving data processing capabilities.  
+
+Junior Software Engineer, archer, Warren, NJ, US (2004–2008)  
+Annual salary: $67,300  
+- Assisted in the development of a customer-facing application, increasing user engagement by 10%.  
+- Participated in code reviews, contributing to quality assurance and team learning.  
+
+Junior Software Engineer, Affirm, New York, NY, USA (1999–2004)  
+Annual salary: $57,100  
+- Contributed to the development of a financial application, improving transaction speed by 20%.  
+- Supported team efforts in debugging and troubleshooting, enhancing system reliability.

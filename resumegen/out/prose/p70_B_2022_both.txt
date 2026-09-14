@@ -1,0 +1,43 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Accomplished software engineer with nearly two decades of experience in developing innovative software solutions. Highly skilled in collaborating with cross-functional teams to drive project success while consistently delivering high-quality code and meeting project deadlines.
+
+**Education**  
+Bachelor's Degree in Statistics, Drexel University, 2004
+
+**Work History**  
+
+**Staff Software Engineer, cybertrol engineering, Hackensack, NJ, US (2021–Present)**  
+Annual salary: $159,300  
+- Leading a team to design and implement scalable software systems, enhancing operational efficiency by over 25%.  
+- Spearheaded the integration of cutting-edge technologies, resulting in a 30% improvement in application performance.  
+
+**Senior Software Engineer, Snowflake, New York, NY (2016–2021)**  
+Annual salary: $142,200  
+- Successfully managed a portfolio of key projects, achieving a 98% on-time delivery rate.  
+- Mentored junior engineers, fostering an environment of continuous learning and development.  
+
+**Software Engineer, Base-2 Solutions, LLC, Rensselaer, NY, US (2013–2016)**  
+Annual salary: $108,400  
+- Developed and implemented software solutions that increased client satisfaction by 20%.  
+- Collaborated with product teams to enhance user experience, reducing customer complaints by 35%.  
+
+**Software Engineer, Metrostar Systems, Hartford, CT (2011–2013)**  
+Annual salary: $99,100  
+- Optimized existing codebase, resulting in a 40% reduction in system errors.  
+- Played a key role in migrating legacy systems to modern architectures, improving system robustness.  
+
+**Software Engineer, Workday, Parsippany-Troy Hills, NJ, US (2009–2011)**  
+Annual salary: $92,000  
+- Implemented new software features that increased processing speed by 15%.  
+- Collaborated with QA teams to enhance testing frameworks, reducing bug incidence by 25%.  
+
+**Junior Software Engineer, Jackson Sumner & Associates, Franklin Lakes, NJ, US (2004–2009)**  
+Annual salary: $61,700  
+- Assisted in developing applications that supported business growth by 10% annually.  
+- Instrumental in streamlining development processes, decreasing project turnaround time by 20%.  
+
+**Hobbies**  
+Photography, Cooking

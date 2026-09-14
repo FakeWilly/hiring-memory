@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in designing and developing innovative software solutions. Known for punctuality and a humorous communication style, skilled in creating efficient code and enhancing system performance.
+
+**Education**  
+Master's Degree in Electrical Engineering, University of Connecticut, 2009  
+
+**Work History**  
+
+**Senior Software Engineer, Coterra Energy, Groton, CT (2019–Present)**  
+Annual salary: $173,700  
+- Led the design and implementation of a scalable software platform that increased system efficiency by 30%.  
+- Spearheaded a team to integrate new technologies, reducing operational costs by 15%.  
+
+**Software Engineer, Cheetah, an Accutech company, Morris Plains, NJ (2016–2019)**  
+Annual salary: $124,500  
+- Developed a critical application feature leading to a 20% increase in user engagement.  
+- Collaborated with cross-functional teams to streamline deployment processes, cutting release time by 25%.  
+
+**Software Engineer, Arkansas State University, Lakewood, NJ (2011–2016)**  
+Annual salary: $105,700  
+- Implemented software solutions that improved data processing speed by 40%.  
+- Enhanced system security protocols, significantly reducing vulnerabilities.  
+
+**Software Engineer, Ultimate Technologies Group, Old Westbury, NY (2009–2011)**  
+Annual salary: $101,100  
+- Designed and launched a pivotal software module that boosted performance by 15%.  
+- Contributed to refining codebase architecture, enhancing maintainability and performance.

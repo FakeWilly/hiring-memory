@@ -1,0 +1,46 @@
+[NAME]  
+[EMAIL]  
+New York Metro Area
+
+**Professional Summary**  
+Tech-savvy software engineer with over two decades of experience in systems engineering and development, known for a humorous communication style and a passion for solving complex puzzles. Proven track record of delivering innovative solutions and improving system efficiencies within public sector environments.
+
+**Education**  
+Associate's Degree in Electrical Engineering, CUNY City College, 1999
+
+**Work History**
+
+**Staff Systems Engineer**, Clear Street, Kingston, NY, US (2021–Present)  
+Annual salary: $236,500  
+- Spearheaded the implementation of a new system architecture, reducing processing time by 30%.  
+- Led a team of engineers in a successful migration project, ensuring zero downtime for critical services.
+
+**Staff Systems Engineer**, Odyssey Systems Consulting Group, Franklin Lakes, NJ, US (2018–2021)  
+Annual salary: $211,200  
+- Optimized legacy systems, resulting in a 25% increase in operational efficiency.  
+- Developed and maintained high-availability systems, enhancing reliability for key business operations.
+
+**Staff Systems Engineer**, Hungryroot, Jersey City, NJ (2014–2018)  
+Annual salary: $187,600  
+- Designed and developed scalable backend systems that supported a 40% growth in customer base.  
+- Collaborated with cross-functional teams to streamline data processing workflows.
+
+**Senior Systems Engineer**, Nexagen Networks Inc, East Newark, NJ, US (2010–2014)  
+Annual salary: $135,400  
+- Enhanced system security protocols, leading to a 50% reduction in vulnerability incidents.  
+- Initiated a successful rollout of new software tools, increasing team productivity.
+
+**Systems Engineer**, TheMasonGroup, Groton, CT, US (2006–2010)  
+Annual salary: $100,100  
+- Implemented automated testing frameworks, improving software quality and reducing bug rates by 20%.  
+- Played a key role in the integration of new hardware solutions, boosting system performance.
+
+**Systems Engineer**, Inspire Medical Systems I, Morris Plains, NJ, US (2002–2006)  
+Annual salary: $85,000  
+- Developed custom software solutions that enhanced data management and retrieval.  
+- Conducted comprehensive system audits, resulting in improved compliance with industry standards.
+
+**Junior Software Engineer**, Akina, Inc., Parsippany-Troy Hills, NJ, US (1999–2002)  
+Annual salary: $64,400  
+- Assisted in the development of client-server applications, contributing to successful project completions.  
+- Enhanced application features based on user feedback, increasing user satisfaction.

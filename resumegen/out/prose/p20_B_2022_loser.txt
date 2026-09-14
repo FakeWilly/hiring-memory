@@ -1,0 +1,28 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Highly skilled Infrastructure Engineer with over a decade of experience in designing, implementing, and maintaining robust IT infrastructures. Adept at leveraging cutting-edge technologies to enhance system performance and ensure seamless operations in fast-paced environments.
+
+**Work History**
+
+Infrastructure Engineer, Clear Street, Melville, NY (2011–2016)  
+Annual salary: $104,300  
+- Developed and maintained a scalable network infrastructure, resulting in a 30% increase in system efficiency.  
+- Collaborated with cross-functional teams to implement security protocols, reducing potential breaches by 40%.
+
+Infrastructure Engineer, Box, Syracuse, NY (2016–2018)  
+Annual salary: $122,300  
+- Led the integration of cloud-based solutions, which improved data accessibility and reduced operational costs by 25%.  
+- Streamlined deployment processes, decreasing system downtime by 20%.
+
+Infrastructure Engineer, Walgreens, Lakewood, NJ (2018–Present)  
+Annual salary: $132,900  
+- Spearheaded the modernization of the company’s IT infrastructure, enhancing scalability and reliability.  
+- Implemented proactive monitoring systems that identified and resolved issues 50% faster.
+
+**Education**  
+Master's Degree in Statistics, Rochester Institute of Technology, 2011

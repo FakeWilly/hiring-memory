@@ -1,0 +1,51 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Experienced software engineer with over two decades of expertise in developing innovative solutions and leading complex projects. Adept at working in fast-paced environments, with a strong focus on reliability and efficiency, and known for being consistently punctual and tech-savvy.
+
+**Education**  
+Bachelor's Degree in Statistics, Rutgers University, 2001  
+
+**Work History**
+
+**Principal Software Engineer, Minutes To Seconds, Mahwah, NJ (2021–Present)**  
+Annual salary: $226,700  
+- Spearheaded the development of a high-availability data processing application, resulting in a 30% increase in system efficiency.  
+- Collaborated with cross-functional teams to implement cutting-edge software solutions, enhancing product offerings and customer satisfaction.
+
+**Staff Software Engineer, Cogility, White Plains, NY (2018–2021)**  
+Annual salary: $202,400  
+- Led a team of engineers in the successful delivery of a scalable cloud-based platform, reducing operational costs by 20%.  
+- Optimized existing codebases, improving performance metrics and reducing system downtime by 15%.
+
+**Staff Software Engineer, CoBank, Mount Laurel, NJ (2015–2018)**  
+Annual salary: $182,300  
+- Developed and maintained critical banking software applications, ensuring compliance with industry standards.  
+- Automated key processes, resulting in a 25% increase in productivity and a significant reduction in manual errors.
+
+**Staff Software Engineer, Automatic Building Controls, Princeton, NJ (2013–2015)**  
+Annual salary: $167,000  
+- Engineered robust systems for building automation, enhancing user experience and functionality.  
+- Collaborated with other engineers to integrate IoT technologies, leading to innovative smart-building solutions.
+
+**Staff Software Engineer, Bounteous, New York, NY (2011–2013)**  
+Annual salary: $121,400  
+- Designed and implemented scalable applications for e-commerce clients, boosting transaction efficiency by 40%.  
+- Played a key role in migrating legacy systems to modern architectures, improving maintainability and performance.
+
+**Senior Software Engineer, BLYK Engineering Services, Warren, NJ (2009–2011)**  
+Annual salary: $121,900  
+- Improved software delivery timelines through agile methodologies, increasing team productivity by 30%.  
+- Developed customized solutions for clients, driving new business opportunities and enhancing client satisfaction.
+
+**Software Engineer, Collective Inc, Lakewood, NJ (2006–2009)**  
+Annual salary: $88,600  
+- Created and optimized software components, contributing to the company's growth and technical excellence.  
+- Worked closely with stakeholders to gather requirements, ensuring successful project outcomes.
+
+**Junior Software Engineer, UP Entertainment, Old Westbury, NY (2001–2006)**  
+Annual salary: $58,800  
+- Assisted in the development of interactive entertainment software, contributing to the successful launch of multiple titles.  
+- Collaborated with senior engineers to improve code quality and project delivery timelines.

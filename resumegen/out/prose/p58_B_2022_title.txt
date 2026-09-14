@@ -1,0 +1,55 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced Data Engineer with over two decades in the software development and data engineering fields. Adept at transforming complex data into actionable insights with a strong background in mathematics and a tech-savvy approach to problem-solving.
+
+**Education**  
+Bachelor's Degree in Mathematics, Baruch College, 2001
+
+**Work History**
+
+**Staff Data Engineer, Orbis Operations, White Plains, NY, US (2021–Present)**  
+Annual salary: $186,000  
+- Spearheaded the migration of legacy systems to cloud-based infrastructure, improving data accessibility and processing speed by 30%.  
+- Collaborated with cross-functional teams to enhance data integration processes, resulting in a 25% increase in data accuracy.  
+
+**Senior Data Engineer, Lightship, Orchard Park, NY, US (2020–2021)**  
+Annual salary: $181,500  
+- Led a team in the deployment of a new data pipeline, reducing data processing time by 40%.  
+- Optimized SQL queries and data models, decreasing report generation time by 50%.  
+
+**Senior Data Engineer, Exiger, Orchard Park, NY, US (2018–2020)**  
+Annual salary: $172,700  
+- Developed automated data quality monitoring tools, improving data integrity by 35%.  
+- Implemented machine learning models to predict customer behavior, increasing retention rates by 15%.  
+
+**Senior Data Engineer, Arcesium, Hartford, CT (2016–2018)**  
+Annual salary: $155,100  
+- Designed and implemented scalable data architecture supporting a 50% increase in data volume.  
+- Enhanced data security protocols, reducing incidents by 20%.  
+
+**Senior Data Engineer, Classic Design, Parsippany-Troy Hills, NJ, US (2014–2016)**  
+Annual salary: $142,300  
+- Automated data integration workflows, reducing manual processing by 60%.  
+- Collaborated with stakeholders to define data governance policies, improving compliance by 40%.  
+
+**Senior Data Engineer, Hire And Tech, Buffalo, NY (2010–2014)**  
+Annual salary: $119,000  
+- Streamlined the data processing pipeline, improving efficiency by 35%.  
+- Led the implementation of a new ETL framework, reducing data latency by 25%.  
+
+**Data Engineer, Orlando Utilities Commission, Troy, NY, US (2006–2010)**  
+Annual salary: $90,200  
+- Developed data extraction solutions, reducing data retrieval time by 20%.  
+- Implemented data warehousing solutions, enhancing reporting capabilities.  
+
+**Data Engineer, First Technology Federal Credit Union, Orchard Park, NY, US (2004–2006)**  
+Annual salary: $94,000  
+- Designed a data validation framework, improving data quality by 30%.  
+- Collaborated in the integration of new data analytics tools, enhancing insights delivery.  
+
+**Junior Software Engineer, Marga Consulting, Buffalo, NY, US (2001–2004)**  
+Annual salary: $65,100  
+- Assisted in developing software solutions, contributing to a 15% increase in client satisfaction.  
+- Participated in code review and debugging, improving software reliability by 10%.

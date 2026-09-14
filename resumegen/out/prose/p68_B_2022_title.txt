@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over a decade in developing and implementing innovative software solutions. Skilled at bridging the gap between complex technical concepts and business objectives, with a passion for problem-solving and a collaborative approach to development.  
+
+**Education**  
+Master's Degree in Information Systems, Stony Brook University, 2009  
+
+**Work History**  
+
+Staff Software Engineer, FIS Management Services LLC, Lakewood, NJ (2021–Present)  
+Annual salary: $171,300  
+- Spearheaded the development of a new payment processing system that increased transaction efficiency by 30%.  
+- Led a team of 5 engineers in a successful transition to agile methodologies, reducing project delivery times by 25%.  
+
+Senior Software Engineer, DPA Consultant, Greene, NY, USA (2020–2021)  
+Annual salary: $167,100  
+- Designed and implemented a microservices architecture that improved system scalability and reduced maintenance costs.  
+- Collaborated with cross-functional teams to optimize system performance, leading to a 20% increase in throughput.  
+
+Senior Software Engineer, Shummi US LLC, Troy, NY, US (2015–2020)  
+Annual salary: $145,900  
+- Developed a robust API service that enhanced client accessibility and increased data retrieval speed by 40%.  
+- Mentored junior engineers, fostering a culture of continuous learning and innovation within the team.  
+
+Software Engineer, Chicago Financial Search, New York, NY, USA (2012–2015)  
+Annual salary: $111,200  
+- Contributed to the development of a financial analytics platform that improved data accuracy and client satisfaction.  
+- Implemented security measures that reduced system vulnerabilities by 50%.  
+
+Software Engineer, Collective Inc, New York, NY, US (2009–2012)  
+Annual salary: $102,400  
+- Collaborated with a team to develop a state-of-the-art ad targeting system that increased ad engagement by 20%.  
+- Optimized existing codebase to enhance system efficiency and reduce processing time by 15%.

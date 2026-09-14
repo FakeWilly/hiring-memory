@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing and implementing software solutions. Extremely organized and open communicator with a passion for integrating innovative technologies to solve complex problems.  
+
+**Education**  
+Master's Degree in Information Systems, University of Connecticut, 2007  
+
+**Work History**  
+
+Senior Software Engineer, IPG Photonics, Rochester, NY, USA (2019–Present)  
+Annual salary: $146,500  
+- Spearheaded the development of a real-time data processing application that increased system efficiency by 30%.  
+- Led a team of 5 engineers in a successful migration to a cloud-based infrastructure, reducing operational costs by 20%.  
+
+Software Engineer, Berkshire Hathaway Specialty Insurance, Kingston, NY, US (2014–2019)  
+Annual salary: $104,300  
+- Designed and implemented a secure, scalable API, improving client data access speed by 40%.  
+- Collaborated with a cross-functional team to launch a new customer-facing application, resulting in a 25% increase in user satisfaction.  
+
+Software Engineer, ICR, Inc., Melville, NY, US (2009–2014)  
+Annual salary: $90,000  
+- Developed an automated testing framework that reduced bug-related downtime by 50%.  
+- Enhanced the existing software architecture to support new business requirements, increasing system flexibility and resilience.  
+
+Software Engineer, Murphy Company, Greene, NY, USA (2007–2009)  
+Annual salary: $80,700  
+- Contributed to the development of key features in a flagship product that led to a 15% increase in sales.  
+- Assisted in the transition from legacy systems to a modern tech stack, improving overall system performance.

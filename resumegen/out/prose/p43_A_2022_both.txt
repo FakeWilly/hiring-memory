@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over a decade of expertise in developing robust and scalable frontend solutions. Adept at collaborating with cross-functional teams to deliver innovative digital experiences and improve user engagement.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2008  
+
+**Work History**  
+
+**Senior Frontend Engineer**, Quadient, Inc., New York, NY (2021–Present)  
+Annual salary: $132,600  
+- Spearheaded the redesign of the company's flagship product interface, resulting in a 25% increase in user engagement.  
+- Led a team of 5 engineers to implement a new component library, reducing development time by 30%.
+
+**Frontend Engineer**, Centerfield, Syracuse, NY (2018–2021)  
+Annual salary: $118,400  
+- Developed and maintained user interfaces for multiple high-traffic web applications, improving load times by 15%.  
+- Collaborated with UX designers to enhance the site's accessibility, leading to a 20% rise in customer satisfaction scores.  
+
+**Frontend Engineer**, Insurity, Buffalo, NY (2016–2018)  
+Annual salary: $106,500  
+- Implemented responsive design techniques, enhancing mobile user experience and increasing mobile traffic by 40%.  
+- Integrated third-party APIs to expand the platform's functionalities, boosting user retention rates by 10%.  
+
+**Junior Software Engineer**, Capgemini Engineering, Binghamton, NY (2012–2016)  
+Annual salary: $73,300  
+- Assisted in the migration of legacy systems to modern technologies, improving system reliability by 15%.  
+- Contributed to codebase optimizations that improved application performance by 20%.
+
+**Junior Software Engineer**, Sumitomo Mitsui Banking Corporation, East Syracuse, NY (2008–2012)  
+Annual salary: $65,600  
+- Participated in developing secure banking applications, enhancing transaction security and reducing fraud incidents.  
+- Collaborated with senior developers to debug and refine software, increasing overall system efficiency by 10%.

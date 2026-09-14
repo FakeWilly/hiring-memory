@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience in developing and optimizing data solutions across diverse industries. Possesses strong technical skills combined with a passion for innovation and a reserved communication style, thriving in both collaborative and independent work environments.
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2005  
+
+**Work History**
+
+Senior Data Engineer, City of Wildwood, Old Westbury, NY (2020–Present)  
+Annual salary: $175,500  
+- Spearheaded the migration of legacy data systems to a cloud-based infrastructure, improving data retrieval times by 40%.  
+- Developed predictive analytics tools that enabled city planners to make data-driven decisions, contributing to a 15% increase in operational efficiency.
+
+Senior Data Engineer, Coterra Energy, Lakewood, NJ (2016–2020)  
+Annual salary: $146,800  
+- Led a team in designing a new data architecture that reduced system maintenance costs by 30%.  
+- Implemented machine learning algorithms that enhanced data accuracy and reporting capabilities for critical energy resource management.
+
+Senior Data Engineer, The Travelers Companies, Inc., Old Westbury, NY (2012–2016)  
+Annual salary: $103,300  
+- Optimized data processing workflows that decreased data processing time by 25%.  
+- Collaborated with cross-functional teams to integrate new data sources, enhancing the breadth of analytics services offered.
+
+Data Engineer, BRIDGE, Iselin, NJ (2010–2012)  
+Annual salary: $106,200  
+- Developed data models that improved the accuracy of business intelligence reporting by 20%.  
+- Automated data cleaning processes, reducing manual workload by 40% and streamlining reporting timelines.
+
+Junior Software Engineer, Quantum Systems Inc, Jersey City, NJ (2005–2010)  
+Annual salary: $69,500  
+- Assisted in the development of software tools that improved system performance by 15%.  
+- Collaborated on a team project to design a user-friendly interface, enhancing customer satisfaction and usability.

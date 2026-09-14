@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Dynamic and social software engineer with over 13 years of experience in frontend development, specializing in creating user-friendly and efficient web applications. Tech-savvy and open communicator, adept at collaborating with cross-functional teams to drive projects from concept to completion.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2009  
+
+**Work History**
+
+**Staff Frontend Engineer, MetLife, New York, NY, US (2021–Present)**  
+Annual salary: $192,800  
+- Spearheaded the development of a new customer portal, improving user engagement by 25%.  
+- Led a team in implementing responsive design techniques, reducing page load times by 40%.
+
+**Senior Frontend Engineer, Kimley-Horn, East Newark, NJ, US (2020–2021)**  
+Annual salary: $188,100  
+- Directed the transition to a modern JavaScript framework, enhancing application performance and scalability.  
+- Collaborated with UX designers to overhaul the company's website, resulting in a 30% increase in mobile user traffic.
+
+**Frontend Engineer, Four Growers, Mount Laurel, NJ, US (2017–2020)**  
+Annual salary: $136,900  
+- Developed and maintained the frontend architecture for an innovative agricultural tech platform.  
+- Increased code efficiency by 15% through optimization and refactoring initiatives.
+
+**Frontend Engineer, SoFi, Hartford, CT, US (2014–2017)**  
+Annual salary: $119,400  
+- Implemented key features for SoFi’s main client-facing application, contributing to a 20% increase in user retention.  
+- Worked closely with backend teams to streamline API integrations, reducing development time by 10%.
+
+**Frontend Engineer, Youtube, Bedminster, NJ, US (2011–2014)**  
+Annual salary: $111,100  
+- Contributed to the redesign of the video player interface, enhancing the viewing experience for millions of users.  
+- Assisted in the development of new algorithms to personalize content suggestions, increasing user interaction by 18%.
+
+**Frontend Engineer, Novate Solutions Inc, Hartford, CT (2009–2011)**  
+Annual salary: $103,600  
+- Designed and developed interactive web components, resulting in a 15% increase in user engagement.  
+- Played a key role in the migration of legacy systems to modern web technologies.

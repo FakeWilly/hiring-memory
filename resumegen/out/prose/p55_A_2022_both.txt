@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over two decades in platform engineering, specializing in scalable solutions and system optimization. Adept at translating complex requirements into high-quality, efficient software architectures, with a proven track record in both corporate and technology environments.
+
+**Education**  
+Associate's Degree in Statistics, Penn State University, 2000
+
+**Work History**
+
+Staff Platform Engineer, Bozeman Health, Syracuse, NY, US (2021–Present)  
+Annual salary: $212,000  
+- Spearheaded the development of a cloud-based platform that improved data processing efficiency by 30%.  
+- Led a team of engineers in implementing continuous integration pipelines, reducing deployment times by 40%.
+
+Senior Platform Engineer, The DarkStar Group, Princeton, NJ, US (2019–2021)  
+Annual salary: $189,300  
+- Developed a microservices architecture that enhanced system reliability and scalability, leading to a 25% increase in uptime.  
+- Collaborated with cross-functional teams to optimize backend processes, resulting in a 20% reduction in operational costs.
+
+Senior Platform Engineer, Honeywell, Bridgewater, NJ, US (2015–2019)  
+Annual salary: $169,100  
+- Implemented advanced caching strategies that decreased system load by 15% during peak operations.  
+- Pioneered automation scripts that streamlined routine maintenance, contributing to a 10% reduction in labor hours.
+
+Senior Platform Engineer, Crown Equipment Corporation, Rensselaer, NY, US (2011–2015)  
+Annual salary: $151,800  
+- Engineered a custom platform solution that supported a 50% increase in user traffic.  
+- Enhanced system security protocols, reducing vulnerability incidents by 40%.
+
+Senior Platform Engineer, Edward Jones, Franklin Lakes, NJ, US (2009–2011)  
+Annual salary: $127,300  
+- Designed and deployed an enterprise-level platform, cutting system downtime by 35%.  
+- Orchestrated system upgrades that improved data retrieval speeds by 20%.
+
+Platform Engineer, Ascella Technologies, Jersey City, NJ (2004–2009)  
+Annual salary: $91,600  
+- Contributed to the development of a robust platform infrastructure, facilitating a 30% improvement in data throughput.  
+- Led the integration of third-party APIs, enhancing application functionality by 25%.
+
+Junior Software Engineer, National Funding, Hartford, CT, US (2000–2004)  
+Annual salary: $63,300  
+- Assisted in the development of software solutions that supported internal operations, improving efficiency by 15%.  
+- Collaborated in a team to resolve software bugs, achieving a 20% decrease in error rates.

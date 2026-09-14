@@ -1,0 +1,761 @@
+cell,prompt_id,view,treatment,pair_id,winner,first,state_first,state_second,rep,choice,status,pick_winner,tie,pick_first,p_first,p_winner,prompt_tokens,completion_tokens,cached,model,dropped_params,raw,call_id
+neutral|full|base,neutral,full,base,4,A,L,p4_B_2021_base,p4_A_2021_base,0,1,ok,0.0,0,1,0.9859363730988039,0.014063626901196113,859,1,False,gpt-4o-mini-2024-07-18,,1,901a6e783b01a8a69823d68e
+neutral|full|base,neutral,full,base,1,A,L,p1_B_2021_base,p1_A_2021_base,0,1,ok,0.0,0,1,0.9399133487740403,0.060086651225959686,849,1,False,gpt-4o-mini-2024-07-18,,1,5c46a3ccbb562b7676faa727
+neutral|full|base,neutral,full,base,1,A,W,p1_A_2021_base,p1_B_2021_base,0,1,ok,1.0,0,1,0.9997388096110635,0.9997388096110635,849,1,False,gpt-4o-mini-2024-07-18,,1,a621a3403fd89a863c3e7b63
+neutral|full|base,neutral,full,base,2,A,L,p2_B_2021_base,p2_A_2021_base,0,1,ok,0.0,0,1,0.999088948815348,0.0009110511846519564,855,1,False,gpt-4o-mini-2024-07-18,,1,292ad54dacecfeefbf5ab9d2
+neutral|full|base,neutral,full,base,3,A,L,p3_B_2021_base,p3_A_2021_base,0,1,ok,0.0,0,1,0.7772998663336158,0.2227001336663842,998,1,False,gpt-4o-mini-2024-07-18,,1,8b4ffa46307c0c0d31b6b334
+neutral|full|base,neutral,full,base,4,A,W,p4_A_2021_base,p4_B_2021_base,0,1,ok,1.0,0,1,0.9998204721063857,0.9998204721063857,859,1,False,gpt-4o-mini-2024-07-18,,1,a7033d0e242086ce9b2fff24
+neutral|full|base,neutral,full,base,2,A,W,p2_A_2021_base,p2_B_2021_base,0,1,ok,1.0,0,1,0.7772998560157663,0.7772998560157663,855,1,False,gpt-4o-mini-2024-07-18,,1,75ed5229e34ca2f54e2729d9
+neutral|full|base,neutral,full,base,3,A,W,p3_A_2021_base,p3_B_2021_base,0,1,ok,1.0,0,1,0.9997694932950998,0.9997694932950998,998,1,False,gpt-4o-mini-2024-07-18,,1,fae6a00ebe036f9dea4f9314
+neutral|full|base,neutral,full,base,8,A,W,p8_A_2021_base,p8_B_2021_base,0,1,ok,1.0,0,1,0.9241418199787564,0.9241418199787564,690,1,False,gpt-4o-mini-2024-07-18,,1,067bb56570ca3ee0b7125bd7
+neutral|full|base,neutral,full,base,5,A,W,p5_A_2021_base,p5_B_2021_base,0,1,ok,1.0,0,1,0.9999546021226107,0.9999546021226107,1171,1,False,gpt-4o-mini-2024-07-18,,1,17494f0bc5f3431c165601a3
+neutral|full|base,neutral,full,base,5,A,L,p5_B_2021_base,p5_A_2021_base,0,1,ok,0.0,0,1,0.9933071490323748,0.006692850967625175,1171,1,False,gpt-4o-mini-2024-07-18,,1,cef01cbd8ea0e94febd02b00
+neutral|full|base,neutral,full,base,6,A,W,p6_A_2021_base,p6_B_2021_base,0,2,ok,0.0,0,0,0.07585817532042317,0.07585817532042317,729,1,False,gpt-4o-mini-2024-07-18,,2,473dd0f8ec2036d65e6a2844
+neutral|full|base,neutral,full,base,10,A,L,p10_B_2021_base,p10_A_2021_base,0,1,ok,0.0,0,1,0.5,0.5,488,1,False,gpt-4o-mini-2024-07-18,,1,982ee2838d09de5831ec5231
+neutral|full|base,neutral,full,base,7,A,W,p7_A_2021_base,p7_B_2021_base,0,1,ok,1.0,0,1,0.7772998508568416,0.7772998508568416,559,1,False,gpt-4o-mini-2024-07-18,,1,e21d2cd53ebf277164b8e31f
+neutral|full|base,neutral,full,base,11,A,W,p11_A_2021_base,p11_B_2021_base,0,2,ok,0.0,0,0,0.03732688895048618,0.03732688895048618,718,1,False,gpt-4o-mini-2024-07-18,,2,06e23b8c45555a5ce020029d
+neutral|full|base,neutral,full,base,10,A,W,p10_A_2021_base,p10_B_2021_base,0,2,ok,0.0,0,0,0.029312233242257107,0.029312233242257107,488,1,False,gpt-4o-mini-2024-07-18,,2,8dd6ad4bcdb2ff12bb31ba52
+neutral|full|base,neutral,full,base,6,A,L,p6_B_2021_base,p6_A_2021_base,0,1,ok,0.0,0,1,0.9998415637154371,0.0001584362845629128,729,1,False,gpt-4o-mini-2024-07-18,,1,cfd39e19febbbade01b7e0cf
+neutral|full|base,neutral,full,base,7,A,L,p7_B_2021_base,p7_A_2021_base,0,1,ok,0.0,0,1,0.9770226305081272,0.02297736949187279,559,1,False,gpt-4o-mini-2024-07-18,,1,0b03f55deb65fa78bb8dfd70
+neutral|full|base,neutral,full,base,8,A,L,p8_B_2021_base,p8_A_2021_base,0,1,ok,0.0,0,1,0.9999038975892416,9.610241075841408e-05,690,1,False,gpt-4o-mini-2024-07-18,,1,0f414a34b91b1f8e42f77f1f
+neutral|full|base,neutral,full,base,12,A,W,p12_A_2021_base,p12_B_2021_base,0,1,ok,1.0,0,1,0.9046505261034854,0.9046505261034854,605,1,False,gpt-4o-mini-2024-07-18,,1,cef1ffd78ab920e20a28d160
+neutral|full|base,neutral,full,base,12,A,L,p12_B_2021_base,p12_A_2021_base,0,1,ok,0.0,0,1,0.9980732656709094,0.0019267343290906291,605,1,False,gpt-4o-mini-2024-07-18,,1,26a3a942f0f54a2ffb64ff91
+neutral|full|base,neutral,full,base,11,A,L,p11_B_2021_base,p11_A_2021_base,0,1,ok,0.0,0,1,0.9997965730844881,0.00020342691551189507,718,1,False,gpt-4o-mini-2024-07-18,,1,18bf1254a9e9d61bb7c34bec
+neutral|full|base,neutral,full,base,13,A,L,p13_B_2021_base,p13_A_2021_base,0,1,ok,0.0,0,1,0.7310585727705127,0.26894142722948733,615,1,False,gpt-4o-mini-2024-07-18,,1,8dc483630ca55ef1e4c3a749
+neutral|full|base,neutral,full,base,15,A,W,p15_A_2021_base,p15_B_2021_base,0,1,ok,1.0,0,1,0.9988304896609661,0.9988304896609661,600,1,False,gpt-4o-mini-2024-07-18,,1,ff8b9efb661982d2f449a739
+neutral|full|base,neutral,full,base,14,A,W,p14_A_2021_base,p14_B_2021_base,0,2,ok,0.0,0,0,0.005220125688722155,0.005220125688722155,781,1,False,gpt-4o-mini-2024-07-18,,2,9cdc23b5f88332d62fc63f13
+neutral|full|base,neutral,full,base,14,A,L,p14_B_2021_base,p14_A_2021_base,0,1,ok,0.0,0,1,0.9999832985809051,1.670141909493328e-05,781,1,False,gpt-4o-mini-2024-07-18,,1,8a2234968dc08bf35f4194f6
+neutral|full|base,neutral,full,base,15,A,L,p15_B_2021_base,p15_A_2021_base,0,1,ok,0.0,0,1,0.999569442882051,0.0004305571179490375,600,1,False,gpt-4o-mini-2024-07-18,,1,4f192186c09890a3e97bcbd5
+neutral|full|base,neutral,full,base,13,A,W,p13_A_2021_base,p13_B_2021_base,0,1,ok,1.0,0,1,0.9914225164237013,0.9914225164237013,615,1,False,gpt-4o-mini-2024-07-18,,1,d24158c9304056370a4bfaaa
+neutral|full|base,neutral,full,base,18,A,L,p18_B_2021_base,p18_A_2021_base,0,2,ok,1.0,0,0,0.0085774846138036,0.9914225153861964,458,1,False,gpt-4o-mini-2024-07-18,,2,134d56666487a06f7d67ed41
+neutral|full|base,neutral,full,base,19,A,W,p19_A_2021_base,p19_B_2021_base,0,1,ok,1.0,0,1,0.9999687980863308,0.9999687980863308,880,1,False,gpt-4o-mini-2024-07-18,,1,71bbebfa1691a7e26771e0a4
+neutral|full|base,neutral,full,base,18,A,W,p18_A_2021_base,p18_B_2021_base,0,2,ok,0.0,0,0,0.26894141551050293,0.26894141551050293,458,1,False,gpt-4o-mini-2024-07-18,,2,78d5ccaab5e900dbadd32c28
+neutral|full|base,neutral,full,base,19,A,L,p19_B_2021_base,p19_A_2021_base,0,1,ok,0.0,0,1,0.9914225144041307,0.00857748559586935,880,1,False,gpt-4o-mini-2024-07-18,,1,f75d331526eb6bc36a23c75b
+neutral|full|base,neutral,full,base,16,A,L,p16_B_2021_base,p16_A_2021_base,0,1,ok,0.0,0,1,0.999991060305166,8.939694833953737e-06,1158,1,False,gpt-4o-mini-2024-07-18,,1,329f0c5b23c32f40dcc1b102
+neutral|full|base,neutral,full,base,17,A,W,p17_A_2021_base,p17_B_2021_base,0,1,ok,1.0,0,1,0.9998415637342705,0.9998415637342705,886,1,False,gpt-4o-mini-2024-07-18,,1,c295b3e4c4cbbc7058aa9e38
+neutral|full|base,neutral,full,base,17,A,L,p17_B_2021_base,p17_A_2021_base,0,1,ok,0.0,0,1,0.9997388096110635,0.00026119038893646085,886,1,False,gpt-4o-mini-2024-07-18,,1,dbf268f79c6d051ae7356d86
+neutral|full|base,neutral,full,base,16,A,W,p16_A_2021_base,p16_B_2021_base,0,1,ok,1.0,0,1,0.9947798738276535,0.9947798738276535,1158,1,False,gpt-4o-mini-2024-07-18,,1,a4d74c27a93b0aa537fd7680
+neutral|full|base,neutral,full,base,20,A,W,p20_A_2021_base,p20_B_2021_base,0,2,ok,0.0,0,0,0.1480472036701053,0.1480472036701053,565,1,False,gpt-4o-mini-2024-07-18,,2,5a15cf4012b59b928a37f5ba
+neutral|full|base,neutral,full,base,21,A,L,p21_B_2021_base,p21_A_2021_base,0,1,ok,0.0,0,1,0.9990889487068412,0.0009110512931588266,1156,1,False,gpt-4o-mini-2024-07-18,,1,7d0bc70da7695c153fa4e255
+neutral|full|base,neutral,full,base,20,A,L,p20_B_2021_base,p20_A_2021_base,0,1,ok,0.0,0,1,0.9999998362623796,1.6373762035115647e-07,565,1,False,gpt-4o-mini-2024-07-18,,1,7822dc1d46e0853e0e72b9b3
+neutral|full|base,neutral,full,base,21,A,W,p21_A_2021_base,p21_B_2021_base,0,1,ok,1.0,0,1,0.9968273176994714,0.9968273176994714,1156,1,False,gpt-4o-mini-2024-07-18,,1,83869cbd06b479fd415e9929
+neutral|full|both,neutral,full,both,1,A,L,p1_B_2022_loser,p1_A_2022_both,0,2,ok,1.0,0,0,0.0373268872102664,0.9626731127897336,940,1,False,gpt-4o-mini-2024-07-18,,2,db0f108895c26e17a7de9186
+neutral|full|both,neutral,full,both,1,A,W,p1_A_2022_both,p1_B_2022_loser,0,1,ok,1.0,0,1,0.9999994284997149,0.9999994284997149,940,1,False,gpt-4o-mini-2024-07-18,,1,2fe82b7797ea1cad5c2976ab
+neutral|full|both,neutral,full,both,2,B,W,p2_B_2022_both,p2_A_2022_loser,0,1,ok,1.0,0,1,0.9999999895325983,0.9999999895325983,939,1,False,gpt-4o-mini-2024-07-18,,1,9c70f738028e5b076443daac
+neutral|full|both,neutral,full,both,3,A,W,p3_A_2022_both,p3_B_2022_loser,0,1,ok,1.0,0,1,0.999999922655772,0.999999922655772,1083,1,False,gpt-4o-mini-2024-07-18,,1,a0087c51af866c48c5482c14
+neutral|full|both,neutral,full,both,2,B,L,p2_A_2022_loser,p2_B_2022_both,0,2,ok,1.0,0,0,5.8291276786344415e-05,0.9999417087232136,939,1,False,gpt-4o-mini-2024-07-18,,2,75d6677f9a9cfd60948119eb
+neutral|full|both,neutral,full,both,4,B,W,p4_B_2022_both,p4_A_2022_loser,0,1,ok,1.0,0,1,0.9999995549151272,0.9999995549151272,947,1,False,gpt-4o-mini-2024-07-18,,1,d53da38886e3b437c4b46810
+neutral|full|both,neutral,full,both,4,B,L,p4_A_2022_loser,p4_B_2022_both,0,2,ok,1.0,0,0,0.43782349911420193,0.5621765008857981,947,1,False,gpt-4o-mini-2024-07-18,,2,f0d1c8e62863e33e91017134
+neutral|full|both,neutral,full,both,6,B,W,p6_B_2022_both,p6_A_2022_loser,0,1,ok,1.0,0,1,0.9999992661791398,0.9999992661791398,822,1,False,gpt-4o-mini-2024-07-18,,1,94a978d18f88f8f17a72c6a9
+neutral|full|both,neutral,full,both,7,A,W,p7_A_2022_both,p7_B_2022_loser,0,1,ok,1.0,0,1,0.9999999530883621,0.9999999530883621,640,1,False,gpt-4o-mini-2024-07-18,,1,076a4d7397fce9f0c4cd685f
+neutral|full|both,neutral,full,both,5,A,W,p5_A_2022_both,p5_B_2022_loser,0,1,ok,1.0,0,1,0.999999997664407,0.999999997664407,1252,1,False,gpt-4o-mini-2024-07-18,,1,0e50dbe33eaf9535e3c153dc
+neutral|full|both,neutral,full,both,6,B,L,p6_A_2022_loser,p6_B_2022_both,0,2,ok,1.0,0,0,7.484619712816325e-05,0.9999251538028718,822,1,False,gpt-4o-mini-2024-07-18,,2,51f6b595b430b821c215fd99
+neutral|full|both,neutral,full,both,5,A,L,p5_B_2022_loser,p5_A_2022_both,0,2,ok,1.0,0,0,0.0001584362468454316,0.9998415637531546,1252,1,False,gpt-4o-mini-2024-07-18,,2,da578768705fb6a246ba8163
+neutral|full|both,neutral,full,both,7,A,L,p7_B_2022_loser,p7_A_2022_both,0,2,ok,1.0,0,0,2.5612814850547937e-06,0.999997438718515,640,1,False,gpt-4o-mini-2024-07-18,,2,5ce4215096c1d80ef835529f
+neutral|full|both,neutral,full,both,3,A,L,p3_B_2022_loser,p3_A_2022_both,0,2,ok,1.0,0,0,5.42221743297629e-06,0.9999945777825671,1083,1,False,gpt-4o-mini-2024-07-18,,2,6ac66cf3dd03d157cdb3561c
+neutral|full|both,neutral,full,both,8,B,L,p8_A_2022_loser,p8_B_2022_both,0,2,ok,1.0,0,0,0.32082129433083023,0.6791787056691698,778,1,False,gpt-4o-mini-2024-07-18,,2,2653b40607d9cef617ac2641
+neutral|full|both,neutral,full,both,10,A,L,p10_B_2022_loser,p10_A_2022_both,0,2,ok,1.0,0,0,1.553497314502234e-06,0.9999984465026855,581,1,False,gpt-4o-mini-2024-07-18,,2,0dbc76d7a4345b525143fcfa
+neutral|full|both,neutral,full,both,8,B,W,p8_B_2022_both,p8_A_2022_loser,0,1,ok,1.0,0,1,0.9999998874648162,0.9999998874648162,778,1,False,gpt-4o-mini-2024-07-18,,1,d62989f1b4e17dfa29fcf202
+neutral|full|both,neutral,full,both,10,A,W,p10_A_2022_both,p10_B_2022_loser,0,1,ok,1.0,0,1,0.9999945777793353,0.9999945777793353,581,1,False,gpt-4o-mini-2024-07-18,,1,3e7c6b8ac1d9c5c4b1ed0def
+neutral|full|both,neutral,full,both,12,A,L,p12_B_2022_loser,p12_A_2022_both,0,2,ok,1.0,0,0,0.003172682276965264,0.9968273177230348,694,1,False,gpt-4o-mini-2024-07-18,,2,c92a5432bccfbc0f74ceaa4c
+neutral|full|both,neutral,full,both,11,B,L,p11_A_2022_loser,p11_B_2022_both,0,2,ok,1.0,0,0,0.010986942205554658,0.9890130577944454,792,1,False,gpt-4o-mini-2024-07-18,,2,2105c8dc2fc6011307c0817c
+neutral|full|both,neutral,full,both,11,B,W,p11_B_2022_both,p11_A_2022_loser,0,1,ok,1.0,0,1,0.9999999895325983,0.9999999895325983,792,1,False,gpt-4o-mini-2024-07-18,,1,aaf34c5b0706eb1b2ed17217
+neutral|full|both,neutral,full,both,12,A,W,p12_A_2022_both,p12_B_2022_loser,0,1,ok,1.0,0,1,0.9999999677581336,0.9999999677581336,694,1,False,gpt-4o-mini-2024-07-18,,1,998a6ae8e0c80290d8f23bcd
+neutral|full|both,neutral,full,both,15,B,W,p15_B_2022_both,p15_A_2022_loser,0,1,ok,1.0,0,1,0.9999999827421723,0.9999999827421723,684,1,False,gpt-4o-mini-2024-07-18,,1,87016ce1b0710f52a9e7393c
+neutral|full|both,neutral,full,both,13,B,W,p13_B_2022_both,p13_A_2022_loser,0,1,ok,1.0,0,1,0.9999993524053853,0.9999993524053853,707,1,False,gpt-4o-mini-2024-07-18,,1,59fc9cb2f08715105caa1ee5
+neutral|full|both,neutral,full,both,14,A,L,p14_B_2022_loser,p14_A_2022_both,0,2,ok,1.0,0,0,0.11920292515117027,0.8807970748488297,874,1,False,gpt-4o-mini-2024-07-18,,2,fd536017eedf3f9a7ac472c5
+neutral|full|both,neutral,full,both,14,A,W,p14_A_2022_both,p14_B_2022_loser,0,1,ok,1.0,0,1,0.999999694097641,0.999999694097641,874,1,False,gpt-4o-mini-2024-07-18,,1,c8392fdaf302095dcbde11e9
+neutral|full|both,neutral,full,both,13,B,L,p13_A_2022_loser,p13_B_2022_both,0,2,ok,1.0,0,0,2.4300230936537083e-05,0.9999756997690634,707,1,False,gpt-4o-mini-2024-07-18,,2,1976e8bd90011c78301309fc
+neutral|full|both,neutral,full,both,15,B,L,p15_A_2022_loser,p15_B_2022_both,0,2,ok,1.0,0,0,3.5356257528032616e-05,0.999964643742472,684,1,False,gpt-4o-mini-2024-07-18,,2,aefdbed376ef2846ba195719
+neutral|full|both,neutral,full,both,16,A,L,p16_B_2022_loser,p16_A_2022_both,0,2,ok,1.0,0,0,0.0005527786484362228,0.9994472213515638,1242,1,False,gpt-4o-mini-2024-07-18,,2,278d40eda06c0e6dbd2bce7d
+neutral|full|both,neutral,full,both,16,A,W,p16_A_2022_both,p16_B_2022_loser,0,1,ok,1.0,0,1,0.9999999847700205,0.9999999847700205,1242,1,False,gpt-4o-mini-2024-07-18,,1,913de791280c047f1907009e
+neutral|full|both,neutral,full,both,18,A,W,p18_A_2022_both,p18_B_2022_loser,0,1,ok,1.0,0,1,0.9999997617630155,0.9999997617630155,542,1,False,gpt-4o-mini-2024-07-18,,1,9d5920fdb1fb5fc65780f773
+neutral|full|both,neutral,full,both,19,B,L,p19_A_2022_loser,p19_B_2022_both,0,2,ok,1.0,0,0,0.0005527785825763028,0.9994472214174237,960,1,False,gpt-4o-mini-2024-07-18,,2,3bf1adc7d6b750845c0c4dc8
+neutral|full|both,neutral,full,both,18,A,L,p18_B_2022_loser,p18_A_2022_both,0,2,ok,1.0,0,0,0.0015011825621089915,0.998498817437891,542,1,False,gpt-4o-mini-2024-07-18,,2,db4f57e183eac8e12d3e8347
+neutral|full|both,neutral,full,both,17,B,L,p17_A_2022_loser,p17_B_2022_both,0,2,ok,1.0,0,0,0.2689414272294874,0.7310585727705126,972,1,False,gpt-4o-mini-2024-07-18,,2,a9d03a3b5e31ebe0323eefcb
+neutral|full|both,neutral,full,both,20,A,W,p20_A_2022_both,p20_B_2022_loser,0,1,ok,1.0,0,1,0.9992903294899003,0.9992903294899003,652,1,False,gpt-4o-mini-2024-07-18,,1,1429fcb2b9173cd895c169c7
+neutral|full|both,neutral,full,both,20,A,L,p20_B_2022_loser,p20_A_2022_both,0,2,ok,1.0,0,0,0.14804719427274568,0.8519528057272543,652,1,False,gpt-4o-mini-2024-07-18,,2,ed1788dfd409808047df258e
+neutral|full|both,neutral,full,both,19,B,W,p19_B_2022_both,p19_A_2022_loser,0,1,ok,1.0,0,1,0.9999999981810384,0.9999999981810384,960,1,False,gpt-4o-mini-2024-07-18,,1,1fbc01f6c27e1ebd3c9310a2
+neutral|full|both,neutral,full,both,17,B,W,p17_B_2022_both,p17_A_2022_loser,0,1,ok,1.0,0,1,0.999999974890009,0.999999974890009,972,1,False,gpt-4o-mini-2024-07-18,,1,5e4f57e6b16be6a6899b182c
+neutral|full|both,neutral,full,both,21,B,L,p21_A_2022_loser,p21_B_2022_both,0,2,ok,1.0,0,0,0.0011695103390339065,0.9988304896609661,1238,1,False,gpt-4o-mini-2024-07-18,,2,3828a1274a1b3e5a7214b0fe
+neutral|no_salary|both,neutral,no_salary,both,2,B,W,p2_B_2022_both,p2_A_2022_loser,0,1,ok,1.0,0,1,0.9999999918479795,0.9999999918479795,840,1,False,gpt-4o-mini-2024-07-18,,1,1266ac84efd6ce2dac176fce
+neutral|no_salary|both,neutral,no_salary,both,1,A,L,p1_B_2022_loser,p1_A_2022_both,0,2,ok,1.0,0,0,0.2689414330889798,0.7310585669110202,841,1,False,gpt-4o-mini-2024-07-18,,2,da27c1c6bf87e7cd20726bc2
+neutral|no_salary|both,neutral,no_salary,both,1,A,W,p1_A_2022_both,p1_B_2022_loser,0,1,ok,1.0,0,1,0.9999998362622821,0.9999998362622821,841,1,False,gpt-4o-mini-2024-07-18,,1,c36c02a273c17874e7169758
+neutral|no_salary|both,neutral,no_salary,both,2,B,L,p2_A_2022_loser,p2_B_2022_both,0,2,ok,1.0,0,0,0.008577485659228433,0.9914225143407716,840,1,False,gpt-4o-mini-2024-07-18,,2,284f68b8818c231fecf77562
+neutral|full|both,neutral,full,both,21,B,W,p21_B_2022_both,p21_A_2022_loser,0,1,ok,1.0,0,1,0.99999998813888,0.99999998813888,1238,1,False,gpt-4o-mini-2024-07-18,,1,6263e8f955a4f5c508ce44e8
+neutral|no_salary|both,neutral,no_salary,both,3,A,W,p3_A_2022_both,p3_B_2022_loser,0,1,ok,1.0,0,1,0.9999998724809324,0.9999998724809324,966,1,False,gpt-4o-mini-2024-07-18,,1,26f06c463da5ef08f61811fe
+neutral|no_salary|both,neutral,no_salary,both,3,A,L,p3_B_2022_loser,p3_A_2022_both,0,2,ok,1.0,0,0,0.0953494578297203,0.9046505421702797,966,1,False,gpt-4o-mini-2024-07-18,,2,36b7b6f981f8c55c54c6fcb6
+neutral|no_salary|both,neutral,no_salary,both,4,B,L,p4_A_2022_loser,p4_B_2022_both,0,1,ok,0.0,0,1,0.8175744739711883,0.18242552602881168,848,1,False,gpt-4o-mini-2024-07-18,,1,c88ae0c0ae705b8768fb0690
+neutral|no_salary|both,neutral,no_salary,both,4,B,W,p4_B_2022_both,p4_A_2022_loser,0,1,ok,1.0,0,1,0.999999694097641,0.999999694097641,848,1,False,gpt-4o-mini-2024-07-18,,1,d91d1fbd13357694c1d2538c
+neutral|no_salary|both,neutral,no_salary,both,6,B,W,p6_B_2022_both,p6_A_2022_loser,0,1,ok,1.0,0,1,0.9999997897565932,0.9999997897565932,741,1,False,gpt-4o-mini-2024-07-18,,1,e938cc1f92a27050e3dd4f75
+neutral|no_salary|both,neutral,no_salary,both,5,A,W,p5_A_2022_both,p5_B_2022_loser,0,1,ok,1.0,0,1,0.9999999966017321,0.9999999966017321,1117,1,False,gpt-4o-mini-2024-07-18,,1,7d1795ce3246ae31c762d72c
+neutral|no_salary|both,neutral,no_salary,both,7,A,W,p7_A_2022_both,p7_B_2022_loser,0,1,ok,1.0,0,1,0.9999999950555496,0.9999999950555496,577,1,False,gpt-4o-mini-2024-07-18,,1,4c7f645445a399402630714b
+neutral|no_salary|both,neutral,no_salary,both,6,B,L,p6_A_2022_loser,p6_B_2022_both,0,2,ok,1.0,0,0,0.0011695101999164568,0.9988304898000836,741,1,False,gpt-4o-mini-2024-07-18,,2,61e8b6cd418f439d711ec187
+neutral|no_salary|both,neutral,no_salary,both,5,A,L,p5_B_2022_loser,p5_A_2022_both,0,2,ok,1.0,0,0,0.00023050667746147194,0.9997694933225385,1117,1,False,gpt-4o-mini-2024-07-18,,2,2f1d91c937ed78854588a2e3
+neutral|no_salary|both,neutral,no_salary,both,7,A,L,p7_B_2022_loser,p7_A_2022_both,0,2,ok,1.0,0,0,9.42244663976186e-07,0.999999057755336,577,1,False,gpt-4o-mini-2024-07-18,,2,f4693ac6524803533db6a246
+neutral|no_salary|both,neutral,no_salary,both,8,B,L,p8_A_2022_loser,p8_B_2022_both,0,1,ok,0.0,0,1,0.9997388096733123,0.00026119032668769915,697,1,False,gpt-4o-mini-2024-07-18,,1,48c87763365a7834bbdace27
+neutral|no_salary|both,neutral,no_salary,both,8,B,W,p8_B_2022_both,p8_A_2022_loser,0,1,ok,1.0,0,1,0.9999994956527347,0.9999994956527347,697,1,False,gpt-4o-mini-2024-07-18,,1,d03f7816d8508f94f7cc04f9
+neutral|no_salary|both,neutral,no_salary,both,11,B,W,p11_B_2022_both,p11_A_2022_loser,0,1,ok,1.0,0,1,0.9999999634651793,0.9999999634651793,711,1,False,gpt-4o-mini-2024-07-18,,1,056073c84938d570ffa34496
+neutral|no_salary|both,neutral,no_salary,both,11,B,L,p11_A_2022_loser,p11_B_2022_both,0,2,ok,1.0,0,0,0.02931222767747903,0.970687772322521,711,1,False,gpt-4o-mini-2024-07-18,,2,d62a1b04f635c1495d10ce28
+neutral|no_salary|both,neutral,no_salary,both,12,A,L,p12_B_2022_loser,p12_A_2022_both,0,2,ok,1.0,0,0,0.0373268872102664,0.9626731127897336,631,1,False,gpt-4o-mini-2024-07-18,,2,1b656291476d9af9c68d898d
+neutral|no_salary|both,neutral,no_salary,both,10,A,W,p10_A_2022_both,p10_B_2022_loser,0,1,ok,1.0,0,1,0.9999832985828951,0.9999832985828951,536,1,False,gpt-4o-mini-2024-07-18,,1,8ab3cae0f5d700bfd575b5aa
+neutral|no_salary|both,neutral,no_salary,both,10,A,L,p10_B_2022_loser,p10_A_2022_both,0,2,ok,1.0,0,0,4.222835268240621e-06,0.9999957771647318,536,1,False,gpt-4o-mini-2024-07-18,,2,4a5c104e5a21c6b63b439fcc
+neutral|no_salary|both,neutral,no_salary,both,12,A,W,p12_A_2022_both,p12_B_2022_loser,0,1,ok,1.0,0,1,0.9999999530883621,0.9999999530883621,631,1,False,gpt-4o-mini-2024-07-18,,1,56080e8a6e2a4f1e791ae175
+neutral|no_salary|both,neutral,no_salary,both,13,B,L,p13_A_2022_loser,p13_B_2022_both,0,2,ok,1.0,0,0,0.0001795280433997968,0.9998204719566002,644,1,False,gpt-4o-mini-2024-07-18,,2,aa44c7dc7ed9c1e76787ea12
+neutral|no_salary|both,neutral,no_salary,both,13,B,W,p13_B_2022_both,p13_A_2022_loser,0,1,ok,1.0,0,1,0.9999997617630155,0.9999997617630155,644,1,False,gpt-4o-mini-2024-07-18,,1,7555cbacdb80c60055da2828
+neutral|no_salary|both,neutral,no_salary,both,14,A,L,p14_B_2022_loser,p14_A_2022_both,0,1,ok,0.0,0,1,0.8807970748488297,0.11920292515117026,793,1,False,gpt-4o-mini-2024-07-18,,1,ebfa1d14e72b72d03cad724f
+neutral|no_salary|both,neutral,no_salary,both,15,B,W,p15_B_2022_both,p15_A_2022_loser,0,1,ok,1.0,0,1,0.9999999530883621,0.9999999530883621,621,1,False,gpt-4o-mini-2024-07-18,,1,cb7b17b849bcf99f1725d703
+neutral|no_salary|both,neutral,no_salary,both,15,B,L,p15_A_2022_loser,p15_B_2022_both,0,2,ok,1.0,0,0,9.61023993032045e-05,0.9999038976006968,621,1,False,gpt-4o-mini-2024-07-18,,2,d241cabc31fc5fd1ec66ed55
+neutral|no_salary|both,neutral,no_salary,both,16,A,W,p16_A_2022_both,p16_B_2022_loser,0,1,ok,1.0,0,1,0.9999999468421502,0.9999999468421502,1107,1,False,gpt-4o-mini-2024-07-18,,1,3bf8ae660acf15d36d097e3c
+neutral|no_salary|both,neutral,no_salary,both,16,A,L,p16_B_2022_loser,p16_A_2022_both,0,1,ok,0.0,0,1,0.9241418173671895,0.07585818263281052,1107,1,False,gpt-4o-mini-2024-07-18,,1,08ab18152fe59c9fd300575f
+neutral|no_salary|both,neutral,no_salary,both,14,A,W,p14_A_2022_both,p14_B_2022_loser,0,1,ok,1.0,0,1,0.999998629043345,0.999998629043345,793,1,False,gpt-4o-mini-2024-07-18,,1,5f471c87ec7adf7577499c79
+neutral|no_salary|both,neutral,no_salary,both,17,B,W,p17_B_2022_both,p17_A_2022_loser,0,1,ok,1.0,0,1,0.9999999397642536,0.9999999397642536,873,1,False,gpt-4o-mini-2024-07-18,,1,d2a1e8842f99f03e471cb79d
+neutral|no_salary|both,neutral,no_salary,both,17,B,L,p17_A_2022_loser,p17_B_2022_both,0,1,ok,0.0,0,1,0.9859363713425581,0.014063628657441929,873,1,False,gpt-4o-mini-2024-07-18,,1,989fe24fdeab2792a734e80f
+neutral|no_salary|both,neutral,no_salary,both,18,A,W,p18_A_2022_both,p18_B_2022_loser,0,1,ok,1.0,0,1,0.9999987901337938,0.9999987901337938,497,1,False,gpt-4o-mini-2024-07-18,,1,000540a17e0102ced8adfbe4
+neutral|no_salary|both,neutral,no_salary,both,18,A,L,p18_B_2022_loser,p18_A_2022_both,0,2,ok,1.0,0,0,0.022977367693815597,0.9770226323061844,497,1,False,gpt-4o-mini-2024-07-18,,2,7cb05def3b5c076fc7f7ee75
+neutral|no_salary|both,neutral,no_salary,both,19,B,W,p19_B_2022_both,p19_A_2022_loser,0,1,ok,1.0,0,1,0.9999999847700205,0.9999999847700205,861,1,False,gpt-4o-mini-2024-07-18,,1,4098fb25f766d32613d0d5f7
+neutral|no_salary|both,neutral,no_salary,both,19,B,L,p19_A_2022_loser,p19_B_2022_both,0,1,ok,0.0,0,1,0.5,0.5,861,1,False,gpt-4o-mini-2024-07-18,,1,796d03f844634f6cf9b28e79
+neutral|no_salary|both,neutral,no_salary,both,20,A,W,p20_A_2022_both,p20_B_2022_loser,0,1,ok,1.0,0,1,0.9990889489239079,0.9990889489239079,589,1,False,gpt-4o-mini-2024-07-18,,1,7e7b1e447912b896337ad825
+neutral|no_salary|both,neutral,no_salary,both,20,A,L,p20_B_2022_loser,p20_A_2022_both,0,1,ok,0.0,0,1,0.9997388097978706,0.00026119020212944655,589,1,False,gpt-4o-mini-2024-07-18,,1,9a81aa004727d5e7b4964708
+neutral|no_salary|both,neutral,no_salary,both,21,B,L,p21_A_2022_loser,p21_B_2022_both,0,2,ok,1.0,0,0,0.4378234991142019,0.5621765008857982,1103,1,False,gpt-4o-mini-2024-07-18,,2,b7709c1cc2d5fed8b93c69c9
+neutral|no_salary|both,neutral,no_salary,both,21,B,W,p21_B_2022_both,p21_A_2022_loser,0,1,ok,1.0,0,1,0.9999999715466527,0.9999999715466527,1103,1,False,gpt-4o-mini-2024-07-18,,1,bd2cba51fc1bb4a4f40ee5ea
+ignore_comp|full|both,ignore_comp,full,both,2,B,W,p2_B_2022_both,p2_A_2022_loser,0,1,ok,1.0,0,1,0.9999999928058669,0.9999999928058669,963,1,False,gpt-4o-mini-2024-07-18,,1,9bbd365d13f00bd52dc907f8
+ignore_comp|full|both,ignore_comp,full,both,1,A,W,p1_A_2022_both,p1_B_2022_loser,0,1,ok,1.0,0,1,0.9999998362622821,0.9999998362622821,964,1,False,gpt-4o-mini-2024-07-18,,1,dfcd8b3a8b3f8aa1fe7649a1
+ignore_comp|full|both,ignore_comp,full,both,2,B,L,p2_A_2022_loser,p2_B_2022_both,0,2,ok,1.0,0,0,0.0007096704255191095,0.9992903295744809,963,1,False,gpt-4o-mini-2024-07-18,,2,d1136a74b2bbe6a3932fbb47
+ignore_comp|full|both,ignore_comp,full,both,1,A,L,p1_B_2022_loser,p1_A_2022_both,0,2,ok,1.0,0,0,0.320821300824607,0.679178699175393,964,1,False,gpt-4o-mini-2024-07-18,,2,3a1ed0c892e4d916f2b7af45
+ignore_comp|full|both,ignore_comp,full,both,3,A,L,p3_B_2022_loser,p3_A_2022_both,0,2,ok,1.0,0,0,0.0011695101997804673,0.9988304898002195,1107,1,False,gpt-4o-mini-2024-07-18,,2,a55dde91fd4f3e6567bf60ce
+ignore_comp|full|both,ignore_comp,full,both,4,B,W,p4_B_2022_both,p4_A_2022_loser,0,1,ok,1.0,0,1,0.9999952149051502,0.9999952149051502,971,1,False,gpt-4o-mini-2024-07-18,,1,8dfa96ef1b1e09cd72dca929
+ignore_comp|full|both,ignore_comp,full,both,3,A,W,p3_A_2022_both,p3_B_2022_loser,0,1,ok,1.0,0,1,0.9999999677581336,0.9999999677581336,1107,1,False,gpt-4o-mini-2024-07-18,,1,022f6fd4b2339b6f4983ee4c
+ignore_comp|full|both,ignore_comp,full,both,4,B,L,p4_A_2022_loser,p4_B_2022_both,0,1,ok,0.0,0,1,0.6224593382055109,0.3775406617944891,971,1,False,gpt-4o-mini-2024-07-18,,1,a30865a0da379c5656b5bdf2
+ignore_comp|full|both,ignore_comp,full,both,5,A,W,p5_A_2022_both,p5_B_2022_loser,0,1,ok,1.0,0,1,0.9999999991407833,0.9999999991407833,1276,1,False,gpt-4o-mini-2024-07-18,,1,b63dda5e8aeae411dc0906dd
+ignore_comp|full|both,ignore_comp,full,both,5,A,L,p5_B_2022_loser,p5_A_2022_both,0,2,ok,1.0,0,0,0.0031726834440865743,0.9968273165559134,1276,1,False,gpt-4o-mini-2024-07-18,,2,3f13191ea8a33cb6f605bb6b
+ignore_comp|full|both,ignore_comp,full,both,6,B,W,p6_B_2022_both,p6_A_2022_loser,0,1,ok,1.0,0,1,0.9999998362622821,0.9999998362622821,846,1,False,gpt-4o-mini-2024-07-18,,1,4a997ea33e2da087efc29a93
+ignore_comp|full|both,ignore_comp,full,both,6,B,L,p6_A_2022_loser,p6_B_2022_both,0,2,ok,1.0,0,0,0.0001795279150118206,0.9998204720849881,846,1,False,gpt-4o-mini-2024-07-18,,2,0ffc543412da581f0be68d1a
+ignore_comp|full|both,ignore_comp,full,both,7,A,L,p7_B_2022_loser,p7_A_2022_both,0,2,ok,1.0,0,0,3.726639116582555e-06,0.9999962733608834,664,1,False,gpt-4o-mini-2024-07-18,,2,bdd2fccd3bf67ff91b36d6a8
+ignore_comp|full|both,ignore_comp,full,both,7,A,W,p7_A_2022_both,p7_B_2022_loser,0,1,ok,1.0,0,1,0.999999997664407,0.999999997664407,664,1,False,gpt-4o-mini-2024-07-18,,1,feb5d6c32237fd82888e1b8c
+ignore_comp|full|both,ignore_comp,full,both,10,A,W,p10_A_2022_both,p10_B_2022_loser,0,1,ok,1.0,0,1,0.9999945777825671,0.9999945777825671,605,1,False,gpt-4o-mini-2024-07-18,,1,69979b37ee1e6b9f1ec37d46
+ignore_comp|full|both,ignore_comp,full,both,8,B,W,p8_B_2022_both,p8_A_2022_loser,0,1,ok,1.0,0,1,0.9999997617630155,0.9999997617630155,802,1,False,gpt-4o-mini-2024-07-18,,1,da72a02520879483e5d0527c
+ignore_comp|full|both,ignore_comp,full,both,10,A,L,p10_B_2022_loser,p10_A_2022_both,0,2,ok,1.0,0,0,6.825604231969389e-08,0.9999999317439576,605,1,False,gpt-4o-mini-2024-07-18,,2,fcd35e381c005df99069fba6
+ignore_comp|full|both,ignore_comp,full,both,13,B,L,p13_A_2022_loser,p13_B_2022_both,0,2,ok,1.0,0,0,4.539785574814975e-05,0.9999546021442518,731,1,False,gpt-4o-mini-2024-07-18,,2,65e3f9e55b2992e858c0999b
+ignore_comp|full|both,ignore_comp,full,both,13,B,W,p13_B_2022_both,p13_A_2022_loser,0,1,ok,1.0,0,1,0.9999998362622821,0.9999998362622821,731,1,False,gpt-4o-mini-2024-07-18,,1,74a760ce234eb2f531d0c407
+ignore_comp|full|both,ignore_comp,full,both,11,B,L,p11_A_2022_loser,p11_B_2022_both,0,1,ok,0.0,0,1,0.6224593312018546,0.3775406687981454,816,1,False,gpt-4o-mini-2024-07-18,,1,cf712965ceccfe4ffd950ea5
+ignore_comp|full|both,ignore_comp,full,both,11,B,W,p11_B_2022_both,p11_A_2022_loser,0,1,ok,1.0,0,1,0.9999999865595903,0.9999999865595903,816,1,False,gpt-4o-mini-2024-07-18,,1,1241b9eed6c65afb1a360964
+ignore_comp|full|both,ignore_comp,full,both,8,B,L,p8_A_2022_loser,p8_B_2022_both,0,1,ok,0.0,0,1,0.9046505402422645,0.09534945975773546,802,1,False,gpt-4o-mini-2024-07-18,,1,1a7c83a99c29f039e403e912
+ignore_comp|full|both,ignore_comp,full,both,12,A,W,p12_A_2022_both,p12_B_2022_loser,0,1,ok,1.0,0,1,0.9999977396747258,0.9999977396747258,718,1,False,gpt-4o-mini-2024-07-18,,1,824332c690bc4c57e0228c66
+ignore_comp|full|both,ignore_comp,full,both,14,A,W,p14_A_2022_both,p14_B_2022_loser,0,1,ok,1.0,0,1,0.999999694097641,0.999999694097641,898,1,False,gpt-4o-mini-2024-07-18,,1,c005a65e5dd0224ded2904d2
+ignore_comp|full|both,ignore_comp,full,both,12,A,L,p12_B_2022_loser,p12_A_2022_both,0,2,ok,1.0,0,0,0.26894142136999516,0.7310585786300048,718,1,False,gpt-4o-mini-2024-07-18,,2,32d749dd408103504ae04e43
+ignore_comp|full|both,ignore_comp,full,both,16,A,W,p16_A_2022_both,p16_B_2022_loser,0,1,ok,1.0,0,1,0.9999999123575085,0.9999999123575085,1266,1,False,gpt-4o-mini-2024-07-18,,1,f183b8e1b7fe39853884db52
+ignore_comp|full|both,ignore_comp,full,both,15,B,W,p15_B_2022_both,p15_A_2022_loser,0,1,ok,1.0,0,1,0.999999996149258,0.999999996149258,708,1,False,gpt-4o-mini-2024-07-18,,1,d41a04fe51977fc9d122b938
+ignore_comp|full|both,ignore_comp,full,both,14,A,L,p14_B_2022_loser,p14_A_2022_both,0,1,ok,0.0,0,1,0.9626731095770201,0.037326890422979875,898,1,False,gpt-4o-mini-2024-07-18,,1,16b9d50413286a4312fd61b6
+ignore_comp|full|both,ignore_comp,full,both,17,B,W,p17_B_2022_both,p17_A_2022_loser,0,1,ok,1.0,0,1,0.9999999865595903,0.9999999865595903,996,1,False,gpt-4o-mini-2024-07-18,,1,2dc811422e124efc67fd731c
+ignore_comp|full|both,ignore_comp,full,both,16,A,L,p16_B_2022_loser,p16_A_2022_both,0,1,ok,0.0,0,1,0.8519527982093666,0.14804720179063335,1266,1,False,gpt-4o-mini-2024-07-18,,1,65448b7361abd703dc4fa31d
+ignore_comp|full|both,ignore_comp,full,both,18,A,W,p18_A_2022_both,p18_B_2022_loser,0,1,ok,1.0,0,1,0.9999996533672291,0.9999996533672291,566,1,False,gpt-4o-mini-2024-07-18,,1,fbe82fff106ed68d417db4b6
+ignore_comp|full|both,ignore_comp,full,both,17,B,L,p17_A_2022_loser,p17_B_2022_both,0,1,ok,0.0,0,1,0.5,0.5,996,1,False,gpt-4o-mini-2024-07-18,,1,3c7188714b36b9d0ba0d4a3f
+ignore_comp|full|both,ignore_comp,full,both,15,B,L,p15_A_2022_loser,p15_B_2022_both,0,2,ok,1.0,0,0,0.00017952802200222974,0.9998204719779977,708,1,False,gpt-4o-mini-2024-07-18,,2,2aa8852a264fdd7185d7163f
+ignore_comp|full|both,ignore_comp,full,both,19,B,W,p19_B_2022_both,p19_A_2022_loser,0,1,ok,1.0,0,1,0.9999999979388463,0.9999999979388463,984,1,False,gpt-4o-mini-2024-07-18,,1,04b335f966475da8e75ca3be
+ignore_comp|full|both,ignore_comp,full,both,20,A,L,p20_B_2022_loser,p20_A_2022_both,0,1,ok,0.0,0,1,0.982013792900152,0.017986207099847995,676,1,False,gpt-4o-mini-2024-07-18,,1,6a41a2674edbd4e73fe906c2
+ignore_comp|full|both,ignore_comp,full,both,19,B,L,p19_A_2022_loser,p19_B_2022_both,0,2,ok,1.0,0,0,0.07585818263281055,0.9241418173671895,984,1,False,gpt-4o-mini-2024-07-18,,2,64c0225c54bcf35d7600aa45
+ignore_comp|full|both,ignore_comp,full,both,18,A,L,p18_B_2022_loser,p18_A_2022_both,0,2,ok,1.0,0,0,0.0007096703410211238,0.9992903296589789,566,1,False,gpt-4o-mini-2024-07-18,,2,3941eeab525b26b13c55c790
+ignore_comp|full|both,ignore_comp,full,both,21,B,L,p21_A_2022_loser,p21_B_2022_both,0,2,ok,1.0,0,0,0.008577483639657844,0.9914225163603422,1262,1,False,gpt-4o-mini-2024-07-18,,2,3b907730549bf3a79e2e1fdb
+ignore_comp|full|both,ignore_comp,full,both,21,B,W,p21_B_2022_both,p21_A_2022_loser,0,1,ok,1.0,0,1,0.9999999827421723,0.9999999827421723,1262,1,False,gpt-4o-mini-2024-07-18,,1,b5a8f6edce015a1561dcf65f
+ignore_comp|full|both,ignore_comp,full,both,20,A,W,p20_A_2022_both,p20_B_2022_loser,0,1,ok,1.0,0,1,0.9999485577702917,0.9999485577702917,676,1,False,gpt-4o-mini-2024-07-18,,1,f7924de55cb87dde83060e54
+rubric|full|both,rubric,full,both,3,A,W,p3_A_2022_both,p3_B_2022_loser,0,1,ok,1.0,0,1,,,1176,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",93cc41e9d416b45dfda84fbb
+rubric|full|both,rubric,full,both,2,B,L,p2_A_2022_loser,p2_B_2022_both,0,2,ok,1.0,0,0,,,1032,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",493cee5d938407ca6f44a89d
+rubric|full|both,rubric,full,both,2,B,W,p2_B_2022_both,p2_A_2022_loser,0,1,ok,1.0,0,1,,,1032,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 7,
+    ""b"": 7,
+    ""c"": 6
+  },
+  ""choice"": 1
+}",b480152669d49564c3bc0f15
+rubric|full|both,rubric,full,both,1,A,W,p1_A_2022_both,p1_B_2022_loser,0,1,ok,1.0,0,1,,,1033,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 1
+}",b87e66c6ae7c170d4ba30b5e
+rubric|full|both,rubric,full,both,3,A,L,p3_B_2022_loser,p3_A_2022_both,0,2,ok,1.0,0,0,,,1176,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",d5dce9c9d27bc4714f1f6f5b
+rubric|full|both,rubric,full,both,4,B,L,p4_A_2022_loser,p4_B_2022_both,0,2,ok,1.0,0,0,,,1040,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",0ebd6af383443bae7b20e8a3
+rubric|full|both,rubric,full,both,4,B,W,p4_B_2022_both,p4_A_2022_loser,0,1,ok,1.0,0,1,,,1040,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 1
+}",6175585c1c60ff88733a90a1
+rubric|full|both,rubric,full,both,1,A,L,p1_B_2022_loser,p1_A_2022_both,0,2,ok,1.0,0,0,,,1033,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",149ef91826a746a8e0a8d79f
+rubric|full|both,rubric,full,both,7,A,W,p7_A_2022_both,p7_B_2022_loser,0,1,ok,1.0,0,1,,,733,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 6,
+    ""b"": 7,
+    ""c"": 6
+  },
+  ""choice"": 1
+}",d480481250fa109e0591d75e
+rubric|full|both,rubric,full,both,6,B,L,p6_A_2022_loser,p6_B_2022_both,0,2,ok,1.0,0,0,,,915,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",78539f04fd06fe7fbb8c747a
+rubric|full|both,rubric,full,both,6,B,W,p6_B_2022_both,p6_A_2022_loser,0,1,ok,1.0,0,1,,,915,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",356890002f254f0a9be4a85f
+rubric|full|both,rubric,full,both,8,B,L,p8_A_2022_loser,p8_B_2022_both,0,2,ok,1.0,0,0,,,871,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",d6c8e9401aecfd0e9cf64c37
+rubric|full|both,rubric,full,both,7,A,L,p7_B_2022_loser,p7_A_2022_both,0,2,ok,1.0,0,0,,,733,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 6,
+    ""b"": 5,
+    ""c"": 5
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 7,
+    ""c"": 8
+  },
+  ""choice"": 2
+}",795f75db2d9bbe33df71c37d
+rubric|full|both,rubric,full,both,5,A,L,p5_B_2022_loser,p5_A_2022_both,0,2,ok,1.0,0,0,,,1345,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",b64d98c37de1c01bde80b708
+rubric|full|both,rubric,full,both,8,B,W,p8_B_2022_both,p8_A_2022_loser,0,1,ok,1.0,0,1,,,871,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",fd777adf2ed9831b1d36e488
+rubric|full|both,rubric,full,both,5,A,W,p5_A_2022_both,p5_B_2022_loser,0,1,ok,1.0,0,1,,,1345,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 10,
+    ""b"": 9,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 7,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",480610bd2056ebe96bc9fd7c
+rubric|full|both,rubric,full,both,10,A,W,p10_A_2022_both,p10_B_2022_loser,0,1,ok,1.0,0,1,,,674,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 7,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",f2701b1bb23cdcd769783db5
+rubric|full|both,rubric,full,both,11,B,W,p11_B_2022_both,p11_A_2022_loser,0,1,ok,1.0,0,1,,,885,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",defdb56f73a92d010802e975
+rubric|full|both,rubric,full,both,11,B,L,p11_A_2022_loser,p11_B_2022_both,0,2,ok,1.0,0,0,,,885,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",614cdea3fa58358a8b53c7ea
+rubric|full|both,rubric,full,both,12,A,L,p12_B_2022_loser,p12_A_2022_both,0,2,ok,1.0,0,0,,,787,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",0b469daaed3c2c035eb7beff
+rubric|full|both,rubric,full,both,10,A,L,p10_B_2022_loser,p10_A_2022_both,0,2,ok,1.0,0,0,,,674,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 7,
+    ""b"": 6,
+    ""c"": 7
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",50a18022ef3c04db1baa14d2
+rubric|full|both,rubric,full,both,13,B,L,p13_A_2022_loser,p13_B_2022_both,0,2,ok,1.0,0,0,,,800,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 7,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",17c5d8592f84f6fb20a4ee63
+rubric|full|both,rubric,full,both,12,A,W,p12_A_2022_both,p12_B_2022_loser,0,1,ok,1.0,0,1,,,787,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",39acbdd8e01ef25aea28f186
+rubric|full|both,rubric,full,both,14,A,L,p14_B_2022_loser,p14_A_2022_both,0,2,ok,1.0,0,0,,,967,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",9e299c145f58d32fe09a10b3
+rubric|full|both,rubric,full,both,15,B,W,p15_B_2022_both,p15_A_2022_loser,0,1,ok,1.0,0,1,,,777,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 7,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",5db222cdaa813dd80c678c99
+rubric|full|both,rubric,full,both,13,B,W,p13_B_2022_both,p13_A_2022_loser,0,1,ok,1.0,0,1,,,800,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",40b34aaa24f8fb66fc2fc85d
+rubric|full|both,rubric,full,both,15,B,L,p15_A_2022_loser,p15_B_2022_both,0,2,ok,1.0,0,0,,,777,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",5586a81f8268a8a33e813685
+rubric|full|both,rubric,full,both,16,A,W,p16_A_2022_both,p16_B_2022_loser,0,1,ok,1.0,0,1,,,1335,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 10,
+    ""b"": 10,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",82cc236e1142a4e6e92bcee9
+rubric|full|both,rubric,full,both,16,A,L,p16_B_2022_loser,p16_A_2022_both,0,2,ok,1.0,0,0,,,1335,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 10
+  },
+  ""choice"": 2
+}",b43d0d46ce5c0dff7f4e0ce4
+rubric|full|both,rubric,full,both,17,B,W,p17_B_2022_both,p17_A_2022_loser,0,1,ok,1.0,0,1,,,1065,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 10,
+    ""b"": 9,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",12ffaa545b2f19f205a10f3d
+rubric|full|both,rubric,full,both,14,A,W,p14_A_2022_both,p14_B_2022_loser,0,1,ok,1.0,0,1,,,967,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",93065417fac5b74e47fd0a45
+rubric|full|both,rubric,full,both,18,A,W,p18_A_2022_both,p18_B_2022_loser,0,1,ok,1.0,0,1,,,635,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 7,
+    ""b"": 7,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",37362d1221777db9e9ce1326
+rubric|full|both,rubric,full,both,17,B,L,p17_A_2022_loser,p17_B_2022_both,0,2,ok,1.0,0,0,,,1065,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",d539e02bfcaaf28bc50c15e9
+rubric|full|both,rubric,full,both,18,A,L,p18_B_2022_loser,p18_A_2022_both,0,2,ok,1.0,0,0,,,635,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 7,
+    ""b"": 7,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",0186bc34cb69113514a521ca
+rubric|full|both,rubric,full,both,19,B,L,p19_A_2022_loser,p19_B_2022_both,0,2,ok,1.0,0,0,,,1053,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",15995f79a3d59c6753c4d320
+rubric|full|both,rubric,full,both,19,B,W,p19_B_2022_both,p19_A_2022_loser,0,1,ok,1.0,0,1,,,1053,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 10,
+    ""b"": 9,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",6a872e922325a8fcb4b0846a
+rubric|full|both,rubric,full,both,20,A,L,p20_B_2022_loser,p20_A_2022_both,0,2,ok,1.0,0,0,,,745,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",5fc39118c30040cca2a59929
+tie_allowed|full|both,tie_allowed,full,both,1,A,W,p1_A_2022_both,p1_B_2022_loser,0,1,ok,1.0,0,1,0.9999987901337938,0.9999987901337938,955,1,False,gpt-4o-mini-2024-07-18,,1,3a8a96283c9904109bd6c57c
+rubric|full|both,rubric,full,both,20,A,W,p20_A_2022_both,p20_B_2022_loser,0,1,ok,1.0,0,1,,,745,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 9,
+    ""b"": 8,
+    ""c"": 9
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""choice"": 1
+}",32b0dc642cecb3788e32ad84
+tie_allowed|full|both,tie_allowed,full,both,1,A,L,p1_B_2022_loser,p1_A_2022_both,0,2,ok,1.0,0,0,0.32082130731838393,0.6791786926816161,955,1,False,gpt-4o-mini-2024-07-18,,2,ddfb42a9422fec5240b65db4
+rubric|full|both,rubric,full,both,21,B,L,p21_A_2022_loser,p21_B_2022_both,0,2,ok,1.0,0,0,,,1331,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 8,
+    ""b"": 9,
+    ""c"": 8
+  },
+  ""candidate_2"": {
+    ""a"": 9,
+    ""b"": 9,
+    ""c"": 9
+  },
+  ""choice"": 2
+}",effa17d5388305b8685c27b7
+tie_allowed|full|both,tie_allowed,full,both,2,B,W,p2_B_2022_both,p2_A_2022_loser,0,1,ok,1.0,0,1,0.9999999943972036,0.9999999943972036,954,1,False,gpt-4o-mini-2024-07-18,,1,8befd8f26b114e1eed1ec8af
+rubric|full|both,rubric,full,both,21,B,W,p21_B_2022_both,p21_A_2022_loser,0,1,ok,1.0,0,1,,,1331,69,False,gpt-4o-mini-2024-07-18,,"{
+  ""candidate_1"": {
+    ""a"": 10,
+    ""b"": 10,
+    ""c"": 10
+  },
+  ""candidate_2"": {
+    ""a"": 8,
+    ""b"": 8,
+    ""c"": 7
+  },
+  ""choice"": 1
+}",097efa678bdea483e269d553
+tie_allowed|full|both,tie_allowed,full,both,2,B,L,p2_A_2022_loser,p2_B_2022_both,0,2,ok,1.0,0,0,0.00043055706670739745,0.9995694429332926,954,1,False,gpt-4o-mini-2024-07-18,,2,28a06036754f1087fc083424
+tie_allowed|full|both,tie_allowed,full,both,3,A,W,p3_A_2022_both,p3_B_2022_loser,0,1,ok,1.0,0,1,0.9999998362622821,0.9999998362622821,1098,1,False,gpt-4o-mini-2024-07-18,,1,aa0bc0210e1cf899ced8c24d
+tie_allowed|full|both,tie_allowed,full,both,4,B,W,p4_B_2022_both,p4_A_2022_loser,0,1,ok,1.0,0,1,0.9999986290428547,0.9999986290428547,962,1,False,gpt-4o-mini-2024-07-18,,1,64a120c65ddd5dfc683c1a33
+tie_allowed|full|both,tie_allowed,full,both,3,A,L,p3_B_2022_loser,p3_A_2022_both,0,2,ok,1.0,0,0,4.5397871982293384e-05,0.9999546021280177,1098,1,False,gpt-4o-mini-2024-07-18,,2,16fb36f03f41c69c69b82189
+tie_allowed|full|both,tie_allowed,full,both,4,B,L,p4_A_2022_loser,p4_B_2022_both,0,2,ok,1.0,0,0,0.4378234991142019,0.5621765008857982,962,1,False,gpt-4o-mini-2024-07-18,,2,be083d35a3087dfa5367eb48
+tie_allowed|full|both,tie_allowed,full,both,7,A,W,p7_A_2022_both,p7_B_2022_loser,0,1,ok,1.0,0,1,0.9999998144608401,0.9999998144608401,655,1,False,gpt-4o-mini-2024-07-18,,1,ccf60f895fd870051901d805
+tie_allowed|full|both,tie_allowed,full,both,5,A,L,p5_B_2022_loser,p5_A_2022_both,0,2,ok,1.0,0,0,0.0013250224064297645,0.9986749775935703,1267,1,False,gpt-4o-mini-2024-07-18,,2,70ed1a5328645a8326c542db
+tie_allowed|full|both,tie_allowed,full,both,6,B,W,p6_B_2022_both,p6_A_2022_loser,0,1,ok,1.0,0,1,0.9999984465025004,0.9999984465025004,837,1,False,gpt-4o-mini-2024-07-18,,1,e5b6d9c37f2c5968302a7d5a
+tie_allowed|full|both,tie_allowed,full,both,6,B,L,p6_A_2022_loser,p6_B_2022_both,0,2,ok,1.0,0,0,0.0008040860017568247,0.9991959139982431,837,1,False,gpt-4o-mini-2024-07-18,,2,e83fb7166629ef36abad6da9
+tie_allowed|full|both,tie_allowed,full,both,7,A,L,p7_B_2022_loser,p7_A_2022_both,0,2,ok,1.0,0,0,1.3007127875638656e-05,0.9999869928721243,655,1,False,gpt-4o-mini-2024-07-18,,2,f4e295b69db393cf8de2e1b0
+tie_allowed|full|both,tie_allowed,full,both,8,B,L,p8_A_2022_loser,p8_B_2022_both,0,2,ok,1.0,0,0,0.06008665059478844,0.9399133494052115,793,1,False,gpt-4o-mini-2024-07-18,,2,52200ad3b0e50fb16349c680
+tie_allowed|full|both,tie_allowed,full,both,10,A,W,p10_A_2022_both,p10_B_2022_loser,0,1,ok,1.0,0,1,0.9999852610134262,0.9999852610134262,596,1,False,gpt-4o-mini-2024-07-18,,1,e81e6ef5d1d353b501fb0ed5
+tie_allowed|full|both,tie_allowed,full,both,5,A,W,p5_A_2022_both,p5_B_2022_loser,0,1,ok,1.0,0,1,0.9999999943972036,0.9999999943972036,1267,1,False,gpt-4o-mini-2024-07-18,,1,26c5e88ac4c7207813295984
+tie_allowed|full|both,tie_allowed,full,both,8,B,W,p8_B_2022_both,p8_A_2022_loser,0,1,ok,1.0,0,1,0.9999992661788774,0.9999992661788774,793,1,False,gpt-4o-mini-2024-07-18,,1,a6241fa5a49d74763cec6fac
+tie_allowed|full|both,tie_allowed,full,both,10,A,L,p10_B_2022_loser,p10_A_2022_both,0,2,ok,1.0,0,0,4.222835268240621e-06,0.9999957771647318,596,1,False,gpt-4o-mini-2024-07-18,,2,d1ad57ec48b4784aee38a07e
+tie_allowed|full|both,tie_allowed,full,both,11,B,W,p11_B_2022_both,p11_A_2022_loser,0,1,ok,1.0,0,1,0.9999999804443193,0.9999999804443193,807,1,False,gpt-4o-mini-2024-07-18,,1,90aa6f34a633072a0ae7d3b6
+tie_allowed|full|both,tie_allowed,full,both,11,B,L,p11_A_2022_loser,p11_B_2022_both,0,2,ok,1.0,0,0,0.00970847488767253,0.9902915251123274,807,1,False,gpt-4o-mini-2024-07-18,,2,9084516d142ac294e227dcd1
+tie_allowed|full|both,tie_allowed,full,both,12,A,L,p12_B_2022_loser,p12_A_2022_both,0,2,ok,1.0,0,0,0.0040701382368713915,0.9959298617631286,709,1,False,gpt-4o-mini-2024-07-18,,2,20bc339706d05644cec6203b
+tie_allowed|full|both,tie_allowed,full,both,12,A,W,p12_A_2022_both,p12_B_2022_loser,0,1,ok,1.0,0,1,0.9999998874648162,0.9999998874648162,709,1,False,gpt-4o-mini-2024-07-18,,1,92aeaa4997d9824635a7732c
+tie_allowed|full|both,tie_allowed,full,both,15,B,W,p15_B_2022_both,p15_A_2022_loser,0,1,ok,1.0,0,1,0.9999999586006244,0.9999999586006244,699,1,False,gpt-4o-mini-2024-07-18,,1,6e9d215d66f5256c7fa747ae
+tie_allowed|full|both,tie_allowed,full,both,14,A,L,p14_B_2022_loser,p14_A_2022_both,0,2,ok,1.0,0,0,0.22270013366638422,0.7772998663336158,889,1,False,gpt-4o-mini-2024-07-18,,2,4f032feb075efa6dd6362fd2
+tie_allowed|full|both,tie_allowed,full,both,13,B,W,p13_B_2022_both,p13_A_2022_loser,0,1,ok,1.0,0,1,0.9999991684723071,0.9999991684723071,722,1,False,gpt-4o-mini-2024-07-18,,1,5ba9887e19af0ccc054436b2
+tie_allowed|full|both,tie_allowed,full,both,13,B,L,p13_A_2022_loser,p13_B_2022_both,0,2,ok,1.0,0,0,0.0007096703409798448,0.9992903296590202,722,1,False,gpt-4o-mini-2024-07-18,,2,eb61ccb68fcd33f243474adb
+tie_allowed|full|both,tie_allowed,full,both,14,A,W,p14_A_2022_both,p14_B_2022_loser,0,1,ok,1.0,0,1,0.9999967112510825,0.9999967112510825,889,1,False,gpt-4o-mini-2024-07-18,,1,f6fc98efd504b5df34aff7a7
+tie_allowed|full|both,tie_allowed,full,both,15,B,L,p15_A_2022_loser,p15_B_2022_both,0,2,ok,1.0,0,0,0.0002305067598747429,0.9997694932401252,699,1,False,gpt-4o-mini-2024-07-18,,2,f92e1596c7752c713431ad51
+tie_allowed|full|both,tie_allowed,full,both,16,A,L,p16_B_2022_loser,p16_A_2022_both,0,2,ok,1.0,0,0,0.0031726830552915412,0.9968273169447085,1257,1,False,gpt-4o-mini-2024-07-18,,2,f0863f043720c328cf4503b7
+tie_allowed|full|both,tie_allowed,full,both,18,A,W,p18_A_2022_both,p18_B_2022_loser,0,1,ok,1.0,0,1,0.9999970976877992,0.9999970976877992,557,1,False,gpt-4o-mini-2024-07-18,,1,6a7337d91b21aed07d1fe75b
+tie_allowed|full|both,tie_allowed,full,both,17,B,W,p17_B_2022_both,p17_A_2022_loser,0,1,ok,1.0,0,1,0.9999999778405106,0.9999999778405106,987,1,False,gpt-4o-mini-2024-07-18,,1,297e817d0b7ddd2b5b80175d
+tie_allowed|full|both,tie_allowed,full,both,18,A,L,p18_B_2022_loser,p18_A_2022_both,0,2,ok,1.0,0,0,0.017986211113568986,0.982013788886431,557,1,False,gpt-4o-mini-2024-07-18,,2,0d335d7d5743bfc94e6e5d13
+tie_allowed|full|both,tie_allowed,full,both,19,B,W,p19_B_2022_both,p19_A_2022_loser,0,1,ok,1.0,0,1,0.9999999847700205,0.9999999847700205,975,1,False,gpt-4o-mini-2024-07-18,,1,1df26957594b3d41181f8654
+tie_allowed|full|both,tie_allowed,full,both,17,B,L,p17_A_2022_loser,p17_B_2022_both,0,2,ok,1.0,0,0,0.37754067580180184,0.6224593241981982,987,1,False,gpt-4o-mini-2024-07-18,,2,bfa5f30e537f35c0753937ad
+tie_allowed|full|both,tie_allowed,full,both,16,A,W,p16_A_2022_both,p16_B_2022_loser,0,1,ok,1.0,0,1,0.9999999530883621,0.9999999530883621,1257,1,False,gpt-4o-mini-2024-07-18,,1,0b6c4c3cd94ace2be3d106a3
+tie_allowed|full|both,tie_allowed,full,both,19,B,L,p19_A_2022_loser,p19_B_2022_both,0,2,ok,1.0,0,0,0.0019267343290906892,0.9980732656709093,975,1,False,gpt-4o-mini-2024-07-18,,2,e3a061f328fe10a9abe866bb
+tie_allowed|full|both,tie_allowed,full,both,20,A,W,p20_A_2022_both,p20_B_2022_loser,0,1,ok,1.0,0,1,0.9988304895218486,0.9988304895218486,667,1,False,gpt-4o-mini-2024-07-18,,1,6ac32e94c6ac184897ed7511
+tie_allowed|full|both,tie_allowed,full,both,20,A,L,p20_B_2022_loser,p20_A_2022_both,0,2,ok,1.0,0,0,0.09534945590170514,0.9046505440982948,667,1,False,gpt-4o-mini-2024-07-18,,2,2a32f5b1084e7487e7ea75de
+tie_allowed|full|both,tie_allowed,full,both,21,B,W,p21_B_2022_both,p21_A_2022_loser,0,1,ok,1.0,0,1,0.9999999397642536,0.9999999397642536,1253,1,False,gpt-4o-mini-2024-07-18,,1,360d0e1617f0a6734790daf8
+tie_allowed|full|both,tie_allowed,full,both,21,B,L,p21_A_2022_loser,p21_B_2022_both,0,2,ok,1.0,0,0,0.0052201255533073625,0.9947798744466927,1253,1,False,gpt-4o-mini-2024-07-18,,2,eb8e9593e11d2af8c9a73ee0
+reason|full|both,reason,full,both,2,B,W,p2_B_2022_both,p2_A_2022_loser,0,1,ok,1.0,0,1,,,974,104,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 17 years of experience and currently holds a Principal Software Engineer position, which aligns well with the role's requirements. They have led significant projects, including a multi-team migration to Kubernetes and authored a multi-year roadmap, demonstrating leadership and strategic planning. Candidate 2, while experienced, is currently a Staff Software Engineer a",b348dfb13d6c31d5182fe5df
+reason|full|both,reason,full,both,2,B,L,p2_A_2022_loser,p2_B_2022_both,0,2,ok,1.0,0,0,,,974,107,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent and relevant experience as a Principal Software Engineer, leading significant projects across multiple teams, which aligns well with the role's focus on platform systems. Their experience in migrating to Kubernetes and setting technical direction for payments demonstrates strong leadership and technical skills. Candidate 1, while experienced, has not hel",50bb6d01802c5d49b2120a55
+reason|full|both,reason,full,both,1,A,W,p1_A_2022_both,p1_B_2022_loser,0,1,ok,1.0,0,1,,,975,97,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 19 years of experience and has held a Staff Backend Engineer position, demonstrating leadership and significant cost reductions in infrastructure. Their experience includes mentoring engineers and owning services end to end, which aligns well with the role's requirements. Candidate 2, while also experienced, is currently a Senior Backend Engineer and lacks the staff-l",e4722655b504dd3bd1e12671
+reason|full|both,reason,full,both,3,A,L,p3_B_2022_loser,p3_A_2022_both,0,2,ok,1.0,0,0,,,1118,105,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent role as a Principal Software Engineer, demonstrating leadership in architecture and strategic planning, which aligns well with the Principal Infrastructure Engineer position. They have experience in cutting latency significantly and managing technical direction across multiple teams. Candidate 1, while experienced, has not held a principal-level position",65e559dc2faf2716739ad86f
+reason|full|both,reason,full,both,4,B,L,p4_A_2022_loser,p4_B_2022_both,0,2,ok,1.0,0,0,,,982,114,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has extensive experience in software engineering, with a strong focus on reducing onboarding time and improving infrastructure costs. However, Candidate 2 has a more recent title of Staff Software Engineer and has led significant projects like migrating from monolith to microservices without downtime, which is crucial for a Staff Frontend Engineer role. Both candidates ha",cb71c3c7ab0b7b27a2b4f759
+reason|full|both,reason,full,both,4,B,W,p4_B_2022_both,p4_A_2022_loser,0,1,ok,1.0,0,1,,,982,110,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has extensive experience as a Staff Software Engineer, demonstrating leadership in migrating to microservices and reducing infrastructure costs significantly. Their experience spans multiple companies, showcasing a strong ability to mentor and lead design reviews. Candidate 2, while also experienced, is at a Senior Software Engineer level and lacks the specific title of '",119c3a3ec10c95f445069894
+reason|full|both,reason,full,both,3,A,W,p3_A_2022_both,p3_B_2022_loser,0,1,ok,1.0,0,1,,,1118,108,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 17 years of experience and has held a Principal Software Engineer role, demonstrating leadership in architecture and multi-team collaboration. Their experience includes significant contributions to latency reduction and service ownership. Candidate 2, while also experienced, is currently a Staff Software Engineer and has less leadership experience compared to Candidat",8a57e640c49200287887bb4c
+reason|full|both,reason,full,both,1,A,L,p1_B_2022_loser,p1_A_2022_both,0,2,ok,1.0,0,0,,,975,114,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Both candidates have extensive experience, but Candidate 2 has a more recent title of Staff Backend Engineer, which aligns closely with the job level required. They have demonstrated leadership in design and mentoring, with significant achievements in cost reduction and migration projects. Candidate 1, while experienced, has not held a staff-level position recently and focuses more o",ae5666fa9def442b4f275ba4
+reason|full|both,reason,full,both,6,B,W,p6_B_2022_both,p6_A_2022_loser,0,1,ok,1.0,0,1,,,857,109,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has more relevant experience as a Staff Data Engineer and has demonstrated significant achievements in reducing latency and costs, which aligns well with the role's focus on data systems. Their experience in leading design reviews and mentoring engineers also indicates strong leadership skills. Candidate 2, while experienced, is currently at a Senior level and lacks the s",5d34a525c6ba90f0a89bba7d
+reason|full|both,reason,full,both,5,A,L,p5_B_2022_loser,p5_A_2022_both,0,2,ok,1.0,0,0,,,1287,101,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more relevant title as a Principal Software Engineer and has experience leading architecture reviews and setting technical direction across multiple teams, which aligns well with the role's requirements. They also have a strong track record of reducing incident volume and improving system performance, demonstrating their ability to operate at scale. While both candi",5342e0579d957e33db6b18ee
+reason|full|both,reason,full,both,6,B,L,p6_A_2022_loser,p6_B_2022_both,0,2,ok,1.0,0,0,,,857,117,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Staff Data Engineer, indicating a higher level of responsibility and leadership experience, which aligns well with the role's requirements. They have successfully driven significant migrations and optimizations, showcasing their ability to handle complex data systems. Additionally, their experience in mentoring and leading design reviews is a st",ba49842b131fcc378df38dcf
+reason|full|both,reason,full,both,7,A,W,p7_A_2022_both,p7_B_2022_loser,0,1,ok,1.0,0,1,,,675,118,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 10 years of experience, significantly more than the required 2+ years, and has a strong background in owning services end to end, which aligns well with the role's focus on platform systems. Their experience includes improving build times and managing production software, which is crucial for the position. Candidate 2, while also having 10 years of experience, is labe",a8895d137459df67957873ec
+reason|full|both,reason,full,both,8,B,L,p8_A_2022_loser,p8_B_2022_both,0,2,ok,1.0,0,0,,,813,117,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Both candidates have 14 years of experience and a strong background in building and operating production software. However, Candidate 2 has more recent experience in a senior role, mentoring engineers and leading design reviews, which indicates leadership potential. Additionally, Candidate 2 has consistently owned services end to end across multiple roles, aligning well with the job'",1badf46e06ba5c752385cfd6
+reason|full|both,reason,full,both,7,A,L,p7_B_2022_loser,p7_A_2022_both,0,2,ok,1.0,0,0,,,675,104,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a stronger background in software engineering with relevant experience in owning services end to end, which aligns well with the platform engineer role. They have demonstrated improvements in build processes and have a solid track record of resolving production issues. Candidate 1, while having 10 years of experience, is labeled as a Junior Software Engineer and lacks",1322907d7c61dbdf068a2658
+reason|full|both,reason,full,both,5,A,W,p5_A_2022_both,p5_B_2022_loser,0,1,ok,1.0,0,1,,,1287,105,False,gpt-4o-mini-2024-07-18,,"{""reasoning"": ""Candidate 1 has 19 years of experience and has held a Principal Software Engineer role, demonstrating leadership and technical direction across multiple teams. Their experience includes significant contributions to production software, architecture reviews, and incident reduction, which aligns well with the requirements of the Principal Software Engineer position. Candidate 2, while",a9a8bcacef82508a95e79ce5
+reason|full|both,reason,full,both,8,B,W,p8_B_2022_both,p8_A_2022_loser,0,1,ok,1.0,0,1,,,813,102,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has a strong background in owning services end to end and has demonstrated significant impact by reducing incident volumes and mentoring engineers. Their experience spans multiple companies with a focus on production software, which aligns well with the role's requirements. Candidate 2 also has relevant experience but lacks the same level of leadership and mentoring exper",6dfabb5d241f2041a628bbbb
+reason|full|both,reason,full,both,11,B,W,p11_B_2022_both,p11_A_2022_loser,0,1,ok,1.0,0,1,,,827,99,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 15 years of experience and has held a Staff Software Engineer position, demonstrating leadership and technical direction across multiple teams. Their experience includes significant cost reductions and ownership of services end to end, which aligns well with the role's requirements. Candidate 2, while also experienced, is currently a Senior Software Engineer and lacks",8fce1c951a867950d9f8f61b
+reason|full|both,reason,full,both,10,A,W,p10_A_2022_both,p10_B_2022_loser,0,1,ok,1.0,0,1,,,616,105,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has a strong background in data engineering with relevant experience in reducing latency and leading the design of an internal platform, which aligns well with the role's focus on data systems. Their experience in owning services end to end is also a plus. Candidate 2, while also experienced, has slightly less relevant achievements and a lower salary history. Candidate 1'",7a15e4ab9fc8a28f3c007fe1
+reason|full|both,reason,full,both,12,A,L,p12_B_2022_loser,p12_A_2022_both,0,2,ok,1.0,0,0,,,729,128,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Staff Infrastructure Engineer, indicating a higher level of responsibility and leadership experience. They have demonstrated significant achievements in reducing latency and setting technical direction across multiple teams, which aligns well with the role's focus on infrastructure systems. Additionally, their experience includes mentoring engin",bc44e242059e7b3cede8323d
+reason|full|both,reason,full,both,11,B,L,p11_A_2022_loser,p11_B_2022_both,0,2,ok,1.0,0,0,,,827,108,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Staff Software Engineer and has experience setting technical direction across multiple teams, which aligns well with the responsibilities of a Staff Software Engineer. They have demonstrated significant cost reductions and improvements in onboarding processes, showcasing their ability to drive efficiency. Additionally, their experience in mentor",aa72fec5854884d849c33336
+reason|full|both,reason,full,both,13,B,W,p13_B_2022_both,p13_A_2022_loser,0,1,ok,1.0,0,1,,,742,109,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has more relevant experience as a Staff Software Engineer, demonstrating leadership in migrating to microservices and reducing build times significantly. Their experience includes mentoring and running design reviews, which aligns well with the responsibilities of a Staff Infrastructure Engineer. Candidate 2, while also experienced, is currently at a Senior level and lack",af7fc32e7acd95f8e0b5dfea
+reason|full|both,reason,full,both,13,B,L,p13_A_2022_loser,p13_B_2022_both,0,2,ok,1.0,0,0,,,742,113,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Staff Software Engineer and has experience leading significant projects like migrating from a monolith to microservices, which aligns well with the infrastructure focus of the role. They also have a consistent record of reducing incident volume and improving build times, demonstrating strong problem-solving skills. Candidate 1, while experienced",25cb2d69dffeb82083ef52a7
+reason|full|both,reason,full,both,10,A,L,p10_B_2022_loser,p10_A_2022_both,0,2,ok,1.0,0,0,,,616,105,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has more relevant experience as a Senior Data Engineer, leading projects that directly align with the role's focus on data systems. Their recent work includes significant performance improvements and leadership in designing an internal experimentation platform, which demonstrates both technical and collaborative skills. Candidate 1, while experienced, has less recent seni",2bca125c2ebc2bcab53c3a0d
+reason|full|both,reason,full,both,14,A,L,p14_B_2022_loser,p14_A_2022_both,0,2,ok,1.0,0,0,,,909,122,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has a strong background in backend systems, with significant achievements in reducing onboarding time and infrastructure costs, as well as mentoring engineers. However, Candidate 2 has a more recent title of Staff Software Engineer and has led a migration from a monolith to microservices, which is highly relevant for backend systems. Additionally, Candidate 2 has demonstr",a4806590044dca7d43b4dc5f
+reason|full|both,reason,full,both,12,A,W,p12_A_2022_both,p12_B_2022_loser,0,1,ok,1.0,0,1,,,729,107,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 11 years of experience and currently holds a Staff Infrastructure Engineer position, which aligns well with the job level required. They have demonstrated significant achievements in reducing latency and leading technical direction across multiple teams. Candidate 2, while also experienced, is currently a Senior Infrastructure Engineer and lacks the staff-level title,",dcaf78e9ce415ea6a74ed0b2
+reason|full|both,reason,full,both,15,B,W,p15_B_2022_both,p15_A_2022_loser,0,1,ok,1.0,0,1,,,719,106,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 14 years of experience and currently holds a Staff Software Engineer position, demonstrating leadership and technical direction across multiple teams. Their experience includes significant achievements in latency reduction and cost savings, which are crucial for infrastructure roles. Candidate 2, while also experienced, is currently a Senior Software Engineer and lack",74a6eec3d161813f8edde4b9
+reason|full|both,reason,full,both,16,A,L,p16_B_2022_loser,p16_A_2022_both,0,2,ok,1.0,0,0,,,1277,105,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Principal Infrastructure Engineer, which aligns directly with the job level required. They have experience leading architecture reviews and setting technical direction across more teams, indicating strong leadership and strategic skills. Their recent experience includes significant migrations and cost reductions, showcasing their ability to driv",891c37fddbbe90abe9f019d5
+reason|full|both,reason,full,both,16,A,W,p16_A_2022_both,p16_B_2022_loser,0,1,ok,1.0,0,1,,,1277,102,False,gpt-4o-mini-2024-07-18,,"{""reasoning"": ""Candidate 1 has extensive experience as a Principal Infrastructure Engineer, demonstrating leadership in architecture and multi-team coordination, which aligns well with the role's requirements. They have a strong track record of reducing build times and managing migrations with no downtime. Candidate 2, while experienced, is currently at the Staff level and lacks the principal-leve",8362451c26cac6f0424b2668
+reason|full|both,reason,full,both,15,B,L,p15_A_2022_loser,p15_B_2022_both,0,2,ok,1.0,0,0,,,719,121,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Staff Software Engineer and has experience setting technical direction across multiple teams, which aligns well with the seniority level required for this role. They have demonstrated significant impact on latency and cost reduction at a platform scale, showcasing their ability to handle infrastructure systems effectively. Additionally, their me",60dbed243ee862b97b4e0cda
+reason|full|both,reason,full,both,17,B,W,p17_B_2022_both,p17_A_2022_loser,0,1,ok,1.0,0,1,,,1007,104,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 19 years of experience and has held a Staff Software Engineer position, demonstrating leadership and technical direction across multiple teams. Their experience includes significant cost reductions and mentoring, which aligns well with the role's requirements. Candidate 2, while also experienced, is currently at a Senior Software Engineer level and lacks the specific ",2adc0888eee952058c0b6159
+reason|full|both,reason,full,both,14,A,W,p14_A_2022_both,p14_B_2022_loser,0,1,ok,1.0,0,1,,,909,113,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has 12 years of experience and has held a Staff Software Engineer position, demonstrating leadership and significant contributions to production software, including successful migrations and cost reductions. Their experience aligns well with the role's requirements. Candidate 2 also has 12 years of experience but is currently at a Senior level, which may not meet the expe",1a3177d8558d63cd3e9a648c
+reason|full|both,reason,full,both,17,B,L,p17_A_2022_loser,p17_B_2022_both,0,1,ok,0.0,0,1,,,1007,118,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has extensive experience in leading design initiatives and mentoring engineers, with a strong focus on reducing infrastructure costs and improving system performance. Their experience aligns well with the requirements of a Staff Systems Engineer, particularly in a team setting. Candidate 2 also has significant experience and has set technical direction across teams, but t",9b1aff6827e0dc4693f8688e
+reason|full|both,reason,full,both,18,A,W,p18_A_2022_both,p18_B_2022_loser,0,1,ok,1.0,0,1,,,577,108,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has a strong background in software engineering with relevant experience in data systems and production software, including leading the design of a reporting tool and improving onboarding processes. Their experience at Gartner and UP Entertainment demonstrates ownership of services and collaboration with teams. Candidate 2 also has solid experience but focuses more on int",81d9b84104b62a41a3902348
+reason|full|both,reason,full,both,18,A,L,p18_B_2022_loser,p18_A_2022_both,0,2,ok,1.0,0,0,,,577,128,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Both candidates have 8 years of experience and a strong background in building and operating production software. Candidate 1 has experience in a data-related role, specifically with an internal experimentation platform and search service, which aligns well with data systems. Candidate 2 has led the design of a reporting tool and worked on a real-time alerting pipeline, showcasing re",987a7d44aed50d2b029196f8
+reason|full|both,reason,full,both,19,B,L,p19_A_2022_loser,p19_B_2022_both,0,2,ok,1.0,0,0,,,995,113,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 2 has a more recent title of Principal Backend Engineer and has led significant initiatives such as a monolith-to-microservices program, which aligns well with the responsibilities of the role at Updater. They also have experience in architecture reviews across multiple teams, showcasing leadership and technical direction. While both candidates have extensive experience, Ca",63254c362f5113d20cb430fd
+reason|full|both,reason,full,both,19,B,W,p19_B_2022_both,p19_A_2022_loser,0,1,ok,1.0,0,1,,,995,113,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has extensive experience as a Principal Backend Engineer, leading significant projects like a monolith-to-microservices transition and architecture reviews across multiple teams. Their experience aligns well with the role's requirements for leadership and backend systems expertise. In contrast, Candidate 2 is currently a Staff Backend Engineer, which may not meet the seni",5122745a3df09fee9d5b8a02
+reason|full|both,reason,full,both,20,A,W,p20_A_2022_both,p20_B_2022_loser,0,1,ok,1.0,0,1,,,687,104,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Both candidates have 11 years of experience and similar educational backgrounds. However, Candidate 1 has a broader range of experience across multiple companies and has led design initiatives and mentored engineers, showcasing leadership skills. Candidate 2 has strong achievements in cutting build times and incident volumes but lacks the same level of leadership experience. Given th",03220a6b6dd5effddb1f6235
+reason|full|both,reason,full,both,20,A,L,p20_B_2022_loser,p20_A_2022_both,0,1,ok,0.0,0,1,,,687,113,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Both candidates have 11 years of experience and a Master's degree in Statistics. Candidate 1 has a strong focus on ownership of services and has demonstrated significant improvements in build time and incident volume. Candidate 2 also shows leadership experience, having mentored engineers and led design reviews. However, Candidate 1 has more relevant experience in a variety of infras",e214a14af9112d43d1e63034
+reason|full|both,reason,full,both,21,B,W,p21_B_2022_both,p21_A_2022_loser,0,1,ok,1.0,0,1,,,1273,96,False,gpt-4o-mini-2024-07-18,,"{""reasoning"":""Candidate 1 has extensive experience as a Principal Software Engineer, demonstrating leadership in infrastructure systems and production software across multiple teams. Their history of driving significant migrations and improvements in latency and onboarding time aligns well with the role's requirements. Candidate 2, while experienced, is currently at the Staff Software Engineer lev",70b27a789b9399a482a930eb
+reason|full|both,reason,full,both,21,B,L,p21_A_2022_loser,p21_B_2022_both,0,2,ok,1.0,0,0,,,1273,121,False,gpt-4o-mini-2024-07-18,,"{""reasoning"": ""Candidate 2 has a more recent title of Principal Software Engineer and has led significant initiatives such as a monolith-to-microservices program, which aligns well with the role's focus on infrastructure systems. They also have experience setting technical direction across multiple teams and have demonstrated a strong ability to cut latency and onboarding time, which is crucial fo",433006a0e7244c875915dd3e

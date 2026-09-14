@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with over a decade of expertise in infrastructure engineering. Proven track record in enhancing system performance and reliability, while maintaining a diplomatic communication style that fosters collaboration and innovation.  
+
+**Education**  
+Master's Degree in Mathematics, Rutgers University, 2009  
+
+**Work History**  
+
+Senior Infrastructure Engineer, SHB Technology, Inc, Whippany, NJ, US (2019–Present)  
+Annual salary: $160,900  
+- Spearheaded the redesign of the company's core network infrastructure, boosting uptime by 15%.  
+- Implemented automated monitoring solutions, reducing incident response times by 30%.  
+
+Infrastructure Engineer, HelloGov, Princeton, NJ (2014–2019)  
+Annual salary: $131,100  
+- Developed and maintained scalable infrastructure solutions that supported a 200% increase in user base.  
+- Collaborated with cross-functional teams to optimize server configurations, leading to a 25% reduction in operational costs.  
+
+Infrastructure Engineer, Hallmark Marketing Company LLC, Hackensack, NJ, US (2012–2014)  
+Annual salary: $117,000  
+- Led the transition to a virtualized environment, improving system flexibility and reducing hardware expenses by 20%.  
+- Played a key role in data center consolidation efforts, enhancing service delivery and reducing downtime.  
+
+Infrastructure Engineer, Oracle, Troy, NY, US (2009–2012)  
+Annual salary: $98,400  
+- Assisted in the deployment of enterprise-level infrastructure, contributing to a 30% improvement in data processing speeds.  
+- Improved system security protocols, resulting in a 50% reduction in security incidents.

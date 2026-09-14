@@ -1,0 +1,42 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Tech-savvy software engineer with over 15 years of experience specializing in backend development. Known for solving complex problems and delivering efficient, scalable solutions that enhance business operations.
+
+**Education**  
+Bachelor's Degree in Mathematics, University of Connecticut, 2005
+
+**Work Experience**  
+
+**Junior Software Engineer, Foss Maritime Company, Albany, NY, US (2005–2007)**  
+Annual salary: $62,700  
+- Developed and maintained software applications, improving system efficiency by 20%.  
+- Collaborated with cross-functional teams to integrate new features into existing systems.  
+
+**Backend Engineer, Beast Code, Newark, NJ, US (2007–2010)**  
+Annual salary: $86,900  
+- Designed and implemented RESTful APIs, reducing data retrieval time by 30%.  
+- Enhanced application performance, leading to a 15% increase in user satisfaction.  
+
+**Senior Backend Engineer, Science Systems and Applications, Inc., Morris Plains, NJ, US (2010–2013)**  
+Annual salary: $115,600  
+- Led a team of 5 engineers in developing a scalable backend infrastructure.  
+- Optimized database queries, resulting in a 40% reduction in response time.  
+
+**Senior Backend Engineer, The Hartford, Franklin Lakes, NJ, US (2013–2015)**  
+Annual salary: $128,000  
+- Spearheaded the migration to a microservices architecture, enhancing system reliability.  
+- Implemented security protocols that reduced vulnerabilities by 50%.  
+
+**Senior Backend Engineer, American Airlines, East Newark, NJ, US (2015–2019)**  
+Annual salary: $140,500  
+- Drove backend development for critical flight data systems, increasing data accuracy by 25%.  
+- Collaborated with front-end teams to improve user interface responsiveness.  
+
+**Senior Backend Engineer, Eagle Horizon Group, Groton, CT, US (2019–Present)**  
+Annual salary: $159,600  
+- Leading development of cloud-based solutions, achieving a 30% decrease in infrastructure costs.  
+- Mentored junior engineers, fostering a culture of continuous learning and improvement.

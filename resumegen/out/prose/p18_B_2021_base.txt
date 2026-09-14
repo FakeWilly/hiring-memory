@@ -1,0 +1,31 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+---
+
+**Professional Summary**  
+Innovative and detail-oriented software engineer with over seven years of experience in developing and optimizing software applications. Known for a balanced approach that combines technical proficiency with a touch of humor to foster an engaging and productive work environment.
+
+---
+
+**Education**  
+Bachelor's Degree in Statistics, Northeastern University, 2014
+
+---
+
+**Work Experience**  
+
+**Software Engineer, Stier Solutions, East Newark, NJ, US (2019–Present)**  
+Annual salary: $111,900  
+- Spearheaded the migration of legacy systems to cloud-based platforms, enhancing system scalability and performance by 30%.  
+- Collaborated with cross-functional teams to develop and deploy innovative solutions, reducing project completion times by 15%.  
+- Introduced robust testing frameworks that improved code quality and reduced bugs by 25%.
+
+**Junior Software Engineer, Apptronik, Syracuse, NY, US (2014–2019)**  
+Annual salary: $80,600  
+- Contributed to the development of a key application feature, resulting in a 20% increase in user engagement.  
+- Streamlined code review processes, reducing turnaround time by 40% and improving team efficiency.  
+- Assisted in integrating new technology tools, enhancing application functionality and user experience.  
+
+---

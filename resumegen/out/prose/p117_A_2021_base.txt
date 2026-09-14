@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented and tech-savvy software engineer with over a decade of experience in developing efficient and scalable software solutions. Known for exceptional organizational skills and a methodical approach to problem-solving, with a strong background in both team collaboration and independent project management.
+
+**Work History**
+
+Senior Software Engineer, TowneBank, Orchard Park, NY, US (2019–Present)  
+Annual salary: $163,900  
+- Developed a secure banking application that improved transaction speed by 25%, enhancing customer satisfaction.  
+- Led a team of five engineers in transitioning to a microservices architecture, reducing system downtime by 40%.  
+
+Senior Software Engineer, Redwire Space, Bridgewater, NJ, US (2014–2019)  
+Annual salary: $141,200  
+- Engineered a real-time data processing system for satellite telemetry, increasing data accuracy by 30%.  
+- Spearheaded the migration to a cloud-based infrastructure, cutting operational costs by 20% annually.  
+
+Software Engineer, Fawkes Engineering Inc, Groton, CT, US (2010–2014)  
+Annual salary: $102,000  
+- Designed and implemented a robust API framework that improved third-party integration capabilities by 50%.  
+- Collaborated on cross-functional teams to develop a software suite that increased productivity by 15%.  
+
+Junior Software Engineer, The Travelers Companies, Inc., Lakewood, NJ (2008–2010)  
+Annual salary: $73,900  
+- Assisted in the development of an internal tool that automated reporting processes, reducing manual input by 60%.  
+- Contributed to debugging and refining code, increasing overall system reliability by 20%.  
+
+**Education**  
+Bachelor's Degree in Information Systems, CUNY City College, 2008

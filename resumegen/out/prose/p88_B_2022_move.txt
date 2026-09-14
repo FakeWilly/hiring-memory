@@ -1,0 +1,43 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Accomplished Senior Infrastructure Engineer with nearly two decades of experience in developing and maintaining robust IT infrastructures. Highly organized and tech-savvy, adept at optimizing system performance and ensuring seamless operations in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rutgers University, 2003
+
+**Work History**
+
+**Junior Software Engineer, ELEVI Associates, LLC, Bridgewater, NJ, US (2003–2006)**  
+Annual salary: $65,200  
+- Assisted in the development and testing of software applications, contributing to a 15% improvement in software release efficiency.  
+- Collaborated with cross-functional teams to troubleshoot and resolve technical issues, enhancing system stability.
+
+**Infrastructure Engineer, General Dynamics Corporation, Princeton, NJ, US (2006–2009)**  
+Annual salary: $89,400  
+- Implemented network infrastructure improvements, resulting in a 20% reduction in downtime.  
+- Designed and maintained scalable systems architecture to support growing enterprise needs.
+
+**Senior Infrastructure Engineer, Arcesium, Morris Plains, NJ, US (2009–2014)**  
+Annual salary: $123,800  
+- Spearheaded a major server migration project that improved data access speeds by 30%.  
+- Developed automated scripts to streamline infrastructure monitoring, reducing manual workload by 25%.
+
+**Senior Infrastructure Engineer, Camden Kelly Corporation, Kingston, NY, US (2014–2019)**  
+Annual salary: $144,700  
+- Led a team to enhance cybersecurity protocols, reducing potential vulnerabilities by 40%.  
+- Optimized existing systems to improve overall network performance by 15%.
+
+**Senior Infrastructure Engineer, Vertafore, Buffalo, NY, US (2019–2021)**  
+Annual salary: $171,900  
+- Directed the upgrade of legacy systems, resulting in a 50% increase in operational efficiency.  
+- Implemented disaster recovery plans, ensuring data integrity and business continuity.
+
+**Senior Infrastructure Engineer, Quality Theorem, Lakewood, NJ (2021–Present)**  
+Annual salary: $176,200  
+- Developed and deployed scalable infrastructure solutions that supported a 25% increase in user traffic.  
+- Collaborated on cross-department projects to align IT infrastructure with strategic business goals.

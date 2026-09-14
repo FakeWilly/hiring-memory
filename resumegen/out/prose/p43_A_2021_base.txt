@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over a decade of experience in developing and implementing software solutions. Adept at collaborating with cross-functional teams to deliver high-quality, scalable applications in fast-paced environments.
+
+**Work Experience**  
+
+Frontend Engineer, Centerfield, Syracuse, NY (2018–Present)  
+Annual salary: $118,400  
+- Spearheaded the development of a new customer-facing web application, increasing user engagement by 30%.  
+- Optimized codebase to reduce page load times by 40%, enhancing user experience and boosting site performance.
+
+Frontend Engineer, Insurity, Buffalo, NY (2016–2018)  
+Annual salary: $106,500  
+- Successfully migrated legacy applications to modern frontend frameworks, reducing maintenance costs by 25%.  
+- Collaborated with UI/UX teams to design intuitive interfaces, improving user satisfaction ratings by 15%.
+
+Junior Software Engineer, Capgemini Engineering, Binghamton, NY (2012–2016)  
+Annual salary: $73,300  
+- Developed and tested software modules for various client projects, contributing to a 95% on-time project delivery rate.  
+- Implemented innovative solutions to streamline code review processes, resulting in a 20% reduction in bug-related project delays.
+
+Junior Software Engineer, Sumitomo Mitsui Banking Corporation, East Syracuse, NY (2008–2012)  
+Annual salary: $65,600  
+- Assisted in the development of banking software systems, ensuring compliance with industry standards.  
+- Played a key role in debugging critical issues, improving system reliability and user trust.
+
+**Education**  
+Bachelor's Degree in Information Systems, Rutgers University, 2008

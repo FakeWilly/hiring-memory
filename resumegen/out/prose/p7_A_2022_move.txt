@@ -1,0 +1,38 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Enthusiastic and detail-oriented software engineer with a solid foundation in developing efficient code and a passion for technology. Known for a humorous communication style and a knack for problem-solving, I excel in dynamic environments, consistently delivering top-notch solutions.
+
+---
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Baruch College, 2012
+
+---
+
+**Work History**  
+
+Junior Software Engineer, Anchor Qea, Binghamton, NY (2021–Present)  
+Annual salary: $101,300  
+- Spearheaded the development of a new internal tool that improved project tracking efficiency by 30%.  
+- Collaborated with a cross-functional team to enhance software performance, resulting in a 25% reduction in processing time.
+
+Junior Software Engineer, American Axle & Manufacturing, East Syracuse, NY (2019–2021)  
+Annual salary: $98,800  
+- Implemented a code optimization strategy that reduced system errors by 15%, significantly improving reliability.  
+- Developed and maintained software applications that supported key operations, contributing to a 20% increase in productivity.
+
+Junior Software Engineer, Realtor.com, Orchard Park, NY (2015–2019)  
+Annual salary: $85,700  
+- Played a key role in the migration of legacy systems to new platforms, enhancing scalability and performance.  
+- Automated routine tasks, leading to a 40% reduction in manual processing time for the data team.
+
+Junior Software Engineer, EMCOR, Buffalo, NY (2012–2015)  
+Annual salary: $73,600  
+- Assisted in the development of customer-facing applications that improved user engagement by 25%.  
+- Collaborated with senior engineers to design and implement features that enhanced system functionality.  
+
+---

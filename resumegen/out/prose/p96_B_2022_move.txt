@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Dynamic and social software engineer with over a decade of experience in backend development. Proven track record of delivering robust, scalable solutions for complex business challenges in fast-paced environments.
+
+**Education**  
+Master's Degree in Computer Science, Northeastern University, 2008
+
+**Work History**  
+
+*Backend Engineer, CDK, White Plains, NY, US (2008–2013)*  
+Annual salary: $94,800  
+- Developed and maintained backend services that improved system performance by 20%.  
+- Collaborated with cross-functional teams to streamline deployment processes, reducing downtime by 15%.
+
+*Backend Engineer, Absolute Business Solutions Corp., Orchard Park, NY, US (2013–2017)*  
+Annual salary: $115,600  
+- Spearheaded the migration of legacy systems to modern architectures, enhancing data processing speed by 30%.  
+- Implemented RESTful APIs that increased data accessibility for internal applications.
+
+*Senior Backend Engineer, U.S. Bank National Association, New York, NY, US (2017–2020)*  
+Annual salary: $159,000  
+- Led a team in designing a secure transaction processing system, reducing fraud incidents by 25%.  
+- Optimized database queries, resulting in a 40% decrease in load times for critical services.
+
+*Senior Backend Engineer, Hilton, Newark, NJ, US (2020–2021)*  
+Annual salary: $171,700  
+- Developed microservices architecture that improved system reliability and scalability.  
+- Collaborated with front-end developers to enhance user experience, increasing customer satisfaction by 10%.
+
+*Senior Backend Engineer, Concepts Beyond, New York, NY (2021–Present)*  
+Annual salary: $176,000  
+- Engineered high-performance backend solutions, contributing to a 50% increase in system throughput.  
+- Implemented continuous integration practices, reducing release cycles by 20%.

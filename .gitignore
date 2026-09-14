@@ -1,0 +1,13 @@
+# data that may not be redistributed
+data/*.csv
+# per-call cache and verbatim call log (large; shared as files)
+resumegen/out/llm_cache*/
+resumegen/out/prompt_log.jsonl
+# offline mock-model checks
+resumegen/out/*_mock_*
+# correspondence and scratch
+REPLY_TO_RICH*.md
+_tmp_*/
+*.zip
+__pycache__/
+.DS_Store

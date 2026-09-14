@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Tech-savvy and highly social software engineer with over 13 years of experience in backend development. Proven track record of optimizing systems for leading companies in the New York metro area.
+
+Education  
+Master's Degree in Computer Science, Northeastern University, 2008
+
+Work History  
+
+Backend Engineer, CDK, White Plains, NY (2008–2013)  
+Annual salary: $94,800  
+- Developed and maintained scalable backend services, improving system response times by 20%.  
+- Collaborated with cross-functional teams to design and implement new features, enhancing user satisfaction.  
+
+Backend Engineer, Absolute Business Solutions Corp., Orchard Park, NY (2013–2017)  
+Annual salary: $115,600  
+- Led the migration of legacy systems to modern infrastructure, reducing operational costs by 15%.  
+- Implemented automated testing frameworks, increasing code reliability and reducing bugs by 30%.  
+
+Senior Backend Engineer, U.S. Bank National Association, New York, NY (2017–2020)  
+Annual salary: $159,000  
+- Spearheaded the development of a high-volume transaction processing system, resulting in a 50% increase in processing speed.  
+- Mentored junior engineers, fostering a culture of continuous learning and professional development.  
+
+Senior Backend Engineer, Hilton, Newark, NJ (2020–Present)  
+Annual salary: $171,700  
+- Architected and implemented microservices architecture, enhancing system scalability and flexibility.  
+- Streamlined backend processes, contributing to a 25% improvement in application performance.

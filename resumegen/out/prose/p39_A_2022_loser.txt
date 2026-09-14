@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and punctual software engineer with nearly two decades of experience in developing and optimizing software solutions. Adept at leading projects and delivering scalable systems, with a touch of humor that enhances team cohesion and project outcomes.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Northeastern University, 2003
+
+**Work History**
+
+**Staff Software Engineer, First Citizens, Rochester, NY, USA (2020–Present)**  
+Annual salary: $221,700  
+- Spearheaded the development of a high-availability financial transaction system, reducing downtime by 30%.  
+- Collaborated with cross-functional teams to enhance cybersecurity protocols, leading to a 40% decrease in breach incidents.
+
+**Senior Software Engineer, Youtube, Rochester, NY, US (2015–2020)**  
+Annual salary: $144,100  
+- Designed and implemented a video analytics tool that improved user engagement metrics by 25%.  
+- Optimized content delivery networks, resulting in a 15% faster video streaming speed.
+
+**Senior Software Engineer, InDepth Engineering Solutions, Newark, NJ, US (2013–2015)**  
+Annual salary: $140,300  
+- Led a team to develop a simulation platform for defense applications, increasing processing efficiency by 35%.  
+- Introduced agile methodologies, improving project delivery time by 20%.
+
+**Senior Software Engineer, Netsimco, Old Westbury, NY (2011–2013)**  
+Annual salary: $129,200  
+- Developed advanced network simulation tools, enhancing model accuracy by 40%.  
+- Implemented automated testing frameworks, reducing bug incidence rates by 50%.
+
+**Software Engineer, CBRE, Bridgewater, NJ, US (2008–2011)**  
+Annual salary: $104,000  
+- Engineered a property management system that streamlined operations and reduced overhead by 20%.  
+- Collaborated on a project that integrated IoT devices, enhancing building management capabilities.
+
+**Software Engineer, Snorkel AI, Morris Plains, NJ, US (2006–2008)**  
+Annual salary: $89,800  
+- Contributed to the development of AI-driven solutions, improving data processing speeds by 30%.  
+- Assisted in deploying machine learning models that increased predictive accuracy by 25%.
+
+**Junior Software Engineer, City of Santa Clara, White Plains, NY, US (2003–2006)**  
+Annual salary: $61,900  
+- Participated in the creation of a citizen service portal, improving public service accessibility by 40%.  
+- Automated routine maintenance tasks, boosting team productivity by 15%.

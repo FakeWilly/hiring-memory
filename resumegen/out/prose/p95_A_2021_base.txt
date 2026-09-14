@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and diplomatic software engineer with extensive experience in backend development. Known for being extremely organized and delivering robust, scalable solutions in dynamic environments.
+
+**Education**  
+Bachelor's Degree in Software Engineering, University of Connecticut, 2004
+
+**Work History**
+
+Senior Backend Engineer, Yurts, Morris Plains, NJ (2016–Present)  
+Annual salary: $143,900  
+- Enhanced system performance by 30% through the optimization of existing codebase and implementation of efficient algorithms.  
+- Collaborated with cross-functional teams to develop and launch a new customer service platform, improving customer satisfaction rates by 20%.  
+
+Senior Backend Engineer, Outscal Technologies, Albany, NY (2014–2016)  
+Annual salary: $143,600  
+- Led the backend development for a high-traffic e-commerce platform, achieving 99.9% uptime.  
+- Spearheaded a migration project to cloud infrastructure, resulting in a 25% cost reduction in server expenses.  
+
+Backend Engineer, Orbotech, Binghamton, NY (2009–2014)  
+Annual salary: $102,800  
+- Developed and maintained backend systems for data management applications, increasing data processing efficiency by 40%.  
+- Implemented RESTful APIs to enhance system functionality and integration capabilities.  
+
+Junior Software Engineer, Employbridge, Astoria, NY (2004–2009)  
+Annual salary: $71,300  
+- Assisted in the development of internal tools that improved workflow automation and reduced manual task time by 15%.  
+- Participated in code reviews and contributed to team learning initiatives, fostering a collaborative development environment.

@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 16 years of experience in designing and implementing sophisticated software solutions. Adept at working within dynamic environments and known for exceptional organizational skills combined with a passion for solving complex challenges.
+
+**Education**  
+Master's Degree in Mathematics, Drexel University, 2005  
+
+**Work History**  
+
+**Staff Software Engineer, Vertex Professional Service LLC, Whippany, NJ, US (2017–Present)**  
+Annual salary: $143,000  
+- Spearheaded the development of a high-performance cloud-based application, improving system efficiency by 30%.  
+- Led a cross-functional team to successfully deliver projects on time and under budget.  
+
+**Senior Software Engineer, STP, Mahwah, NJ (2013–2017)**  
+Annual salary: $136,000  
+- Architected a scalable software solution that increased data processing speed by 50%.  
+- Mentored a team of junior engineers, fostering a collaborative and innovative work environment.  
+
+**Software Engineer, Mobomo, LLC, Bedminster, NJ, US (2008–2013)**  
+Annual salary: $105,400  
+- Developed and maintained complex features for a key enterprise application, enhancing user experience.  
+- Collaborated with designers and product managers to iterate on product features based on user feedback.  
+
+**Software Engineer, Hasbro, Inc., New York, NY, US (2005–2008)**  
+Annual salary: $87,900  
+- Contributed to the design and implementation of gaming software products, enhancing interactive features.  
+- Improved codebase efficiency leading to a 15% reduction in system resource usage.

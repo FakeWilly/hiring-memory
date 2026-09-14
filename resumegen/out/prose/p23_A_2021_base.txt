@@ -1,0 +1,24 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Detail-oriented and organized software engineer with a strong foundation in statistics and a passion for building robust software solutions. Adept at utilizing a tech-savvy approach to solve complex problems and improve user experiences.
+
+**Education**  
+Bachelor's Degree in Statistics, Northeastern University, 2014  
+
+**Work History**  
+
+**Software Engineer**, Natera, Binghamton, NY (2019–Present)  
+Annual salary: $97,600  
+- Developed and implemented a key feature that reduced system response time by 20%, enhancing user satisfaction.  
+- Collaborated with cross-functional teams to redesign a legacy application, resulting in a 30% increase in operational efficiency.  
+
+**Junior Software Engineer**, Delinea, Syracuse, NY (2014–2019)  
+Annual salary: $70,400  
+- Assisted in the development of a data processing tool that improved data handling capabilities by 15%.  
+- Streamlined code review processes, reducing average review time by 25% through the introduction of automated checks.  
+
+**Hobbies and Interests**  
+Enjoys playing sports and gardening, bringing a balanced approach to work and personal life with a sense of humor.

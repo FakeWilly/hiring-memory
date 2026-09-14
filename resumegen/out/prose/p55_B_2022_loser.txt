@@ -1,0 +1,41 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Tech-savvy software engineer with over 20 years of experience in platform and software engineering. Highly organized and skilled in developing robust, scalable platforms, with a proven track record of delivering efficient solutions in high-pressure environments.
+
+**Education**  
+Associate's Degree in Statistics, University of Connecticut, 2000
+
+**Work History**  
+
+Senior Platform Engineer, General Motors, Hartford, CT (2019–Present)  
+Annual salary: $194,600  
+- Spearheaded the design and implementation of cloud-based solutions, reducing operational costs by 20%.  
+- Led a team of 10 engineers in the successful launch of a new software platform, increasing user engagement by 30%.
+
+Senior Platform Engineer, SHB Technology, Inc., Hartford, CT (2015–2019)  
+Annual salary: $167,500  
+- Optimized backend systems, reducing processing time by 40%.  
+- Developed a scalable infrastructure that improved system reliability by 25%.  
+
+Senior Platform Engineer, ANS Services LLC, East Syracuse, NY (2011–2015)  
+Annual salary: $151,500  
+- Designed and implemented a microservices architecture, increasing deployment frequency by 50%.  
+- Collaborated cross-functionally to enhance platform security, resulting in a 60% reduction in vulnerabilities.
+
+Senior Platform Engineer, Extend Enterprises, Inc., Albany, NY (2009–2011)  
+Annual salary: $128,800  
+- Led the migration of legacy systems to modern cloud-based infrastructure, improving performance by 35%.  
+- Developed automation tools that decreased manual testing time by 45%.
+
+Platform Engineer, Hive, Hartford, CT (2004–2009)  
+Annual salary: $92,100  
+- Implemented new platform features that boosted client satisfaction scores by 20%.  
+- Improved system scalability, supporting a 50% increase in user base.
+
+Junior Software Engineer, Acuity Brands, Franklin Lakes, NJ, US (2000–2004)  
+Annual salary: $62,400  
+- Assisted in the development of software applications, enhancing functionality and user experience.  
+- Contributed to the implementation of code optimization techniques, increasing software efficiency.

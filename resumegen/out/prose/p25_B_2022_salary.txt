@@ -1,0 +1,36 @@
+[NAME]  
+[EMAIL]  
+[New York Metro Area]
+
+**Professional Summary**  
+Experienced software engineer with over a decade in developing and optimizing innovative solutions across various industries. Proven track record in leading projects and improving system efficiencies, combined with a strong foundation in electrical engineering.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Penn State University, 2011
+
+**Work History**
+
+**Senior Software Engineer, OPSWAT, Newark, NJ, US (2021–Present)**  
+Annual salary: $180,800  
+- Spearheaded a team to enhance cybersecurity software, resulting in a 30% reduction in threat detection time.  
+- Streamlined code review processes, boosting team productivity by 25%.  
+
+**Senior Software Engineer, The Daniel Group, Newark, NJ, US (2020–2021)**  
+Annual salary: $161,400  
+- Led the development of a scalable cloud-based application, improving client data processing speeds by 40%.  
+- Implemented a CI/CD pipeline that reduced deployment times by 50%.  
+
+**Software Engineer, Moveworks, Bedminster, NJ, US (2017–2020)**  
+Annual salary: $118,300  
+- Developed and maintained critical backend services for SaaS products, enhancing reliability by 20%.  
+- Collaborated with cross-functional teams to deliver three major software releases on schedule.  
+
+**Software Engineer, Radiance Technologies Inc., Rochester, NY, US (2015–2017)**  
+Annual salary: $107,600  
+- Engineered a machine learning model that increased data processing efficiency by 15%.  
+- Reduced system bugs by 30% through rigorous testing and debugging practices.  
+
+**Junior Software Engineer, Docusign, Jersey City, NJ, US (2011–2015)**  
+Annual salary: $73,000  
+- Assisted in the development of electronic signature software, contributing to a 10% increase in user engagement.  
+- Conducted code reviews and implemented best practices to improve code quality.

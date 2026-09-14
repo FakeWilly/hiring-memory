@@ -1,0 +1,38 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+---
+
+**Professional Summary**  
+Experienced software engineer with over two decades in the field, specializing in developing and optimizing complex systems. Known for a punctual work ethic and a reserved communication style, I thrive in fast-paced environments by leveraging my tech-savvy skills and attention to detail.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rutgers University, 1999
+
+**Work History**
+
+**Junior Software Engineer**, The DarkStar Group, Buffalo, NY, US (1999–2004)  
+Annual salary: $56,600  
+- Contributed to the development of software solutions, improving system performance by 15%.  
+- Assisted in debugging and testing, leading to a 10% reduction in software defects.
+
+**Junior Software Engineer**, Red Hat, Buffalo, NY, US (2004–2008)  
+Annual salary: $67,100  
+- Collaborated on the development of open-source software, enhancing usability and scalability.  
+- Streamlined code review processes, reducing review time by 20%.
+
+**Software Engineer**, iCatalyst, New York, NY, USA (2008–2013)  
+Annual salary: $87,400  
+- Led a team in the redesign of a core application, boosting efficiency by 30%.  
+- Implemented automated testing, decreasing bugs in production by 25%.
+
+**Senior Software Engineer**, Tradeweb, Iselin, NJ, US (2013–2017)  
+Annual salary: $93,700  
+- Spearheaded the migration to a new technology stack, improving system reliability by 40%.  
+- Mentored junior engineers, fostering a collaborative and innovative team culture.
+
+**Senior Software Engineer**, Vickers & Nolan Enterprises, Princeton, NJ, US (2017–Present)  
+Annual salary: $102,600  
+- Architected a scalable solution for data processing, increasing throughput by 50%.  
+- Partnered with cross-functional teams to deliver projects ahead of schedule consistently.

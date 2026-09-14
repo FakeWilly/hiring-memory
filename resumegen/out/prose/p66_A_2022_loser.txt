@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Highly organized and tech-savvy software engineer with nearly two decades of experience specializing in frontend development. Proven track record of delivering user-centric solutions in fast-paced environments, with a strong focus on enhancing performance and optimizing user interfaces.
+
+**Education**  
+Master's Degree in Electrical Engineering, CUNY City College, 2003
+
+**Work History**  
+
+Frontend Engineer, Blueprint Technologies, Morris Plains, NJ (2003–2007)  
+Annual salary: $78,200  
+- Developed and maintained interactive web applications, improving user engagement by 30%.  
+- Collaborated with cross-functional teams to implement responsive design, enhancing mobile accessibility.
+
+Frontend Engineer, ADT, Lakewood, NJ (2007–2009)  
+Annual salary: $88,200  
+- Engineered frontend components for security software, leading to a 15% increase in system reliability.  
+- Streamlined codebase resulting in a 20% reduction in load times and improved user experience.
+
+Frontend Engineer, Nisum, Buffalo, NY (2009–2014)  
+Annual salary: $98,300  
+- Spearheaded the integration of new frontend frameworks, reducing development time by 25%.  
+- Optimized web application performance, achieving a 40% increase in speed.
+
+Frontend Engineer, FICO, Mahwah, NJ (2014–2018)  
+Annual salary: $110,900  
+- Led the redesign of key client interfaces, enhancing usability and increasing client satisfaction scores by 20%.  
+- Implemented advanced debugging techniques, reducing error rates by 35%.
+
+Senior Frontend Engineer, ThunderYard, Franklin Lakes, NJ (2018–2020)  
+Annual salary: $124,700  
+- Directed a team of engineers in developing scalable frontend architecture for high-traffic applications.  
+- Achieved a 50% improvement in application startup times through innovative optimization strategies.
+
+Senior Frontend Engineer, Parsons, Buffalo, NY (2020–Present)  
+Annual salary: $140,300  
+- Designed and executed complex frontend systems, resulting in a 60% boost in user interaction metrics.  
+- Mentored junior engineers, fostering a collaborative environment that enhanced team productivity.

@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a robust track record of over two decades in platform engineering, specializing in creating scalable and efficient solutions. Known for an organized approach and a knack for humorous communication, I am passionate about leveraging technology to drive innovation and efficiency.
+
+**Education**  
+Bachelor's Degree in Information Systems, Baruch College, 1999
+
+**Work History**
+
+**Junior Software Engineer, Analytical Services & Materials, Inc., Old Westbury, NY (1999–2004)**  
+Annual salary: $59,600  
+- Developed and maintained software applications that improved data processing efficiency by 20%.  
+- Collaborated with senior engineers to implement system upgrades, enhancing overall performance.
+
+**Platform Engineer, Patterson Companies, New York, NY, US (2004–2007)**  
+Annual salary: $89,300  
+- Led the integration of new platforms which increased productivity and reduced operational costs by 15%.  
+- Automated routine tasks, leading to a 10% reduction in manual errors.
+
+**Senior Platform Engineer, Mission Driven Research, Groton, CT, US (2007–2011)**  
+Annual salary: $117,800  
+- Spearheaded a team to design and implement a scalable platform, supporting increased user loads by 30%.  
+- Introduced agile methodologies to streamline project management and delivery timelines.
+
+**Staff Platform Engineer, Peraton, Troy, NY, US (2011–2013)**  
+Annual salary: $172,900  
+- Engineered a robust platform that supported a 40% increase in user engagement.  
+- Optimized existing systems, resulting in a 25% improvement in processing speed.
+
+**Staff Platform Engineer, CyberCoders, New York, NY, USA (2013–2015)**  
+Annual salary: $184,100  
+- Developed cutting-edge solutions that improved data security and compliance.  
+- Trained and mentored junior engineers, fostering a collaborative team environment.
+
+**Staff Platform Engineer, Capital Axis Solutions, Morris Plains, NJ, US (2015–2018)**  
+Annual salary: $175,500  
+- Implemented innovative platform features, leading to a 50% growth in client satisfaction.  
+- Enhanced system architecture to support seamless integration with third-party applications.
+
+**Staff Platform Engineer, OCLC, Lakewood, NJ (2018–2021)**  
+Annual salary: $196,800  
+- Designed and executed a platform migration strategy, minimizing downtime to less than 2 hours.  
+- Contributed to the adoption of new technologies that boosted performance metrics by 40%.
+
+**Staff Platform Engineer, Dr. Bronner's, Greene, NY, USA (2021–Present)**  
+Annual salary: $201,700  
+- Leading efforts in platform modernization, achieving a 35% increase in system reliability.  
+- Spearheading cross-functional initiatives to enhance user experience and operational efficiency.

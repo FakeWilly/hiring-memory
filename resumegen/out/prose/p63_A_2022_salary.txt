@@ -1,0 +1,32 @@
+[NAME]  
+New York Metro Area  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Detail-oriented software engineer with a strong foundation in software development, data engineering, and problem-solving. Adept at leveraging technical expertise to drive innovation and efficiency in data management processes.
+
+---
+
+**Education**  
+Bachelor's Degree in Computer Science, Baruch College, 2012  
+
+---
+
+**Work History**  
+
+**Data Engineer, Trintech, Hartford, CT (2021–Present)**  
+Annual salary: $113,000  
+- Spearheaded the migration of legacy data systems to cloud-based infrastructure, improving data retrieval speeds by 30%.  
+- Developed a real-time data processing pipeline that reduced latency by 40% and increased data accuracy for analytics.  
+
+**Data Engineer, Citigroup Inc, Iselin, NJ, US (2017–2021)**  
+Annual salary: $100,900  
+- Designed and implemented ETL processes that streamlined data ingestion, reducing processing time by 25%.  
+- Collaborated with cross-functional teams to enhance data security protocols, achieving compliance with industry standards.  
+
+**Junior Software Engineer, UC Davis, Franklin Lakes, NJ, US (2012–2016)**  
+Annual salary: $86,500  
+- Assisted in the development of an internal tool that automated routine tasks, increasing team productivity by 20%.  
+- Contributed to the creation of a customer feedback application, enhancing user satisfaction and interaction.

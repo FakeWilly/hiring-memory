@@ -1,0 +1,31 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Detail-oriented software engineer with over a decade of experience in developing scalable software solutions across various industries. Known for a love of puzzles, analytical skills, and a reserved communication style, I excel in collaborative environments that require innovative problem-solving.
+
+**Education**  
+Bachelor's Degree in Computer Science, Stony Brook University, 2011
+
+**Work History**  
+
+**Senior Software Engineer, Hampton Roads Transit, Rensselaer, NY, US (2020–Present)**  
+Annual salary: $165,500  
+- Spearheaded the development of a new transit management system, resulting in a 30% improvement in operational efficiency.  
+- Led a team of 5 engineers, implementing Agile methodologies to enhance project delivery speed by 25%.  
+
+**Software Engineer, Cogility, Buffalo, NY (2017–2020)**  
+Annual salary: $117,500  
+- Developed and optimized a predictive analytics platform, leading to a 40% increase in data processing speed.  
+- Collaborated with cross-functional teams to integrate new AI features, improving user engagement by 20%.  
+
+**Software Engineer, Umpqua Bank, Bridgewater, NJ, US (2015–2017)**  
+Annual salary: $107,200  
+- Engineered software solutions that streamlined banking operations, reducing processing times by 15%.  
+- Played a key role in migrating legacy systems to modern architectures, enhancing system reliability by 30%.  
+
+**Junior Software Engineer, Leidos, Iselin, NJ, US (2011–2015)**  
+Annual salary: $74,300  
+- Assisted in the development of secure software applications, contributing to a 25% decrease in system vulnerabilities.  
+- Collaborated with senior engineers to design and implement new features, boosting user satisfaction by 10%.

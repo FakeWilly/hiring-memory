@@ -1,0 +1,50 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with nearly two decades in the tech industry, specializing in developing scalable solutions and leading engineering teams. Known for a collaborative approach and excellent communication skills, adept at navigating complex technical challenges and delivering high-quality software products.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Stony Brook University, 2003
+
+**Work History**
+
+**Principal Software Engineer**, Cherokee Federal, Rensselaer, NY, US (2021–Present)  
+Annual salary: $242,600  
+- Spearheaded the development of a new microservices architecture, improving system performance by 30%.  
+- Led a team of engineers to deliver a critical software project three months ahead of schedule.  
+
+**Staff Software Engineer**, Microsoft, East Newark, NJ, US (2020–2021)  
+Annual salary: $216,600  
+- Optimized cloud service applications, reducing operational costs by 25%.  
+- Mentored junior engineers, enhancing team productivity and skill set.
+
+**Senior Software Engineer**, Halliburton, Warren, NJ, US (2015–2020)  
+Annual salary: $144,300  
+- Developed innovative data processing solutions that increased data accuracy by 15%.  
+- Collaborated with cross-functional teams to integrate new technologies into existing infrastructure.
+
+**Senior Software Engineer**, Marathon Garden Center, Morris Plains, NJ, US (2013–2015)  
+Annual salary: $141,800  
+- Implemented agile methodologies, reducing the software development lifecycle by 20%.  
+- Enhanced system security features, safeguarding company data against emerging threats.
+
+**Senior Software Engineer**, Altamira Technologies Corp., Bedminster, NJ, US (2011–2013)  
+Annual salary: $127,800  
+- Led the migration of legacy systems to modern platforms, improving system reliability.  
+- Developed automated testing tools, improving code quality and reducing bugs by 40%.
+
+**Software Engineer**, LegalZoom, Hartford, CT (2008–2011)  
+Annual salary: $104,300  
+- Built scalable APIs that enhanced user experience and increased traffic by 50%.  
+- Collaborated with product managers to deliver user-centric software solutions.
+
+**Software Engineer**, McClatchy, Greene, NY, USA (2006–2008)  
+Annual salary: $88,400  
+- Implemented new features that boosted product engagement by 20%.  
+- Streamlined existing codebase, enhancing application speed and performance.
+
+**Junior Software Engineer**, New York ISO, Old Westbury, NY (2003–2006)  
+Annual salary: $62,400  
+- Assisted in the development of critical software modules, contributing to project success.  
+- Participated in the design and implementation of database solutions, improving data retrieval efficiency.

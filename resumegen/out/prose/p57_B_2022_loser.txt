@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**PROFESSIONAL SUMMARY**  
+Dynamic and detail-oriented software engineer with nearly two decades of experience in developing robust code for high-volume businesses. Highly skilled in collaborating with diverse teams to deliver scalable solutions and improve operational efficiencies.
+
+**EDUCATION**  
+Bachelor's Degree in Information Systems, Penn State University, 2003
+
+**WORK HISTORY**
+
+**Junior Software Engineer, Ibotta, Greene, NY, USA (2003–2006)**  
+Annual salary: $61,100  
+- Assisted in the development of user-friendly software applications, enhancing customer experience and engagement.  
+- Collaborated with senior engineers on debugging projects, reducing error rates by 15%.  
+
+**Software Engineer, Subeca, Lakewood, NJ (2006–2009)**  
+Annual salary: $86,200  
+- Implemented new features in existing products, resulting in a 20% increase in customer retention.  
+- Optimized code efficiency, decreasing system downtime by 30%.  
+
+**Software Engineer, Price Industries Limited, Newark, NJ, US (2009–2011)**  
+Annual salary: $102,700  
+- Designed and developed backend systems that supported high-traffic applications.  
+- Led a team initiative to streamline deployment processes, cutting down release time by 25%.  
+
+**Software Engineer, Ariel Partners, Rochester, NY, US (2011–2014)**  
+Annual salary: $112,300  
+- Developed scalable web applications, contributing to a 40% increase in user base.  
+- Collaborated with cross-functional teams to enhance product features, elevating user satisfaction scores.  
+
+**Software Engineer, Eversource Energy, Mahwah, NJ (2014–2019)**  
+Annual salary: $119,800  
+- Spearheaded the development of a key application feature, resulting in a 35% revenue growth.  
+- Improved system architecture that increased application performance by 50%.  
+
+**Senior Software Engineer, VTekis Consulting LLP, Franklin Lakes, NJ, US (2019–Present)**  
+Annual salary: $151,800  
+- Lead a team of developers in creating innovative software solutions that align with business strategies.  
+- Enhanced system performance and reliability, reducing client-reported issues by 40%.

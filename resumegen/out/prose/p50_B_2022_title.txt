@@ -1,0 +1,26 @@
+[NAME]  
+[EMAIL]  
+New York, NY  
+
+**Professional Summary**  
+Dynamic and tech-savvy software engineer with a Master's Degree in Electrical Engineering and over nine years of experience in developing innovative software solutions. Highly skilled in collaborating with cross-functional teams to deliver high-impact projects in fast-paced environments.
+
+**Education**  
+Master's Degree in Electrical Engineering, Stony Brook University, 2013
+
+**Work History**
+
+**Senior Software Engineer, The Hartford, Albany, NY, US (2021–Present)**  
+Annual salary: $128,500  
+- Spearheaded the development of a new claims processing system, reducing processing time by 30%.  
+- Improved codebase quality by implementing robust testing protocols and conducting regular code reviews.
+
+**Software Engineer, Glow Networks, Greene, NY, USA (2016–2021)**  
+Annual salary: $125,400  
+- Led a team to design and implement a scalable network management application, enhancing operational efficiency by 20%.  
+- Collaborated with stakeholders to optimize existing network protocols, resulting in a 15% improvement in data transmission rates.
+
+**Software Engineer, Teledyne FLIR, Parsippany-Troy Hills, NJ, US (2013–2016)**  
+Annual salary: $125,900  
+- Developed and deployed software components for advanced thermal imaging products, contributing to a 25% increase in product functionality.  
+- Worked closely with hardware engineers to integrate software solutions, improving product reliability and customer satisfaction.

@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy software engineer with a passion for solving complex puzzles and a proven track record in data engineering. Skilled in innovative problem-solving and delivering high-quality solutions, with extensive experience in both startup and large corporate environments.
+
+**Education**  
+Bachelor's Degree in Information Systems, University of Connecticut, 2008
+
+**Work History**
+
+**Senior Data Engineer**, Glow Networks, Syracuse, NY, US (2021–Present)  
+Annual salary: $132,900  
+- Spearheaded a cross-functional team to optimize data pipelines, resulting in a 30% increase in processing efficiency.  
+- Developed and implemented robust data validation processes, reducing errors by 25%.  
+
+**Senior Data Engineer**, Affirm, New York, NY, US (2019–2021)  
+Annual salary: $118,700  
+- Led the migration to a new data warehouse, enhancing data accessibility and reducing query times by 40%.  
+- Collaborated with product teams to design data models that supported business growth and improved analytical capabilities.  
+
+**Data Engineer**, Wells Fargo, Whippany, NJ, US (2016–2019)  
+Annual salary: $83,600  
+- Automated data integration workflows, decreasing manual processing time by 50%.  
+- Improved data quality by implementing rigorous data governance practices, increasing compliance by 20%.  
+
+**Data Engineer**, HashiCorp, Binghamton, NY (2012–2015)  
+Annual salary: $70,800  
+- Designed and maintained scalable ETL processes, supporting a 50% increase in data volume capacity.  
+- Collaborated in the development of a real-time data processing system, enhancing reporting speed by 30%.  
+
+**Junior Software Engineer**, Tecton, East Newark, NJ, US (2008–2012)  
+Annual salary: $69,300  
+- Assisted in the development and testing of software applications, contributing to a 15% reduction in bug reports.  
+- Played a key role in streamlining application deployment processes, reducing turnaround time by 20%.

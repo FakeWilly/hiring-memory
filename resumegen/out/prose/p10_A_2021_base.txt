@@ -1,0 +1,27 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Dedicated software engineer with a strong foundation in mathematics and a passion for technology. Skilled in developing efficient algorithms and data solutions, with a keen eye for detail and a direct communication style.  
+
+**Education**  
+Bachelor's Degree in Mathematics, Drexel University, 2014  
+
+**Work Experience**  
+
+Data Engineer, Stier Solutions, Melville, NY (2019–Present)  
+Annual salary: $102,600  
+- Designed and implemented data pipelines, improving data processing speed by 30%.  
+- Collaborated with cross-functional teams to integrate data solutions into existing infrastructure, enhancing system efficiency.  
+
+Junior Software Engineer, SHB Technology, Inc, Bridgewater, NJ (2014–2018)  
+Annual salary: $85,500  
+- Assisted in the development of software applications, contributing to the successful deployment of 5 major projects.  
+- Participated in code review processes and bug tracking, enhancing application reliability and performance.  
+
+**Interests**  
+Photography, Reading  
+
+**Skills**  
+Data Analysis, Algorithm Development, Problem Solving, Direct Communication

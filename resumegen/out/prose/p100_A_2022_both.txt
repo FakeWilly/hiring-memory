@@ -1,0 +1,35 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and highly organized software engineer with over a decade of experience in developing robust applications and systems. Proven ability to lead teams and deliver complex projects on time and within budget in fast-paced environments.
+
+**Education**  
+Master's Degree in Electrical Engineering, Stony Brook University, 2009
+
+**Work History**
+
+**Staff Software Engineer, Government Tactical Solutions, Lakewood, NJ (2021–Present)**  
+Annual salary: $189,800  
+- Led a team of engineers in developing a secure communication platform for government use, improving data transmission speeds by 35%.  
+- Implemented a new agile workflow, reducing project delivery time by 20%.
+
+**Senior Software Engineer, Snowflake, East Newark, NJ, US (2019–2021)**  
+Annual salary: $169,500  
+- Spearheaded the development of a data warehousing solution that increased query performance by 40%.  
+- Collaborated with cross-functional teams to implement a real-time analytics feature, enhancing user engagement by 25%.
+
+**Software Engineer, American Technology Consulting LLC, Syracuse, NY, US (2016–2019)**  
+Annual salary: $123,000  
+- Developed and optimized internal tools that improved operational efficiency by 30%.  
+- Played a key role in migrating legacy systems to cloud infrastructure, resulting in a 15% reduction in maintenance costs.
+
+**Software Engineer, SWORD Health, New York, NY (2011–2016)**  
+Annual salary: $107,500  
+- Designed and implemented key features for a telehealth platform, increasing customer satisfaction by 20%.  
+- Automated testing processes, reducing bug detection and resolution time by 50%.
+
+**Software Engineer, ASRC Federal, Jersey City, NJ, US (2009–2011)**  
+Annual salary: $100,900  
+- Contributed to the development of a high-profile government software project, ensuring 100% compliance with security standards.  
+- Improved system performance through efficient code refactoring, leading to a 10% increase in processing speed.

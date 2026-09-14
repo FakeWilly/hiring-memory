@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+Professional Summary  
+Detail-oriented and tech-savvy Software Engineer with over 14 years of experience in developing robust software solutions. Proven track record of delivering high-quality code and effectively collaborating with cross-functional teams to streamline processes and enhance productivity.
+
+Education  
+Master's Degree in Software Engineering, Baruch College, 2008
+
+Work History  
+
+Software Engineer, Shipt, Inc., Troy, NY, US (2020–Present)  
+Annual salary: $132,200  
+- Spearheaded the development of a new feature integration that increased user engagement by 25%.  
+- Led a team of developers in migrating legacy systems to a modern cloud infrastructure, reducing operational costs by 15%.  
+
+Software Engineer, Seven Hills Group Technologies Inc, Warren, NJ, US (2017–2020)  
+Annual salary: $120,400  
+- Optimized existing codebases to enhance system performance, resulting in a 30% reduction in processing time.  
+- Collaborated with the product team to implement agile methodologies, improving project delivery timelines by 20%.  
+
+Software Engineer, NTT DATA, Hartford, CT, US (2012–2017)  
+Annual salary: $103,700  
+- Developed and maintained scalable applications that supported over 10,000 users daily.  
+- Implemented a continuous integration pipeline, reducing deployment time from days to hours.  
+
+Software Engineer, Amazon.com, Morris Plains, NJ, US (2008–2012)  
+Annual salary: $84,600  
+- Contributed to the development of a key e-commerce platform feature, increasing customer satisfaction by 18%.  
+- Played a pivotal role in automating testing processes, reducing manual testing efforts by 40%.

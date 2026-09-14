@@ -1,0 +1,21 @@
+[NAME]  
+[EMAIL]  
+New York, NY Metro Area  
+
+**Professional Summary**  
+Dedicated and tech-savvy Software Engineer with over seven years of experience in developing and implementing innovative software solutions in the entertainment and tech industries. Known for a direct communication style and a passion for crafting efficient code, I thrive in collaborative environments where I can contribute to cutting-edge projects.
+
+**Work History**  
+
+Software Engineer, UP Entertainment, Parsippany-Troy Hills, NJ (2019–Present)  
+Annual salary: $112,300  
+- Spearheaded the development of a new content delivery platform, resulting in a 30% increase in user engagement.  
+- Collaborated with cross-functional teams to design and deploy a scalable microservices architecture.  
+
+Junior Software Engineer, ASSYST, Inc., Jersey City, NJ (2014–2019)  
+Annual salary: $80,700  
+- Developed and maintained critical software components for client projects, enhancing performance by 25%.  
+- Led a team of junior developers in a project that improved application stability and reduced downtime by 15%.  
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Northeastern University, 2014

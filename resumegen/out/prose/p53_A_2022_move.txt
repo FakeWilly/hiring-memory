@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and highly organized software engineer with over 17 years of experience in backend development. Adept at implementing robust engineering solutions with a focus on scalability and efficiency, while maintaining a diplomatic communication style within team environments.
+
+**Education**  
+Bachelor's Degree in Electrical Engineering, Rutgers University, 2005  
+
+**Work History**  
+
+**Senior Backend Engineer, Truenorth Corporation, East Syracuse, NY (2021–Present)**  
+Annual salary: $165,000  
+- Spearheaded the migration of legacy systems to cloud-based solutions, enhancing system performance by 30%.  
+- Collaborated with cross-functional teams to design and deploy scalable APIs, improving client satisfaction scores by 20%.
+
+**Senior Backend Engineer, Dezign Concepts LLC, East Newark, NJ, US (2019–2021)**  
+Annual salary: $161,000  
+- Optimized database queries, reducing response time by 40% and increasing application efficiency.  
+- Implemented a new logging system, which reduced downtime by proactively identifying and resolving issues.
+
+**Senior Backend Engineer, Early Warning Services, Mahwah, NJ (2015–2019)**  
+Annual salary: $140,400  
+- Led the development of a high-availability microservices architecture, resulting in zero downtime during peak usage times.  
+- Mentored junior developers, facilitating skill advancement and contributing to a 15% increase in team productivity.
+
+**Senior Backend Engineer, Nextmove Technologies, LLC, Mount Laurel, NJ, US (2013–2015)**  
+Annual salary: $126,200  
+- Developed and deployed scalable backend services that supported a 50% growth in user base.  
+- Collaborated with front-end teams to integrate new features, improving user engagement by 25%.
+
+**Senior Backend Engineer, TapHere Technology, LLC, Hartford, CT (2010–2013)**  
+Annual salary: $115,600  
+- Architected a secure payment processing module, enhancing transaction integrity and compliance.  
+- Streamlined data processing systems, reducing batch processing times by 35%.
+
+**Backend Engineer, Atriano LLC, New York, NY, US (2007–2010)**  
+Annual salary: $87,100  
+- Contributed to the development of a high-traffic e-commerce platform, which increased transactions by 15%.  
+- Automated routine database maintenance tasks, saving 10 hours of manual work per week.
+
+**Junior Software Engineer, Scanogen Inc., Warren, NJ, US (2005–2007)**  
+Annual salary: $63,300  
+- Assisted in the development of an internal tool that improved project tracking and management efficiency by 20%.  
+- Participated in code reviews and debugging sessions, enhancing overall code quality and team collaboration.

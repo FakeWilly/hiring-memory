@@ -1,0 +1,5 @@
+selection rule,market memory,winner-vs-loser gap %,winner ahead %,A-vs-B group gap %,A ahead %,sd of gap
+fair coin,memory on,16.02,73.75,1.62,49.75,0.26
+always picks A,memory on,15.07,71.0,15.07,71.0,0.27
+fair coin,memory off,-0.06,50.0,1.21,53.0,0.22
+always picks A,memory off,1.21,53.0,1.21,53.0,0.22

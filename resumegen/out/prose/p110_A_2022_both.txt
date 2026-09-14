@@ -1,0 +1,40 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in public sector projects, known for punctuality and diplomatic communication. Skilled in developing robust, scalable software solutions, with a passion for integrating cutting-edge technology to enhance project outcomes.
+
+**Education**  
+Master's Degree in Software Engineering, CUNY City College, 2005  
+
+**Work History**
+
+**Staff Software Engineer**, U.S. Bank, Rochester, NY, US (2021–Present)  
+Annual salary: $147,700  
+- Spearheaded the development of a new digital banking platform, resulting in a 20% increase in user engagement.  
+- Optimized legacy systems, reducing downtime by 30% and improving transaction processing speed.  
+
+**Senior Software Engineer**, Raytheon, Hackensack, NJ, US (2019–2021)  
+Annual salary: $131,900  
+- Led a team in the successful implementation of a secure communications system for defense applications.  
+- Developed and deployed software updates that enhanced system performance by 25%.  
+
+**Software Engineer**, xAI, Newark, NJ, US (2016–2019)  
+Annual salary: $93,600  
+- Collaborated on AI-driven projects to improve data analytics capabilities, increasing accuracy by 40%.  
+- Streamlined codebase, reducing technical debt and improving maintainability.  
+
+**Software Engineer**, bastion technologies, Hackensack, NJ, US (2011–2015)  
+Annual salary: $93,700  
+- Contributed to the development of mission-critical aerospace software, increasing reliability by 15%.  
+- Implemented a new testing framework that reduced bug detection time by 50%.  
+
+**Software Engineer**, Clear Street, Jersey City, NJ, US (2009–2011)  
+Annual salary: $89,000  
+- Enhanced trading systems, resulting in a 10% improvement in transaction efficiency.  
+- Developed automated monitoring tools, reducing system outages by 20%.  
+
+**Software Engineer**, Uplist, LLC, Buffalo, NY (2005–2009)  
+Annual salary: $78,400  
+- Designed and implemented web-based applications, leading to a 30% increase in customer satisfaction.  
+- Improved system scalability, supporting a 50% increase in user base.

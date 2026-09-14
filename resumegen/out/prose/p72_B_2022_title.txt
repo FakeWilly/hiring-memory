@@ -1,0 +1,41 @@
+[NAME]  
+New York, NY  
+[EMAIL]  
+
+**Professional Summary**  
+Experienced software engineer with a strong foundation in frontend development and nearly two decades of industry expertise. Adept at leading complex projects and delivering innovative solutions, with a proven track record in the New York metro area.
+
+**Work Experience**
+
+**Principal Frontend Engineer, ServiceCore, Inc., Hackensack, NJ, US (2021–Present)**  
+Annual salary: $177,000  
+- Spearheaded the redesign of a legacy application, improving user engagement by 30%.  
+- Led a team of engineers in implementing cutting-edge frontend technologies, reducing load times by 20%.  
+
+**Staff Frontend Engineer, Exiger, Buffalo, NY (2018–2021)**  
+Annual salary: $172,700  
+- Developed and optimized scalable web applications, enhancing performance by 25%.  
+- Mentored junior engineers, fostering a culture of collaboration and continuous learning.  
+
+**Senior Frontend Engineer, Cargill, Newark, NJ, US (2014–2018)**  
+Annual salary: $117,000  
+- Collaborated with cross-functional teams to deliver seamless user experiences.  
+- Increased application efficiency, resulting in a 15% reduction in server requests.  
+
+**Frontend Engineer, NICE, Bridgewater, NJ, US (2012–2014)**  
+Annual salary: $117,600  
+- Implemented responsive design practices, leading to a 40% increase in mobile traffic.  
+- Streamlined frontend processes, cutting down development time by 20%.  
+
+**Junior Software Engineer, Digital Trust Technologies Private Limited, Hackensack, NJ, US (2007–2012)**  
+Annual salary: $79,900  
+- Contributed to the development of secure software solutions for high-profile clients.  
+- Assisted in the migration of legacy systems to modern platforms, enhancing scalability.  
+
+**Junior Software Engineer, BlueHalo, Groton, CT, US (2004–2007)**  
+Annual salary: $70,400  
+- Developed algorithms that improved data processing speed by 15%.  
+- Participated in collaborative projects to enhance system functionality.  
+
+**Education**  
+Associate's Degree in Mathematics, Stony Brook University, 2004

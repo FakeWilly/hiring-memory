@@ -1,0 +1,45 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+Tech-savvy and extremely organized software engineer with over two decades of experience in data engineering and software development. Adept at building and optimizing data architectures, with a diplomatic communication style that facilitates collaboration across diverse teams.
+
+**Education**  
+Associate's Degree in Software Engineering, Stony Brook University, 2000
+
+**Work History**
+
+**Senior Data Engineer, Nexagen Networks Inc, Greene, NY, USA (2020–Present)**  
+Annual salary: $149,000  
+- Led the design and implementation of a scalable data pipeline that improved data processing efficiency by 30%.  
+- Mentored a team of five junior engineers, fostering technical growth and promoting best practices in data management.
+
+**Senior Data Engineer, Tennessee Titans, Binghamton, NY (2016–2020)**  
+Annual salary: $130,500  
+- Developed a robust analytics platform that enhanced player performance analysis, contributing to improved game strategies.  
+- Collaborated with cross-functional teams to integrate advanced machine learning models into existing infrastructure.
+
+**Senior Data Engineer, Pond & Company, Newark, NJ, US (2014–2016)**  
+Annual salary: $117,700  
+- Spearheaded the migration to a cloud-based data warehouse, reducing data retrieval times by 40%.  
+- Optimized data storage strategies, resulting in a 25% cost reduction in infrastructure expenses.
+
+**Senior Data Engineer, SHLD, East Syracuse, NY (2011–2014)**  
+Annual salary: $120,300  
+- Implemented a new ETL process that improved data accuracy and consistency across departments.  
+- Conducted training sessions to enhance team proficiency in emerging data technologies.
+
+**Senior Data Engineer, Nexxen, Lakewood, NJ (2007–2011)**  
+Annual salary: $104,700  
+- Developed custom data solutions that supported strategic business decisions, leading to a 15% increase in revenue.  
+- Streamlined data workflows, cutting processing time by 50%.
+
+**Data Engineer, Hensel Phelps Construction, Astoria, NY (2002–2007)**  
+Annual salary: $70,600  
+- Designed and maintained databases that supported large-scale construction projects, enhancing project efficiency.  
+- Automated data reporting processes, significantly reducing manual effort and errors.
+
+**Junior Software Engineer, efabless, Troy, NY, US (2000–2002)**  
+Annual salary: $50,700  
+- Assisted in the development of software tools that streamlined internal operations.  
+- Contributed to the successful launch of a key software product within project deadlines.

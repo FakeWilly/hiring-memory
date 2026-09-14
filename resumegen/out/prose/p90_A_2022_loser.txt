@@ -1,0 +1,33 @@
+[NAME]  
+[EMAIL]  
+
+---
+
+**Professional Summary**  
+Dynamic and tech-savvy Software Engineer with a strong foundation in software development and a penchant for problem-solving through puzzles. Adept at building robust applications and improving system efficiencies, currently seeking opportunities in the New York metro area to leverage extensive experience in software engineering.
+
+---
+
+**Education**  
+Bachelor's Degree in Software Engineering, Rochester Institute of Technology, 2012
+
+---
+
+**Work History**
+
+**Software Engineer, WTAnow, Jersey City, NJ (2020–Present)**  
+Annual salary: $126,600  
+- Spearheaded the development of a high-traffic web application, increasing user engagement by 30% within the first year of launch.  
+- Implemented a streamlined deployment process, reducing release time by 40%.  
+
+**Software Engineer, X Corp., New York, NY (2016–2020)**  
+Annual salary: $85,100  
+- Collaborated in a cross-functional team to enhance the scalability of payment processing systems, resulting in a 25% increase in transaction throughput.  
+- Developed and maintained a suite of APIs, improving integration capabilities with third-party services.  
+
+**Junior Software Engineer, Washoe County, Mahwah, NJ (2012–2016)**  
+Annual salary: $77,800  
+- Assisted in the migration of legacy systems to modern platforms, reducing operational costs by 15%.  
+- Contributed to the development of a client management tool, enhancing user experience and efficiency.  
+
+---

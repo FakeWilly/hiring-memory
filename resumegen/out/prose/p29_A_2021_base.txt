@@ -1,0 +1,44 @@
+[NAME]  
+[EMAIL]  
+New York, NY
+
+**Professional Summary**  
+Tech-savvy and punctual software engineering professional with over 20 years of experience in developing innovative software solutions. Adept at leading teams and driving projects to successful completion in fast-paced environments.
+
+**Education**  
+Associate's Degree in Statistics, Stony Brook University, 2000
+
+**Work History**
+
+**Junior Software Engineer, Boats Group, Hartford, CT (2000–2005)**  
+Annual salary: $60,100  
+- Developed and maintained web-based applications, improving system efficiency by 15%.  
+- Collaborated on a team that successfully launched a new online platform, resulting in a 20% increase in user engagement.  
+
+**Software Engineer, Avance Consulting, Bedminster, NJ (2005–2008)**  
+Annual salary: $87,600  
+- Led the integration of new APIs, reducing data processing time by 30%.  
+- Instrumental in the migration of legacy systems to modern architectures, enhancing system reliability.  
+
+**Senior Software Engineer, Daifuku, Rensselaer, NY (2008–2012)**  
+Annual salary: $124,800  
+- Directed the development of automation software, increasing operational productivity by 25%.  
+- Spearheaded the implementation of a new security protocol, reducing vulnerabilities by 40%.  
+
+**Senior Software Engineer, AI Signal Research Inc (ASRI), Lakewood, NJ (2013–2016)**  
+Annual salary: $125,600  
+- Managed a team to design and deliver complex software projects under tight deadlines.  
+- Improved system performance by optimizing code, achieving a 35% speed increase.  
+
+**Staff Software Engineer, Groe Advisors LLC, Hartford, CT (2016–2019)**  
+Annual salary: $177,900  
+- Championed the development of cutting-edge software solutions, boosting client satisfaction by 50%.  
+- Led cross-functional teams to enhance collaboration, reducing project delivery timelines by 20%.  
+
+**Staff Software Engineer, Smart Capital Center, Andes, NY (2019–Present)**  
+Annual salary: $208,900  
+- Innovated scalable software architectures, supporting the expansion into new market segments.  
+- Implemented advanced data analytics tools, increasing data-driven decision-making capabilities by 40%.  
+
+**Hobbies**  
+Gardening, Traveling

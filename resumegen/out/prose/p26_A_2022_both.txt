@@ -1,0 +1,30 @@
+[NAME]  
+[EMAIL]  
+
+**Professional Summary**  
+With over a decade of experience in software engineering, I thrive in creating efficient, scalable solutions. My expertise spans from development to leadership, with a strong commitment to delivering high-quality software products.
+
+**Education**  
+Bachelor's Degree in Software Engineering, Penn State University, 2008  
+
+**Work History**
+
+Staff Software Engineer, IT Customer Service - POST, Mount Laurel, NJ, US (2021–Present)  
+Annual salary: $152,100  
+- Spearheaded the design and implementation of a new customer service platform, improving response time by 30%.  
+- Led a team of engineers to enhance system reliability, achieving a 99.9% uptime over the past year.
+
+Senior Software Engineer, Anchor Qea, Parsippany-Troy Hills, NJ, US (2019–2021)  
+Annual salary: $135,800  
+- Developed a robust data management system, reducing data retrieval time by 40%.  
+- Mentored junior developers, fostering a culture of collaboration and continuous improvement.
+
+Software Engineer, nooro, Whippany, NJ, US (2014–2019)  
+Annual salary: $89,700  
+- Collaborated on the development of a mobile application that increased user engagement by 25%.  
+- Implemented API optimizations, resulting in a 35% reduction in server load.
+
+Junior Software Engineer, Code and Theory, Albany, NY, US (2008–2013)  
+Annual salary: $75,200  
+- Assisted in developing web applications for high-profile clients, contributing to a 20% increase in project delivery efficiency.  
+- Participated in code reviews and debugging, ensuring software quality and reliability.
