@@ -155,9 +155,10 @@ resumes in `out/prose/`.
 
 Every call made with any of these is appended to `out/prompt_log.jsonl` with
 the model actually served, the parameters, the full messages, the raw
-response, token usage, latency, and whether it came from cache. That file is
-the prompt record (it is git-ignored for size and shared as a file); this
-document only says where things are. Results: `RESULTS.md`.
+response, token usage, latency, and whether it came from cache. The raw file
+grows with every run and re-logs cached calls, so it is git-ignored;
+`python -m resumegen.export_log` writes `out/prompt_log.jsonl.gz` — one record
+per distinct call, gzipped — and that file is committed. Results: `RESULTS.md`.
 
 ## 4. Where the numbers come from instead
 
